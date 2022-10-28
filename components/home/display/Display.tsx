@@ -246,10 +246,10 @@ const Display: FunctionComponent = (): JSX.Element => {
             <div className="relative w-full h-full row-start-2 place-self-end">
               <div
                 id="border"
-                className="relative w-full h-fit rounded-lg p-0.5 pb-0 rounded-br-none rounded-bl-none"
+                className="relative w-full h-full rounded-lg p-0.5 pb-0 rounded-br-none rounded-bl-none"
               >
                 <div className="relative w-full h-full bg-midGreen grid rounded-lg rounded-br-none rounded-bl-none grid-flow-row auto-rows-[auto auto]">
-                  <div className="relative w-fit h-full place-self-center row-start-1  place-self-center rounded-xl p-4 grid grid-flow-row auto-rows-[auto auto] gap-2">
+                  <div className="relative w-fit h-full place-self-center row-start-1  place-self-center rounded-xl p-4 pb-0 grid grid-flow-row auto-rows-[auto auto] gap-2">
                     <div
                       id="border"
                       className="rounded-xl relative w-fit h-fit p-0.5 row-start-1 place-self-center grid grid-flow-row auto-rows-[auto auto]"
@@ -262,10 +262,9 @@ const Display: FunctionComponent = (): JSX.Element => {
                         className="rounded-xl row-start-1 place-self-center"
                       />
                     </div>
-
                     <div
                       id="darker"
-                      className="relative w-20 text-center h-2 place-self-center row-start-2 font-firaM text-offBlack"
+                      className="relative w-40 text-center h-6 place-self-center row-start-2 font-firaM text-offBlack"
                     ></div>
                   </div>
                 </div>
