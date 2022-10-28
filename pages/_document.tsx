@@ -74,7 +74,7 @@ class Document extends NextDocument {
                 }
 
                 @font-face {
-                  font-family: "Liberation Mono Regular";
+                  font-family: "Liberation Mono";
                   font-weight: 400;
                   src: url("./fonts/LiberationMono-Regular.ttf");
                 }
