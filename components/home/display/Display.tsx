@@ -49,7 +49,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       >
                         <div
                           id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto]"
+                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
                             <Image
@@ -57,7 +57,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                               width={20}
                               src="/images/heart.png"
                               alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full"
+                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
                             />
                           </div>
                         </div>
@@ -68,7 +68,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       >
                         <div
                           id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto]"
+                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
                             <Image
@@ -76,7 +76,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                               width={20}
                               src="/images/mirror.png"
                               alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full"
+                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
                             />
                           </div>
                         </div>
@@ -87,7 +87,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       >
                         <div
                           id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto]"
+                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
                             <Image
@@ -95,7 +95,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                               width={15}
                               src="/images/evolve.png"
                               alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full"
+                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
                             />
                           </div>
                         </div>
@@ -106,7 +106,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       >
                         <div
                           id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto]"
+                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
                             <Image
@@ -114,7 +114,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                               width={20}
                               src="/images/burger.png"
                               alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full"
+                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
                             />
                           </div>
                         </div>
@@ -167,7 +167,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       >
                         <div
                           id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto]"
+                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
                             <Image
@@ -175,7 +175,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                               width={20}
                               src="/images/heart.png"
                               alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full"
+                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
                             />
                           </div>
                         </div>
@@ -186,7 +186,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       >
                         <div
                           id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto]"
+                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
                             <Image
@@ -194,7 +194,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                               width={20}
                               src="/images/mirror.png"
                               alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full"
+                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
                             />
                           </div>
                         </div>
@@ -205,7 +205,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       >
                         <div
                           id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto]"
+                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
                             <Image
@@ -213,7 +213,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                               width={15}
                               src="/images/evolve.png"
                               alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full"
+                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
                             />
                           </div>
                         </div>
@@ -224,7 +224,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       >
                         <div
                           id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto]"
+                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
                             <Image
@@ -232,7 +232,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                               width={20}
                               src="/images/burger.png"
                               alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full"
+                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
                             />
                           </div>
                         </div>
@@ -313,7 +313,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       >
                         <div
                           id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto]"
+                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
                             <Image
@@ -321,7 +321,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                               width={20}
                               src="/images/heart.png"
                               alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full"
+                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
                             />
                           </div>
                         </div>
@@ -332,7 +332,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       >
                         <div
                           id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto]"
+                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
                             <Image
@@ -340,7 +340,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                               width={20}
                               src="/images/mirror.png"
                               alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full"
+                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
                             />
                           </div>
                         </div>
@@ -351,7 +351,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       >
                         <div
                           id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto]"
+                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
                             <Image
@@ -359,7 +359,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                               width={15}
                               src="/images/evolve.png"
                               alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full"
+                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
                             />
                           </div>
                         </div>
@@ -370,7 +370,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       >
                         <div
                           id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto]"
+                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
                             <Image
@@ -378,7 +378,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                               width={20}
                               src="/images/burger.png"
                               alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full"
+                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
                             />
                           </div>
                         </div>

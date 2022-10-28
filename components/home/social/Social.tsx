@@ -6,7 +6,15 @@ import { BsTwitter } from "react-icons/bs";
 const Social: FunctionComponent = (): JSX.Element => {
   return (
     <div className="relative w-full h-20 bg-offBlack relative grid grid-flow-col auto-cols-[auto auto] p-6">
-      <div className="col-start-1 grid grid-flow-col auto-cols-[auto auto] relative h-fit w-fit gap-3 justify-self-end">
+      <div className="relative w-fit h-fit justify-self-start col-start-1">
+        <Image 
+        src="/images/gridpattern.png"
+        alt="grid"
+        width={26}
+        height={26}
+        />
+      </div>
+      <div className="col-start-2 grid grid-flow-col auto-cols-[auto auto] relative h-fit w-fit gap-3 justify-self-end">
         <div className="relative w-fit h-fit col-start-1 place-self-end">
           <Link
             href={"https://blog.digitalax.xyz/"}
