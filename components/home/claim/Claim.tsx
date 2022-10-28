@@ -158,21 +158,24 @@ const Claim: FunctionComponent = (): JSX.Element => {
                 </div>
                 <div className="relative w-[30vw] h-full col-start-2 place-self-center grid grid-flow-col auto-cols-[auto auto] rounded-lg">
                   <input
-                    className="h-full w-full col-start-1 place-self-center text-xl border border-grayBlue rounded-lg bg-offBlack text-midWhite p-2 text-sm"
+                    className="h-full w-full row-start-1 place-self-center text-xl border border-grayBlue rounded-lg bg-offBlack text-midWhite p-2 text-sm"
                     type="text"
                     name="profileContact"
                     required
                   />
                 </div>
               </div>
+              <div className="relative row-start-2 w-fit h-fit pl-[3.6vw] lg:pl-[4vw] xl:pl-[1.5vw] place-self-center">
               <button
                 type="submit"
-                className={`relative row-start-2 w-fit h-fit text-offY border border-grayBlue p-1 pr-8 pl-8 cursor-pointer hover:bg-grayBlue active:bg-grayBlue active:scale-95 place-self-center ${submitSuccess && "bg-midGreen"}`}
+                className={`relative w-fit h-fit text-offY border border-grayBlue p-1 pr-8 pl-8 cursor-pointer hover:bg-grayBlue active:bg-grayBlue active:scale-95 ${submitSuccess && "bg-midGreen"}`}
               >
                 {
                     submitSuccess ? "sent" : "go"
                 }
               </button>
+              </div>
+             
             </form>
           </div>
         </div>

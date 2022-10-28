@@ -3,7 +3,7 @@ import { FunctionComponent } from "react";
 
 const Radio: FunctionComponent = (): JSX.Element => {
   return (
-    <div className="relative w-full h-fit flex bg-offBlack p-10">
+    <div className="relative w-full h-full flex bg-offBlack p-10">
       <div className="relative w-full h-full grid grid-col-flow auto-cols-[auto auto] gap-3">
         <div
           id="turn"

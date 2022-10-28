@@ -121,18 +121,6 @@ body {
   );
 }
 
-/* #dialtext2 {
-  background: -webkit-linear-gradient(
-    -86deg,
-    #f8f5e6,
-    #e7b97b,
-    #fff1cf,
-    #fdfedd
-  );
-  -webkit-background-clip: text;
-  -webkit-text-stroke: 0.1rem transparent;
-} */
-
 #dialtext {
   background: conic-gradient(
     from 90deg at 50% 50%,
@@ -175,5 +163,13 @@ body {
 input:focus {
   outline: 0;
 
-  border-color: #9DA1F4 !important;
+  border-color: #9da1f4 !important;
+}
+
+#darker {
+  background: radial-gradient(circle at 50% 50%, #131418, #0a1a31);
+}
+
+#outside {
+  background: conic-gradient(from 90deg at 50% 50%, #32c5ff, #b620e0, #f7b500);
 }
