@@ -1,26 +1,179 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Valencia";
+  font-weight: 400;
+  src: url("/fonts/De-Valencia.otf");
+}
+
+@font-face {
+  font-family: "Cochin";
+  font-weight: 400;
+  src: url("/fonts/Cochin.ttc");
+}
+
+@font-face {
+  font-family: "Fira Medium";
+  font-weight: 400;
+  src: url("/fonts/FiraCode-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Fira Regular";
+  font-weight: 400;
+  src: url("/fonts/FiraCode-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Nexus";
+  font-weight: 400;
+  src: url("/fonts/Nexus-ZV54m.ttf");
+}
+
+@font-face {
+  font-family: "Odachi";
+  font-weight: 400;
+  src: url("/fonts/Odachi.otf");
+}
+
+@font-face {
+  font-family: "Liberation Mono Bold";
+  font-weight: 400;
+  src: url("/fonts/LiberationMono-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Liberation Mono Regular";
+  font-weight: 400;
+  src: url("/fonts/LiberationMono-Regular.ttf");
+}
+
 html,
 body {
   padding: 0;
   margin: 0;
+  min-height: 100vh;
+  min-width: 100vw;
+  background-image: linear-gradient(#81a8f8 0.1em, transparent 0.1em),
+    linear-gradient(90deg, #81a8f8 0.1em, transparent 0.1em);
+  background-size: 5em 5em;
+  background-color: #131313;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+#grad {
+  background: linear-gradient(#fc9cf3, #b9d9ff, #0091ff, #99fdc1);
 }
 
-* {
-  box-sizing: border-box;
+#dots {
+  background: radial-gradient(#fbeed1 15%, transparent 16%) 0 0,
+    radial-gradient(#fbeed1 15%, transparent 16%) 5px 5px,
+    radial-gradient(#fdf3d8 15%, transparent 20%) 0 1px,
+    radial-gradient(#fdf3d8 15%, transparent 20%) 5px 5px;
+  background-color: #faf4e8;
+  background-size: 10px 10px;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
+#border {
+  background: linear-gradient(
+    rgba(244, 198, 167, 1) 0%,
+    rgba(255, 241, 206, 1) 17%,
+    rgba(253, 254, 221, 1) 33%,
+    rgba(249, 215, 141, 1) 53%,
+    rgba(248, 245, 230, 1) 73%,
+    rgba(238, 192, 146, 1) 86%,
+    rgba(255, 219, 150, 1) 100%
+  );
+}
+
+#radio {
+  background: rgb(249, 250, 242);
+  background: radial-gradient(
+    circle,
+    rgba(249, 250, 242, 1) 0%,
+    rgba(218, 231, 230, 1) 17%,
+    rgba(241, 242, 228, 1) 32%,
+    rgba(230, 247, 246, 1) 46%,
+    rgba(249, 250, 248, 1) 60%,
+    rgba(240, 247, 235, 1) 72%,
+    rgba(248, 243, 250, 1) 81%,
+    rgba(240, 236, 246, 1) 91%,
+    rgba(249, 247, 251, 1) 100%
+  );
+}
+
+#turn {
+  background: rgb(255, 226, 196);
+  background: radial-gradient(
+    circle,
+    rgba(255, 226, 196, 1) 0%,
+    rgba(255, 196, 161, 1) 17%,
+    rgba(246, 197, 178, 1) 32%,
+    rgba(255, 236, 254, 1) 46%,
+    rgba(253, 213, 185, 1) 60%,
+    rgba(246, 235, 247, 1) 72%,
+    rgba(249, 212, 127, 1) 81%,
+    rgba(240, 236, 246, 1) 91%,
+    rgba(240, 236, 246, 1) 100%
+  );
+}
+
+/* #dialtext2 {
+  background: -webkit-linear-gradient(
+    -86deg,
+    #f8f5e6,
+    #e7b97b,
+    #fff1cf,
+    #fdfedd
+  );
+  -webkit-background-clip: text;
+  -webkit-text-stroke: 0.1rem transparent;
+} */
+
+#dialtext {
+  background: conic-gradient(
+    from 90deg at 50% 50%,
+    #f9faf2,
+    #dae7e6,
+    #f1f2e4,
+    #e6f7f6,
+    #f9faf8,
+    #f0f7eb,
+    #f8f3fa,
+    #f0ecf6,
+    #ffffff,
+    #f7f8f5,
+    #f9faf2
+  );
+}
+
+#thedial {
+  background-image: url("/images/thedial.png");
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 10px;
+}
+
+#synth {
+  background: -webkit-linear-gradient(
+    rgba(244, 198, 167, 1) 0%,
+    rgba(255, 241, 206, 1) 17%,
+    rgba(253, 254, 221, 1) 33%,
+    rgba(249, 215, 141, 1) 53%,
+    rgba(248, 245, 230, 1) 73%,
+    rgba(238, 192, 146, 1) 86%,
+    rgba(255, 219, 150, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 10px;
+}
+
+input:focus {
+  outline: 0;
+
+  border-color: #9DA1F4 !important;
 }
