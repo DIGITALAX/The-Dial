@@ -38,6 +38,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                         alt="canvas1"
                         layout="fill"
                         priority
+                        objectFit="cover"
                         className="rounded-xl"
                       />
                     </div>
@@ -90,6 +91,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                     alt="canvas2"
                     layout="fill"
                     priority
+                    objectFit="cover"
                     className="rounded-xl"
                   />
                 </div>
@@ -140,6 +142,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                     alt="canvas3"
                     layout="fill"
                     priority
+                    objectFit="cover"
                     className="rounded-xl"
                   />
                 </div>
