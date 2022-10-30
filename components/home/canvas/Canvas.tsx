@@ -46,7 +46,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                       <div className="relative grid grid-flow-col auto-cols-[auto auto] w-full h-full justify-between pt-3">
                         <div className="col-start-1 row-start-1 w-0.5 h-6 rounded-lg relative bg-midGreen"></div>
                         <div className="col-start-2 relative w-full h-full font-lib text-offBlue text-center text-[3.5vw] sm:text-[1.6vw] lg:text-[1vw]">
-                          120, 121, 122
+                          116, 104, 101
                         </div>
                         <div className="col-start-3 row-start-1 w-0.5 h-6 rounded-lg relative bg-midGreen"></div>
                       </div>
