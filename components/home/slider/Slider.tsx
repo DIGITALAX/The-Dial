@@ -97,7 +97,7 @@ const Slider: FunctionComponent = (): JSX.Element => {
         </div>
       </div>
       <div className="relative row-start-2 w-full h-full">
-        <div className="relative place-self-start- w-fit h-fit text-offWhite font-lib pl-3 text-midGreen text-[1vw]">
+        <div className="relative place-self-start- w-fit h-fit text-offWhite font-lib pl-3 text-midGreen text-[2.5vw] sm:text-[1.4vw] md:text-[1vw]">
           <span className="text-heat">~/∞/:</span>{" "}
           <span className="text-libGray">dial -in dsm *.lens #</span> load
           process sheets and social threads

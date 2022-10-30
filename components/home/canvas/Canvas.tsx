@@ -7,7 +7,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
       id="dots"
       className="relative w-full h-full grid auto-cols-[auto auto] auto-flow-col bg-midWhite"
     >
-      <div className="relative w-fit h-full grid grid-cols-1 lg:auto-cols-[auto auto] p-14 pl-28 pr-28 gap-3 col-start-1 place-self-center">
+      <div className="relative w-fit h-full grid grid-cols-1 lg:auto-cols-[auto auto] pt-10 sm:pt-4 p-4 lg:p-14 lg:pl-28 lg:pr-28 gap-5 lg:gap-3 col-start-1 place-self-center">
         <div className="w-fit h-full relative place-self-center col-start-1">
           <div className="w-fit h-full relative grid grid-flow-cols auto-cols-[auto auto]">
             <div className="hidden lg:flex relative w-fit h-full col-start-1">
@@ -32,7 +32,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                         <div className="col-start-2 row-start-1 w-0.5 h-6 rounded-lg relative bg-midGreen"></div>
                       </div>
                     </div>
-                    <div className="relative w-full h-full row-start-2 w-[20vw] h-[20vw] lg:w-[14vw] lg:h-[14vw] object-cover rounded-xl border-2 border-offBlack">
+                    <div className="relative w-full h-full row-start-2 w-[45vw] h-[45vw] sm:w-[25vw] sm:h-[25vw] lg:w-[14vw] lg:h-[14vw] object-cover rounded-xl border-2 border-offBlack">
                       <Image
                         src="/images/canvas/imageone.png"
                         alt="canvas1"
@@ -44,7 +44,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                     <div className="relative w-full h-fit row-start-3">
                       <div className="relative grid grid-flow-col auto-cols-[auto auto] w-full h-full justify-between pt-3">
                         <div className="col-start-1 row-start-1 w-0.5 h-6 rounded-lg relative bg-midGreen"></div>
-                        <div className="col-start-2 relative w-full h-full font-lib text-offBlue text-center text-[1vw]">
+                        <div className="col-start-2 relative w-full h-full font-lib text-offBlue text-center text-[3.5vw] sm:text-[1.6vw] lg:text-[1vw]">
                           120, 121, 122
                         </div>
                         <div className="col-start-3 row-start-1 w-0.5 h-6 rounded-lg relative bg-midGreen"></div>
@@ -70,7 +70,13 @@ const Canvas: FunctionComponent = (): JSX.Element => {
         </div>
         <div className="w-full h-full relative place-self-center lg:col-start-3">
           <div className="w-full h-full relative grid grid-flow-cols auto-cols-[auto auto]">
-            <div className="relative col-start-1 w-fit h-full place-self-center">
+            <div className="flex lg:hidden relative w-fit h-full col-start-1">
+              <div className="relative grid grid-flow-col auto-cols-[auto auto] w-fit h-full space-between pt-6 pb-6">
+                <div className="col-start-1 row-start-1 w-6 h-0.5 rounded-lg relative bg-midGreen justify-end"></div>
+                <div className="col-start-1 row-start-2 w-6 h-0.5 rounded-lg relative bg-midGreen place-self-end"></div>
+              </div>
+            </div>
+            <div className="relative col-start-2 lg:col-start-1 w-fit h-full place-self-center">
               <div className="relative w-full h-full grid grid-flow-row auto-row-[auto auto]">
                 <div className="relative w-full h-fit row-start-1">
                   <div className="relative grid grid-flow-col auto-cols-[auto auto] w-full h-full justify-between pb-3">
@@ -78,7 +84,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                     <div className="col-start-2 row-start-1 w-0.5 h-6 rounded-lg relative bg-midGreen"></div>
                   </div>
                 </div>
-                <div className="relative w-full h-full row-start-2 w-[20vw] h-[20vw] lg:w-[14vw] lg:h-[14vw] object-cover rounded-xl border-2 border-offBlack">
+                <div className="relative w-full h-full row-start-2 w-[45vw] h-[45vw] sm:w-[25vw] sm:h-[25vw] lg:w-[14vw] lg:h-[14vw] object-cover rounded-xl border-2 border-offBlack">
                   <Image
                     src="/images/canvas/imagetwo.png"
                     alt="canvas2"
@@ -90,12 +96,18 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                 <div className="relative w-full h-fit row-start-3">
                   <div className="relative grid grid-flow-col auto-cols-[auto auto] w-full h-full justify-between pt-3">
                     <div className="col-start-1 row-start-1 w-0.5 h-6 rounded-lg relative bg-midGreen"></div>
-                    <div className="col-start-2 relative w-full h-full font-lib text-offBlue text-center text-[1vw]">
+                    <div className="col-start-2 relative w-full h-full font-lib text-offBlue text-center text-[3.5vw] sm:text-[1.6vw] lg:text-[1vw]">
                       100, 105, 97, 108
                     </div>
                     <div className="col-start-3 row-start-1 w-0.5 h-6 rounded-lg relative bg-midGreen"></div>
                   </div>
                 </div>
+              </div>
+            </div>
+            <div className="flex lg:hidden relative w-fit h-full col-start-3">
+              <div className="relative grid grid-flow-col auto-cols-[auto auto] w-fit h-full space-between pt-6 pb-6">
+                <div className="col-start-1 row-start-1 w-6 h-0.5 rounded-lg relative bg-midGreen justify-end"></div>
+                <div className="col-start-1 row-start-2 w-6 h-0.5 rounded-lg relative bg-midGreen place-self-end"></div>
               </div>
             </div>
           </div>
@@ -122,7 +134,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                     <div className="col-start-2 row-start-1 w-0.5 h-6 rounded-lg relative bg-midGreen"></div>
                   </div>
                 </div>
-                <div className="relative w-full h-full row-start-2 w-[20vw] h-[20vw] lg:w-[14vw] lg:h-[14vw] object-cover rounded-xl border-2 border-offBlack">
+                <div className="relative w-full h-full row-start-2 w-[45vw] h-[45vw] sm:w-[25vw] sm:h-[25vw] lg:w-[14vw] lg:h-[14vw] object-cover rounded-xl border-2 border-offBlack">
                   <Image
                     src="/images/canvas/imagethree.png"
                     alt="canvas3"
@@ -134,7 +146,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                 <div className="relative w-full h-fit row-start-3">
                   <div className="relative grid grid-flow-col auto-cols-[auto auto] w-full h-full justify-between pt-3">
                     <div className="col-start-1 row-start-1 w-0.5 h-6 rounded-lg relative bg-midGreen"></div>
-                    <div className="col-start-2 relative w-full h-full font-lib text-offBlue text-center text-[1vw]">
+                    <div className="col-start-2 relative w-full h-full font-lib text-offBlue text-center text-[3.5vw] sm:text-[1.6vw] lg:text-[1vw]">
                       120, 121, 122
                     </div>
                     <div className="col-start-3 row-start-1 w-0.5 h-6 rounded-lg relative bg-midGreen"></div>
@@ -143,7 +155,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
               </div>
             </div>
             <div className="relative col-start-3 w-fit h-full">
-              <div className="relative grid grid-flow-col auto-cols-[auto auto] w-fit h-full space-between pt-8 pb-8 pl-1.5">
+              <div className="relative grid grid-flow-col auto-cols-[auto auto] w-fit h-full space-between pt-6 pb-6 lg:pt-8 lg:pb-8 lg:pl-1.5">
                 <div className="col-start-1 row-start-1 w-6 h-0.5 rounded-lg relative bg-midGreen justify-end"></div>
                 <div className="col-start-1 row-start-2 w-6 h-0.5 rounded-lg relative bg-midGreen place-self-end"></div>
               </div>

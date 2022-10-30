@@ -77,7 +77,8 @@ module.exports = {
         half: "900px",
         alm: "740px",
         over: "1490px",
-        galaxy: "300px"
+        galaxy: "300px",
+        duo: "500px"
       },
     },
   },
