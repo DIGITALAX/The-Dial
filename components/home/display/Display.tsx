@@ -24,7 +24,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       width={300}
                       height={300}
                       alt="pixels"
-                      src="/images/pixels.png"
+                      src="/images/comp.png"
                       className="rounded-xl row-start-1 place-self-center"
                     />
                   </div>
