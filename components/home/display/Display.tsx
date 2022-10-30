@@ -11,8 +11,8 @@ const Display: FunctionComponent = (): JSX.Element => {
           alt="pixels"
           src="/images/pixels.png"
         />
-        <div className="relative w-full h-full grid grid-flow-col grid-cols-1 md:grid-cols-3 xl:pt-28 md:pt-4 lg:pt-20 lg:pl-20 lg:pr-20 gap-3">
-          <div className="relative w-full h-fit row-start-1 col-start-1 place-self-end pb-3">
+        <div className="relative w-full h-full grid grid-flow-col grid-cols-1 md:grid-cols-3 xl:pt-28 md:pt-4 lg:pt-20 lg:pl-20 lg:pr-20 gap-3 pb-3 md:pb-0">
+          <div className="relative w-full h-fit row-start-1 col-start-1 place-self-end md:pb-3">
             <div id="border" className="relative w-full h-fit rounded-lg p-0.5">
               <div className="relative w-full h-full bg-midGreen grid rounded-lg grid-flow-row auto-rows-[auto auto]">
                 <div className="relative w-fit h-fit place-self-center row-start-1  place-self-center rounded-xl p-4 grid grid-flow-row auto-rows-[auto auto]">
@@ -28,7 +28,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       className="rounded-xl row-start-1 place-self-center"
                     />
                   </div>
-                  <div className="relative w-full text-center h-fit justify-self-center row-start-2 font-firaM text-offBlack text-[1vw] pt-7 pb-5">
+                  <div className="relative w-full text-center h-fit justify-self-center row-start-2 font-firaM text-offBlack p-5 md:pt-7 md:p-0 text-[4vw] md:text-[1vw] pt-7 pb-14 md:pb-5">
                     Throwback to a time when the information superhighway would
                     revolutionize the way we shop, socialize and work.
                     <br />
@@ -149,10 +149,10 @@ const Display: FunctionComponent = (): JSX.Element => {
                     </div>
 
                     <div className="relative w-full text-center h-fit justify-self-center row-start-2 font-coc text-midWhite grid grid-flow-row auto-rows-[auto auto]  pt-0 pb-14">
-                      <div className="row-start-1 relative w-fit h-fit text-[2.3vw]">
+                      <div className="row-start-1 text-center place-self-center relative w-fit h-fit text-[6vw] md:text-[2.3vw]">
                         SEAMLESS TRANSFER
                       </div>
-                      <div className="row-start-2 relative w-fit h-fit font-lib text-sm leading-snug pt-10">
+                      <div className="row-start-2 relative w-fit h-fit font-lib text-[4vw] sm:text-sm leading-snug pt-10 md:pt-7 md:p-0 p-10 md:pb-0 pb-14">
                         THE SIMPLEST THREADS CAN TURN SO WILD, WHILE WE HOP FROM
                         NETWORK TO NETWORK
                       </div>
@@ -250,10 +250,10 @@ const Display: FunctionComponent = (): JSX.Element => {
             <div className="relative w-full h-full row-start-2 place-self-end">
               <div
                 id="border"
-                className="relative w-full h-full rounded-lg p-0.5 pb-0 rounded-br-none rounded-bl-none"
+                className="relative w-full h-full rounded-lg p-0.5 md:pb-0 md:rounded-br-none md:rounded-bl-none"
               >
-                <div className="relative w-full h-full bg-offY grid rounded-lg rounded-br-none rounded-bl-none grid-flow-row auto-rows-[auto auto]">
-                  <div className="relative w-fit h-full place-self-center row-start-1  place-self-center rounded-xl p-4 pb-0 grid grid-flow-row auto-rows-[auto auto] gap-2">
+                <div className="relative w-full h-full bg-offY grid rounded-lg md:rounded-br-none md:rounded-bl-none grid-flow-row auto-rows-[auto auto]">
+                  <div className="relative w-fit h-full place-self-center row-start-1  place-self-center rounded-xl pt-8 md:p-4 md:pb-0 pb-14 grid grid-flow-row auto-rows-[auto auto] gap-10 md:gap-2">
                     <div
                       id="border"
                       className="rounded-xl relative w-fit h-fit p-0.5 row-start-1 place-self-center grid grid-flow-row auto-rows-[auto auto]"
@@ -268,7 +268,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                     </div>
                     <div
                       id="darker"
-                      className="relative w-40 text-center h-6 place-self-center row-start-2 font-firaM text-midWhite font-coc text-xl top-2"
+                      className="relative w-40 text-center h-fit md:h-6 place-self-center row-start-2 font-firaM text-midWhite font-coc text-xl md:top-2 md:p-0 p-3"
                     >
                       1/1
                     </div>
@@ -277,13 +277,13 @@ const Display: FunctionComponent = (): JSX.Element => {
               </div>
             </div>
           </div>
-          <div className="relative w-full h-fit col-start-1 md:col-start-3 place-self-end pb-3">
+          <div className="relative w-full h-fit col-start-1 md:col-start-3 place-self-end pb-0 md:pb-3">
             <div id="border" className="relative w-full h-fit rounded-lg p-0.5">
               <div className="relative w-full h-full bg-flight grid rounded-lg grid-flow-row auto-rows-[auto auto]">
                 <div className="relative w-fit h-fit place-self-center row-start-1  place-self-center rounded-xl p-4 grid grid-flow-row auto-rows-[auto auto]">
-                  <div className="relative w-full text-left h-fit justify-self-center row-start-1 font-coc text-offBlack text-[2.3vw] pt-0 pb-4 leading-snug">
+                  <div className="relative w-full text-left h-fit justify-self-center row-start-1 font-coc text-offBlack text-[8vw] md:text-[2.3vw] pt-0 pb-4 leading-snug">
                     REFASHION <br />
-                    <span className="text-[1.8vw]">
+                    <span className="text-[7vw] md:text-[1.8vw]">
                       THE <br />
                       PROCESS
                     </span>
@@ -300,7 +300,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       className="rounded-xl row-start-1 place-self-center"
                     />
                   </div>
-                  <div className="relative w-full text-center h-fit justify-self-center row-start-3 font-firaM text-offBlack text-[1vw] pt-7 pb-4">
+                  <div className="relative w-full text-center h-fit justify-self-center row-start-3 font-firaM text-offBlack p-10 md:p-0 text-[4vw] md:text-[1vw] md:pt-7 pb-16 md:pb-4">
                     With each turn of the dial we lept from leet speak to 140
                     characters or less and worlds of fractured noise. Who knew
                     exploding the textbox into a simple canvas would...

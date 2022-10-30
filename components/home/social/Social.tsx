@@ -5,8 +5,8 @@ import { BsTwitter } from "react-icons/bs";
 
 const Social: FunctionComponent = (): JSX.Element => {
   return (
-    <div className="relative w-full h-20 bg-offBlack relative grid grid-flow-col auto-cols-[auto auto] p-6">
-      <div className="relative w-fit h-fit justify-self-start col-start-1">
+    <div className="relative w-full h-32 galaxy:h-20 bg-offBlack relative grid grid-flow-col auto-cols-[auto auto] p-6">
+      <div className="relative w-fit h-fit justify-self-center galaxy:justify-self-start col-start-1 pb-4 galaxy:pb-0">
         <Image 
         src="/images/gridpattern.png"
         alt="grid"
@@ -14,7 +14,7 @@ const Social: FunctionComponent = (): JSX.Element => {
         height={26}
         />
       </div>
-      <div className="col-start-2 grid grid-flow-col auto-cols-[auto auto] relative h-fit w-fit gap-3 justify-self-end">
+      <div className="galaxy:col-start-2 galaxy:row-start-1 row-start-2 col-start-1 grid grid-flow-col auto-cols-[auto auto] relative h-fit w-fit gap-3 justify-self-center galaxy:justify-self-end">
         <div className="relative w-fit h-fit col-start-1 place-self-end">
           <Link
             href={"https://blog.digitalax.xyz/"}
