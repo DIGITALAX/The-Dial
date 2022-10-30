@@ -24,7 +24,7 @@ const Radio: FunctionComponent = (): JSX.Element => {
           >
             <div
               id="turn"
-              className="w-fit h-fit p-1 rounded-full col-start-1 place-self-center grid grid-flow-col auto-cols-[auto auto]"
+              className="w-14 h-14 lg:w-fit lg:h-fit p-1 rounded-full col-start-1 place-self-center grid grid-flow-col auto-cols-[auto auto]"
             >
               <Image
                 width={90}

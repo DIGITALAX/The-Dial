@@ -3,7 +3,7 @@ import { FunctionComponent } from "react";
 
 const Dial: FunctionComponent = (): JSX.Element => {
   return (
-    <div className="relative bg-offBlack w-full h-auto grid grid-flow-col auto-cols-[auto auto] p-2">
+    <div className="relative bg-offBlack w-full h-auto grid grid-flow-col auto-cols-[auto auto] sm:p-2">
       <div className="col-start-1 grid grid-flow-row auto-rows-[auto auto] w-full h-fit gap-2">
         <div className="relative row-start-1 w-full h-fit bg-midWhite grid grid-flow-row auto-rows-[auto auto] pb-4">
           <div className="relative w-full h-fit text-center text-offBlack font-nex text-[12vw] row-start-1">

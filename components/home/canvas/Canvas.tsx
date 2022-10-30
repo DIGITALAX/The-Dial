@@ -32,7 +32,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                         <div className="col-start-2 row-start-1 w-0.5 h-6 rounded-lg relative bg-midGreen"></div>
                       </div>
                     </div>
-                    <div className="relative w-full h-full row-start-2 w-[14vw] h-[14vw] object-cover rounded-xl border-2 border-offBlack">
+                    <div className="relative w-full h-full row-start-2 w-[20vw] h-[20vw] lg:w-[14vw] lg:h-[14vw] object-cover rounded-xl border-2 border-offBlack">
                       <Image
                         src="/images/canvas/imageone.png"
                         alt="canvas1"
@@ -78,7 +78,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                     <div className="col-start-2 row-start-1 w-0.5 h-6 rounded-lg relative bg-midGreen"></div>
                   </div>
                 </div>
-                <div className="relative w-full h-full row-start-2 w-[14vw] h-[14vw] object-cover rounded-xl border-2 border-offBlack">
+                <div className="relative w-full h-full row-start-2 w-[20vw] h-[20vw] lg:w-[14vw] lg:h-[14vw] object-cover rounded-xl border-2 border-offBlack">
                   <Image
                     src="/images/canvas/imagetwo.png"
                     alt="canvas2"
@@ -122,7 +122,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                     <div className="col-start-2 row-start-1 w-0.5 h-6 rounded-lg relative bg-midGreen"></div>
                   </div>
                 </div>
-                <div className="relative w-full h-full row-start-2 w-[14vw] h-[14vw] object-cover rounded-xl border-2 border-offBlack">
+                <div className="relative w-full h-full row-start-2 w-[20vw] h-[20vw] lg:w-[14vw] lg:h-[14vw] object-cover rounded-xl border-2 border-offBlack">
                   <Image
                     src="/images/canvas/imagethree.png"
                     alt="canvas3"

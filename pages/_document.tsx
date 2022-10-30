@@ -78,6 +78,12 @@ class Document extends NextDocument {
                   font-weight: 400;
                   src: url("./fonts/LiberationMono-Regular.ttf");
                 }
+
+                @font-face {
+                  font-family: "ALVA Regular";
+                  font-weight: 400;
+                  src: url("./fonts/ALVA-Regular.ttf");
+                }
             `,
             }}
           ></style>

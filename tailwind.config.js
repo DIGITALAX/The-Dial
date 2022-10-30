@@ -32,7 +32,11 @@ module.exports = {
         liVi: "#C1A8E8",
         offY: "#FEEA66",
         liDa: "#F27A24",
-        grayBlue: "#C9D8E4"
+        grayBlue: "#C9D8E4",
+        lime: "#77FFB8",
+        baby: "#53B4FF",
+        lily: "#F6DDC3",
+        lili: "#B4FAB5"
 
       },
       fontFamily: {
@@ -43,7 +47,8 @@ module.exports = {
         val: "Valencia",
         coc: "Cochin",
         nex: "Nexus",
-        oda: "Odachi"
+        oda: "Odachi",
+        alva: "ALVA Regular"
       },
       keyframes: {
         unblur: {
