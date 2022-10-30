@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { FunctionComponent } from "react";
 import useClaim from "./hooks/useClaim";
 
@@ -65,7 +66,9 @@ const Claim: FunctionComponent = (): JSX.Element => {
             </div>
           </div>
           <div className="relative w-fit h-fit row-start-2 text-center galaxy:text-right font-nex text-midWhite text-[6vw] galaxy:pr-0 pr-2 pl-2 pt-3 sm:text-[4vw] md:text-[2.5vw] xl:text-[2.5vw] leading-tight place-self-center galaxy:place-self-end xl:pt-0 galaxy:pt-20 lg:pt-32 md:pl-20 galaxy:pl-28 lg:pb-0 pb-6">
-          AN EVER EVOLVING CANVAS YOU CAN USE WITH FRIENDS. SAVE YOUR POSTS FROM NOSTALGIC OLD SOCIAL NETWORKS –––––  EVOLVE, SYNTH & DRAFT ENTIRELY NEW LOOKS WITH THEM.  
+            AN EVER EVOLVING CANVAS YOU CAN USE WITH FRIENDS. SAVE YOUR POSTS
+            FROM NOSTALGIC OLD SOCIAL NETWORKS ––––– EVOLVE, SYNTH & DRAFT
+            ENTIRELY NEW LOOKS WITH THEM.
           </div>
         </div>
       </div>
@@ -118,26 +121,62 @@ const Claim: FunctionComponent = (): JSX.Element => {
                   <div className="relative col-start-1 w-fit h-fit grid grid-flow-row auto-rows-[auto auto] font-alva text-midWhite gap-1 place-self-center">
                     <div className="relative w-fit h-fit row-start-1 grid grid-flow-col auto-cols-[auto auto] place-self-end gap-1 pl-3">
                       <div className="relative w-10 h-fit border border-lily col-start-1 place-self-center bg-offBlack text-sm rounded-xl grid grid-flow-col auto-cols-[auto auto] pb-1 place-self-end cursor-pointer active:scale-95">
-                        A
+                        <Link
+                          href={"https://inlens.xyz/"}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          A
+                        </Link>
                       </div>
                       <div className="relative w-10 h-fit border border-lily col-start-2 place-self-center bg-offBlack text-sm rounded-xl grid grid-flow-col auto-cols-[auto auto] pb-1 place-self-end cursor-pointer active:scale-95">
-                        B
+                      <Link
+                          href={"https://tweetyai.com/"}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          B
+                        </Link>
                       </div>
                     </div>
                     <div className="relative w-fit h-fit row-start-2 grid grid-flow-col auto-cols-[auto auto] gap-1 place-self-start">
                       <div className="relative w-10 h-fit border border-lily col-start-1 place-self-center bg-offBlack text-sm rounded-xl grid grid-flow-col auto-cols-[auto auto] pb-1 place-self-end cursor-pointer active:scale-95">
-                        C
+                      <Link
+                          href={"https://tweethunter.io/generate-tweets"}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          C
+                        </Link>
                       </div>
                       <div className="relative w-10 h-fit border border-lily col-start-2 place-self-center bg-offBlack text-sm rounded-xl grid grid-flow-col auto-cols-[auto auto] pb-1 place-self-end cursor-pointer active:scale-95">
-                        D
+                      <Link
+                          href={"https://pharmapsychotic.com/tools.html"}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          D
+                        </Link>
                       </div>
                     </div>
                     <div className="relative w-fit h-fit row-start-3 grid grid-flow-col auto-cols-[auto auto] gap-1 pl-3">
                       <div className="relative w-10 h-fit border border-lily col-start-1 place-self-center bg-offBlack text-sm rounded-xl grid grid-flow-col auto-cols-[auto auto] pb-1 place-self-end cursor-pointer active:scale-95">
-                        E
+                      <Link
+                          href={"https://github.com/AUTOMATIC1111/stable-diffusion-webui"}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          E
+                        </Link>
                       </div>
                       <div className="relative w-10 h-fit border border-lily col-start-2 place-self-center bg-offBlack text-sm rounded-xl grid grid-flow-col auto-cols-[auto auto] pb-1 place-self-end cursor-pointer active:scale-95">
-                        F
+                      <Link
+                          href={"https://runwayml.com/"}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          F
+                        </Link>
                       </div>
                     </div>
                   </div>
