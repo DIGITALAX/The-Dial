@@ -11,8 +11,8 @@ const Display: FunctionComponent = (): JSX.Element => {
           alt="pixels"
           src="/images/pixels.png"
         />
-        <div className="relative w-full h-full grid grid-flow-col grid-cols-3 pt-28 pl-20 pr-20 gap-3">
-          <div className="relative w-full h-fit col-start-1 place-self-end pb-3">
+        <div className="relative w-full h-full grid grid-flow-col grid-cols-1 md:grid-cols-3 xl:pt-28 md:pt-4 lg:pt-20 lg:pl-20 lg:pr-20 gap-3">
+          <div className="relative w-full h-fit row-start-1 col-start-1 place-self-end pb-3">
             <div id="border" className="relative w-full h-fit rounded-lg p-0.5">
               <div className="relative w-full h-full bg-midGreen grid rounded-lg grid-flow-row auto-rows-[auto auto]">
                 <div className="relative w-fit h-fit place-self-center row-start-1  place-self-center rounded-xl p-4 grid grid-flow-row auto-rows-[auto auto]">
@@ -29,11 +29,13 @@ const Display: FunctionComponent = (): JSX.Element => {
                     />
                   </div>
                   <div className="relative w-full text-center h-fit justify-self-center row-start-2 font-firaM text-offBlack text-[1vw] pt-7 pb-5">
-                    Caption text for the post along with info about keeping a
-                    memory of what you’ve drafted and shared.
+                    Throwback to a time when the information superhighway would
+                    revolutionize the way we shop, socialize and work.
                     <br />
                     <br />
-                    somewhere better than the elongated zuckerverse, etc.
+                    <span className="text-lili">
+                      A place beyond the elon-gated ‘verse.
+                    </span>
                   </div>
                   <div
                     id="border"
@@ -125,7 +127,7 @@ const Display: FunctionComponent = (): JSX.Element => {
               </div>
             </div>
           </div>
-          <div className="relative w-fit h-full col-start-2 grid grid-flow-row auto-rows-[auto auto] gap-2">
+          <div className="relative w-full md:w-fit h-full col-start-1 md:col-start-2 grid grid-flow-row auto-rows-[auto auto] gap-2">
             <div className="relative w-full h-full row-start-1 place-self-end">
               <div
                 id="border"
@@ -146,99 +148,101 @@ const Display: FunctionComponent = (): JSX.Element => {
                       />
                     </div>
 
-                    <div className="relative w-full text-center h-fit justify-self-center row-start-2 font-coc text-midWhite text-[2.3vw] pt-0 pb-14">
-                      SOMETHING YEAH
-                      <br />
-                      <span className="font-lib text-sm">
-                        WHAT TO SAY HERE? 13ºC
-                      </span>
+                    <div className="relative w-full text-center h-fit justify-self-center row-start-2 font-coc text-midWhite grid grid-flow-row auto-rows-[auto auto]  pt-0 pb-14">
+                      <div className="row-start-1 relative w-fit h-fit text-[2.3vw]">
+                        SEAMLESS TRANSFER
+                      </div>
+                      <div className="row-start-2 relative w-fit h-fit font-lib text-sm leading-snug pt-10">
+                        THE SIMPLEST THREADS CAN TURN SO WILD, WHILE WE HOP FROM
+                        NETWORK TO NETWORK
+                      </div>
                     </div>
                     <div
-                    id="border"
-                    className="relative w-fit h-fit rounded-full row-start-3 p-0.5 place-self-end"
-                  >
-                    <div
-                      id="dialtext"
-                      className="rounded-full relative w-full h-full p-1 grid grid-flow-col auto-cols-[auto auto] gap-2"
+                      id="border"
+                      className="relative w-fit h-fit rounded-full row-start-3 p-0.5 place-self-end"
                     >
                       <div
-                        className="relative w-full h-full grid grid-flow-col auto-cols-[auto auto] col-start-1 place-self-center p-[0.02vw] rounded-full"
-                        id="outside"
+                        id="dialtext"
+                        className="rounded-full relative w-full h-full p-1 grid grid-flow-col auto-cols-[auto auto] gap-2"
                       >
                         <div
-                          id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
+                          className="relative w-full h-full grid grid-flow-col auto-cols-[auto auto] col-start-1 place-self-center p-[0.02vw] rounded-full"
+                          id="outside"
                         >
-                          <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                            <Image
-                              height={15}
-                              width={20}
-                              src="/images/heart.png"
-                              alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
-                            />
+                          <div
+                            id="dialtext"
+                            className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
+                          >
+                            <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
+                              <Image
+                                height={15}
+                                width={20}
+                                src="/images/heart.png"
+                                alt="heart"
+                                className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
+                              />
+                            </div>
                           </div>
                         </div>
-                      </div>
-                      <div
-                        className="relative w-full h-full grid grid-flow-col auto-cols-[auto auto] col-start-2 place-self-center p-[0.02vw] rounded-full"
-                        id="outside"
-                      >
                         <div
-                          id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
+                          className="relative w-full h-full grid grid-flow-col auto-cols-[auto auto] col-start-2 place-self-center p-[0.02vw] rounded-full"
+                          id="outside"
                         >
-                          <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                            <Image
-                              height={15}
-                              width={20}
-                              src="/images/mirror.png"
-                              alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
-                            />
+                          <div
+                            id="dialtext"
+                            className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
+                          >
+                            <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
+                              <Image
+                                height={15}
+                                width={20}
+                                src="/images/mirror.png"
+                                alt="heart"
+                                className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
+                              />
+                            </div>
                           </div>
                         </div>
-                      </div>
-                      <div
-                        className="relative w-full h-full grid grid-flow-col auto-cols-[auto auto] col-start-3 place-self-center p-[0.02vw] rounded-full"
-                        id="outside"
-                      >
                         <div
-                          id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
+                          className="relative w-full h-full grid grid-flow-col auto-cols-[auto auto] col-start-3 place-self-center p-[0.02vw] rounded-full"
+                          id="outside"
                         >
-                          <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                            <Image
-                              height={20}
-                              width={15}
-                              src="/images/evolve.png"
-                              alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
-                            />
+                          <div
+                            id="dialtext"
+                            className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
+                          >
+                            <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
+                              <Image
+                                height={20}
+                                width={15}
+                                src="/images/evolve.png"
+                                alt="heart"
+                                className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
+                              />
+                            </div>
                           </div>
                         </div>
-                      </div>
-                      <div
-                        className="relative w-full h-full grid grid-flow-col auto-cols-[auto auto] col-start-4 place-self-center p-[0.02vw] rounded-full"
-                        id="outside"
-                      >
                         <div
-                          id="dialtext"
-                          className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
+                          className="relative w-full h-full grid grid-flow-col auto-cols-[auto auto] col-start-4 place-self-center p-[0.02vw] rounded-full"
+                          id="outside"
                         >
-                          <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                            <Image
-                              height={15}
-                              width={20}
-                              src="/images/burger.png"
-                              alt="heart"
-                              className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
-                            />
+                          <div
+                            id="dialtext"
+                            className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
+                          >
+                            <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
+                              <Image
+                                height={15}
+                                width={20}
+                                src="/images/burger.png"
+                                alt="heart"
+                                className="relative place-self-center col-start-1 w-full h-full cursor-pointer"
+                              />
+                            </div>
                           </div>
                         </div>
                       </div>
                     </div>
-                  </div>
                   </div>
                 </div>
               </div>
@@ -248,7 +252,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                 id="border"
                 className="relative w-full h-full rounded-lg p-0.5 pb-0 rounded-br-none rounded-bl-none"
               >
-                <div className="relative w-full h-full bg-midGreen grid rounded-lg rounded-br-none rounded-bl-none grid-flow-row auto-rows-[auto auto]">
+                <div className="relative w-full h-full bg-offY grid rounded-lg rounded-br-none rounded-bl-none grid-flow-row auto-rows-[auto auto]">
                   <div className="relative w-fit h-full place-self-center row-start-1  place-self-center rounded-xl p-4 pb-0 grid grid-flow-row auto-rows-[auto auto] gap-2">
                     <div
                       id="border"
@@ -264,23 +268,24 @@ const Display: FunctionComponent = (): JSX.Element => {
                     </div>
                     <div
                       id="darker"
-                      className="relative w-40 text-center h-6 place-self-center row-start-2 font-firaM text-offBlack"
-                    ></div>
+                      className="relative w-40 text-center h-6 place-self-center row-start-2 font-firaM text-midWhite font-coc text-xl top-2"
+                    >
+                      1/1
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div className="relative w-full h-fit col-start-3 place-self-end pb-3">
+          <div className="relative w-full h-fit col-start-1 md:col-start-3 place-self-end pb-3">
             <div id="border" className="relative w-full h-fit rounded-lg p-0.5">
               <div className="relative w-full h-full bg-flight grid rounded-lg grid-flow-row auto-rows-[auto auto]">
                 <div className="relative w-fit h-fit place-self-center row-start-1  place-self-center rounded-xl p-4 grid grid-flow-row auto-rows-[auto auto]">
-                  <div className="relative w-full text-center h-fit justify-self-center row-start-1 font-coc text-offBlack text-[2.3vw] pt-0 pb-4 leading-snug">
-                    SOMETHING
-                    <br />
-                    <span className="text-base">
-                      ABOUT <br />
-                      SOMETHING
+                  <div className="relative w-full text-left h-fit justify-self-center row-start-1 font-coc text-offBlack text-[2.3vw] pt-0 pb-4 leading-snug">
+                    REFASHION <br />
+                    <span className="text-[1.8vw]">
+                      THE <br />
+                      PROCESS
                     </span>
                   </div>
                   <div
@@ -296,8 +301,9 @@ const Display: FunctionComponent = (): JSX.Element => {
                     />
                   </div>
                   <div className="relative w-full text-center h-fit justify-self-center row-start-3 font-firaM text-offBlack text-[1vw] pt-7 pb-4">
-                    Caption text for the post along with info about keeping a
-                    memory of what you’ve drafted and shared.
+                    With each turn of the dial we lept from leet speak to 140
+                    characters or less and worlds of fractured noise. Who knew
+                    exploding the textbox into a simple canvas would...
                   </div>
                   <div
                     id="border"
