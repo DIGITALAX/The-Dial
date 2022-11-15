@@ -8,7 +8,7 @@ class Document extends NextDocument {
         <Head>
         <meta name="og:url" content="https://thedial.xyz/" />
           <meta name="og:title" content="The Dial" />
-          <meta name="og:description" content="We write prompts, design styles & build code for protocol-ecosystems where web3 fashion & latent machines draw distances between ideas & reality closer each day." />
+          <meta name="og:description" content="An ever evolving canvas you can use with friends." />
           <meta name="og:image" content="https://thedial.xyz/card.png/" />
           <meta name="twitter:card" content="summary" />
           <meta name="og:url" content="https://thedial.xyz/" />
