@@ -7,13 +7,13 @@ const useClaim = (): useClaimResults => {
 
   const handleSubmitForm = async (e: any): Promise<void> => {
     e.preventDefault();
-    console.log(e.target)
+    console.log(e.target);
     try {
       await emailjs.sendForm(
-        "service_f7x2sjb",
-        "template_92zu5kl",
+        `${process.env.NEXT_PUBLIC_SERVICE_ID}` as string,
+        `${process.env.NEXT_PUBLIC_TEMPLATE_ID}` as string,
         e.target,
-        "fvUz2_RQo7oeFreDc"
+        `${process.env.NEXT_PUBLIC_EMAIL_SERVICE_ID}` as string
       );
       setSubmitSuccess(true);
       setTimeout(() => {
