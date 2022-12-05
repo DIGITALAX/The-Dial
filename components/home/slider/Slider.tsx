@@ -93,7 +93,7 @@ const Slider: FunctionComponent = (): JSX.Element => {
               return (
                 <div
                   key={key}
-                  className={`min-h-36 min-w-36 h-36 w-36 relative mr-2 ${
+                  className={`min-h-36 min-w-36 h-36 w-36 relative mr-2 bg-offBlue ${
                     blur && "blur-sm animate-unblur"
                   }`}
                 >
@@ -102,9 +102,7 @@ const Slider: FunctionComponent = (): JSX.Element => {
                     objectFit="cover"
                     layout="fill"
                     priority
-                    placeholder="blur"
                     objectPosition={"top"}
-                    blurDataURL={`/images/blurred/${image}.png`}
                     onLoadingComplete={() => setBlur(false)}
                   />
                 </div>
