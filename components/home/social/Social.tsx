@@ -7,7 +7,7 @@ const Social: FunctionComponent = (): JSX.Element => {
   return (
     <div className="relative w-full h-32 galaxy:h-20 bg-offBlack relative grid grid-flow-col auto-cols-[auto auto] p-6">
       <div className="relative w-fit h-fit justify-self-center galaxy:justify-self-start col-start-1 pb-4 galaxy:pb-0">
-        <Image draggable={false}
+        <Image unoptimized draggable={false}
           src="/images/gridpattern.png"
           alt="DIGITALAX grid pattern"
           width={26}
@@ -21,7 +21,7 @@ const Social: FunctionComponent = (): JSX.Element => {
             target="_blank"
             rel="noreferrer"
           >
-            <Image draggable={false}
+            <Image unoptimized draggable={false}
               src={"/images/mirroricon.png"}
               alt="DIGITALAX mirror"
               width={21}
@@ -37,7 +37,7 @@ const Social: FunctionComponent = (): JSX.Element => {
             target="_blank"
             rel="noreferrer"
           >
-            <Image
+            <Image unoptimized
               draggable={false}
               src={"/images/github.png"}
               alt="DIGITALAX github"
@@ -53,7 +53,7 @@ const Social: FunctionComponent = (): JSX.Element => {
             target="_blank"
             rel="noreferrer"
           >
-            <Image
+            <Image unoptimized
               draggable={false}
               src={"/images/lens.png"}
               alt="DIGITALAX lens"

@@ -33,7 +33,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                       </div>
                     </div>
                     <div className="relative w-full h-full row-start-2 w-[45vw] h-[45vw] sm:w-[25vw] sm:h-[25vw] lg:w-[14vw] lg:h-[14vw] object-cover rounded-xl border-2 border-offBlack">
-                      <Image draggable={false}
+                      <Image unoptimized draggable={false}
                         src="/images/canvas/imageone.png"
                         alt="DIGITALAX canvas one"
                         layout="fill"
@@ -86,7 +86,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                   </div>
                 </div>
                 <div className="relative w-full h-full row-start-2 w-[45vw] h-[45vw] sm:w-[25vw] sm:h-[25vw] lg:w-[14vw] lg:h-[14vw] object-cover rounded-xl border-2 border-offBlack">
-                  <Image draggable={false}
+                  <Image unoptimized draggable={false}
                     src="/images/canvas/imagetwo.png"
                     alt="DIGITALAX canvas two"
                     layout="fill"
@@ -137,7 +137,7 @@ const Canvas: FunctionComponent = (): JSX.Element => {
                   </div>
                 </div>
                 <div className="relative w-full h-full row-start-2 w-[45vw] h-[45vw] sm:w-[25vw] sm:h-[25vw] lg:w-[14vw] lg:h-[14vw] object-cover rounded-xl border-2 border-offBlack">
-                  <Image draggable={false}
+                  <Image unoptimized draggable={false}
                     src="/images/canvas/imagethree.png"
                     alt="DIGITALAX canvas three"
                     layout="fill"

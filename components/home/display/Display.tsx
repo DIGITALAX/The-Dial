@@ -8,7 +8,7 @@ const Display: FunctionComponent = (): JSX.Element => {
   return (
     <div className="relative w-full h-auto bg-offBlack grid grid-flow-row auto-rows-[auto auto]">
       <div className="relative w-full h-full row-start-1">
-        <Image draggable={false}
+        <Image unoptimized draggable={false}
           layout="fill"
           objectFit="cover"
           alt="DIGITALAX pixels"
@@ -23,7 +23,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                     id="border"
                     className="rounded-xl relative w-fit h-fit p-0.5 row-start-1 place-self-center grid grid-flow-row auto-rows-[auto auto]"
                   >
-                    <Image draggable={false}
+                    <Image unoptimized draggable={false}
                       width={300}
                       height={300}
                       alt="DIGITALAX pixels"
@@ -56,7 +56,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                           className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                            <Image draggable={false}
+                            <Image unoptimized draggable={false}
                               height={15}
                               width={20}
                               src="/images/heart.png"
@@ -75,7 +75,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                           className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                            <Image draggable={false}
+                            <Image unoptimized draggable={false}
                               height={15}
                               width={20}
                               src="/images/mirror.png"
@@ -94,7 +94,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                           className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                            <Image draggable={false}
+                            <Image unoptimized draggable={false}
                               height={20}
                               width={15}
                               src="/images/evolve.png"
@@ -113,7 +113,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                           className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                            <Image draggable={false}
+                            <Image unoptimized draggable={false}
                               height={15}
                               width={20}
                               src="/images/burger.png"
@@ -141,7 +141,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                 >
                   <div className="relative w-fit h-fit place-self-center row-start-1  place-self-center grid grid-flow-row auto-rows-[auto auto]">
                     <div className="relative w-fit h-fit col-start-1 place-self-center p-10">
-                      <Image draggable={false}
+                      <Image unoptimized draggable={false}
                         width={40}
                         height={40}
                         alt="DIGITALAX pixels"
@@ -175,7 +175,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                             className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                           >
                             <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                              <Image draggable={false}
+                              <Image unoptimized draggable={false}
                                 height={15}
                                 width={20}
                                 src="/images/heart.png"
@@ -194,7 +194,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                             className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                           >
                             <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                              <Image draggable={false}
+                              <Image unoptimized draggable={false}
                                 height={15}
                                 width={20}
                                 src="/images/mirror.png"
@@ -213,7 +213,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                             className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                           >
                             <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                              <Image draggable={false}
+                              <Image unoptimized draggable={false}
                                 height={20}
                                 width={15}
                                 src="/images/evolve.png"
@@ -232,7 +232,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                             className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                           >
                             <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                              <Image draggable={false}
+                              <Image unoptimized draggable={false}
                                 height={15}
                                 width={20}
                                 src="/images/burger.png"
@@ -259,7 +259,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                       id="border"
                       className="rounded-xl relative w-fit h-fit p-0.5 row-start-1 place-self-center grid grid-flow-row auto-rows-[auto auto]"
                     >
-                      <Image draggable={false}
+                      <Image unoptimized draggable={false}
                         width={300}
                         height={300}
                         alt="DIGITALAX pixels"
@@ -293,7 +293,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                     id="border"
                     className="rounded-xl relative w-fit h-fit p-0.5 row-start-2 place-self-center grid grid-flow-row auto-rows-[auto auto]"
                   >
-                    <Image draggable={false}
+                    <Image unoptimized draggable={false}
                       width={300}
                       height={200}
                       alt="DIGITALAX pixels"
@@ -322,7 +322,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                           className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                            <Image draggable={false}
+                            <Image unoptimized draggable={false}
                               height={15}
                               width={20}
                               src="/images/heart.png"
@@ -341,7 +341,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                           className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                            <Image draggable={false}
+                            <Image unoptimized draggable={false}
                               height={15}
                               width={20}
                               src="/images/mirror.png"
@@ -360,7 +360,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                           className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                            <Image draggable={false}
+                            <Image unoptimized draggable={false}
                               height={20}
                               width={15}
                               src="/images/evolve.png"
@@ -379,7 +379,7 @@ const Display: FunctionComponent = (): JSX.Element => {
                           className="relative w-fit h-fit col-start-1 place-self-center rounded-full grid grid-flow-col auto-cols-[auto auto] hover:scale-95"
                         >
                           <div className="relative w-6 h-6 place-self-center col-start-1 grid grid-flow-col auto-cols-[auto auto] p-1">
-                            <Image draggable={false}
+                            <Image unoptimized draggable={false}
                               height={15}
                               width={20}
                               src="/images/burger.png"

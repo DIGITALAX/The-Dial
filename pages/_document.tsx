@@ -31,65 +31,6 @@ class Document extends NextDocument {
             href="https://fonts.gstatic.com"
             crossOrigin="anonymous"
           />
-          <style
-            dangerouslySetInnerHTML={{
-              __html: `
-                @font-face {
-                    font-family: "Valencia";
-                    font-weight: 400;
-                    src: url("./fonts/De-Valencia.otf");
-                }
-
-                @font-face {
-                  font-family: "Cochin";
-                  font-weight: 400;
-                  src: url("./fonts/Cochin.ttc");
-                }
-
-                @font-face {
-                  font-family: "Fira Medium";
-                  font-weight: 400;
-                  src: url("./fonts/FiraCode-Medium.ttf");
-                }
-
-                @font-face {
-                  font-family: "Fira Regular";
-                  font-weight: 400;
-                  src: url("./fonts/FiraCode-Regular.ttf");
-                }
-
-                @font-face {
-                  font-family: "Nexus";
-                  font-weight: 400;
-                  src: url("./fonts/Nexus-ZV54m.ttf");
-                }
-
-                @font-face {
-                  font-family: "Odachi";
-                  font-weight: 400;
-                  src: url("./fonts/Odachi.otf");
-                }
-
-                @font-face {
-                  font-family: "Liberation Mono Bold";
-                  font-weight: 400;
-                  src: url("./fonts/LiberationMono-Bold.ttf");
-                }
-
-                @font-face {
-                  font-family: "Liberation Mono";
-                  font-weight: 400;
-                  src: url("./fonts/LiberationMono-Regular.ttf");
-                }
-
-                @font-face {
-                  font-family: "ALVA Regular";
-                  font-weight: 400;
-                  src: url("./fonts/ALVA-Regular.ttf");
-                }
-            `,
-            }}
-          ></style>
         </Head>
         <body>
           <script>0</script>

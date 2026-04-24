@@ -1,4 +1,3 @@
-import Image from "next/legacy/image";
 import { FunctionComponent } from "react";
 import useI18n from "../../../hooks/useI18n";
 

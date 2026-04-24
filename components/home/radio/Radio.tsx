@@ -9,7 +9,7 @@ const Radio: FunctionComponent = (): JSX.Element => {
           id="turn"
           className="col-start-1 row-start-1 relative w-full h-full grid grid-flow-col auto-cols-[auto auto] place-self-center p-0.5 rounded-xl"
         >
-          <Image draggable={false}
+          <Image unoptimized draggable={false}
             height={150}
             width={800}
             src="/images/radio.png"
@@ -27,7 +27,7 @@ const Radio: FunctionComponent = (): JSX.Element => {
               id="turn"
               className="h-12 w-12 sm:w-14 sm:h-14 lg:w-fit lg:h-fit p-1 rounded-full col-start-1 place-self-center grid grid-flow-col auto-cols-[auto auto]"
             >
-              <Image draggable={false}
+              <Image unoptimized draggable={false}
                 width={90}
                 height={90}
                 src="/images/turn.png"
