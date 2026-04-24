@@ -102,6 +102,7 @@ const Slider: FunctionComponent = (): JSX.Element => {
                   <Image draggable={false}
                     src={`/images/slider/${image}.png`}
                     alt={`DIGITALAX ${messages.home.title} slider`}
+                    unoptimized
                     objectFit="cover"
                     layout="fill"
                     priority
