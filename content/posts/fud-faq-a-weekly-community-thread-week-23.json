@@ -1,0 +1,426 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-23",
+  "date": "2021-09-05",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 23",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 23"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*_ohs4ymABhpZKxUA.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Are people going to lose interest in PFPs now that Loot is the new hotness?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "TLDR; No. But, it depends on which PFPs we are talking about. The overnight release with now no roadmap low quality rush to cash in is probably not going to last too much longer. However, the underlying principles PFPs represent won’t be going anytime soon. In fact, our identity is a critical composable metaversal assets— and PFPs are one major way to access this."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In fact, DIGITALAX has its own PFP project in the works. Stay tuned for more!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Do PODE holders staking on DLTA for DECO have to take any action?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Yes. Please claim your $DECO rewards from the UI at https://www.thedlta.xyz/ before Wednesday September 8th. We are migrating to Phase V2 of The DLTA System, introducing whitelisted NFT staking for appraisals, as well as dynamic staking rewards for PODE holders as part of the PODE guild."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you haven’t already claimed your rewards, please do so here."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "To read the full announcement regarding Phase V2."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-ir7thJDwEZSmpxh6ejh0w.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The recent SEC investigation announcement on Uniswap Labs is a major escalation and potential chilling effect for DeFi in the United States. The SEC intentions, methodology and perspectives remain exceedingly opaque. DeFi is one of the most promising young industries in a broader economy that is struggling at best in the midst of over a year and a half of pandemic induced strain. It is not clear at all who the SEC is protecting in this situation, because American consumers have certainly not been harmed by Uniswap."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Let’s just hope that this misguided vendetta doesn’t go far enough to push all innovators out of the US. Frankly, if the US wants to survive and remain on top to continue to be the global technology leader, then shutting down or threatening DeFi, Crypto, NFTs and Web3 in general doesn’t add any positive reinforcement and momentum to this."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As a builder and founder in the space it is a shame to see how much they discount good faith efforts by talented teams."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Not your average silly fail, FUD or troll…. more like future FUD. Be warned 😉"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*9jQS4vyS_aL0xmLGxrDoSA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax/"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo semanal de la comunidad | Semana 23",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo semanal de la comunidad | Semana 23"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*_ohs4ymABhpZKxUA.jpeg",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿La gente va a perder interés en PFPs ahora que Loot es la nueva moda?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "TL;DR: no. Pero depende de qué PFPs estemos hablando. Los lanzamientos overnight sin roadmap y de baja calidad hechos solo para cash in probablemente no duren mucho más. Sin embargo, los principios de fondo que representan los PFPs no se van a ir pronto. De hecho, nuestra identidad es un activo metaversal composable crítico, y los PFPs son una vía principal para acceder a eso."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "De hecho, DIGITALAX tiene su propio proyecto PFP en marcha. ¡Atentos a más novedades!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta repetida más común"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Los holders de PODE haciendo staking en DLTA para DECO tienen que hacer alguna acción?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Sí. Por favor reclama tus recompensas $DECO desde la UI en https://www.thedlta.xyz/ antes del miércoles 8 de septiembre. Estamos migrando a la Fase V2 del sistema DLTA, introduciendo staking NFT whitelist para appraisals y recompensas dinámicas para holders de PODE como parte del guild PODE."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Si aún no reclamaste tus rewards, por favor hazlo aquí."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Para leer el anuncio completo sobre la Fase V2."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias de la industria"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-ir7thJDwEZSmpxh6ejh0w.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "El anuncio reciente de investigación de la SEC sobre Uniswap Labs es una escalada fuerte y un posible efecto de enfriamiento para DeFi en Estados Unidos. Las intenciones, metodología y enfoque de la SEC siguen siendo extremadamente opacos. DeFi es una de las industrias jóvenes más prometedoras dentro de una economía amplia que viene luchando, como mínimo, tras más de año y medio de presión pandémica. No está claro a quién protege la SEC en esta situación, porque consumidores estadounidenses ciertamente no han sido perjudicados por Uniswap."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Solo esperemos que esta vendetta equivocada no llegue tan lejos como para expulsar a innovadores de EE. UU. Francamente, si EE. UU. quiere sobrevivir y mantenerse arriba como líder tecnológico global, entonces frenar o amenazar DeFi, Crypto, NFTs y Web3 en general no suma ningún impulso positivo."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Como builder y fundadora/fundador en este espacio, da pena ver cuánto desprecian esfuerzos de buena fe de equipos talentosos."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y troleo"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No es el típico silly fail, FUD o troll… más bien FUD del futuro. Quedan advertidos 😉."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*9jQS4vyS_aL0xmLGxrDoSA.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido al artículo de la próxima semana, escríbenos por nuestro servidor de Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Únete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax/"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 23",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 23"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*_ohs4ymABhpZKxUA.jpeg",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "هل الناس هتفقد اهتمامها بـPFPs دلوقتي بعد ما Loot بقت الحاجة الساخنة الجديدة؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "TLDR؛ لأ. لكن يعتمد على أنهي PFPs بنتكلم عنها. الإطلاقات السريعة جدًا overnight بدون roadmap وبجودة منخفضة وهدفها cash-in سريع غالبًا مش هتطول. لكن المبادئ الأساسية اللي PFPs بتمثلها مش رايحة في أي حتة قريب. بالعكس، هويتنا نفسها أصل composable metaversal مهم — وPFPs واحدة من الطرق الرئيسية للوصول لده."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وفي الحقيقة، DIGITALAX عندها مشروع PFP خاص بها قيد التنفيذ. خليك متابع!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر سؤال متكرر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "هل حاملي PODE اللي عاملين staking على DLTA من أجل DECO محتاجين يعملوا أي إجراء؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أيوه. من فضلك اعمل claim لمكافآت $DECO من الـUI على https://www.thedlta.xyz/ قبل الأربعاء 8 سبتمبر. إحنا بنعمل migration لمرحلة V2 من The DLTA System، مع إدخال whitelisted NFT staking للتقييمات، وكمان rewards staking ديناميكية لحاملي PODE كجزء من PODE guild."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لو لسه ما عملتش claim لمكافآتك، اعمل ده من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لقراءة الإعلان الكامل بخصوص Phase V2."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أبرز الجدل في المجال"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-ir7thJDwEZSmpxh6ejh0w.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "إعلان تحقيق SEC الأخير مع Uniswap Labs تصعيد كبير وممكن يعمل تأثير تبريد على DeFi في الولايات المتحدة. نوايا SEC ومنهجيتها ورؤيتها ما زالت ضبابية جدًا. DeFi واحدة من أكثر الصناعات الناشئة الواعدة داخل اقتصاد أوسع بيعاني أصلًا تحت ضغط الجائحة الممتد لأكتر من سنة ونص. مش واضح نهائيًا SEC بتحمي مين هنا، لأن المستهلك الأمريكي بالتأكيد ما اتضررش من Uniswap."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "نتمنى بس إن الـvendetta المضللة دي ما توصلش لمرحلة تدفع كل المبتكرين برا أمريكا. بصراحة، لو أمريكا عايزة تفضل في القمة كقائد عالمي للتكنولوجيا، فإغلاق أو تهديد DeFi وCrypto وNFTs وWeb3 عمومًا مش هيضيف أي زخم إيجابي."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "كمؤسس/بيلدر في المجال، مؤسف نشوف قد إيه بيقللوا من جهود الفرق الموهوبة اللي شغالة بحسن نية."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إخفاقات عبثية وتريولنج"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مش silly fail عادي ولا FUD ولا troll… أقرب لـ future FUD. خلي بالك 😉."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*9jQS4vyS_aL0xmLGxrDoSA.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو حابب سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، تواصل معانا من خلال سيرفر DIGITALAX على Discord في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax/"
+        }
+      ]
+    }
+  }
+}

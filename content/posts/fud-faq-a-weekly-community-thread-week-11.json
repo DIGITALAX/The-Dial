@@ -1,0 +1,351 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-11",
+  "date": "2021-06-14",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 11",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 11"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*Xl7l5XgrDjRM3Qh_.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Are NFTs dead?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "TLDR; 😆😅🤭."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you understand even slightly the mechanisms and implementations of the technology it becomes pretty obvious very quickly that NFTs are inevitably going to be the bedrock of the entire digital ecosystem. Unless you believe that the entire world is going to divert from digital, then it’s clear that NFTs are the atoms of the digital universe and soon will be seen as a pretty ubiquitous mundane tool."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Questions"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "How are the Minecraft NFT skins, or any digital fashion NFT skins valued?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This is an interesting question and something that DIGITALAX has actively discussed and formulated theses around since initiation of the project last year. In fact, when we first launched we also released the beginnings of the DOF Sheet— an initial way for evaluating digital fashion assets (And Fractional Garment Ownership plays a very important role in the future of underwriting value for natively goods along the fashion supply chain). In the case for the Minecraft NFT skins sale, the digital fashion pieces gain their value from a few distinct use cases; the most salient is the utility within ESPA and the ability for players to actually earn $MONA through participation in the casual esports battles, another is staking for $MONA, and another is something more intimate but definitely highly consequential when we think about forming an identity within the metaverse; it’s the fact that digital fashion is so intrinsic to how we self express and connect across mediums."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Is El Salvador’s Bitcoin maximalism worth the hype and how much should we worry about human rights?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There’s a dictatorship in Venezuela along with near dictatorship in many other parts of Latin America, there’s arguably a racist police state here in the US, and China, who most of the world depends on for business, has over 1 million Uyghur muslims in concentration camps right now. The list of human rights violators world wide is nearly endless, and while it isn’t ok to engage in moral equivalency between them it is necessary to recognise that there are different degrees involved and there is plenty of blood on many hands and the right thing to do is to choose actions that improve the overall human condition in this backdrop. A genuine embrace of crypto and decentralisation is a huge leap forward to putting real power in the hands of those that are currently abused by whatever system they happen to be born into. Whilst El Salvador does have a bad track record, it is questionable how much of that is due to their own actions versus external economic forces. This is an opportunity for the Bitcoin and crypto markets to enforce the kind of reforms we all insist on, so that the standard of living, economic freedom, and respect for human rights that is required to take root can essentially be bought by aligning incentives for those in power in favor of the people so that everyone can benefit with the rising tide."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A lot of silly fail FUD and trolling in this. I’ll let you be the judge. But definitely this makes it very apparent that still so many people don’t really understand decentralisation, crypto or web3."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo semanal de la comunidad | Semana 11",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo semanal de la comunidad | Semana 11"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*Xl7l5XgrDjRM3Qh_.jpeg",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Están muertos los NFT?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Resumen rápido; 😆😅🤭."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Si entiendes aunque sea un poco los mecanismos e implementaciones de esta tecnología, se vuelve obvio muy rápido que los NFTs van a ser inevitablemente la base de todo el ecosistema digital. A menos que creas que el mundo entero se va a desviar de lo digital, está claro que los NFTs son los átomos del universo digital y pronto se verán como una herramienta cotidiana y ubicua."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Preguntas repetidas más comunes"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cómo se valoran las skins NFT de Minecraft, o cualquier skin NFT de moda digital?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Es una pregunta interesante y algo que DIGITALAX viene discutiendo activamente y formulando desde el inicio del proyecto el año pasado. De hecho, cuando lanzamos también publicamos el inicio de la DOF Sheet, una primera forma de evaluar activos de moda digital (y la propiedad fraccionada de prendas tiene un papel muy importante en cómo se respaldará el valor de bienes nativos a lo largo de la cadena de suministro de moda). En el caso de la venta de skins NFT de Minecraft, las piezas de moda digital ganan valor por varios casos de uso: el más relevante es su utilidad dentro de ESPA y la capacidad de que los jugadores ganen $MONA participando en batallas casuales de esports; otro es el staking para $MONA; y otro es algo más íntimo pero muy importante para formar identidad en el metaverso: que la moda digital es intrínseca a cómo nos expresamos y conectamos entre medios."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias de la industria"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Vale la pena el maximalismo Bitcoin de El Salvador y cuánto deberíamos preocuparnos por los derechos humanos?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Hay una dictadura en Venezuela y casi dictaduras en muchas otras partes de Latinoamérica; aquí en EE. UU. hay, para muchos, un estado policial racista; y China, de la que gran parte del mundo depende para negocios, tiene ahora mismo más de 1 millón de musulmanes uigures en campos de concentración. La lista de violaciones de derechos humanos en el mundo es casi interminable. Aunque no está bien hacer equivalencias morales simplistas, sí es necesario reconocer que hay distintos grados y que hay sangre en muchas manos. Lo correcto es elegir acciones que mejoren la condición humana general en este contexto. Una adopción genuina de cripto y descentralización es un salto enorme para poner poder real en manos de quienes hoy son abusados por el sistema en el que nacieron. Aunque El Salvador sí tiene un mal historial, es discutible cuánto se debe a sus propias acciones frente a fuerzas económicas externas. Esta es una oportunidad para que los mercados de Bitcoin y cripto exijan reformas reales, de forma que el nivel de vida, la libertad económica y el respeto por los derechos humanos puedan arraigar alineando incentivos de quienes tienen el poder a favor de la gente, para que todos se beneficien con la marea creciente."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y troleo"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Hay bastante FUD de fails absurdos y troleo en esto. Te lo dejo a tu criterio. Pero sí deja muy claro que muchísima gente todavía no entiende realmente la descentralización, el cripto ni web3."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido al artículo de la próxima semana, escríbenos por nuestro servidor de Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Únete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 11",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 11"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*Xl7l5XgrDjRM3Qh_.jpeg",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "هل الـNFTs ماتت؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الخلاصة السريعة؛ 😆😅🤭."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لو فاهم حتى بشكل بسيط آليات وتطبيقات التكنولوجيا دي، هيبقى واضح بسرعة إن الـNFTs هتبقى بشكل حتمي أساس الإيكوسيستم الرقمي كله. إلا لو كنت مؤمن إن العالم كله هيسيبه الرقمي أصلًا، فالواضح إن الـNFTs هي ذرات الكون الرقمي، وقريب هتتبان كأداة يومية منتشرة جدًا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر الأسئلة المتكررة"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إزاي بيتحدد سعر Minecraft NFT skins أو أي سكِنات فاشون رقمية NFT؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ده سؤال مهم وإحنا في DIGITALAX بنتناقش فيه بشكل فعّال وبنطوّر عليه أفكار من بداية المشروع السنة اللي فاتت. في الحقيقة، وقت الإطلاق الأول نزلنا كمان بداية DOF Sheet كطريقة أولية لتقييم أصول الفاشون الرقمية (وكمان Fractional Garment Ownership ليه دور مهم جدًا في مستقبل تسعير السلع الأصلية على سلسلة توريد الفاشون). في حالة بيع Minecraft NFT skins، القطع الرقمية بتاخد قيمتها من كذا use case واضح: أهمهم utility جوه ESPA، وقدرة اللاعبين على كسب $MONA من المشاركة في معارك esports الكاجوال، وكمان staking لـ $MONA، وفي عامل شخصي أعمق لكنه شديد التأثير لما نفكر في تكوين الهوية في الميتافيرس: إن الفاشون الرقمية جزء جوهري من طريقة تعبيرنا عن نفسنا واتصالنا عبر الوسائط المختلفة."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أبرز الجدل في المجال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "هل Bitcoin maximalism في السلفادور يستحق كل الضجة؟ وقد إيه المفروض نقلق بخصوص حقوق الإنسان؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في ديكتاتورية في فنزويلا، وشبه ديكتاتورية في مناطق كتير من أمريكا اللاتينية، وفي أمريكا ناس كتير شايفة إن فيه دولة بوليسية عنصرية، وكمان الصين اللي جزء كبير من العالم بيعتمد عليها تجاريًا عندها دلوقتي أكتر من مليون مسلم أويغوري في معسكرات اعتقال. قائمة منتهكي حقوق الإنسان عالميًا شبه لا نهائية. ورغم إن المقارنات الأخلاقية السطحية مش صح، لازم نعترف إن فيه درجات مختلفة وإن فيه دم على إيدين كتير، واللي صح فعلًا إننا نختار أفعال تحسن الوضع الإنساني العام في السياق ده. تبني حقيقي للكريبتو واللامركزية هو قفزة كبيرة جدًا علشان القوة تروح لإيد الناس اللي بيتم إساءة معاملتهم داخل الأنظمة اللي اتولدوا فيها. صحيح السلفادور لها سجل سيئ، لكن قابل للنقاش قد إيه ده بسبب قراراتها مقابل قوى اقتصادية خارجية. ودي فرصة لأسواق Bitcoin والكريبتو إنها تفرض إصلاحات حقيقية بنطالب بيها، بحيث مستوى المعيشة والحرية الاقتصادية واحترام حقوق الإنسان يترسخوا عبر مواءمة حوافز أصحاب السلطة لصالح الناس علشان الكل يستفيد."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إخفاقات عبثية وتريولنج"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في البوست ده كمية كبيرة من FUD والإخفاقات العبثية والتريولنج. هسيب الحكم ليكي. لكن هو فعلاً بيوضح إن لسه ناس كتير جدًا مش فاهمة اللامركزية ولا الكريبتو ولا web3."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو حابب سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، تواصل معانا من خلال سيرفر DIGITALAX على Discord في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    }
+  }
+}

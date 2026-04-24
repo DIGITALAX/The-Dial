@@ -1,0 +1,486 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-51",
+  "date": "2022-03-20",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 51",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 51"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*o3ZLpOcOPJuT8SAa.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Why the sudden rise of ZK everything?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When we look back at the key milestones in blockchain history; the first that comes to mind is Bitcoin, followed obviously by Ethereum, then arguably PoS, and now the latest candidate is Zero Knowledge Proofs for just about everything."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Truly remarkable bits of math and logic, these implementations in a blockchain context allow for far greater scaling, throughput, privacy and so much more."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX is fully embracing this new ZK wave and will over the Spring season release an increasing number of integrations, experiences and product lines with some of the leading pioneers in the space. Stay tuned."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What can I do to help the situation in Ukraine?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In addition to Ukraine DAO and the other initiatives being led in the crypto space, Alyona, one of the GDN designers, also released a dedicated 3 part collection featuring traditional Ukrainian digital fashion pieces, where all proceeds are being directed to support the defense and humanitarian efforts against Putin's War."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can purchase from the collection here."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Every bit of support makes an enormous difference."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*jYGEoMIKRtVCitHd",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I would say that it always sucks when early darlings of a pioneering new field you devote yourself to show their true colours. Except, that happened with Dapper Labs a long time ago."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I don't believe that there are many people who seriously consider Dapper a paragon of true decentralisation, and that has probably been the case since soon after the height of the initial CryptoKitties phase. It's also true that their marketing stance of the importance of bringing better UX to admittedly horribly designed Blockchain interfaces went by the wayside long ago to be replaced with just corporate legacy brand simping."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*n1JTD6HLBfqbBgiQVQppbg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you get a chance to read the deck it's impressive really how they are managing to gain so much VC and similar late stage web2 support and capital on 80 pages of a really questionably produced deck."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Not only is it way to long, it's light on the substance and makes some ridiculous claims along the way. The audacity of new, old and wannabe mega corps claiming to build their own metaverse instead of contributing infrastructure to the one and only open metaverse has long passed worn thin, even before Zuck said his piece to doom facebook months ago. Why Yuga is following in his footsteps I don't know."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That's if this is a real deck and not just some trojan horse troll of its own 😆"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*LzdqzERe78BGK6GXYUW40w.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo semanal de la comunidad | Semana 51",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo semanal de la comunidad | Semana 51"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*o3ZLpOcOPJuT8SAa.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Por qué este auge repentino de todo lo relacionado con ZK?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Si miramos los hitos clave de la historia blockchain, lo primero que viene a la mente es Bitcoin, seguido obviamente por Ethereum, luego posiblemente PoS, y ahora el nuevo candidato son las Zero Knowledge Proofs para prácticamente todo."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Son piezas de matemática y lógica realmente notables; en contexto blockchain, estas implementaciones permiten muchísima más escalabilidad, throughput, privacidad y mucho más."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX está adoptando por completo esta nueva ola ZK y durante la temporada de primavera publicará un número creciente de integraciones, experiencias y líneas de producto con algunos de los pioneros líderes del espacio. Mantente atento."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta repetida más común"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Qué puedo hacer para ayudar con la situación en Ucrania?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Además de Ukraine DAO y otras iniciativas lideradas en el espacio cripto, Alyona, una de las diseñadoras de GDN, también lanzó una colección dedicada de 3 partes con piezas de moda digital ucraniana tradicional, donde todos los ingresos se destinan a apoyar la defensa y los esfuerzos humanitarios frente a la guerra de Putin."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Puedes comprar en la colección aquí."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Cada aporte marca una diferencia enorme."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*jYGEoMIKRtVCitHd",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias de la industria"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Diría que siempre duele cuando figuras tempranas de un campo pionero al que dedicas tanto muestran sus verdaderos colores. Aunque, con Dapper Labs, eso pasó hace bastante tiempo."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No creo que mucha gente considere seriamente a Dapper un ejemplo de descentralización real, y eso probablemente es así desde poco después del pico inicial de CryptoKitties. También es cierto que su discurso de marketing sobre traer mejor UX a interfaces blockchain objetivamente mal diseñadas quedó atrás hace tiempo para convertirse en simple fanatismo por marcas corporativas heredadas."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*n1JTD6HLBfqbBgiQVQppbg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y troleo"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Si tienes oportunidad de leer el deck, la verdad impresiona cómo logran atraer tanto apoyo y capital de VC y de actores web2 de etapa tardía con 80 páginas de una presentación bastante cuestionable."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No solo es demasiado largo, también es flojo en sustancia y mete afirmaciones ridículas por el camino. La audacia de nuevas, viejas y wannabe megacorporaciones diciendo que van a construir su propio metaverso en vez de aportar infraestructura al único metaverso abierto ya estaba desgastada incluso antes de que Zuck hiciera su jugada y condenara Facebook hace meses. Por qué Yuga sigue esos pasos, no lo sé."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Eso, si este deck es real y no otro trolleo tipo caballo de Troya por sí mismo."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*LzdqzERe78BGK6GXYUW40w.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira aquí todos los FUD FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido al artículo de la próxima semana, escríbenos por nuestro servidor de Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Únete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 51",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 51"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*o3ZLpOcOPJuT8SAa.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ليه حصل صعود مفاجئ لحلول ZK في كل حاجة تقريبًا؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لما نبص على المحطات الأساسية في تاريخ البلوكشين: أول محطة بتكون Bitcoin، وبعدها طبيعي Ethereum، ثم ممكن PoS، ودلوقتي المرشح الأحدث هو Zero Knowledge Proofs لكل حاجة تقريبًا."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "دي قطع رياضيات ومنطق مبهرة فعلًا، وبتطبيقها في سياق البلوكشين بتسمح بتوسّع أكبر بكتير، throughput أعلى، خصوصية أفضل، وحاجات أكتر كتير."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX متبنية موجة ZK الجديدة بالكامل، وخلال موسم الربيع هتطلق عدد متزايد من الـ integrations والتجارب وخطوط المنتجات مع بعض من أبرز الرواد في المساحة. خليك متابع."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر سؤال متكرر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "أقدر أعمل إيه علشان أساعد في الوضع في أوكرانيا؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "بالإضافة لـ Ukraine DAO والمبادرات التانية في مساحة الكريبتو، Alyona، واحدة من مصممات GDN، أطلقت كمان مجموعة مخصصة من 3 أجزاء فيها قطع ديجيتال فاشون أوكرانية تقليدية، وكل العوائد متوجهة لدعم جهود الدفاع والمساعدات الإنسانية ضد حرب بوتين."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "تقدر تشتري من المجموعة من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أي دعم، حتى لو صغير، بيفرق جدًا."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*jYGEoMIKRtVCitHd",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أبرز الجدل في المجال"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أقدر أقول إن الموضوع دايمًا بيكون مزعج لما أسماء كانت محبوبة في بدايات مجال ريادي أنت مكرّس له وقتك، تكشف ألوانها الحقيقية. مع Dapper Labs تحديدًا، ده حصل من زمان."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مش شايف إن فيه ناس كتير تعتبر Dapper نموذج حقيقي للامركزية، وده غالبًا واضح من بعد ذروة CryptoKitties بوقت قصير. وكمان صحيح إن خطابهم التسويقي عن أهمية تحسين UX لواجهات بلوكشين كانت سيئة التصميم جدًا اتشال من زمان واتبدل بمجرد مجاملة للعلامات التجارية corporates legacy."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*n1JTD6HLBfqbBgiQVQppbg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إخفاقات عبثية وتريولنج"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لو جاتلك فرصة تقرأ الـ deck، فهو مدهش فعلًا إزاي قدروا يجذبوا دعم ورأس مال كبير من VC ومن داعمين web2 متأخرين بثمانين صفحة من عرض إنتاجه محل شك كبير."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مش بس طويل زيادة، ده كمان خفيف في الجوهر وبيعمل ادعاءات سخيفة على الطريق. جرأة كيانات جديدة وقديمة وwannabe mega corps وهي بتقول إنها هتبني metaverse خاص بيها بدل ما تساهم ببنية تحتية للـ open metaverse الوحيد، كانت بقت مستهلكة أصلًا حتى قبل ما Zuck يعمل حركته اللي غرّقت Facebook من شهور. ليه Yuga ماشية وراه؟ مش عارف."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وطبعًا ده كله على افتراض إن الـ deck حقيقي، مش مجرد Trojan-horse troll لوحده."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*LzdqzERe78BGK6GXYUW40w.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو حابب سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، تواصل معانا من خلال سيرفر DIGITALAX على Discord في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

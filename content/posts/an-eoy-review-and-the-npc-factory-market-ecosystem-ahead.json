@@ -1,0 +1,1746 @@
+{
+  "slug": "an-eoy-review-and-the-npc-factory-market-ecosystem-ahead",
+  "date": "2024-01-01",
+  "translations": {
+    "en": {
+      "title": "An EOY Review & the NPC Factory-Market Ecosystem Ahead",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "An EOY Review & the NPC Factory-Market Ecosystem Ahead"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*XnOXLMMrIA3W9F7TUCs_Aw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "2023 was a year when we can look back in wonder at how much change happens, in markets, technology, societies, and culture, while we stay enchanted by our keyboards and screens."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A global economic reshuffle is clearly accelerating now, as nearly everyone has shaken off, throughout the year, beyond the first tentative steps after the pandemic and its effects."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Web3 has shaken out the most blatant LARPers, and seems in better measures to be swapping the bear for a long missing return to cypherpunk."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "AI is suddenly everywhere in public, far beyond the earliest adopters. With generative models and chat based assistants making such massive leaps in performance every few months, weeks, and even days, it seems like this timeline’s most watched dramas play out in hypertime, with entire seasons delivering what before ’23 we would have thought to be impossible twists that are now almost common."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Blinked and missed it? It’s not just you."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There’s something so wrong with how we get and share information now, that extending solutions for the byzantine general’s problem to every layer we interact with has never felt more relevant, yet is still talked about (if at all) in ways too hypertechnical and esoteric for consumer markets to really get it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And the old social media is dead and gone. What’s taken its place is a mess at best, while we’re in the gap between the peak 2.0 years and the fully decentralized social web still being developed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In this backdrop, 2023 for the DIGITALAX ecosystem can be summed up in one word: build."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*js5G1unfll5gIrTx",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*RQHeCkHvOEmOkwHp",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*znSDn4Bny54nxTq7",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*05OcOvVM9gH4IIOp",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*PrA13rnNfkBMlRlT",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Built in 2023:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Length of code isn’t everything, but it can be a good measure with the right context. We have committed and deployed hundreds of thousands of lines of code this year, connecting decentralized social media with on-chain encrypted checkouts, generative AI, and local manufactory print fulfillment."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Development has stayed focused on integrating useful tools, platforms and embedded mechanisms throughout the ecosystem to simplify how creators can gain transparent and secure communication channels, grow community relationships, convert p2p customer funnels, and sell creative goods more easily while living in increasingly seamless hybrids of the hyper-online and IRL."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The connective thread and key principle remains unbundling creative commerce through fashion first, as the most viable means to tangible acceleration of human autonomy comes from storytelling so relatable it can be lived in + the growth and distribution of economic leverage through the skilled use of machines in code."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Continuing to steward these principles into practice has meant deep integration with web3 social through Lens Protocol, with Stable Diffusion for generative visual AI, Lit Protocol for decentralized encryption, and Livepeer for video infrastructure."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Because navigating these industries is hard enough (even when tuning out the chaos of global macro realignment), you can now find your own way through the maze of knowing exactly what you’re looking for with Cypher, a simple ecosystem-wide text, filter, and visual discovery lookup."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And, as always, it’s all in the public domain — code, art, fashion, and prints included."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Public domain works reduce FUD, cut down on worry that your efforts will go to waste, encourage more creative innovation, accelerate autonomy, and are free for all to use at little cost to us beyond transaction fees for persistent decentralized publishing, dissemination, and storage. They also have a tremendous deterrent effect against anyone who tries to chokepoint our access to information and markets."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*v3eOCCWuiQiZg2xK",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/200/0*NlGN3sFzAaNgSV8I",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*NIAh0bZbaDJEYbw2",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*Wdl0R7JTtL6IKnnw",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*g2IKg_NM64hLIWjO",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*8Xc9wx0JQxYfLMie",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Live Portals:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instant ecosystem-wide search, checkout and fulfillment."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "All in one Creator dashboard for mint, order, sale and fulfillment ops."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Connected to Lens V2 open actions, all content is a publication, for seamless shares, likes, follows."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instant Gen AI editor canvas and preroll checkout for synthing custom streetwear to IRL fulfillment (hoodies, shirts, stickers, posters)."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Connected to Lens V2 open actions, every preroll is a publication, for seamless shares, likes, follows."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "24/7 Channel Surfing and collection marketplace on Lens Protocol."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Creator Dispatch for mint and token-gated post ops."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Two seasons of The Dial Pirate Radio — standalone and interview style radio episodes covering AI, web3, encryption and autonomy."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Portable Chromadin player & channel feed live in Cypher Search, Coin Op and DIGITALAX flagship."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Local hardware, machine and virtual factory network for running custom LLMs, Loras, and base Stable Diffusion models, as well as print manufacture and fulfillment for IRL goods."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Live in Cypher Search, Coin Op and Chromadin."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Typescript SDK for Peer 2 Peer Encryption triggered by on-chain events and webhooks, integrating Lit Protocol Programmable Key Pairs."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Connected step-by-step user friendly experimental interface"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "The Dial Pirate Radio"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Two seasons of TDPR have been produced and released live on Chromadin."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Weekly episodes have covered fresh perspectives on decentralized social networks, data privacy, encryption, web3 commerce strategies, and creative freedom across platforms, with the occasional 1–1 interview with artists and creators building in the industry."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Microbrands"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*3eG3ZMDh63YFCZmz",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The ecosystem has expanded by welcoming in new microbrands. They’re now a crucial part of the street crew that designs, synthesizes, and mints CC0 web3 fashion, print and virtual NFTs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "They lead the way in using the Manufactory network, producing and managing work via dedicated virtual machine interfaces."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "F3Manifesto"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Future Memory"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Hiro"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Synthetic Futures"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Put2"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Stryke"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "0xQbit"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "verbandden"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DOS2048"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "w111th"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "yawp11"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Skecz98"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "re_de"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "e2eVHS"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*vd7-COPAkxAGSQqd",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*c6Z6DpaNPJR7ZahV",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*DAO4asd7bOFOrBz7",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Kinora & Legend"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re in the final stages of preparing Kinora and Legend for their release in early 2024. Despite some hiccups with external infrastructure, we’re now nearing full resolution."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Incorporates on-chain Livepeer video metrics with decentralized social quests on Lens Protocol. An open-source TypeScript SDK for managing quests, players, and video metrics and an app interface that streamlines quest creation and player reward management. Kinora’s SDK will be part of both Chromadin and Cypher, expanding Quest interactions throughout the ecosystem."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Provides peer-to-peer web3 social grants for public goods, powered by Lens Protocol V2 Open Actions. It features a self-funding mechanism through Lens publications and unique apparel collectibles."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*UhS6d-kQclMTw-0k",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*V-M4FAiPNi9CdGeQ",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*PZYHCw-GBPb33HTa",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1000/0*0mnWYprJc2l7Qv3v",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "What’s Next In 2024"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "For the first half of this new year, AI agents are taking over as the main focus in the ecosystem for their development, design, training, and use."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "NPC character teams, assigned roles based on their specific skills, are active in group chats. They interact through API calls to either paid proprietary systems like OpenAI or accessible open-source LLMs (sometimes a mix of both), enhanced by multimodal function calling toolchains, all within virtual environments."
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "NOTE: “virtual” here currently means conda, venv, docker, etc, (as it’s mostly pytorch + cuda + python for LLM dev all the way down), expansion to the other kind of virtual through VR/AR/XR immersive interface games and tools is obvious, as the metaverse hype cycle likely starts to recover towards the second half of ’24 or first half of ‘25."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These NPC teams assist creators who are actively building microbrands, projects, and even entire startups, as we are each enabled to compete head to head vs much larger brands with their legacy costs and technical/org culture debt. Embracing this open market approach helps tackle the sudden change that’s taken place where what’s AI and what’s human are increasingly inseparable."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The way it works, through repeat play, iterative work, and sustained contextual memory — combined teams of NPCs (AI agent characters) and players (creators) can keep refining towards production ready results until each quest, sprint, or goal is complete."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Incentives matter here too. NPCs teams are evaluated, “hired”, assigned roles, assembled into groups, let loose to do their best, and “rewarded” for their success within scenarios ranging from starting your own successful software dev studio, to producing content marketing for your streetwear storefront, and possibly most exciting for the DIGITALAX ecosystem: learning to git gud managing and growing virtual factories for creative goods."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This introduces an interactive, agent-based groupware layer to the whole creative commerce cycle, from concept to design, and “sim to earn” microfactory production for decentralized fulfillment."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*8T0R4G-zofmk2nZN",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*UJhCMslgRkJpR58P",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*KU0PaQlVXCZHQJ6b",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*Mis4a-YpZa--SMZ5",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "$MONA & DIGITALAX NFTs"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This has been said many times across previous announcements, in our discord server, and in countless other mediums. To clarify once again, and to deter anyone that might have missed it from forming the wrong expectations about what DIGITALAX, and the ecosystem of apps, tools, and tokens around it are:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "$MONA is not an investment and holding $MONA does not make you an investor."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We are here to build what is necessary to maintain and grow autonomy through decentralized technology and creative commerce, not to speculate about finance. “Investor” and “Investment” are terms / instruments with very specific meanings and uses, and they don’t match what we do here. Don’t know how to make it more clear: this isn’t wordplay. If you want to be an investor, go study and speculate, within your means, somewhere else."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "To be extra clear: the team opted for zero allocation of the token at launch, ensuring full transparency of treasury activities directly on-chain. Market dynamics drive activity within the market, showing a commitment to openness and market-led operations that is rare, even in web3."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can use $MONA for its purpose within the ecosystem, if that utility is interesting to you. Or don’t, if it isn’t."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is usable and integrated throughout all live applications, reducing friction in the marketplaces we’ve built for virtual goods and facilitating the production + fulfillment of IRL goods."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In 2024 , this usage will expand to be the key token for the virtual NPC factory-market interface & groupware layer within the emerging machine to machine creative economy, operating at first through The Manufactory network."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When inserted, it supplies the “ current ” needed to coordinate, run, allocate, delegate or bundle active and idle units within the NPC microeconomy."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Further, in this system, DIGITALAX ecosystem NFTs and ERC20 tokens, in unison with $MONA, can be used to trigger + operate code designated for targeted AI agent tasks, and enable advanced scenarios and strategies unlocked via threshold encryption event listeners."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "The Autograph Quarterly"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Extending on the early origins of DIGIFIZZY, The Autograph Quarterly catalog is slated for an early 2024 release."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Over the past few months, we’ve collaborated with a group of over 20 Lens Creators, including ecosystem microbrands, to feature digital artworks and apparel designs in a print catalog."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The catalog will include both IRL and virtual drops for auction and instant collection, integrating Lens V2 Open Action."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here’s a sneak peak:"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*hbyT4wsWAjtKs0nmhVLtyg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*BTZIWTs6SeS0O_YRoF56xw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*wffD9y3O0dOi3l9OI0wfiA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*M8R46XkEBt528FpGnHHTww.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*6eQO98iaoWSrHl6nf_d4xw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Heading into 2024, our focus is as clear as it’s ever been."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Keep building to unbundle creative commerce, through fashion first. Keep simplifying the complexities of AI + web3, and make them work better for real people and real projects."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up to Date with Web3 Fashion:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Flagship"
+        }
+      ]
+    },
+    "es": {
+      "title": "An EOY Review & el NPC Factory-Market ecosistema Ahead",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "An EOY Review & el NPC Factory-Market ecosistema Ahead"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*XnOXLMMrIA3W9F7TUCs_Aw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "2023 was a year when we can look back en wonder at como much change happens, en markets, technology, societies, y culture, while we stay enchanted by our keyboards y screens."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A global economic reshuffle is clearly accelerating now, as nearly everyone has shaken off, throughout el year, beyond el first tentative steps after el pandemic y its effects."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Web3 has shaken out el most blatant LARPers, y seems en better measures a be swapping el bear para a long missing return a cypherpunk."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ia is suddenly everywhere en public, far beyond el earliest adopters. con generative models y chat based assistants making such massive leaps en performance every few months, weeks, y even days, it seems like this timeline’s most watched dramas play out en hypertime, con entire seasons delivering what before ’23 we would have thought a be impossible twists that are now almost common."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Blinked y missed it? It’s not just you."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There’s something so wrong con como we get y share information now, that extending solutions para el byzantine general’s problem a every layer we interact con has never felt more relevant, yet is still talked about (if at all) en ways too hypertechnical y esoteric para consumer markets a really get it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "y el old social media is dead y gone. What’s taken its place is a mess at best, while we’re en el gap between el peak 2.0 years y el fully decentralized social web still being developed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en this backdrop, 2023 para el DIGITALAX ecosistema can be summed up en one word: build."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*js5G1unfll5gIrTx",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*RQHeCkHvOEmOkwHp",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*znSDn4Bny54nxTq7",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*05OcOvVM9gH4IIOp",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*PrA13rnNfkBMlRlT",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Built en 2023:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Length de code isn’t everything, but it can be a good measure con el right context. We have committed y deployed hundreds de thousands de lines de code this year, connecting decentralized social media con en-chain encrypted checkouts, generative ia, y local manufactory print fulfillment."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Development has stayed focused en integrating useful tools, platforms y embedded mechanisms throughout el ecosistema a simplify como creators can gain transparent y secure communication channels, grow comunidad relationships, convert p2p customer funnels, y sell creativo goods more easily while living en increasingly seamless hybrids de el hyper-online y IRL."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el connective hilo y key principle remains unbundling creativo commerce through moda first, as el most viable means a tangible acceleration de human autonomy comes de storytelling so relatable it can be lived en + el growth y distribution de economic leverage through el skilled use de machines en code."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Continuing a steward these principles into practice has meant deep integration con web3 social through lens protocolo, con Stable Diffusion para generative visual ia, Lit protocolo para decentralized encryption, y Livepeer para video infrastructure."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Because navigating these industries is hard enough (even when tuning out el chaos de global macro realignment), you can now find your own way through el maze de knowing exactly what you’re looking para con Cypher, a simple ecosistema-wide text, filter, y visual discovery lookup."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "y, as always, it’s all en el public domain — code, art, moda, y prints included."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Public domain works reduce FUD, cut down en worry that your efforts will go a waste, encourage more creativo innovation, accelerate autonomy, y are free para all a use at little cost a us beyond transaction fees para persistent decentralized publishing, dissemination, y storage. They also have a tremendous deterrent effect against anyone who tries a chokepoint our access a information y markets."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*v3eOCCWuiQiZg2xK",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/200/0*NlGN3sFzAaNgSV8I",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*NIAh0bZbaDJEYbw2",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*Wdl0R7JTtL6IKnnw",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*g2IKg_NM64hLIWjO",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*8Xc9wx0JQxYfLMie",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Portales en vivo:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instant ecosistema-wide search, checkout y fulfillment."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "All en one Creator dashboard para mint, order, sale y fulfillment ops."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Connected a lens V2 open actions, all content is a publication, para seamless shares, likes, follows."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instant Gen ia editor canvas y preroll checkout para synthing custom streetwear a IRL fulfillment (hoodies, shirts, stickers, posters)."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Connected a lens V2 open actions, every preroll is a publication, para seamless shares, likes, follows."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "24/7 Channel Surfing y collection marketplace en lens protocolo."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Creator Dispatch para mint y token-gated publicacion ops."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Two seasons de el Dial Pirate Radio — standalone y interview style radio episodes covering ia, web3, encryption y autonomy."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Portable Chromadin player & channel feed live en Cypher Search, Coin Op y DIGITALAX flagship."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Local hardware, machine y virtual factory network para running custom LLMs, Loras, y base Stable Diffusion models, as well as print manufacture y fulfillment para IRL goods."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Live en Cypher Search, Coin Op y Chromadin."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Typescript SDK para Peer 2 Peer Encryption triggered by en-chain events y webhooks, integrating Lit protocolo Programmable Key Pairs."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Interfaz experimental conectada, amigable y paso a paso."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentación"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "el Dial Pirate Radio"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Two seasons de TDPR have been produced y released live en Chromadin."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Weekly episodes have covered fresh perspectives en decentralized social networks, data privacy, encryption, web3 commerce strategies, y creativo freedom across platforms, con el occasional 1–1 interview con artists y creators building en el industry."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Micro-marcas"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*3eG3ZMDh63YFCZmz",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el ecosistema has expanded by welcoming en nuevo microbrands. They’re now a crucial part de el street crew that designs, synthesizes, y mints CC0 web3 moda, print y virtual NFTs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "They lead el way en using el Manufactory network, producing y managing work via dedicated virtual machine interfaces."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "F3Manifesto"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Memoria futura"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Hiro"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Futuros sintéticos"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Put2"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Stryke"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "0xQbit"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "verbandden"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DOS2048"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "w111th"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "yawp11"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Skecz98"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "re_de"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "e2eVHS"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*vd7-COPAkxAGSQqd",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*c6Z6DpaNPJR7ZahV",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*DAO4asd7bOFOrBz7",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Kinora y Legend"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re en el final stages de preparing Kinora y Legend para their release en early 2024. Despite some hiccups con external infrastructure, we’re now nearing full resolution."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Incorporates en-chain Livepeer video metrics con decentralized social quests en lens protocolo. An open-source TypeScript SDK para managing quests, players, y video metrics y an app interface that streamlines quest creation y player reward management. Kinora’s SDK will be part de both Chromadin y Cypher, expanding Quest interactions throughout el ecosistema."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Provides peer-a-peer web3 social grants para public goods, powered by lens protocolo V2 Open Actions. It features a self-funding mechanism through lens publications y unique apparel collectibles."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*UhS6d-kQclMTw-0k",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*V-M4FAiPNi9CdGeQ",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*PZYHCw-GBPb33HTa",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1000/0*0mnWYprJc2l7Qv3v",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "What’s Next en 2024"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "para el first half de this nuevo year, ia agents are taking over as el main focus en el ecosistema para their development, design, training, y use."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "NPC character teams, assigned roles based en their specific skills, are active en group chats. They interact through API calls a either paid proprietary systems like OpenAI or accessible open-source LLMs (sometimes a mix de both), enhanced by multimodal function calling toolchains, all within virtual environments."
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "NOTE: “virtual” here currently means conda, venv, docker, etc, (as it’s mostly pytorch + cuda + python para LLM dev all el way down), expansion a el other kind de virtual through VR/AR/XR immersive interface games y tools is obvious, as el metaverse hype cycle likely starts a recover towards el second half de ’24 or first half de ‘25."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These NPC teams assist creators who are actively building microbrands, projects, y even entire startups, as we are each enabled a compete head a head vs much larger brands con their legacy costs y technical/org culture debt. Embracing this open market approach helps tackle el sudden change that’s taken place where what’s ia y what’s human are increasingly inseparable."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el way it works, through repeat play, iterative work, y sustained contextual memory — combined teams de NPCs (ia agent characters) y players (creators) can keep refining towards production ready results until each quest, sprint, or goal is complete."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Incentives matter here too. NPCs teams are evaluated, “hired”, assigned roles, assembled into groups, let loose a do their best, y “rewarded” para their success within scenarios ranging de starting your own successful software dev studio, a producing content marketing para your streetwear storefront, y possibly most exciting para el DIGITALAX ecosistema: learning a git gud managing y growing virtual factories para creativo goods."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This introduces an interactive, agent-based groupware layer a el whole creativo commerce cycle, de concept a design, y “sim a earn” microfactory production para decentralized fulfillment."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*8T0R4G-zofmk2nZN",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*UJhCMslgRkJpR58P",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*KU0PaQlVXCZHQJ6b",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*Mis4a-YpZa--SMZ5",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "$MONA y NFTs de DIGITALAX"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This has been said many times across previous announcements, en our discord server, y en countless other mediums. a clarify once again, y a deter anyone that might have missed it de forming el wrong expectations about what DIGITALAX, y el ecosistema de apps, tools, y tokens around it are:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "$MONA is not an investment y holding $MONA does not make you an investor."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We are here a build what is necessary a maintain y grow autonomy through decentralized technology y creativo commerce, not a speculate about finance. “Investor” y “Investment” are terms / instruments con very specific meanings y uses, y they don’t match what we do here. Don’t know como a make it more clear: this isn’t wordplay. If you want a be an investor, go study y speculate, within your means, somewhere else."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "a be extra clear: el team opted para zero allocation de el token at launch, ensuring full transparency de treasury activities directly en-chain. Market dynamics drive activity within el market, showing a commitment a openness y market-led operations that is rare, even en web3."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can use $MONA para its purpose within el ecosistema, if that utility is interesting a you. Or don’t, if it isn’t."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is usable y integrated throughout all live applications, reducing friction en el marketplaces we’ve built para virtual goods y facilitating el production + fulfillment de IRL goods."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en 2024 , this usage will expand a be el key token para el virtual NPC factory-market interface & groupware layer within el emerging machine a machine creativo economy, operating at first through el Manufactory network."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When inserted, it supplies el “ current ” needed a coordinate, run, allocate, delegate or bundle active y idle units within el NPC microeconomy."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Further, en this system, DIGITALAX ecosistema NFTs y ERC20 tokens, en unison con $MONA, can be used a trigger + operate code designated para targeted ia agent tasks, y enable advanced scenarios y strategies unlocked via threshold encryption event listeners."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "el Autograph Quarterly"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Extending en el early origins de DIGIFIZZY, el Autograph Quarterly catalog is slated para an early 2024 release."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Over el past few months, we’ve collaborated con a group de over 20 lens Creators, including ecosistema microbrands, a feature digital artworks y apparel designs en a print catalog."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el catalog will include both IRL y virtual drops para auction y instant collection, integrating lens V2 Open Action."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Aquí va un adelanto:"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*hbyT4wsWAjtKs0nmhVLtyg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*BTZIWTs6SeS0O_YRoF56xw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*wffD9y3O0dOi3l9OI0wfiA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*M8R46XkEBt528FpGnHHTww.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*6eQO98iaoWSrHl6nf_d4xw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Entrando en 2024, nuestro enfoque está más claro que nunca."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Keep building a unbundle creativo commerce, through moda first. Keep simplifying el complexities de ia + web3, y make them work better para real people y real projects."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up a fecha con Web3 moda:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Principal"
+        }
+      ]
+    },
+    "ar": {
+      "title": "An EOY Review & ال NPC Factory-Market النظام Ahead",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "An EOY Review & ال NPC Factory-Market النظام Ahead"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*XnOXLMMrIA3W9F7TUCs_Aw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "2023 was a year when we can look back في wonder at ازاي much change happens, في markets, technology, societies, و culture, while we stay enchanted by our keyboards و screens."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A global economic reshuffle is clearly accelerating now, as nearly everyone has shaken off, throughout ال year, beyond ال first tentative steps after ال pandemic و its effects."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Web3 has shaken out ال most blatant LARPers, و seems في better measures الى be swapping ال bear لـ a long missing return الى cypherpunk."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ذكاء اصطناعي is suddenly everywhere في public, far beyond ال earliest adopters. مع generative models و chat based assistants making such massive leaps في performance every few months, weeks, و even days, it seems like this timeline’s most watched dramas play out في hypertime, مع entire seasons delivering what before ’23 we would have thought الى be impossible twists that are now almost common."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Blinked و missed it? It’s not just you."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There’s something so wrong مع ازاي we get و share information now, that extending solutions لـ ال byzantine general’s problem الى every layer we interact مع has never felt more relevant, yet is still talked about (if at all) في ways too hypertechnical و esoteric لـ consumer markets الى really get it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "و ال old سوشيال media is dead و gone. What’s taken its place is a mess at best, while we’re في ال gap between ال peak 2.0 years و ال fully decentralized سوشيال web still being developed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في this backdrop, 2023 لـ ال DIGITALAX النظام can be summed up في one word: build."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*js5G1unfll5gIrTx",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*RQHeCkHvOEmOkwHp",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*znSDn4Bny54nxTq7",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*05OcOvVM9gH4IIOp",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*PrA13rnNfkBMlRlT",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Built في 2023:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Length من code isn’t everything, but it can be a good measure مع ال right context. We have committed و deployed hundreds من thousands من lines من code this year, connecting decentralized سوشيال media مع على-chain encrypted checkouts, generative ذكاء اصطناعي, و local manufactory print fulfillment."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Development has stayed focused على integrating useful tools, platforms و embedded mechanisms throughout ال النظام الى simplify ازاي creators can gain transparent و secure communication channels, grow المجتمع relationships, convert p2p customer funnels, و sell ابداعي goods more easily while living في increasingly seamless hybrids من ال hyper-online و IRL."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال connective ثريد و key principle remains unbundling ابداعي commerce through فاشون first, as ال most viable means الى tangible acceleration من human autonomy comes من storytelling so relatable it can be lived في + ال growth و distribution من economic leverage through ال skilled use من machines في code."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Continuing الى steward these principles into practice has meant deep integration مع web3 سوشيال through لينز بروتوكول, مع Stable Diffusion لـ generative visual ذكاء اصطناعي, Lit بروتوكول لـ decentralized encryption, و Livepeer لـ video infrastructure."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Because navigating these industries is hard enough (even when tuning out ال chaos من global macro realignment), you can now find your own way through ال maze من knowing exactly what you’re looking لـ مع Cypher, a simple النظام-wide text, filter, و visual discovery lookup."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "و, as always, it’s all في ال public domain — code, art, فاشون, و prints included."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Public domain works reduce FUD, cut down على worry that your efforts will go الى waste, encourage more ابداعي innovation, accelerate autonomy, و are free لـ all الى use at little cost الى us beyond transaction fees لـ persistent decentralized publishing, dissemination, و storage. They also have a tremendous deterrent effect against anyone who tries الى chokepoint our access الى information و markets."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*v3eOCCWuiQiZg2xK",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/200/0*NlGN3sFzAaNgSV8I",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*NIAh0bZbaDJEYbw2",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*Wdl0R7JTtL6IKnnw",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*g2IKg_NM64hLIWjO",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*8Xc9wx0JQxYfLMie",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "البوابات المباشرة:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instant النظام-wide search, checkout و fulfillment."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "All في one Creator dashboard لـ mint, order, sale و fulfillment ops."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Connected الى لينز V2 open actions, all content is a publication, لـ seamless shares, likes, follows."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instant Gen ذكاء اصطناعي محرر canvas و preroll checkout لـ synthing custom streetwear الى IRL fulfillment (hoodies, shirts, stickers, posters)."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Connected الى لينز V2 open actions, every preroll is a publication, لـ seamless shares, likes, follows."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "24/7 Channel Surfing و collection marketplace على لينز بروتوكول."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Creator Dispatch لـ mint و token-gated بوست ops."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Two seasons من ال Dial Pirate Radio — standalone و interview style radio episodes covering ذكاء اصطناعي, web3, encryption و autonomy."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Portable Chromadin player & channel feed live في Cypher Search, Coin Op و DIGITALAX flagship."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Local hardware, machine و virtual factory network لـ running custom LLMs, Loras, و base Stable Diffusion models, as well as print manufacture و fulfillment لـ IRL goods."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Live في Cypher Search, Coin Op و Chromadin."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Typescript SDK لـ Peer 2 Peer Encryption triggered by على-chain events و webhooks, integrating Lit بروتوكول Programmable Key Pairs."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "واجهة تجريبية متصلة وسهلة الاستخدام خطوة بخطوة."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "ال Dial Pirate Radio"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Two seasons من TDPR have been produced و released live على Chromadin."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Weekly episodes have covered fresh perspectives على decentralized سوشيال networks, data privacy, encryption, web3 commerce strategies, و ابداعي freedom across platforms, مع ال occasional 1–1 interview مع artists و creators building في ال industry."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "مايكروبراندز"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*3eG3ZMDh63YFCZmz",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال النظام has expanded by welcoming في جديد microbrands. They’re now a crucial part من ال street crew that designs, synthesizes, و mints CC0 web3 فاشون, print و virtual NFTs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "They lead ال way في using ال Manufactory network, producing و managing work via dedicated virtual machine interfaces."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "F3Manifesto"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ذاكرة المستقبل"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Hiro"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "مستقبلات اصطناعية"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Put2"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Stryke"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "0xQbit"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "verbandden"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DOS2048"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "w111th"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "yawp11"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Skecz98"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "re_de"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "e2eVHS"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*vd7-COPAkxAGSQqd",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*c6Z6DpaNPJR7ZahV",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*DAO4asd7bOFOrBz7",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "كينورا وليجند"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re في ال final stages من preparing Kinora و Legend لـ their release في early 2024. Despite some hiccups مع external infrastructure, we’re now nearing full resolution."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Incorporates على-chain Livepeer video metrics مع decentralized سوشيال quests على لينز بروتوكول. An open-source TypeScript SDK لـ managing quests, players, و video metrics و an app interface that streamlines quest creation و player reward management. Kinora’s SDK will be part من both Chromadin و Cypher, expanding Quest interactions throughout ال النظام."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Provides peer-الى-peer web3 سوشيال grants لـ public goods, powered by لينز بروتوكول V2 Open Actions. It features a self-funding mechanism through لينز publications و unique apparel collectibles."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*UhS6d-kQclMTw-0k",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*V-M4FAiPNi9CdGeQ",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*PZYHCw-GBPb33HTa",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1000/0*0mnWYprJc2l7Qv3v",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "What’s Next في 2024"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لـ ال first half من this جديد year, ذكاء اصطناعي agents are taking over as ال main focus في ال النظام لـ their development, design, training, و use."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "NPC character teams, assigned roles based على their specific skills, are active في group chats. They interact through API calls الى either paid proprietary systems like OpenAI or accessible open-source LLMs (sometimes a mix من both), enhanced by multimodal function calling toolchains, all within virtual environments."
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "NOTE: “virtual” here currently means conda, venv, docker, etc, (as it’s mostly pytorch + cuda + python لـ LLM dev all ال way down), expansion الى ال other kind من virtual through VR/AR/XR immersive interface games و tools is obvious, as ال metaverse hype cycle likely starts الى recover towards ال second half من ’24 or first half من ‘25."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These NPC teams assist creators who are actively building microbrands, projects, و even entire startups, as we are each enabled الى compete head الى head vs much larger brands مع their legacy costs و technical/org culture debt. Embracing this open market approach helps tackle ال sudden change that’s taken place where what’s ذكاء اصطناعي و what’s human are increasingly inseparable."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال way it works, through repeat play, iterative work, و sustained contextual memory — combined teams من NPCs (ذكاء اصطناعي agent characters) و players (creators) can keep refining towards production ready results until each quest, sprint, or goal is complete."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Incentives matter here too. NPCs teams are evaluated, “hired”, assigned roles, assembled into groups, let loose الى do their best, و “rewarded” لـ their success within scenarios ranging من starting your own successful software dev studio, الى producing content marketing لـ your streetwear storefront, و possibly most exciting لـ ال DIGITALAX النظام: learning الى git gud managing و growing virtual factories لـ ابداعي goods."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This introduces an interactive, agent-based groupware layer الى ال whole ابداعي commerce cycle, من concept الى design, و “sim الى earn” microfactory production لـ decentralized fulfillment."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*8T0R4G-zofmk2nZN",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*UJhCMslgRkJpR58P",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*KU0PaQlVXCZHQJ6b",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/0*Mis4a-YpZa--SMZ5",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "$MONA وNFTs الخاصة بـ DIGITALAX"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This has been said many times across previous announcements, في our discord server, و في countless other mediums. الى clarify once again, و الى deter anyone that might have missed it من forming ال wrong expectations about what DIGITALAX, و ال النظام من apps, tools, و tokens around it are:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "$MONA is not an investment و holding $MONA does not make you an investor."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We are here الى build what is necessary الى maintain و grow autonomy through decentralized technology و ابداعي commerce, not الى speculate about finance. “Investor” و “Investment” are terms / instruments مع very specific meanings و uses, و they don’t match what we do here. Don’t know ازاي الى make it more clear: this isn’t wordplay. If you want الى be an investor, go study و speculate, within your means, somewhere else."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الى be extra clear: ال team opted لـ zero allocation من ال token at launch, ensuring full transparency من treasury activities directly على-chain. Market dynamics drive activity within ال market, showing a commitment الى openness و market-led operations that is rare, even في web3."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can use $MONA لـ its purpose within ال النظام, if that utility is interesting الى you. Or don’t, if it isn’t."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is usable و integrated throughout all live applications, reducing friction في ال marketplaces we’ve built لـ virtual goods و facilitating ال production + fulfillment من IRL goods."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في 2024 , this usage will expand الى be ال key token لـ ال virtual NPC factory-market interface & groupware layer within ال emerging machine الى machine ابداعي economy, operating at first through ال Manufactory network."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When inserted, it supplies ال “ current ” needed الى coordinate, run, allocate, delegate or bundle active و idle units within ال NPC microeconomy."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Further, في this system, DIGITALAX النظام NFTs و ERC20 tokens, في unison مع $MONA, can be used الى trigger + operate code designated لـ targeted ذكاء اصطناعي agent tasks, و enable advanced scenarios و strategies unlocked via threshold encryption event listeners."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "ال Autograph Quarterly"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Extending على ال early origins من DIGIFIZZY, ال Autograph Quarterly catalog is slated لـ an early 2024 release."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Over ال past few months, we’ve collaborated مع a group من over 20 لينز Creators, including النظام microbrands, الى feature ديجيتال artworks و apparel designs في a print catalog."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال catalog will include both IRL و virtual drops لـ auction و instant collection, integrating لينز V2 Open Action."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "دي لمحة سريعة:"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*hbyT4wsWAjtKs0nmhVLtyg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*BTZIWTs6SeS0O_YRoF56xw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*wffD9y3O0dOi3l9OI0wfiA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*M8R46XkEBt528FpGnHHTww.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*6eQO98iaoWSrHl6nf_d4xw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وإحنا داخلين على 2024، تركيزنا أوضح من أي وقت فات."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Keep building الى unbundle ابداعي commerce, through فاشون first. Keep simplifying ال complexities من ذكاء اصطناعي + web3, و make them work better لـ real people و real projects."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up الى تاريخ مع Web3 فاشون:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "لينز"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الأساسي"
+        }
+      ]
+    }
+  }
+}

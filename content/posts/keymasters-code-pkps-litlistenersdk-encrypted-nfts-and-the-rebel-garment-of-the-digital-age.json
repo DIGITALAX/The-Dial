@@ -1,0 +1,726 @@
+{
+  "slug": "keymasters-code-pkps-litlistenersdk-encrypted-nfts-and-the-rebel-garment-of-the-digital-age",
+  "date": "2023-09-19",
+  "translations": {
+    "en": {
+      "title": "Keymasters Code PKPs: LitListenerSDK, Encrypted NFTs & The Rebel Garment of the Digital Age",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Keymasters Code PKPs: LitListenerSDK , Encrypted NFTs & The Rebel Garment of the Digital Age"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*tARlPtTiS6dhXMLv",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The basement was dim, lit only by the pale glow of chunky CRT monitors and the occasional flicker of a fluorescent bulb. A motley crew of hackers, coders, and free-thinkers huddled around makeshift tables cluttered with soldering irons, circuit boards, half-eaten pizza. And T-Shirts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, really. A whole tonne of T-Shirts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Tonight was special. A collective sense of urgency filled the room. The Crypto Wars had begun."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A math equation treated like an AK-47. Lines of open source code now legally equivalent to lethal weaponry. Penalties of up to 10 years in prison and fines up to one million dollars."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Encryption algorithms freshly stamped as munitions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The printer hummed diligently from the corner of the room, etching line after line of forbidden RSA code onto the back of each cotton black shirt. Thousands of T-Shirts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The fight for freedom of speech in software, the right to publish it and the right of anyone to use end-to-end encryption."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Does this Tornado of usurpation sound familiar?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Without private and secure tools for autonomy, without infrastructure and mechanisms that safeguard an individual’s ability to operate freely within a network, without immutable cryptographic assurance, without webs of trust with unhijackable corridors, without personal autonomy enabled at the epicenter of all interactions, without encryption— the grand promise of a decentralised future doesn’t exist."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Where did all the cypherpunks go?"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "LitListenerSDK"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This Summer we’ve collaborated with Lit Protocol to build out the LitListenerSDK — an open source typescript SDK, compatible with node and browser, to automate responses from webhooks, subscribed on-chain events and intervals through triggered callback functions and the use of Lit Protocol PKPs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The SDK combines event listening, conditional signing, autonomous functions and PKPs to translate threshold cryptography into an easy to use interface for applying advanced on chain encryption across an abundance of web3 social apps and infrastructure."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The LitListenerSDK is designed around the principle of conditionally pre-approved chain reactions with account abstraction . You have a series of things you want to do in an encrypted and decentralized context. But you shouldn’t need to be hovering over those actions to make sure they happen, when and how they are supposed to."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Instead of asking you to juggle terms like “wallets” and “accounts”, it presents a simple platform where you can manage your assets, communicate with others, and maintain privacy."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Supply Chain Management: Listen for a smart contract event, signaling when a shipped item has reached its destination (verified by a trusted third-party oracle). If the item ID matches the expected value, the SDK triggers an on-chain function. It releases payment to the supplier, and updates the product’s status in the supply chain smart contract."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Gaming / Collectibles: Listen for events which herald fully autonomous game worlds. Signaling when a player has achieved a milestone, or found a rare item, is just the start. When events are detected, it can trigger an on-chain function that mints unique NFTs, and assigns them to pre-approved addresses for players or spectators. Off-chain, you can use the SDK to send a notification to players, and update their leaderboard status."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Web3 Fashion: When a new fashion line, or streetwear drop, is released, be on the lookout for it ahead of time. Trigger an on-chain function to place a bid, or make a direct purchase on your behalf, if items in the collection match the pre-approved preferences set by the collector."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DeFi: The circuit you’ve set through the SDK listens for a specific webhook event related to market prices (from a trusted API). When the price of a chosen token satisfies a pre-approved threshold, the SDK fires an on-chain function. It triggers a trade, or a series of them, on a decentralized exchange."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Web3 Social Media: Listen for events related to new posts, new likes, and other activity, from accounts you set as worth following more closely than a default friend or follow button can offer on its own. When a new event is detected, it can trigger an on-chain function to tip a creator with tokens, if the content matches the user’s pre-approved interests, or set off more elaborate chain reactions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "See the docs and npm package for installation."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*9oNcpYLeHhk2haaQ",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The LitListenerSDK lets you mint PKPs on Lit Protocol’s Chronicle network and verifiably assign these PKPs to Lit Actions to set and run on-chain functions (with Javascript)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can create your own PKPs on Lit Protocol’s Chronicle network. PKPs are self-contained tools combining programmable logic (hence the name) with conditional signatures that you can use to approve transactions, and other messages, online. And since almost everything is connected online today, that means IRL too."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What makes PKPs special is that they aren’t made or maintained by just one entity. They’re the result of teamwork in the Lit network, with multiple nodes contributing a piece of the keys, but no one having the whole thing. It’s like everyone has a part of the secret recipe, but no one can make the dish on their own unless they meet the conditions spelled out by your pre-approval."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "PKPs are managed by a unique token on the Chronicle network. If your wallet holds this token, you can ask the Lit network to combine the key pieces and sign any transaction or message on your behalf."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Lit Actions are like a task list for your PKPs. Written in JavaScript, they tell your PKPs what transactions need to be confirmed. They’re designed to work on any network where Lit Protocol operates, allowing you to perform tasks across different systems with the same set of instructions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In our case, we pair Lit Actions with PKPs to manage our decentralized interactions. This allows us to operate smoothly and securely, without the need to know the nitty-gritty of each task."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "SDK Architecture"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*q8R8-WHOvXtQ-j7c",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "No-Code Interface"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’re not feeling quite ready to go full development mode, check out the no-code interface here for a simpler start."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*dwa6pldRdhSgweQi",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Lit Listener Storefront"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And because anon insiders wear streetwear and cypherpunks print t-shirts, too, we’ve handcrafted, designed, manufactured and released a limited edition LitListener collection, available at The Listener Storefront. Decrypt your wardrobe here , fulfilled locally in NYC @ The Manufactory ."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*_J8NtfIPUJRNi-ce",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*6j0DJaO3_FZ6DTaF",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*eJ8tUkWg_VTOl03c",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’ve paid special attention this year to integrate PKPs and Lit Actions throughout almost all of our current ecosystem dApps. With the launch of LitListenerSDK, these features are now actively enhancing Chromadin, Kinora, and Legend."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’re eager to contribute to the SDK or want to chat more about applied decentralised social cryptography, see the contribution step-by-step here and connect with us on Lens."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up to Date with Web3 Fashion:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Flagship"
+        }
+      ]
+    },
+    "es": {
+      "title": "Keymasters Code PKPs: LitListenerSDK, Encrypted NFTs & el Rebel Garment de el digital Age",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Keymasters Code PKPs: LitListenerSDK , Encrypted NFTs & el Rebel Garment de el digital Age"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*tARlPtTiS6dhXMLv",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el basement was dim, lit only by el pale glow de chunky CRT monitors y el occasional flicker de a fluorescent bulb. A motley crew de hackers, coders, y free-thinkers huddled around makeshift tables cluttered con soldering irons, circuit boards, half-eaten pizza. y T-Shirts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, really. A whole tonne de T-Shirts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Tonight was special. A collective sense de urgency filled el room. el Crypto Wars had begun."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A math equation treated like an AK-47. Lines de open source code now legally equivalent a lethal weaponry. Penalties de up a 10 years en prison y fines up a one million dollars."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Algoritmos de cifrado recién clasificados como municiones."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el printer hummed diligently de el corner de el room, etching line after line de forbidden RSA code onto el back de each cotton black shirt. Thousands de T-Shirts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el fight para freedom de speech en software, el right a publish it y el right de anyone a use end-a-end encryption."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Does this Tornado de usurpation sound familiar?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Without private y secure tools para autonomy, without infrastructure y mechanisms that safeguard an individual’s ability a operate freely within a network, without immutable cryptographic assurance, without webs de trust con unhijackable corridors, without personal autonomy enabled at el epicenter de all interactions, without encryption— el grand promise de a decentralised future doesn’t exist."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Where did all el cypherpunks go?"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "LitListenerSDK"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This Summer we’ve collaborated con Lit protocolo a build out el LitListenerSDK — an open source typescript SDK, compatible con node y browser, a automate responses de webhooks, subscribed en-chain events y intervals through triggered callback functions y el use de Lit protocolo PKPs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el SDK combines event listening, conditional signing, autonomous functions y PKPs a translate threshold cryptography into an easy a use interface para applying advanced en chain encryption across an abundance de web3 social apps y infrastructure."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el LitListenerSDK is designed around el principle de conditionally pre-approved chain reactions con account abstraction . You have a series de things you want a do en an encrypted y decentralized context. But you shouldn’t need a be hovering over those actions a make sure they happen, when y como they are supposed a."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Instead de asking you a juggle terms like “wallets” y “accounts”, it presents a simple platform where you can manage your assets, communicate con others, y maintain privacy."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Supply Chain Management: Listen para a smart contract event, signaling when a shipped item has reached its destination (verified by a trusted third-party oracle). If el item ID matches el expected value, el SDK triggers an en-chain function. It releases payment a el supplier, y actualizaciones el product’s status en el supply chain smart contract."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Gaming / Collectibles: Listen para events which herald fully autonomous game worlds. Signaling when a player has achieved a milestone, or found a rare item, is just el start. When events are detected, it can trigger an en-chain function that mints unique NFTs, y assigns them a pre-approved addresses para players or spectators. Off-chain, you can use el SDK a send a notification a players, y actualizacion their leaderboard status."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Web3 moda: When a nuevo moda line, or streetwear drop, is released, be en el lookout para it ahead de time. Trigger an en-chain function a place a bid, or make a direct purchase en your behalf, if items en el collection match el pre-approved preferences set by el collector."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DeFi: el circuit you’ve set through el SDK listens para a specific webhook event related a market prices (de a trusted API). When el price de a chosen token satisfies a pre-approved threshold, el SDK fires an en-chain function. It triggers a trade, or a series de them, en a decentralized exchange."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Web3 social Media: Listen para events related a nuevo publicaciones, nuevo likes, y other activity, de accounts you set as worth following more closely than a default friend or follow button can offer en its own. When a nuevo event is detected, it can trigger an en-chain function a tip a creator con tokens, if el content matches el user’s pre-approved interests, or set off more elaborate chain reactions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "See el docs y npm package para installation."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*9oNcpYLeHhk2haaQ",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el LitListenerSDK lets you mint PKPs en Lit protocolo’s Chronicle network y verifiably assign these PKPs a Lit Actions a set y run en-chain functions (con Javascript)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can create your own PKPs en Lit protocolo’s Chronicle network. PKPs are self-contained tools combining programmable logic (hence el name) con conditional signatures that you can use a approve transactions, y other messages, online. y since almost everything is connected online today, that means IRL too."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What makes PKPs special is that they aren’t made or maintained by just one entity. They’re el result de teamwork en el Lit network, con multiple nodes contributing a piece de el keys, but no one having el whole thing. It’s like everyone has a part de el secret recipe, but no one can make el dish en their own unless they meet el conditions spelled out by your pre-approval."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "PKPs are managed by a unique token en el Chronicle network. If your wallet holds this token, you can ask el Lit network a combine el key pieces y sign any transaction or message en your behalf."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Lit Actions are like a task list para your PKPs. Written en JavaScript, they tell your PKPs what transactions need a be confirmed. They’re designed a work en any network where Lit protocolo operates, allowing you a perform tasks across different systems con el same set de instructions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en our case, we pair Lit Actions con PKPs a manage our decentralized interactions. This allows us a operate smoothly y securely, without el need a know el nitty-gritty de each task."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Arquitectura SDK"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*q8R8-WHOvXtQ-j7c",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Interfaz sin código"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’re not feeling quite ready a go full development mode, check out el no-code interface here para a simpler start."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*dwa6pldRdhSgweQi",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Tienda de Lit Listener"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "y because anon insiders wear streetwear y cypherpunks print t-shirts, too, we’ve handcrafted, designed, manufactured y released a limited edition LitListener collection, available at el Listener Storefront. Decrypt your wardrobe here , fulfilled locally en NYC @ el Manufactory ."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*_J8NtfIPUJRNi-ce",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*6j0DJaO3_FZ6DTaF",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*eJ8tUkWg_VTOl03c",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’ve paid special attention this year a integrate PKPs y Lit Actions throughout almost all de our current ecosistema dApps. con el launch de LitListenerSDK, these features are now actively enhancing Chromadin, Kinora, y Legend."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’re eager a contribute a el SDK or want a chat more about applied decentralised social cryptography, see el contribution step-by-step here y connect con us en lens."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up a fecha con Web3 moda:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Principal"
+        }
+      ]
+    },
+    "ar": {
+      "title": "Keymasters Code PKPs: LitListenerSDK, Encrypted NFTs & ال Rebel Garment من ال ديجيتال Age",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Keymasters Code PKPs: LitListenerSDK , Encrypted NFTs & ال Rebel Garment من ال ديجيتال Age"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*tARlPtTiS6dhXMLv",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال basement was dim, lit only by ال pale glow من chunky CRT monitors و ال occasional flicker من a fluorescent bulb. A motley crew من hackers, coders, و free-thinkers huddled around makeshift tables cluttered مع soldering irons, circuit boards, half-eaten pizza. و T-Shirts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, really. A whole tonne من T-Shirts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Tonight was special. A collective sense من urgency filled ال room. ال Crypto Wars had begun."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A math equation treated like an AK-47. Lines من open source code now legally equivalent الى lethal weaponry. Penalties من up الى 10 years في prison و fines up الى one million dollars."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "خوارزميات التشفير اتصنفت للتو كأنها ذخائر."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال printer hummed diligently من ال corner من ال room, etching line after line من forbidden RSA code onto ال back من each cotton black shirt. Thousands من T-Shirts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال fight لـ freedom من speech في software, ال right الى publish it و ال right من anyone الى use end-الى-end encryption."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Does this Tornado من usurpation sound familiar?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Without private و secure tools لـ autonomy, without infrastructure و mechanisms that safeguard an individual’s ability الى operate freely within a network, without immutable cryptographic assurance, without webs من trust مع unhijackable corridors, without personal autonomy enabled at ال epicenter من all interactions, without encryption— ال grand promise من a decentralised future doesn’t exist."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Where did all ال cypherpunks go?"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "LitListenerSDK"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This Summer we’ve collaborated مع Lit بروتوكول الى build out ال LitListenerSDK — an open source typescript SDK, compatible مع node و browser, الى automate responses من webhooks, subscribed على-chain events و intervals through triggered callback functions و ال use من Lit بروتوكول PKPs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال SDK combines event listening, conditional signing, autonomous functions و PKPs الى translate threshold cryptography into an easy الى use interface لـ applying advanced على chain encryption across an abundance من web3 سوشيال apps و infrastructure."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال LitListenerSDK is designed around ال principle من conditionally pre-approved chain reactions مع account abstraction . You have a series من things you want الى do في an encrypted و decentralized context. But you shouldn’t need الى be hovering over those actions الى make sure they happen, when و ازاي they are supposed الى."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Instead من asking you الى juggle terms like “wallets” و “accounts”, it presents a simple platform where you can manage your assets, communicate مع others, و maintain privacy."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Supply Chain Management: Listen لـ a smart contract event, signaling when a shipped item has reached its destination (verified by a trusted third-party oracle). If ال item ID matches ال expected value, ال SDK triggers an على-chain function. It releases payment الى ال supplier, و تحديثات ال product’s status في ال supply chain smart contract."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Gaming / Collectibles: Listen لـ events which herald fully autonomous game worlds. Signaling when a player has achieved a milestone, or found a rare item, is just ال start. When events are detected, it can trigger an على-chain function that mints unique NFTs, و assigns them الى pre-approved addresses لـ players or spectators. Off-chain, you can use ال SDK الى send a notification الى players, و تحديث their leaderboard status."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Web3 فاشون: When a جديد فاشون line, or streetwear drop, is released, be على ال lookout لـ it ahead من time. Trigger an على-chain function الى place a bid, or make a direct purchase على your behalf, if items في ال collection match ال pre-approved preferences set by ال collector."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DeFi: ال circuit you’ve set through ال SDK listens لـ a specific webhook event related الى market prices (من a trusted API). When ال price من a chosen token satisfies a pre-approved threshold, ال SDK fires an على-chain function. It triggers a trade, or a series من them, على a decentralized exchange."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Web3 سوشيال Media: Listen لـ events related الى جديد بوستات, جديد likes, و other activity, من accounts you set as worth following more closely than a default friend or follow button can offer على its own. When a جديد event is detected, it can trigger an على-chain function الى tip a creator مع tokens, if ال content matches ال user’s pre-approved interests, or set off more elaborate chain reactions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "See ال docs و npm package لـ installation."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*9oNcpYLeHhk2haaQ",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال LitListenerSDK lets you mint PKPs على Lit بروتوكول’s Chronicle network و verifiably assign these PKPs الى Lit Actions الى set و run على-chain functions (مع Javascript)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can create your own PKPs على Lit بروتوكول’s Chronicle network. PKPs are self-contained tools combining programmable logic (hence ال name) مع conditional signatures that you can use الى approve transactions, و other messages, online. و since almost everything is connected online today, that means IRL too."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What makes PKPs special is that they aren’t made or maintained by just one entity. They’re ال result من teamwork في ال Lit network, مع multiple nodes contributing a piece من ال keys, but no one having ال whole thing. It’s like everyone has a part من ال secret recipe, but no one can make ال dish على their own unless they meet ال conditions spelled out by your pre-approval."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "PKPs are managed by a unique token على ال Chronicle network. If your wallet holds this token, you can ask ال Lit network الى combine ال key pieces و sign any transaction or message على your behalf."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Lit Actions are like a task list لـ your PKPs. Written في JavaScript, they tell your PKPs what transactions need الى be confirmed. They’re designed الى work على any network where Lit بروتوكول operates, allowing you الى perform tasks across different systems مع ال same set من instructions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في our case, we pair Lit Actions مع PKPs الى manage our decentralized interactions. This allows us الى operate smoothly و securely, without ال need الى know ال nitty-gritty من each task."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "معمارية SDK"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*q8R8-WHOvXtQ-j7c",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "واجهة بدون كود"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’re not feeling quite ready الى go full development mode, check out ال no-code interface here لـ a simpler start."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*dwa6pldRdhSgweQi",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "واجهة متجر Lit Listener"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "و because anon insiders wear streetwear و cypherpunks print t-shirts, too, we’ve handcrafted, designed, manufactured و released a limited edition LitListener collection, available at ال Listener Storefront. Decrypt your wardrobe here , fulfilled locally في NYC @ ال Manufactory ."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*_J8NtfIPUJRNi-ce",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*6j0DJaO3_FZ6DTaF",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*eJ8tUkWg_VTOl03c",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’ve paid special attention this year الى integrate PKPs و Lit Actions throughout almost all من our current النظام dApps. مع ال launch من LitListenerSDK, these features are now actively enhancing Chromadin, Kinora, و Legend."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’re eager الى contribute الى ال SDK or want الى chat more about applied decentralised سوشيال cryptography, see ال contribution step-by-step here و connect مع us على لينز."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up الى تاريخ مع Web3 فاشون:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "لينز"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الأساسي"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "slug": "digifizzy-issue-16-metaverse-magazine",
+  "date": "2022-08-31",
+  "translations": {
+    "en": {
+      "title": "DIGIFIZZY ISSUE #16 | Metaverse Magazine",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "DIGIFIZZY ISSUE #16 | Metaverse Magazine"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*mqnSigNYdPdKRIl2Ed6uWg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "We are LIVE with ISSUE SIXTEEN of our DIGIFIZZY Zine!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "For this month, we couldn’t help ourselves but to show you a taste of what the end of creative scarcity means— not just for artworks, photos and written content, but for fabrics and patterns and entire worlds conveyed across every medium we can imagine."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Flip through the pages of CC0 open Stable Diffusion content made with unique prompts of elements and terms that make up the bedrock of everything in the DIGITALAX ecosystem."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "See how many of them you can spot 😉"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "You can check out issue 16 of here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join the DIGITALAX Discord to Stay Up to Date."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "See More Across Our Official Channels;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Transparency Reports"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Youtube"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Blog"
+        }
+      ]
+    },
+    "es": {
+      "title": "DIGIFIZZY EDICION #16 | Revista del Metaverso",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "DIGIFIZZY EDICION #16 | Revista del Metaverso"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*mqnSigNYdPdKRIl2Ed6uWg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Estamos EN VIVO con la EDICION DIECISEIS de nuestro zine DIGIFIZZY!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Este mes no pudimos evitar mostrarte una prueba de lo que significa el fin de la escasez creativa: no solo para obras, fotos y contenido escrito, sino tambien para telas, patrones y mundos completos transmitidos en cada medio que podamos imaginar."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Recorre las paginas de contenido abierto CC0 de Stable Diffusion, creado con prompts unicos de elementos y terminos que forman la base de todo el ecosistema DIGITALAX."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A ver cuantas de ellas puedes identificar 😉"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Puedes ver aqui el numero 16."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete al Discord de DIGITALAX para mantenerte al dia."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira mas en nuestros canales oficiales:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentacion"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Preguntas FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Informes de transparencia"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "YouTube"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Blog"
+        }
+      ]
+    },
+    "ar": {
+      "title": "DIGIFIZZY العدد 16 | مجلة الميتافيرس",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "DIGIFIZZY العدد 16 | مجلة الميتافيرس"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*mqnSigNYdPdKRIl2Ed6uWg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إحنا LIVE دلوقتي مع العدد 16 من مجلة DIGIFIZZY!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الشهر ده ما قدرناش نمسك نفسنا، فحبينا نوريكوا لمحة من معنى نهاية الندرة الإبداعية. مش بس في الأعمال الفنية والصور والمحتوى المكتوب، لكن كمان في الأقمشة والنقشات وعوالم كاملة بتتنقل عبر كل وسيط نقدر نتخيله."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "قلّب صفحات محتوى Stable Diffusion المفتوح CC0، المتعمل ببرومبتات فريدة لعناصر ومصطلحات بتكوّن الأساس لكل حاجة في منظومة DIGITALAX."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "شوف تقدر تميّز كام واحدة 😉"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "تقدر تشوف العدد 16 من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لديسكورد DIGITALAX علشان تفضل متابع كل جديد."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف أكتر عبر قنواتنا الرسمية:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تويتر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "أسئلة FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تقارير الشفافية"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "يوتيوب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "المدونة"
+        }
+      ]
+    }
+  }
+}

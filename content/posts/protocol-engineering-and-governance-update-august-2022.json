@@ -1,0 +1,396 @@
+{
+  "slug": "protocol-engineering-and-governance-update-august-2022",
+  "date": "2022-08-29",
+  "translations": {
+    "en": {
+      "title": "Protocol Engineering & Governance Update | August 2022",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Protocol Engineering & Governance Update | August 2022"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*SGMbp-AXl4es-No7a3s2JA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With the release last week of the first open source, open model image synthesis diffusion project, Stable Diffusion, which is fully competitive in quality with closed source, closed licensing leaders like DALLE-2 and MidJourney, the era of creative scarcity is now officially over."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Anyone who has put in the time to study effective prompts and put the most useful notebooks through their paces on Google Collab, Hugging Face or their local powerhouse GPU machines, has instantly seen how shockingly good Stable Diffusion is at returning exceptional content in less than one minute per iteration."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The interesting money is now on all of the infinite possibilities narrowing to tangible, immediate implementations for other complementary essential tools in the creative production ecosystem."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In keeping with the more general refactoring that we have been engaging in throughout the DIGITALAX ecosystem, we are of course also racing to integrate SD and image synthesis in general into the protocol and the overall web3 fashion collection, creation, usage, diffusion and distribution cycle."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "A brand new flagship site + general ecosystem interface upgrade."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Greater integration of Lens protocol functionality for increasing decentralisation of social media and content distribution."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "A growing wave of material and features in support of creators and collectors using NFTs in a microfactory co-op IRL and virtual creative production context."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Enhancements to the transformation of Maps tooling from how charting territories and histories have been architected in the web2 past towards pioneering more of what maps mean in web3."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "The initial release and integration of Renewables."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This means taking a pause on the current Snapshot voting whilst we put into place an exciting new CC0 image synthesis based daily auction curatorial vote."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The goal here is pretty straightforward: increase high quality CC0 content in the market + add a new dimension to staking."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Every few days a new vote will go live on Snapshot that will include a curatorial selection of various CC0 image synthesis candidates. Token holders can vote on which among the selection are put up for daily auctions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Successful daily auction sales replenish both the DIGITALAX Treasury and the Staking pools."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This new governance structure will go live towards the end of September."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’re curious to see more of how image synthesis will power up the protocol and the entire creative production ecosystem, you can get started trying it yourself here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join the DIGITALAX Discord to Stay Up to Date."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "See More Across Our Official Channels;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Transparency Reports"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Youtube"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Blog"
+        }
+      ]
+    },
+    "es": {
+      "title": "protocolo Engineering & gobernanza actualizacion | August 2022",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "protocolo Engineering & gobernanza actualizacion | August 2022"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*SGMbp-AXl4es-No7a3s2JA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "con el release last semana de el first open source, open model image synthesis diffusion project, Stable Diffusion, which is fully competitive en quality con closed source, closed licensing leaders like DALLE-2 y MidJourney, el era de creativo scarcity is now officially over."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Anyone who has put en el time a study effective prompts y put el most useful notebooks through their paces en Google Collab, Hugging Face or their local powerhouse GPU machines, has instantly seen como shockingly good Stable Diffusion is at returning exceptional content en less than one minute per iteration."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el interesting money is now en all de el infinite possibilities narrowing a tangible, immediate implementations para other complementary essential tools en el creativo production ecosistema."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en keeping con el more general refactoring that we have been engaging en throughout el DIGITALAX ecosistema, we are de course also racing a integrate SD y image synthesis en general into el protocolo y el overall web3 moda collection, creation, usage, diffusion y distribution cycle."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "A brand nuevo flagship site + general ecosistema interface upgrade."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Greater integration de lens protocolo functionality para increasing decentralisation de social media y content distribution."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "A growing wave de material y features en support de creators y collectors using NFTs en a microfactory co-op IRL y virtual creativo production context."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Enhancements a el transformation de Maps tooling de como charting territories y histories have been architected en el web2 past towards pioneering more de what maps mean en web3."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "el initial release y integration de Renewables."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This means taking a pause en el current Snapshot voting whilst we put into place an exciting nuevo CC0 image synthesis based daily auction curatorial vote."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el goal here is pretty straightforward: increase high quality CC0 content en el market + add a nuevo dimension a staking."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Every few days a nuevo vote will go live en Snapshot that will include a curatorial selection de various CC0 image synthesis candidates. Token holders can vote en which among el selection are put up para daily auctions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Successful daily auction sales replenish both el DIGITALAX Treasury y el Staking pools."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This nuevo gobernanza structure will go live towards el end de September."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’re curious a see more de como image synthesis will power up el protocolo y el entire creativo production ecosistema, you can get started trying it yourself here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join el DIGITALAX Discord a Stay Up a fecha."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira más en nuestros canales oficiales:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentación"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Preguntas FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Informes de transparencia"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "YouTube"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Blog"
+        }
+      ]
+    },
+    "ar": {
+      "title": "بروتوكول Engineering & حوكمة تحديث | August 2022",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "بروتوكول Engineering & حوكمة تحديث | August 2022"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*SGMbp-AXl4es-No7a3s2JA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع ال release last اسبوع من ال first open source, open model image synthesis diffusion project, Stable Diffusion, which is fully competitive في quality مع closed source, closed licensing leaders like DALLE-2 و MidJourney, ال era من ابداعي scarcity is now officially over."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Anyone who has put في ال time الى study effective prompts و put ال most useful notebooks through their paces على Google Collab, Hugging Face or their local powerhouse GPU machines, has instantly seen ازاي shockingly good Stable Diffusion is at returning exceptional content في less than one minute per iteration."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال interesting money is now على all من ال infinite possibilities narrowing الى tangible, immediate implementations لـ other complementary essential tools في ال ابداعي production النظام."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في keeping مع ال more general refactoring that we have been engaging في throughout ال DIGITALAX النظام, we are من course also racing الى integrate SD و image synthesis في general into ال بروتوكول و ال overall web3 فاشون collection, creation, usage, diffusion و distribution cycle."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "A brand جديد flagship site + general النظام interface upgrade."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Greater integration من لينز بروتوكول functionality لـ increasing decentralisation من سوشيال media و content distribution."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "A growing wave من material و features في support من creators و collectors using NFTs في a microfactory co-op IRL و virtual ابداعي production context."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Enhancements الى ال transformation من Maps tooling من ازاي charting territories و histories have been architected في ال web2 past towards pioneering more من what maps mean في web3."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ال initial release و integration من Renewables."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This means taking a pause على ال current Snapshot voting whilst we put into place an exciting جديد CC0 image synthesis based daily auction curatorial vote."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال goal here is pretty straightforward: increase high quality CC0 content في ال market + add a جديد dimension الى staking."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Every few days a جديد vote will go live على Snapshot that will include a curatorial selection من various CC0 image synthesis candidates. Token holders can vote على which among ال selection are put up لـ daily auctions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Successful daily auction sales replenish both ال DIGITALAX Treasury و ال Staking pools."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This جديد حوكمة structure will go live towards ال end من September."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’re curious الى see more من ازاي image synthesis will power up ال بروتوكول و ال entire ابداعي production النظام, you can get started trying it yourself here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join ال DIGITALAX Discord الى Stay Up الى تاريخ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف أكتر عبر قنواتنا الرسمية:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "أسئلة FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تقارير الشفافية"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "يوتيوب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "المدونة"
+        }
+      ]
+    }
+  }
+}

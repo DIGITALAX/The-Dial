@@ -1,0 +1,471 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-66",
+  "date": "2022-07-05",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 66",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 66"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s the alpha on how to build in the bear? And how’d we get to seizing the memes of local microfactory production, distribution, and coordination?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At first, about 5 or 6 years ago, I used to think (like almost everyone else) that web3 meant open money, personal ownership & really complicated tech."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "After diving in deeper and getting burned a few times, I understood better that web3 is really a lot more about how we use it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "For me that led quickly to fashion, because it includes so many of the most interesting, useful, and powerful goods, tools, and accessories everyone owns. Of course, then I wondered how fashion can be *literally made* in a better way, using web3. Through the use of decentralized and openly accessible microfactory production methods, and every other element needed in a comprehensive web3 fashion ecosystem. From there, it quickly became how asking and working on how anything can be *literally made* better using web3. What can change about where it’s made? How can we help it all get from place to place better?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Finally, how can more people buy everything we each make, directly from each other as much as possible, while making use of the full power and principles of web3 — self-determination, continuous self-improvement, and creative cooperation. All secured by that super advanced tech that isn’t quite as complicated anymore."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That brings us to where we are now. MFing like a MFer. Micro Factory-ing… you know the rest?"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "So, what is DIGITALAX building in the bear?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’ve spent the past (almost) 2 years completely dedicated to building out open web3 infrastructure for all things fashion production (and related)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "During this bear we are ramping things up even further with Layer X and metaverse microfactories — including IRL + virtual creator co-ops."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Some of the components of this build out have been in the works for over 7 months and are now being welded together."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In the meantime, on this day celebrating the idea of American freedom and independence, let’s keep building real self sovereign mechanisms for all."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Do they really think that all of this won’t come back to bite them one day or likely very soon? And what’s with patent fomo anyway… when will they get the memo that locking down who can and can’t have access isn’t compatible with web3."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*2-L_lGJdrLMoArxmwAs5vg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This week, the 3AC drama continues, as they filed for bankruptcy in NY. Schadenfreude aside, it shows once again how much actual, transparently on chain decentralisation really matters. All these quick and entirely unsurprising collapses of CeFi + kinda sorta but not really DeFi platforms and funds reinforces how much the real value remains in those who build mechanisms beyond “don’t be evil” to “can’t be evil”."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*99EnFo29ionN_bZ_EX5Lyg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 66",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 66"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s el alpha en como a build en el bear? y como’d we get a seizing el memes de local microfactory production, distribution, y coordination?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At first, about 5 or 6 years ago, I used a think (like almost everyone else) that web3 meant open money, personal ownership & really complicated tech."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "After diving en deeper y getting burned a few times, I understood better that web3 is really a lot more about como we use it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "para me that led quickly a moda, because it includes so many de el most interesting, useful, y powerful goods, tools, y accessories everyone owns. de course, then I wondered como moda can be *literally made* en a better way, using web3. Through el use de decentralized y openly accessible microfactory production methods, y every other element needed en a comprehensive web3 moda ecosistema. de there, it quickly became como asking y working en como anything can be *literally made* better using web3. What can change about where it’s made? como can we help it all get de place a place better?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Finally, como can more people buy everything we each make, directly de each other as much as possible, while making use de el full power y principles de web3 — self-determination, continuous self-improvement, y creativo cooperation. All secured by that super advanced tech that isn’t quite as complicated anymore."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That brings us a where we are now. MFing like a MFer. Micro Factory-ing… you know el rest?"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat pregunta"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "So, what is DIGITALAX building en el bear?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’ve spent el past (almost) 2 years completely dedicated a building out open web3 infrastructure para all things moda production (y related)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "During this bear we are ramping things up even further con Layer X y metaverse microfactories — including IRL + virtual creator co-ops."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Some de el components de this build out have been en el works para over 7 months y are now being welded together."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en el meantime, en this day celebrating el idea de American freedom y independence, let’s keep building real self sovereign mechanisms para all."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Do they really think that all de this won’t come back a bite them one day or likely very soon? y what’s con patent fomo anyway… when will they get el memo that locking down who can y can’t have access isn’t compatible con web3."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*2-L_lGJdrLMoArxmwAs5vg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This semana, el 3AC drama continues, as they filed para bankruptcy en NY. Schadenfreude aside, it shows once again como much actual, transparently en chain decentralisation really matters. All these quick y entirely unsurprising collapses de CeFi + kinda sorta but not really DeFi platforms y funds reinforces como much el real value remains en those who build mechanisms beyond “don’t be evil” a “can’t be evil”."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*99EnFo29ionN_bZ_EX5Lyg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todo el FUD FAQ aquí."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX Discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 66",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 66"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s ال alpha على ازاي الى build في ال bear? و ازاي’d we get الى seizing ال memes من local microfactory production, distribution, و coordination?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At first, about 5 or 6 years ago, I used الى think (like almost everyone else) that web3 meant open money, personal ownership & really complicated tech."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "After diving في deeper و getting burned a few times, I understood better that web3 is really a lot more about ازاي we use it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لـ me that led quickly الى فاشون, because it includes so many من ال most interesting, useful, و powerful goods, tools, و accessories everyone owns. من course, then I wondered ازاي فاشون can be *literally made* في a better way, using web3. Through ال use من decentralized و openly accessible microfactory production methods, و every other element needed في a comprehensive web3 فاشون النظام. من there, it quickly became ازاي asking و working على ازاي anything can be *literally made* better using web3. What can change about where it’s made? ازاي can we help it all get من place الى place better?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Finally, ازاي can more people buy everything we each make, directly من each other as much as possible, while making use من ال full power و principles من web3 — self-determination, continuous self-improvement, و ابداعي cooperation. All secured by that super advanced tech that isn’t quite as complicated anymore."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That brings us الى where we are now. MFing like a MFer. Micro Factory-ing… you know ال rest?"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat سؤال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "So, what is DIGITALAX building في ال bear?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’ve spent ال past (almost) 2 years completely dedicated الى building out open web3 infrastructure لـ all things فاشون production (و related)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "During this bear we are ramping things up even further مع Layer X و metaverse microfactories — including IRL + virtual creator co-ops."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Some من ال components من this build out have been في ال works لـ over 7 months و are now being welded together."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في ال meantime, على this day celebrating ال idea من American freedom و independence, let’s keep building real self sovereign mechanisms لـ all."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم الجدل"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Do they really think that all من this won’t come back الى bite them one day or likely very soon? و what’s مع patent fomo anyway… when will they get ال memo that locking down who can و can’t have access isn’t compatible مع web3."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*2-L_lGJdrLMoArxmwAs5vg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This اسبوع, ال 3AC drama continues, as they filed لـ bankruptcy في NY. Schadenfreude aside, it shows once again ازاي much actual, transparently على chain decentralisation really matters. All these quick و entirely unsurprising collapses من CeFi + kinda sorta but not really DeFi platforms و funds reinforces ازاي much ال real value remains في those who build mechanisms beyond “don’t be evil” الى “can’t be evil”."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*99EnFo29ionN_bZ_EX5Lyg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX Discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,711 @@
+{
+  "slug": "spring-23-ecosystem-update-cryptographic-thresholds",
+  "date": "2023-05-14",
+  "translations": {
+    "en": {
+      "title": "🌻 Spring ’23 Ecosystem Update: Cryptographic Thresholds",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "🌻 Spring ’23 Ecosystem Update: Cryptographic Thresholds"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Qpo46zJ1JyhyjAI81YNPPA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Imagine you’ve read one too many Alice and Bob scenarios keeping up with all the latest LLM papers. This time, Alice is a visionary, building a decentralized social media platform. Alice could be you. She’s concerned about dwindling recognition for human accomplishment in an era of large language models, and wants to make sure that creators are recognized and rewarded for their work."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now Bob, on the other hand, is a creator… a would be end user of Alice’s platform. He shares Alice’s sneaking stress about human creativity being displaced, humanity being replaced, and is skeptical a place exists where creative work is honestly valued and personal autonomy respected."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Autonomy over automation. Alice and Bob. Me and you. We’re all looking for threshold crossing moments that are interactive, programmatic, exist within a variety of channels, from mobile apps to websites and physical displays, and are made up of their own rules, characters and environments. It’s an all too rare approach, still, to how we handle the wide variety of screens we use to connect, trade, and coordinate with each other through increasingly autonomous worlds."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In these worlds, unique, irrevocable and valuable personal assets can be earned through the completion of a series of challenging tasks and puzzle-like actions. Assets can have cultural value, they can be machines made of metal or software that produce new goods, carry and build status-value, and/or be almost entirely traditional in their extrinsic and intrinsic relevance. If traditional includes being entirely networked and verifiably autonomous. Here, specific types of cryptographic mechanisms are essential, too — both for validating which challengers of tasks, social media market activity, and other autonomous actions are authenticated to unlock access to conditional experiences or rewards, and for storing more dynamic and persistent decentralized records of personal accomplishment and social proof."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With that perspective in mind, this Spring ’23 Ecosystem Update is all about crossing thresholds, cryptographic and otherwise."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Fashion in particular, as the most directly commercial and all encompassing creative medium, has always reached markets through social content. Influenced by cultural trends, political movements, and advancing tech. Long before the internet, media has always been crucial to propagating fashion trends, reshaping public perception and driving demand for whatever is in style at the moment. From print to film, inspirational looks and influencer marketing, to storytelling and editorial coverage showcasing the next original must haves. We take a deeper look at how social media changes creative markets when more fully decentralized."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Entering an era of media hyper-saturation, where creation, authentication, and access to your message is the market, the question we’re all asking is: what sets you (and what you make) apart from all the confusion and noise?"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "That’s why, for the past five months+ we’ve built with focused intention on Lens Protocol, Lit Protocol and Stable Diffusion."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "What’s been built?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Released only a few weeks ago, Chromadin is a 24/7 microcontent collection site , meant for casual channel surfing with integrated Lens features and a multiscreen display for dashboard analytics, streaming videos, curated creator social feeds and exclusive generative AI NFT drops. All in a retro-futuristic synthwave style that stands its ground in a sea of generative carbon copy designs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It was built to stoke anticipation for the beta release of The Dial, and serve as a funnel for niche micro-influencers, micro-brands, designers & creative collectors from outdated social networks to new, Lens based, decentralized social media — seeding the community we want to see throughout the ecosystem."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Rolled out alongside Chromadin is the Creator Dispatch, a comprehensive Drop Management System for minting and overseeing collections on the ‘din. New features set to go live include token gated posts with on-chain encrypted content management. Here, designers can specify unique conditions for their drop collectors and holders to unlock and interact with private Lens publications and content. If you are a $MONA, PODE, Genesis or other DIGITALAX ecosystem token holder, stay tuned for exclusive content drops available to you through the DIGITALAX Lens account ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Since the early days of the protocol, creative computation through local microfactory co-ops for textile manufacturing has been a core focus, and a guiding thread for the direction of the ecosystem as a whole. Bringing greater decentralization to physical print and apparel production is essential for unbundling the traditional fashion industry. Likewise, ensuring that the current supply of GPUs aren’t able to be chokepointed by monolithic and anti-competitive platforms, is required for decentralized product fulfillment to meet its market potential ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The first instance of the Decentralized Fulfillment Network will be live within the Chromadin storefront, and soon after within The Dial, on beta release. Designers can build direct relationships and repeat business with local fulfillers over the long term, with greater choice and autonomy for quality control, material use, unique customisations, and sustainable production options."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One of the more interestingly technical aspects of the network is the inclusion of Lit Protocol’s autonomous functions for threshold cryptographic features being enabled within the storefront architecture. Private address and fulfillment records can be shared on-chain between buyers, creators and those within the fulfillment network directly, without the need for a custodial intermediary."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This fulfillment tooling will also be released as an open source SDK so that other ecosystems and protocols within the web3 fashion and manufacturing community can also directly offer decentralized fulfillment with the guarantee of secure and private transaction data."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The Dial has been in production since late 2022. The dAPP is built on Lens Protocol as an AI social canvas, fashion editor and discovery platform for creators with fully decentralized content publishing and social messaging. Maybe you’ve seen some of our sneak peeks?"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*4MLokIylHwbSfy0e.gif",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It incorporates all features on Lens, XMTP private messaging, decentralized fulfillment storefront and purchase functionality, local and web API based Stable Diffusion integrations, AI image and prompt search functionality and a connected Blender plugin templating design system."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Although development has been finalized, Beta release is set to roll out once a threshold level of curated creators and activity has been established on Chromadin. All DIGITALAX ecosystem holders will be granted early access to The Dial whitelist beta."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "What’s being built?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX is collaborating with Lit Protocol to build out an open source Event Listener SDK, with development commencing shortly. This SDK enables developers with an easy interface to integrate the Lit Event Listener into their dApp, subscribe to on-chain actions and automate the responses through triggered callback functions and the use of PKPs (Programmable Key Pairs)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In simpler terms, currently users must sign every on-chain interaction within a dAPP. This has been essential for maintaining personal wallet autonomy and asset ownership, however, it has also often caused major UX pitfalls for onboarding and familiarizing new users with products and tooling within web3 and in many cases preventable wallet drainings through accidental signing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Until recently, there has been no secure and intuitive alternatives for comprehensible account abstraction that still maintains individual determination and governance — essential within the era of AI generated content, deep fakes and misinformation, where signed messages are one of, if not the only, secure mechanisms for preserving and authenticating truthful account interactions. The need for conditional cryptographic signing and novel approaches to social coordination is paramount for building scalable self-sovereign web3 fashion, creator, AI and local production driven industries."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With this SDK and Lit’s framework, cryptographic thresholds can be set with predefined conditions and strategies that automate the signing of transactions on-chain within scoped contracts and environments."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With support for both browser and nodejs, here is a diagrammatic overview for a deeper perspective into the initial architecture:"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*rNjL-58ahOf_K88N1Csz9w.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The Labyrinth SDK extends on and makes use of the Event Listener SDK to translate threshold cryptography into conditions based on-chain quests and social graphs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here, clusters of on and off chain interactions can be specified as sub-milestones and checkpoints that when completed unlock personal on-chain assets. Conditions based cryptography ensures that quest-challengers only access information or assets if they meet specific conditions, whether earned or pre-defined."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Labyrinth serves as a platform for micro brands, designers and creative consumers to develop and showcase their own content, products and messages within dynamic experiences, where loyalty and personal stake is made more engaging through game-like mechanisms, and rewarded both intrinsically and extrinsically over time. It also directly supports designers who choose to build their own autonomous worlds and to reward user interactions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The first demo of Labyrinth’s capabilities will be shown through Chromadin, and extended on through The Dial, combining decentralized social media interactions and financial transactions from apparel and print NFT storefronts into questified data with relevant value for creators, developers, LLM compute grant givers, and consumers alike."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*JVerx_IvmM8nN0bI7j396g.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "To be released mid next month at the completion of the Chainlink Spring hackathon is Legend. Legend builds on Lens Protocol and uses Chainlink’s dynamic NFT architecture and Verifiable Random Function (VRF) to offer a P2P grant framework for promoting more effective, informed, instant and reliable allocations of grants and resources within web3."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here, builders, projects, creators and designers can make posts to Lens Protocol detailing their proposed grant along with the individual contributor allotment, mirror based referral % and evolving gen AI NFT metadata. When these posts are collected for their specified amount, and proliferated through mirrors, a referral fee % of the final grant amount is awarded. The interlinked dynamic NFT evolves (random or pre-sequenced) to include specific data from the profiles of collectors and mirrorers creating a unique and shared narrative of the project’s journey. As contributions are translated into public on-chain patronage and visual emblems of support, buy-in to grant seekers ultimate success becomes more of a social coordination effort, expanding the range of how many participants can benefit from grants for web3 public goods."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*iEAXY2BAyXChJvwf83o-6w.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s long past time for us all to rethink the fashion industry, peeling back the tech, manufacturing, business, media, and creative layers that hold it together. By developing and sharing advanced open-source tools, we cross a threshold into something entirely new. In this era, defined by artificial intelligence, many multiplying screens everywhere, and machine-led manufacturing, it’s becoming unavoidable to recognize just how important it is for each of us to have control over our tech, financial freedom, and creative expression."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s not just about keeping up with the pace of change or staying ahead of the curve anymore. It’s about reshaping the curve entirely, threading our own path through the fabric of the future."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Have questions or wanna chat more about what’s being built? We’re most active on Lens, Github and Discord :)"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up to Date with Web3 Fashion:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Flagship"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        }
+      ]
+    },
+    "es": {
+      "title": "🌻 Spring ’23 ecosistema actualizacion: Cryptographic Thresholds",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "🌻 Spring ’23 ecosistema actualizacion: Cryptographic Thresholds"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Qpo46zJ1JyhyjAI81YNPPA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Imagine you’ve read one too many Alice y Bob scenarios keeping up con all el latest LLM papers. This time, Alice is a visionary, building a decentralized social media platform. Alice could be you. She’s concerned about dwindling recognition para human accomplishment en an era de large language models, y wants a make sure that creators are recognized y rewarded para their work."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now Bob, en el other hand, is a creator… a would be end user de Alice’s platform. He shares Alice’s sneaking stress about human creativity being displaced, humanity being replaced, y is skeptical a place exists where creativo work is honestly valued y personal autonomy respected."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Autonomy over automation. Alice y Bob. Me y you. We’re all looking para threshold crossing moments that are interactive, programmatic, exist within a variety de channels, de mobile apps a websites y physical displays, y are made up de their own rules, characters y environments. It’s an all too rare approach, still, a como we handle el wide variety de screens we use a connect, trade, y coordinate con each other through increasingly autonomous worlds."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en these worlds, unique, irrevocable y valuable personal assets can be earned through el completion de a series de challenging tasks y puzzle-like actions. Assets can have cultural value, they can be machines made de metal or software that produce nuevo goods, carry y build status-value, y/or be almost entirely traditional en their extrinsic y intrinsic relevance. If traditional includes being entirely networked y verifiably autonomous. Here, specific types de cryptographic mechanisms are essential, too — both para validating which challengers de tasks, social media market activity, y other autonomous actions are authenticated a unlock access a conditional experiences or rewards, y para storing more dynamic y persistent decentralized records de personal accomplishment y social proof."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "con that perspective en mind, this Spring ’23 ecosistema actualizacion is all about crossing thresholds, cryptographic y otherwise."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "moda en particular, as el most directly commercial y all encompassing creativo medium, has always reached markets through social content. Influenced by cultural trends, political movements, y advancing tech. Long before el internet, media has always been crucial a propagating moda trends, reshaping public perception y driving demand para whatever is en style at el moment. de print a film, inspirational looks y influencer marketing, a storytelling y editorial coverage showcasing el next original must haves. We take a deeper look at como social media changes creativo markets when more fully decentralized."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Entering an era de media hyper-saturation, where creation, authentication, y access a your message is el market, el pregunta we’re all asking is: what sets you (y what you make) apart de all el confusion y noise?"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "That’s por que, para el past five months+ we’ve built con focused intention en lens protocolo, Lit protocolo y Stable Diffusion."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¿Qué se ha construido?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Released only a few weeks ago, Chromadin is a 24/7 microcontent collection site , meant para casual channel surfing con integrated lens features y a multiscreen display para dashboard analytics, streaming videos, curated creator social feeds y exclusive generative ia NFT drops. All en a retro-futuristic synthwave style that stands its ground en a sea de generative carbon copy designs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It was built a stoke anticipation para el beta release de el Dial, y serve as a funnel para niche micro-influencers, micro-brands, designers & creativo collectors de outdated social networks a nuevo, lens based, decentralized social media — seeding el comunidad we want a see throughout el ecosistema."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Rolled out alongside Chromadin is el Creator Dispatch, a comprehensive Drop Management System para minting y overseeing collections en el ‘din. nuevo features set a go live include token gated publicaciones con en-chain encrypted content management. Here, designers can specify unique conditions para their drop collectors y holders a unlock y interact con private lens publications y content. If you are a $MONA, PODE, Genesis or other DIGITALAX ecosistema token holder, stay tuned para exclusive content drops available a you through el DIGITALAX lens account ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Since el early days de el protocolo, creativo computation through local microfactory co-ops para textile manufacturing has been a core focus, y a guiding hilo para el direction de el ecosistema as a whole. Bringing greater decentralization a physical print y apparel production is essential para unbundling el traditional moda industry. Likewise, ensuring that el current supply de GPUs aren’t able a be chokepointed by monolithic y anti-competitive platforms, is required para decentralized product fulfillment a meet its market potential ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el first instance de el Decentralized Fulfillment Network will be live within el Chromadin storefront, y soon after within el Dial, en beta release. Designers can build direct relationships y repeat business con local fulfillers over el long term, con greater choice y autonomy para quality control, material use, unique customisations, y sustainable production options."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One de el more interestingly technical aspects de el network is el inclusion de Lit protocolo’s autonomous functions para threshold cryptographic features being enabled within el storefront architecture. Private address y fulfillment records can be shared en-chain between buyers, creators y those within el fulfillment network directly, without el need para a custodial intermediary."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This fulfillment tooling will also be released as an open source SDK so that other ecosystems y protocols within el web3 moda y manufacturing comunidad can also directly offer decentralized fulfillment con el guarantee de secure y private transaction data."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el Dial has been en production since late 2022. el dAPP is built en lens protocolo as an ia social canvas, moda editor y discovery platform para creators con fully decentralized content publishing y social messaging. Maybe you’ve seen some de our sneak peeks?"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*4MLokIylHwbSfy0e.gif",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It incorporates all features en lens, XMTP private messaging, decentralized fulfillment storefront y purchase functionality, local y web API based Stable Diffusion integrations, ia image y prompt search functionality y a connected Blender plugin templating design system."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Although development has been finalized, Beta release is set a roll out once a threshold level de curated creators y activity has been established en Chromadin. All DIGITALAX ecosistema holders will be granted early access a el Dial whitelist beta."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¿Qué se está construyendo?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX is collaborating con Lit protocolo a build out an open source Event Listener SDK, con development commencing shortly. This SDK enables developers con an easy interface a integrate el Lit Event Listener into their dApp, subscribe a en-chain actions y automate el responses through triggered callback functions y el use de PKPs (Programmable Key Pairs)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en simpler terms, currently users must sign every en-chain interaction within a dAPP. This has been essential para maintaining personal wallet autonomy y asset ownership, however, it has also often caused major UX pitfalls para onboarding y familiarizing nuevo users con products y tooling within web3 y en many cases preventable wallet drainings through accidental signing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Until recently, there has been no secure y intuitive alternatives para comprehensible account abstraction that still maintains individual determination y gobernanza — essential within el era de ia generated content, deep fakes y misinformation, where signed messages are one de, if not el only, secure mechanisms para preserving y authenticating truthful account interactions. el need para conditional cryptographic signing y novel approaches a social coordination is paramount para building scalable self-sovereign web3 moda, creator, ia y local production driven industries."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "con this SDK y Lit’s framework, cryptographic thresholds can be set con predefined conditions y strategies that automate el signing de transactions en-chain within scoped contracts y environments."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "con support para both browser y nodejs, here is a diagrammatic overview para a deeper perspective into el initial architecture:"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*rNjL-58ahOf_K88N1Csz9w.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el Labyrinth SDK extends en y makes use de el Event Listener SDK a translate threshold cryptography into conditions based en-chain quests y social graphs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here, clusters de en y off chain interactions can be specified as sub-milestones y checkpoints that when completed unlock personal en-chain assets. Conditions based cryptography ensures that quest-challengers only access information or assets if they meet specific conditions, whether earned or pre-defined."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Labyrinth serves as a platform para micro brands, designers y creativo consumers a develop y showcase their own content, products y messages within dynamic experiences, where loyalty y personal stake is made more engaging through game-like mechanisms, y rewarded both intrinsically y extrinsically over time. It also directly supports designers who choose a build their own autonomous worlds y a reward user interactions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el first demo de Labyrinth’s capabilities will be shown through Chromadin, y extended en through el Dial, combining decentralized social media interactions y financial transactions de apparel y print NFT storefronts into questified data con relevant value para creators, developers, LLM compute grant givers, y consumers alike."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*JVerx_IvmM8nN0bI7j396g.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "a be released mid next month at el completion de el Chainlink Spring hackathon is Legend. Legend builds en lens protocolo y uses Chainlink’s dynamic NFT architecture y Verifiable Random Function (VRF) a offer a P2P grant framework para promoting more effective, informed, instant y reliable allocations de grants y resources within web3."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here, builders, projects, creators y designers can make publicaciones a lens protocolo detailing their proposed grant along con el individual contributor allotment, mirror based referral % y evolving gen ia NFT metadata. When these publicaciones are collected para their specified amount, y proliferated through mirrors, a referral fee % de el final grant amount is awarded. el interlinked dynamic NFT evolves (random or pre-sequenced) a include specific data de el profiles de collectors y mirrorers creating a unique y shared narrative de el project’s journey. As contributions are translated into public en-chain patronage y visual emblems de support, buy-en a grant seekers ultimate success becomes more de a social coordination effort, expanding el range de como many participants can benefit de grants para web3 public goods."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*iEAXY2BAyXChJvwf83o-6w.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s long past time para us all a rethink el moda industry, peeling back el tech, manufacturing, business, media, y creativo layers that hold it together. By developing y sharing advanced open-source tools, we cross a threshold into something entirely nuevo. en this era, defined by artificial intelligence, many multiplying screens everywhere, y machine-led manufacturing, it’s becoming unavoidable a recognize just como important it is para each de us a have control over our tech, financial freedom, y creativo expression."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s not just about keeping up con el pace de change or staying ahead de el curve anymore. It’s about reshaping el curve entirely, threading our own path through el fabric de el future."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Have preguntas or wanna chat more about what’s being built? We’re most active en lens, Github y Discord :)"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up a fecha con Web3 moda:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Principal"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentación"
+        }
+      ]
+    },
+    "ar": {
+      "title": "🌻 Spring ’23 النظام تحديث: Cryptographic Thresholds",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "🌻 Spring ’23 النظام تحديث: Cryptographic Thresholds"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Qpo46zJ1JyhyjAI81YNPPA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Imagine you’ve read one too many Alice و Bob scenarios keeping up مع all ال latest LLM papers. This time, Alice is a visionary, building a decentralized سوشيال media platform. Alice could be you. She’s concerned about dwindling recognition لـ human accomplishment في an era من large language models, و wants الى make sure that creators are recognized و rewarded لـ their work."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now Bob, على ال other hand, is a creator… a would be end user من Alice’s platform. He shares Alice’s sneaking stress about human creativity being displaced, humanity being replaced, و is skeptical a place exists where ابداعي work is honestly valued و personal autonomy respected."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Autonomy over automation. Alice و Bob. Me و you. We’re all looking لـ threshold crossing moments that are interactive, programmatic, exist within a variety من channels, من mobile apps الى websites و physical displays, و are made up من their own rules, characters و environments. It’s an all too rare approach, still, الى ازاي we handle ال wide variety من screens we use الى connect, trade, و coordinate مع each other through increasingly autonomous worlds."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في these worlds, unique, irrevocable و valuable personal assets can be earned through ال completion من a series من challenging tasks و puzzle-like actions. Assets can have cultural value, they can be machines made من metal or software that produce جديد goods, carry و build status-value, و/or be almost entirely traditional في their extrinsic و intrinsic relevance. If traditional includes being entirely networked و verifiably autonomous. Here, specific types من cryptographic mechanisms are essential, too — both لـ validating which challengers من tasks, سوشيال media market activity, و other autonomous actions are authenticated الى unlock access الى conditional experiences or rewards, و لـ storing more dynamic و persistent decentralized records من personal accomplishment و سوشيال proof."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع that perspective في mind, this Spring ’23 النظام تحديث is all about crossing thresholds, cryptographic و otherwise."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "فاشون في particular, as ال most directly commercial و all encompassing ابداعي medium, has always reached markets through سوشيال content. Influenced by cultural trends, political movements, و advancing tech. Long before ال internet, media has always been crucial الى propagating فاشون trends, reshaping public perception و driving demand لـ whatever is في style at ال moment. من print الى film, inspirational looks و influencer marketing, الى storytelling و editorial coverage showcasing ال next original must haves. We take a deeper look at ازاي سوشيال media changes ابداعي markets when more fully decentralized."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Entering an era من media hyper-saturation, where creation, authentication, و access الى your message is ال market, ال سؤال we’re all asking is: what sets you (و what you make) apart من all ال confusion و noise?"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "That’s ليه, لـ ال past five months+ we’ve built مع focused intention على لينز بروتوكول, Lit بروتوكول و Stable Diffusion."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إيه اللي اتبنى؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Released only a few weeks ago, Chromadin is a 24/7 microcontent collection site , meant لـ casual channel surfing مع integrated لينز features و a multiscreen display لـ dashboard analytics, streaming videos, curated creator سوشيال feeds و exclusive generative ذكاء اصطناعي NFT drops. All في a retro-futuristic synthwave style that stands its ground في a sea من generative carbon copy designs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It was built الى stoke anticipation لـ ال beta release من ال Dial, و serve as a funnel لـ niche micro-influencers, micro-brands, designers & ابداعي collectors من outdated سوشيال networks الى جديد, لينز based, decentralized سوشيال media — seeding ال المجتمع we want الى see throughout ال النظام."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Rolled out alongside Chromadin is ال Creator Dispatch, a comprehensive Drop Management System لـ minting و overseeing collections على ال ‘din. جديد features set الى go live include token gated بوستات مع على-chain encrypted content management. Here, designers can specify unique conditions لـ their drop collectors و holders الى unlock و interact مع private لينز publications و content. If you are a $MONA, PODE, Genesis or other DIGITALAX النظام token holder, stay tuned لـ exclusive content drops available الى you through ال DIGITALAX لينز account ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Since ال early days من ال بروتوكول, ابداعي computation through local microfactory co-ops لـ textile manufacturing has been a core focus, و a guiding ثريد لـ ال direction من ال النظام as a whole. Bringing greater decentralization الى physical print و apparel production is essential لـ unbundling ال traditional فاشون industry. Likewise, ensuring that ال current supply من GPUs aren’t able الى be chokepointed by monolithic و anti-competitive platforms, is required لـ decentralized product fulfillment الى meet its market potential ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال first instance من ال Decentralized Fulfillment Network will be live within ال Chromadin storefront, و soon after within ال Dial, على beta release. Designers can build direct relationships و repeat business مع local fulfillers over ال long term, مع greater choice و autonomy لـ quality control, material use, unique customisations, و sustainable production options."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One من ال more interestingly technical aspects من ال network is ال inclusion من Lit بروتوكول’s autonomous functions لـ threshold cryptographic features being enabled within ال storefront architecture. Private address و fulfillment records can be shared على-chain between buyers, creators و those within ال fulfillment network directly, without ال need لـ a custodial intermediary."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This fulfillment tooling will also be released as an open source SDK so that other ecosystems و protocols within ال web3 فاشون و manufacturing المجتمع can also directly offer decentralized fulfillment مع ال guarantee من secure و private transaction data."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال Dial has been في production since late 2022. ال dAPP is built على لينز بروتوكول as an ذكاء اصطناعي سوشيال canvas, فاشون محرر و discovery platform لـ creators مع fully decentralized content publishing و سوشيال messaging. Maybe you’ve seen some من our sneak peeks?"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*4MLokIylHwbSfy0e.gif",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It incorporates all features على لينز, XMTP private messaging, decentralized fulfillment storefront و purchase functionality, local و web API based Stable Diffusion integrations, ذكاء اصطناعي image و prompt search functionality و a connected Blender plugin templating design system."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Although development has been finalized, Beta release is set الى roll out once a threshold level من curated creators و activity has been established على Chromadin. All DIGITALAX النظام holders will be granted early access الى ال Dial whitelist beta."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إيه اللي بيتبني دلوقتي؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX is collaborating مع Lit بروتوكول الى build out an open source Event Listener SDK, مع development commencing shortly. This SDK enables developers مع an easy interface الى integrate ال Lit Event Listener into their dApp, subscribe الى على-chain actions و automate ال responses through triggered callback functions و ال use من PKPs (Programmable Key Pairs)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في simpler terms, currently users must sign every على-chain interaction within a dAPP. This has been essential لـ maintaining personal wallet autonomy و asset ownership, however, it has also often caused major UX pitfalls لـ onboarding و familiarizing جديد users مع products و tooling within web3 و في many cases preventable wallet drainings through accidental signing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Until recently, there has been no secure و intuitive alternatives لـ comprehensible account abstraction that still maintains individual determination و حوكمة — essential within ال era من ذكاء اصطناعي generated content, deep fakes و misinformation, where signed messages are one من, if not ال only, secure mechanisms لـ preserving و authenticating truthful account interactions. ال need لـ conditional cryptographic signing و novel approaches الى سوشيال coordination is paramount لـ building scalable self-sovereign web3 فاشون, creator, ذكاء اصطناعي و local production driven industries."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع this SDK و Lit’s framework, cryptographic thresholds can be set مع predefined conditions و strategies that automate ال signing من transactions على-chain within scoped contracts و environments."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع support لـ both browser و nodejs, here is a diagrammatic overview لـ a deeper perspective into ال initial architecture:"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*rNjL-58ahOf_K88N1Csz9w.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال Labyrinth SDK extends على و makes use من ال Event Listener SDK الى translate threshold cryptography into conditions based على-chain quests و سوشيال graphs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here, clusters من على و off chain interactions can be specified as sub-milestones و checkpoints that when completed unlock personal على-chain assets. Conditions based cryptography ensures that quest-challengers only access information or assets if they meet specific conditions, whether earned or pre-defined."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Labyrinth serves as a platform لـ micro brands, designers و ابداعي consumers الى develop و showcase their own content, products و messages within dynamic experiences, where loyalty و personal stake is made more engaging through game-like mechanisms, و rewarded both intrinsically و extrinsically over time. It also directly supports designers who choose الى build their own autonomous worlds و الى reward user interactions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال first demo من Labyrinth’s capabilities will be shown through Chromadin, و extended على through ال Dial, combining decentralized سوشيال media interactions و financial transactions من apparel و print NFT storefronts into questified data مع relevant value لـ creators, developers, LLM compute grant givers, و consumers alike."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*JVerx_IvmM8nN0bI7j396g.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الى be released mid next month at ال completion من ال Chainlink Spring hackathon is Legend. Legend builds على لينز بروتوكول و uses Chainlink’s dynamic NFT architecture و Verifiable Random Function (VRF) الى offer a P2P grant framework لـ promoting more effective, informed, instant و reliable allocations من grants و resources within web3."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here, builders, projects, creators و designers can make بوستات الى لينز بروتوكول detailing their proposed grant along مع ال individual contributor allotment, mirror based referral % و evolving gen ذكاء اصطناعي NFT metadata. When these بوستات are collected لـ their specified amount, و proliferated through mirrors, a referral fee % من ال final grant amount is awarded. ال interlinked dynamic NFT evolves (random or pre-sequenced) الى include specific data من ال profiles من collectors و mirrorers creating a unique و shared narrative من ال project’s journey. As contributions are translated into public على-chain patronage و visual emblems من support, buy-في الى grant seekers ultimate success becomes more من a سوشيال coordination effort, expanding ال range من ازاي many participants can benefit من grants لـ web3 public goods."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*iEAXY2BAyXChJvwf83o-6w.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s long past time لـ us all الى rethink ال فاشون industry, peeling back ال tech, manufacturing, business, media, و ابداعي layers that hold it together. By developing و sharing advanced open-source tools, we cross a threshold into something entirely جديد. في this era, defined by artificial intelligence, many multiplying screens everywhere, و machine-led manufacturing, it’s becoming unavoidable الى recognize just ازاي important it is لـ each من us الى have control over our tech, financial freedom, و ابداعي expression."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s not just about keeping up مع ال pace من change or staying ahead من ال curve anymore. It’s about reshaping ال curve entirely, threading our own path through ال fabric من ال future."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Have اسئلة or wanna chat more about what’s being built? We’re most active على لينز, Github و Discord :)"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up الى تاريخ مع Web3 فاشون:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "لينز"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الأساسي"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        }
+      ]
+    }
+  }
+}

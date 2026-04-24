@@ -1,0 +1,441 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-59",
+  "date": "2022-05-15",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 59",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 59"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*7YqOurXXttYlaa6m.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Does the implosion of LUNA mean crypto / web3 / NFTs are dead?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In short, no. It’s an isolated product that doesn’t reflect much in terms of the core Ethereum based ecosystem. However, people’s live have been heavily affected. To follow from Vitalik’s tweet, the right move after this event is not to pull the arbitrary and hamfisted regulation card that only serves beltway and wall street insiders. Instead it’s about doubling down on better tools, resources, awareness and education for which projects are doing it right (i.e. real web3 rooted in transparent self sovereign networks) and which projects have incendiary red flags."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*C1SilHT6jMFrNs4MsVQDEA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s upcoming for the ecosystem — new roadmap?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The full roadmap ahead was released yesterday with a clear action plan detailing out DIGITALAX’s core priorities and focus. This complements every milestone that we have accomplished so far, and also the recent whitepaper V3."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Some community members have reached out and asked why $MONA wasn’t more explicitly detailed out in the paper for how it fits into everything to come. To some extent, that’s because from our perspective it is already clear that $MONA is the essential token mechanism which powers the entire ecosystem, but also, this roadmap and the V3 whitepaper are intentionally meant to be much lighter reads than some of the in depth publications we’ve made before. You’ll see this aesthetic also reflected in the soon to be released new homepage."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Sometimes, less is more."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "However, we would also say, stay on the lookout because more can be more too. And there is much more to come."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "First impressions of Miladys definitely signaled that it came from and was influenced by some of the weirder parts of web culture. Not going to pretend that any of us fully got it. But, rather, put it on the shelf as one of those things to look more closely at when the time came. Well, it looks like the time has come. And that time is filled with double take WTFs."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*5f75rAnbvZH6iw8h2S2Ixw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "wen lens mainnet?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "soon plz."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*gSw1S2DO-qU8Pe5eFp9Chw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 59",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 59"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*7YqOurXXttYlaa6m.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Does el implosion de LUNA mean crypto / web3 / NFTs are dead?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en short, no. It’s an isolated product that doesn’t reflect much en terms de el core Ethereum based ecosistema. However, people’s live have been heavily affected. a follow de Vitalik’s tweet, el right move after this event is not a pull el arbitrary y hamfisted regulation card that only serves beltway y wall street insiders. Instead it’s about doubling down en better tools, resources, awareness y education para which projects are doing it right (i.e. real web3 rooted en transparent self sovereign networks) y which projects have incendiary red flags."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*C1SilHT6jMFrNs4MsVQDEA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat pregunta"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s upcoming para el ecosistema — nuevo roadmap?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el full roadmap ahead was released yesterday con a clear action plan detailing out DIGITALAX’s core priorities y focus. This complements every milestone that we have accomplished so far, y also el recent whitepaper V3."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Some comunidad members have reached out y asked por que $MONA wasn’t more explicitly detailed out en el paper para como it fits into everything a come. a some extent, that’s because de our perspective it is already clear that $MONA is el essential token mechanism which powers el entire ecosistema, but also, this roadmap y el V3 whitepaper are intentionally meant a be much lighter reads than some de el en depth publications we’ve made before. You’ll see this aesthetic also reflected en el soon a be released nuevo homepage."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A veces, menos es más."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "However, we would also say, stay en el lookout because more can be more too. y there is much more a come."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "First impressions de Miladys definitely signaled that it came de y was influenced by some de el weirder parts de web culture. Not going a pretend that any de us fully got it. But, rather, put it en el shelf as one de those things a look more closely at when el time came. Well, it looks like el time has come. y that time is filled con double take WTFs."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*5f75rAnbvZH6iw8h2S2Ixw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "¿cuándo lens mainnet?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "pronto, porfa."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*gSw1S2DO-qU8Pe5eFp9Chw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todo el FUD FAQ aquí."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX Discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 59",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 59"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*7YqOurXXttYlaa6m.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Does ال implosion من LUNA mean crypto / web3 / NFTs are dead?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في short, no. It’s an isolated product that doesn’t reflect much في terms من ال core Ethereum based النظام. However, people’s live have been heavily affected. الى follow من Vitalik’s tweet, ال right move after this event is not الى pull ال arbitrary و hamfisted regulation card that only serves beltway و wall street insiders. Instead it’s about doubling down على better tools, resources, awareness و education لـ which projects are doing it right (i.e. real web3 rooted في transparent self sovereign networks) و which projects have incendiary red flags."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*C1SilHT6jMFrNs4MsVQDEA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat سؤال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s upcoming لـ ال النظام — جديد roadmap?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال full roadmap ahead was released yesterday مع a clear action plan detailing out DIGITALAX’s core priorities و focus. This complements every milestone that we have accomplished so far, و also ال recent whitepaper V3."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Some المجتمع members have reached out و asked ليه $MONA wasn’t more explicitly detailed out في ال paper لـ ازاي it fits into everything الى come. الى some extent, that’s because من our perspective it is already clear that $MONA is ال essential token mechanism which powers ال entire النظام, but also, this roadmap و ال V3 whitepaper are intentionally meant الى be much lighter reads than some من ال في depth publications we’ve made before. You’ll see this aesthetic also reflected في ال soon الى be released جديد homepage."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أوقات القليل بيكون أحسن."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "However, we would also say, stay على ال lookout because more can be more too. و there is much more الى come."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم الجدل في المجال"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "First impressions من Miladys definitely signaled that it came من و was influenced by some من ال weirder parts من web culture. Not going الى pretend that any من us fully got it. But, rather, put it على ال shelf as one من those things الى look more closely at when ال time came. Well, it looks like ال time has come. و that time is filled مع double take WTFs."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*5f75rAnbvZH6iw8h2S2Ixw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "wen لينز mainnet?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "قريب إن شاء الله."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*gSw1S2DO-qU8Pe5eFp9Chw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوفوا كل بوستات FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX Discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

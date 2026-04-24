@@ -1,0 +1,531 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-19",
+  "date": "2021-08-08",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 19",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 19"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*kCruKDszOcCxKI2K.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "How can I support $MONA whitelisting on Bancor Protocol?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We go to snapshot vote in just a few hours for whitelisting $MONA token on Bancor AMM with a 150K BNT co-investment proposal. This will allow for single sided $MONA staking with BNT rewards! Last time we were so close (99.44% in favor). Let’s all do our part to reach quorum and bring it home!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In order to vote for or against the $MONA whitelisting on Bancor you will need to stake your vBNT. Follow the instructions here;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Go to the “Swap” tab on the Bancor page and connect with your wallet. If you already hold BNT tokens, you can swap them for vBNT on this page. (2 transactions — approve and confirm). If you don’t own any BNT yet, you can directly purchase vBNT tokens (you can also go through a more complicated route via ETH/USDT/USDC >> BNT >> vBNT)."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "For voting itself, please click on the button “Vote” on the right of the very same page or click this link: https://vote.bancor.network/#/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Snapshot date: August 8th at 5:00AM PST / 12:00 PM UTC / 2:00 PM CET"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "*You must be staking your vBNT prior to this date and time to participate in voting."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can see the full proposal here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Questions"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "How can I register for Web3 Fashion Week?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The full schedule for Web3 Fashion Week is being announced shortly. In the meantime you can register for a FREE TICKET here. W3FW is 5 jam packed days for all things web3, digital fashion, physical fashion, NFTs, DeFi, crypto and more. We have 50+ speakers joining us for insightful panel discussions and keynotes, 15 leading DeFi protocols running 101 breakdown sessions for creators and hundreds of highly skilled designers launching NFT collections on the DIGITALAX Polygon marketplaces."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There will also be giveaways and unique POAPs issued throughout the week!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One of the most exciting parts of the whole event is the Global Designer Network DAO Auction. You can read more about the on-chain initiation of the GDN DAO here and why this is such a significant event for the entirety of web3."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Spread the word far and wide! It’s a great week to introduce people into the crazy world of web3 and have them exposed to all of the most significant facets of it."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As most of us have probably heard, one of the most critical crypto regulation vs innovation controversies is currently undergoing debate by the US Senate. A poorly written provision included in the must-pass bipartisan infrastructure package is broadening the definition of what is considered a “broker” to also include miners, devs, engineers, stakers and anyone else interacting with the crypto economy who regularly transfers digital assets i.e. almost everyone is included under this, forcing them to turn over information to the IRS and so imposing almost unworkable reporting requirements."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is a balance to be had between the interest by regulators, policy makers, governments in wanting to provide more accurate and better reporting methods for financial transactions within crypto in order to reduce scams, hacks or other user-harmful use cases. However, when this is approached in a way that threatens to destruct the entire web3 ecosystem and everyone within it, it completely runs counters to what was being set out to protect in the first place. In fact, it creates a whole cascade of both obvious and hidden vulnerabilities that are far more dire to the entire economy, destroying any potential of building a decentralised internet for realising the unfilled promise of our current system. Crypto, blockchain, DeFi, NFTs are all tools that can be leveraged by anyone to create their own self sustaining path to a better life and tangible value."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Thoughtful regulations are required to further support the space, rather than the implementation of brick and mortar rules that fail to understand or address how the technology works."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you are located in the US, make sure to ring your Senator and show support for the Wyden, Toomey, and Lummis amendment. Check out this article for more details:"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*1hMSY8w_y65KXx4rmCQEng.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ihN276nTxGBdFezFYmboyw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you want to understand more about how to describe the metaverse, watch this….😆😆🤣🤣🥸😳😳🤥😵‍💫"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 19",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 19"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*kCruKDszOcCxKI2K.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "como can I support $MONA whitelisting en Bancor protocolo?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We go a snapshot vote en just a few hours para whitelisting $MONA token en Bancor AMM con a 150K BNT co-investment proposal. This will allow para single sided $MONA staking con BNT rewards! Last time we were so close (99.44% en favor). Let’s all do our part a reach quorum y bring it home!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en order a vote para or against el $MONA whitelisting en Bancor you will need a stake your vBNT. Follow el instructions here;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Go a el “Swap” tab en el Bancor page y connect con your wallet. If you already hold BNT tokens, you can swap them para vBNT en this page. (2 transactions — approve y confirm). If you don’t own any BNT yet, you can directly purchase vBNT tokens (you can also go through a more complicated route via ETH/USDT/USDC >> BNT >> vBNT)."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "para voting itself, please click en el button “Vote” en el right de el very same page or click this link: https://vote.bancor.network/#/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Snapshot fecha: August 8th at 5:00AM PST / 12:00 PM UTC / 2:00 PM CET"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "*You must be staking your vBNT prior a this fecha y time a participate en voting."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can see el full proposal here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Preguntas repetidas"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "como can I register para Web3 moda semana?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el full schedule para Web3 moda semana is being announced shortly. en el meantime you can register para a FREE TICKET here. W3FW is 5 jam packed days para all things web3, digital moda, physical moda, NFTs, DeFi, crypto y more. We have 50+ speakers joining us para insightful panel discussions y keynotes, 15 leading DeFi protocols running 101 breakdown sessions para creators y hundreds de highly skilled designers launching NFT collections en el DIGITALAX Polygon marketplaces."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There will also be giveaways y unique POAPs issued throughout el semana!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One de el most exciting parts de el whole event is el Global Designer Network DAO Auction. You can read more about el en-chain initiation de el GDN DAO here y por que this is such a significant event para el entirety de web3."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Spread el word far y wide! It’s a great semana a introduce people into el crazy world de web3 y have them exposed a all de el most significant facets de it."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies en el Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As most de us have probably heard, one de el most critical crypto regulation vs innovation controversies is currently undergoing debate by el US Senate. A poorly written provision included en el must-pass bipartisan infrastructure package is broadening el definition de what is considered a “broker” a also include miners, devs, engineers, stakers y anyone else interacting con el crypto economy who regularly transfers digital assets i.e. almost everyone is included under this, forcing them a turn over information a el IRS y so imposing almost unworkable reporting requirements."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is a balance a be had between el interest by regulators, policy makers, governments en wanting a provide more accurate y better reporting methods para financial transactions within crypto en order a reduce scams, hacks or other user-harmful use cases. However, when this is approached en a way that threatens a destruct el entire web3 ecosistema y everyone within it, it completely runs counters a what was being set out a protect en el first place. en fact, it creates a whole cascade de both obvious y hidden vulnerabilities that are far more dire a el entire economy, destroying any potential de building a decentralised internet para realising el unfilled promise de our current system. Crypto, blockchain, DeFi, NFTs are all tools that can be leveraged by anyone a create their own self sustaining path a a better life y tangible value."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Thoughtful regulations are required a further support el space, rather than el implementation de brick y mortar rules that fail a understand or address como el technology works."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you are located en el US, make sure a ring your Senator y show support para el Wyden, Toomey, y Lummis amendment. Check out this article para more details:"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*1hMSY8w_y65KXx4rmCQEng.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ihN276nTxGBdFezFYmboyw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you want a understand more about como a describe el metaverse, watch this….😆😆🤣🤣🥸😳😳🤥😵‍💫"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 19",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 19"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*kCruKDszOcCxKI2K.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ازاي can I support $MONA whitelisting على Bancor بروتوكول?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We go الى snapshot vote في just a few hours لـ whitelisting $MONA token على Bancor AMM مع a 150K BNT co-investment proposal. This will allow لـ single sided $MONA staking مع BNT rewards! Last time we were so close (99.44% في favor). Let’s all do our part الى reach quorum و bring it home!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في order الى vote لـ or against ال $MONA whitelisting على Bancor you will need الى stake your vBNT. Follow ال instructions here;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Go الى ال “Swap” tab على ال Bancor page و connect مع your wallet. If you already hold BNT tokens, you can swap them لـ vBNT على this page. (2 transactions — approve و confirm). If you don’t own any BNT yet, you can directly purchase vBNT tokens (you can also go through a more complicated route via ETH/USDT/USDC >> BNT >> vBNT)."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "لـ voting itself, please click على ال button “Vote” على ال right من ال very same page or click this link: https://vote.bancor.network/#/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Snapshot تاريخ: August 8th at 5:00AM PST / 12:00 PM UTC / 2:00 PM CET"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "*You must be staking your vBNT prior الى this تاريخ و time الى participate في voting."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can see ال full proposal here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most الاسئلة المتكررة"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ازاي can I register لـ Web3 فاشون اسبوع?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال full schedule لـ Web3 فاشون اسبوع is being announced shortly. في ال meantime you can register لـ a FREE TICKET here. W3FW is 5 jam packed days لـ all things web3, ديجيتال فاشون, physical فاشون, NFTs, DeFi, crypto و more. We have 50+ speakers joining us لـ insightful panel discussions و keynotes, 15 leading DeFi protocols running 101 breakdown sessions لـ creators و hundreds من highly skilled designers launching NFT collections على ال DIGITALAX Polygon marketplaces."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There will also be giveaways و unique POAPs issued throughout ال اسبوع!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One من ال most exciting parts من ال whole event is ال Global Designer Network DAO Auction. You can read more about ال على-chain initiation من ال GDN DAO here و ليه this is such a significant event لـ ال entirety من web3."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Spread ال word far و wide! It’s a great اسبوع الى introduce people into ال crazy world من web3 و have them exposed الى all من ال most significant facets من it."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies في ال Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As most من us have probably heard, one من ال most critical crypto regulation vs innovation controversies is currently undergoing debate by ال US Senate. A poorly written provision included في ال must-pass bipartisan infrastructure package is broadening ال definition من what is considered a “broker” الى also include miners, devs, engineers, stakers و anyone else interacting مع ال crypto economy who regularly transfers ديجيتال assets i.e. almost everyone is included under this, forcing them الى turn over information الى ال IRS و so imposing almost unworkable reporting requirements."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is a balance الى be had between ال interest by regulators, policy makers, governments في wanting الى provide more accurate و better reporting methods لـ financial transactions within crypto في order الى reduce scams, hacks or other user-harmful use cases. However, when this is approached في a way that threatens الى destruct ال entire web3 النظام و everyone within it, it completely runs counters الى what was being set out الى protect في ال first place. في fact, it creates a whole cascade من both obvious و hidden vulnerabilities that are far more dire الى ال entire economy, destroying any potential من building a decentralised internet لـ realising ال unfilled promise من our current system. Crypto, blockchain, DeFi, NFTs are all tools that can be leveraged by anyone الى create their own self sustaining path الى a better life و tangible value."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Thoughtful regulations are required الى further support ال space, rather than ال implementation من brick و mortar rules that fail الى understand or address ازاي ال technology works."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you are located في ال US, make sure الى ring your Senator و show support لـ ال Wyden, Toomey, و Lummis amendment. Check out this article لـ more details:"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*1hMSY8w_y65KXx4rmCQEng.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ihN276nTxGBdFezFYmboyw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you want الى understand more about ازاي الى describe ال metaverse, watch this….😆😆🤣🤣🥸😳😳🤥😵‍💫"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1341 @@
+{
+  "slug": "the-all-in-one-creative-editor",
+  "date": "2023-02-06",
+  "translations": {
+    "en": {
+      "title": "The All In One Creative Editor",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "The All In One Creative Editor"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*EJ3S_0TmWHo3cJoWXacSBQ.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "“Language is the technology from which all others spread, and you’ve already got it for free.”"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "— How To Invent Everything — A Survival Guide for the Standard Time Traveler"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This language is strikingly visual, at first look."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "6 short months is all it took to obliterate the distance between self-directed creativity and commercial reality."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "On August 22nd, 2022, Stable Diffusion made its public debut. Even more recently, on November 30th, 2022, joined the fray. In the short time since our worlds have changed in deep and profound ways most of us haven’t grappled with yet."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The common thread isn’t obvious. It describes where we’ve been. How far we’ve come. How we got here. Where we are now… It even gives a glimpse of what happens next, and why human input, economic independence, and self-determination remain required, now more than ever."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Connecting all at once through encrypted, decentralized communication at a distance, persistent interfaces, new social platforms, creative AI synth models, and, while it’s early still, the start of a global restructuring of where manufacturing takes place — along with how it’s done, who has access, and who owns and operates the means of creation, consumption, production, distribution and commerce."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These are technologies that give our words more tangible power than thoughts and intentions alone. Not far away, at unapproachable scale, or theoretical any longer."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It starts with discoverability, through a blank canvas, and a simple button."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A New Way To Use FGO: AOP Templates"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can imagine how time consuming it would be to do all of this by hand. For aeons, the intricacy of patterns that could decorate and carry messages on fabric was limited by the small number of inks available, painstaking artisanal skill with needle and thread and loom needed, how quickly dyes soaked into threads or applied on cloth after fabrication would decay, flake, and smudge, and sharp limits in expressiveness, constrained by what we would call resolution or fidelity today. There weren’t a lot of ways to arrange large dots or weave threads together, for a long time before very modern machines, to transfer all of what you might imagine onto your canvas of choice."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "All Over Prints, made available in recent years by web-based Print on Demand services, promise to democratize creativity and reduce the upfront cost of inventory. But like so much else from the “sharing economy” and Web2.0 big tech era, there are critical bits missing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One of those is scaffolding for the creative process. Of a kind where when we say removing barriers to the creative economy for everyone, it doesn’t just mean social media influencers with behind the scenes teams and ad budgets."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "AOP templates, accessible as a mask for design placements, with a few simple button clicks in an all-in-one creative editor interface, might not seem like such a big deal. But sometimes the biggest changes rise from the smallest details. This initial AOP template collection is stored persistently, as SVGs, as a new building block for Flexible Garment Ownership. They will be available to test for yourself within The Dial’s upcoming beta release."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Sneak Peeks from The Dial Interface"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Lm7t1NkxXltjI1AUMtotCQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Landing & Search Scanner"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*f9vlQJvTrZIUVAsZsEKPJg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Inspiration & Curation Synth Search"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*kbU3UYIyzvY1WAfxHai5VQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Synth and Preset Options"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*K6_YUpMdb-E9WXJNAsl0EQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Post Feed Timeline"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Y5PMv_qsv-OGcR6oxIae6Q.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Curated Mixtapes Editor"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*wDVjxqkaOpcF_bnx6KFaMQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Xmtp Encrypted Direct Messages"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*tb__NfsrtkaCnWKGUfhc5A.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Account Notifications & Mentions"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*hqr_bAvWzDp7SIY6wDUCcQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Custom Draw & Synth Canvas"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A Multiplatform Interface for Creative AI"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In keeping with the theme of collaboration between humans and AI, let’s ask ChatGPT what “an all in one creative editor” means:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“An “all in one creative editor” is a software application that provides a comprehensive and integrated set of tools for designing, editing and creating various forms of digital content, including images, graphics, videos, audio, and text. This type of software aims to provide a unified platform that allows users to perform all necessary tasks for content creation within the same application, eliminating the need for multiple separate tools.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’ve seen or used a plugin for Stable Diffusion integration into Photoshop, Figma, etc, you get it. What’s missing from this current available crop of AI enhanced design editor apps and interfaces is a bit of a trilemma."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Most of them are proprietary, kept exclusive to a self styled creative elite behind expensive price walls, with a history of arbitrary anti-user policies. The power of latent synth and large language models is too great to not be persistently open source and available for all to run on your own machines. Local or virtual."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Even the open source options are very limited. You wouldn’t depend on MS-Paint to deliver the kinds of features and UX you’d expect in Affinity or Sketch. Even open source design apps that have been competitive alternatives to paid tools for years weren’t built with the unique capacities of AI in mind. Content discoverability, promptcraft, the dynamism of what makes editing different in a synth machine process, guidance on how to make use of growing access to GPUs through compute APIs, web3 commerce, and content collectability…"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "It all demands a new approach to interfaces and apps, from the start."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "One made by creators, for creators, and where “ creators” includes the vast masses of consumers who never thought they could gain equal access to the means of creation, production and trade."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "You can’t really use them effectively, wherever you want to go. Older creative editors have too many legacy users, niche use cases, and internal stakeholders who defend their patch of product territory against market innovation. This usually leads to overengineered, stale and bloated code."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "In contrast, The Dial is the first of three releases that can best be understood as facets of an all in one creative editor solution. A Rust based desktop version and a Blender plugin are also in development."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You Don’t Realize You Need Decentralized Social, Until You Do"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Let’s check in with ChapGPT again:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“The saying “You don’t realize you need decentralization, until you do” means that people often do not understand the importance of having a decentralized system until they face problems with a centralized system. Decentralization is a key principle in which power and control are distributed among many actors instead of being held in a single central authority. It is usually only when a centralized system fails, becomes compromised, or is no longer able to meet the needs of its users that the benefits of decentralization become clear.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The Dial is a web3 social + creative AI canvas, built on Lens Protocol. Bet you didn’t know you needed that, yet."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With it, you can do all of the usual read, publish, react, follow, mirror, and collect activity you would expect on a Lens based network. You can also discover content made with Stable Diffusion, use secure private messaging via XMTP, and own your social graph."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There are a few things about it that give it a different focus from the other decentralized social apps we know and love. The most important (and obvious after reading this far) is the integrated canvas. You can create new designs, images, and even fashion styles from within the editor and publish them as future memories on your timeline. This is where the AOP templates button lives."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What Does This Mean for the Web3 Fashion Ecosystem?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX builds, in the public domain, everything needed to shorten the distance between discovery, creation, production, and commerce. Fashion is what brings us all together. If it weren’t for decentralization, none of it would be possible."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With these new releases we are expanding opportunities for creators anywhere online (and increasingly IRL) to make independent use of web3 fashion NFTs, tokens, and all of the tools we’ve made available up until now, within the ecosystem and beyond."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is still early in web3, and the metaverse feels less hyped than it did a year ago (although that’s likely to change again soon)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That said, we’ve just seen in the last 6 months what happens when a technology that has everything it takes to transform every industry, but isn’t yet really understood by enough people in good faith, “suddenly” crosses its unique usability threshold and takes off."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The Stable Diffusion developer ecosystem practically caught up with Ethereum in just 90 days. ( https://twitter.com/PeterDiamandis/status/1595495173030612992 )"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ChatGPT is the fastest product ever to hit 100 million users. ( https://arstechnica.com/information-technology/2023/02/chatgpt-sets-record-for-fastest-growing-user-base-in-history-report-says/ )"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Unbundling the longest running technology industry in human history (starting anywhere from 40,000 to 3 million years ago, depending on how you cut and thread it), remains the most foundational and accessible path to market success aligned with user owned, self-directed, open source, and explicitly cypherpunk principles imaginable."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "( https://en.wikipedia.org/wiki/History_of_clothing_and_textiles )"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Hyperlocal Autonomation (or, Jidōka Co•ops)"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A bit more about history. You probably already know something about punch bands, punched cards, Bouchon, Jacquard, Babbage, Lovelace, and how the history of modern computing is interwoven with fashion production technology."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://en.wikipedia.org/wiki/History_of_computing_hardware"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s the connections between these two extending into a third category of machine use that isn’t talked about enough. Modern manufacturing owes a lot to textiles and automation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One of the most interesting and useful stories we can learn from is where Toyota, and its manufacturing methods, came from."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In 1926, Sakichi Toyoda founded the Toyoda Automatic Loom Works, a transformative force in the development of automated looms. He’s remembered as one of the leaders of the Japanese industrial revolution and one of the most impactful technologists (or people in general) in Japanese history, with far reaching relevance to manufacturing of textiles, machines, and motor vehicles of all kinds."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://www.toyota-industries.com/company/history/toyoda_sakichi/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Autonomation, known also as Jidōka, owes its start to Toyoda’s (and later Toyota’s) efforts to improve efficiency, reduce waste, and empower human workers in the closest position to solve problems in the production process as they happen (Just In Time). It can be described as “automation with a human touch”."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At a time when manufacturing is going through a global reshoring, decentralization changes the viability of production at hyperlocal scales, and AI is quickly integrated into everything, we don’t need to reinvent the wheel to keep human creators in the loop. Instead, continuing to obliterate the barriers to creation, production, and commerce for self-coordinating web3 creators will benefit from a deeper look at Jidōka in practice."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can look forward to it being a thread we come back to often as more support for latent, virtual, and IRL microfactory co•ops is developed within the ecosystem."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A New Collection Release Just In Time for NYFW"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*K4Cy3t4ZX0olPpA2X5ruxw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*QKByZyYSqnU-nGPsHf70oA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*NeXKzOsOtfEHT0rLRQSMSw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*aiWqdvTblrdPizXKYlKxlQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*lJm1vYEnEZU3BdRNcG4Nlw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*oGGjSrWvCQurcxccUEHKYQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*nqVx2YR_TJkcLJ_ukXfIUg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*yOUKbZ7-WAjoAxtDmSwaAA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*Rgw_ffQ1m6z15pwyGeiR6g.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*W6FNL6SYr-hS-DpEz4z56A.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*EF_wJ12fDcI-u_c6E1b2Eg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Featuring 23 unique looks that showcase a variety of all-over-print hoodies, shirts and tees, this latest collection of cc0 web3 fashion translates these synths into AOP on-chain FGO SVG templates for streamlined fulfillment and physical production — a process to be revealed with the beta release of The Dial and its canvas feature."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The complete Jidōka Imprint collection can be previewed with templates in hand on the DIGITALAX flagship site, coinciding with the start of Fashion Week, and featured in the new 24/7 latent looks streams across the DIGITALAX and F3M channels."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up to Date with Web3 Fashion:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Flagship"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        }
+      ]
+    },
+    "es": {
+      "title": "El editor creativo todo en uno",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "El editor creativo todo en uno"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*EJ3S_0TmWHo3cJoWXacSBQ.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "“Language is el technology de which all others spread, y you’ve already got it para free.”"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "— como a Invent Everything — A Survival Guide para el Standard Time Traveler"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Este lenguaje es sorprendentemente visual a primera vista."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "6 short months is all it took a obliterate el distance between self-directed creativity y commercial reality."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en August 22nd, 2022, Stable Diffusion made its public debut. Even more recently, en November 30th, 2022, joined el fray. en el short time since our worlds have changed en deep y profound ways most de us haven’t grappled con yet."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el common hilo isn’t obvious. It describes where we’ve been. como far we’ve come. como we got here. Where we are now… It even gives a glimpse de what happens next, y por que human input, economic independence, y self-determination remain required, now more than ever."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Connecting all at once through encrypted, decentralized communication at a distance, persistent interfaces, nuevo social platforms, creativo ia synth models, y, while it’s early still, el start de a global restructuring de where manufacturing takes place — along con como it’s done, who has access, y who owns y operates el means de creation, consumption, production, distribution y commerce."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These are technologies that give our words more tangible power than thoughts y intentions alone. Not far away, at unapproachable scale, or theoretical any longer."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It starts con discoverability, through a blank canvas, y a simple button."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A nuevo Way a Use FGO: AOP Templates"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can imagine como time consuming it would be a do all de this by hand. para aeons, el intricacy de patterns that could decorate y carry messages en fabric was limited by el small number de inks available, painstaking artisanal skill con needle y hilo y loom needed, como quickly dyes soaked into threads or applied en cloth after fabrication would decay, flake, y smudge, y sharp limits en expressiveness, constrained by what we would call resolution or fidelity today. There weren’t a lot de ways a arrange large dots or weave threads together, para a long time before very modern machines, a transfer all de what you might imagine onto your canvas de choice."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "All Over Prints, made available en recent years by web-based Print en Demand services, promise a democratize creativity y reduce el upfront cost de inventory. But like so much else de el “sharing economy” y Web2.0 big tech era, there are critical bits missing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One de those is scaffolding para el creativo process. de a kind where when we say removing barriers a el creativo economy para everyone, it doesn’t just mean social media influencers con behind el scenes teams y ad budgets."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "AOP templates, accessible as a mask para design placements, con a few simple button clicks en an all-en-one creativo editor interface, might not seem like such a big deal. But sometimes el biggest changes rise de el smallest details. This initial AOP template collection is stored persistently, as SVGs, as a nuevo building block para Flexible Garment Ownership. They will be available a test para yourself within el Dial’s upcoming beta release."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Sneak Peeks de el Dial Interface"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Lm7t1NkxXltjI1AUMtotCQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Escáner de landing y búsqueda"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*f9vlQJvTrZIUVAsZsEKPJg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Búsqueda synth de inspiración y curación"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*kbU3UYIyzvY1WAfxHai5VQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Synth y Preset Options"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*K6_YUpMdb-E9WXJNAsl0EQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "publicacion Feed Timeline"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Y5PMv_qsv-OGcR6oxIae6Q.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Curated Mixtapes editor"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*wDVjxqkaOpcF_bnx6KFaMQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Mensajes directos cifrados con Xmtp"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*tb__NfsrtkaCnWKGUfhc5A.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Notificaciones y menciones de cuenta"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*hqr_bAvWzDp7SIY6wDUCcQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Lienzo de dibujo y synth personalizado"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A Multiplatform Interface para creativo ia"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en keeping con el theme de collaboration between humans y ia, let’s ask ChatGPT what “an all en one creativo editor” means:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“An “all en one creativo editor” is a software application that provides a comprehensive y integrated set de tools para designing, editing y creating various forms de digital content, including images, graphics, videos, audio, y text. This type de software aims a provide a unified platform that allows users a perform all necessary tasks para content creation within el same application, eliminating el need para multiple separate tools.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’ve seen or used a plugin para Stable Diffusion integration into Photoshop, Figma, etc, you get it. What’s missing de this current available crop de ia enhanced design editor apps y interfaces is a bit de a trilemma."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Most de them are proprietary, kept exclusive a a self styled creativo elite behind expensive price walls, con a history de arbitrary anti-user policies. el power de latent synth y large language models is too great a not be persistently open source y available para all a run en your own machines. Local or virtual."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Even el open source options are very limited. You wouldn’t depend en MS-Paint a deliver el kinds de features y UX you’d expect en Affinity or Sketch. Even open source design apps that have been competitive alternatives a paid tools para years weren’t built con el unique capacities de ia en mind. Content discoverability, promptcraft, el dynamism de what makes editing different en a synth machine process, guidance en como a make use de growing access a GPUs through compute APIs, web3 commerce, y content collectability…"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "It all demands a nuevo approach a interfaces y apps, de el start."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "One made by creators, para creators, y where “ creators” includes el vast masses de consumers who never thought they could gain equal access a el means de creation, production y trade."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "You can’t really use them effectively, wherever you want a go. Older creativo editors have too many legacy users, niche use cases, y internal stakeholders who defend their patch de product territory against market innovation. This usually leads a overengineered, stale y bloated code."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "en contrast, el Dial is el first de three releases that can best be understood as facets de an all en one creativo editor solution. A Rust based desktop version y a Blender plugin are also en development."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You Don’t Realize You Need Decentralized social, Until You Do"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Let’s check en con ChapGPT again:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“el saying “You don’t realize you need decentralization, until you do” means that people often do not understand el importance de having a decentralized system until they face problems con a centralized system. Decentralization is a key principle en which power y control are distributed among many actors instead de being held en a single central authority. It is usually only when a centralized system fails, becomes compromised, or is no longer able a meet el needs de its users that el benefits de decentralization become clear.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el Dial is a web3 social + creativo ia canvas, built en lens protocolo. Bet you didn’t know you needed that, yet."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "con it, you can do all de el usual read, publish, react, follow, mirror, y collect activity you would expect en a lens based network. You can also discover content made con Stable Diffusion, use secure private messaging via XMTP, y own your social graph."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There are a few things about it that give it a different focus de el other decentralized social apps we know y love. el most important (y obvious after reading this far) is el integrated canvas. You can create nuevo designs, images, y even moda styles de within el editor y publish them as future memories en your timeline. This is where el AOP templates button lives."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What Does This Mean para el Web3 moda ecosistema?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX builds, en el public domain, everything needed a shorten el distance between discovery, creation, production, y commerce. moda is what brings us all together. If it weren’t para decentralization, none de it would be possible."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "con these nuevo releases we are expanding opportunities para creators anywhere online (y increasingly IRL) a make independent use de web3 moda NFTs, tokens, y all de el tools we’ve made available up until now, within el ecosistema y beyond."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is still early en web3, y el metaverse feels less hyped than it did a year ago (although that’s likely a change again soon)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That said, we’ve just seen en el last 6 months what happens when a technology that has everything it takes a transform every industry, but isn’t yet really understood by enough people en good faith, “suddenly” crosses its unique usability threshold y takes off."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el Stable Diffusion developer ecosistema practically caught up con Ethereum en just 90 days. ( https://twitter.com/PeterDiamandis/status/1595495173030612992 )"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ChatGPT is el fastest product ever a hit 100 million users. ( https://arstechnica.com/information-technology/2023/02/chatgpt-sets-record-para-fastest-growing-user-base-en-history-report-says/ )"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Unbundling el longest running technology industry en human history (starting anywhere de 40,000 a 3 million years ago, depending en como you cut y hilo it), remains el most foundational y accessible path a market success aligned con user owned, self-directed, open source, y explicitly cypherpunk principles imaginable."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "( https://en.wikipedia.org/wiki/History_de_clothing_y_textiles )"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Autonomación hiperlocal (o co-ops Jidōka)"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A bit more about history. You probably already know something about punch bands, punched cards, Bouchon, Jacquard, Babbage, Lovelace, y como el history de modern computing is interwoven con moda production technology."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://en.wikipedia.org/wiki/History_de_computing_hardware"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s el connections between these two extending into a third category de machine use that isn’t talked about enough. Modern manufacturing owes a lot a textiles y automation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One de el most interesting y useful stories we can learn de is where Toyota, y its manufacturing methods, came de."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en 1926, Sakichi Toyoda founded el Toyoda Automatic Loom Works, a transformative force en el development de automated looms. He’s remembered as one de el leaders de el Japanese industrial revolution y one de el most impactful technologists (or people en general) en Japanese history, con far reaching relevance a manufacturing de textiles, machines, y motor vehicles de all kinds."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://www.toyota-industries.com/company/history/toyoda_sakichi/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Autonomation, known also as Jidōka, owes its start a Toyoda’s (y later Toyota’s) efforts a improve efficiency, reduce waste, y empower human workers en el closest position a solve problems en el production process as they happen (Just en Time). It can be described as “automation con a human touch”."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At a time when manufacturing is going through a global reshoring, decentralization changes el viability de production at hyperlocal scales, y ia is quickly integrated into everything, we don’t need a reinvent el wheel a keep human creators en el loop. Instead, continuing a obliterate el barriers a creation, production, y commerce para self-coordinating web3 creators will benefit de a deeper look at Jidōka en practice."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can look forward a it being a hilo we come back a often as more support para latent, virtual, y IRL microfactory co•ops is developed within el ecosistema."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A nuevo Collection Release Just en Time para NYFW"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*K4Cy3t4ZX0olPpA2X5ruxw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*QKByZyYSqnU-nGPsHf70oA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*NeXKzOsOtfEHT0rLRQSMSw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*aiWqdvTblrdPizXKYlKxlQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*lJm1vYEnEZU3BdRNcG4Nlw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*oGGjSrWvCQurcxccUEHKYQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*nqVx2YR_TJkcLJ_ukXfIUg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*yOUKbZ7-WAjoAxtDmSwaAA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*Rgw_ffQ1m6z15pwyGeiR6g.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*W6FNL6SYr-hS-DpEz4z56A.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*EF_wJ12fDcI-u_c6E1b2Eg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Featuring 23 unique looks that showcase a variety de all-over-print hoodies, shirts y tees, this latest collection de cc0 web3 moda translates these synths into AOP en-chain FGO SVG templates para streamlined fulfillment y physical production — a process a be revealed con el beta release de el Dial y its canvas feature."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el complete Jidōka Imprint collection can be previewed con templates en hand en el DIGITALAX flagship site, coinciding con el start de moda semana, y featured en el nuevo 24/7 latent looks streams across el DIGITALAX y F3M channels."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up a fecha con Web3 moda:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Principal"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentación"
+        }
+      ]
+    },
+    "ar": {
+      "title": "محرر الابداع الكل في واحد",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "محرر الابداع الكل في واحد"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*EJ3S_0TmWHo3cJoWXacSBQ.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "“Language is ال technology من which all others spread, و you’ve already got it لـ free.”"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "— ازاي الى Invent Everything — A Survival Guide لـ ال Standard Time Traveler"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "اللغة دي بصرية جدًا من أول نظرة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "6 short months is all it took الى obliterate ال distance between self-directed creativity و commercial reality."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "على August 22nd, 2022, Stable Diffusion made its public debut. Even more recently, على November 30th, 2022, joined ال fray. في ال short time since our worlds have changed في deep و profound ways most من us haven’t grappled مع yet."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال common ثريد isn’t obvious. It describes where we’ve been. ازاي far we’ve come. ازاي we got here. Where we are now… It even gives a glimpse من what happens next, و ليه human input, economic independence, و self-determination remain required, now more than ever."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Connecting all at once through encrypted, decentralized communication at a distance, persistent interfaces, جديد سوشيال platforms, ابداعي ذكاء اصطناعي synth models, و, while it’s early still, ال start من a global restructuring من where manufacturing takes place — along مع ازاي it’s done, who has access, و who owns و operates ال means من creation, consumption, production, distribution و commerce."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These are technologies that give our words more tangible power than thoughts و intentions alone. Not far away, at unapproachable scale, or theoretical any longer."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It starts مع discoverability, through a blank canvas, و a simple button."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A جديد Way الى Use FGO: AOP Templates"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can imagine ازاي time consuming it would be الى do all من this by hand. لـ aeons, ال intricacy من patterns that could decorate و carry messages على fabric was limited by ال small number من inks available, painstaking artisanal skill مع needle و ثريد و loom needed, ازاي quickly dyes soaked into threads or applied على cloth after fabrication would decay, flake, و smudge, و sharp limits في expressiveness, constrained by what we would call resolution or fidelity today. There weren’t a lot من ways الى arrange large dots or weave threads together, لـ a long time before very modern machines, الى transfer all من what you might imagine onto your canvas من choice."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "All Over Prints, made available في recent years by web-based Print على Demand services, promise الى democratize creativity و reduce ال upfront cost من inventory. But like so much else من ال “sharing economy” و Web2.0 big tech era, there are critical bits missing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One من those is scaffolding لـ ال ابداعي process. من a kind where when we say removing barriers الى ال ابداعي economy لـ everyone, it doesn’t just mean سوشيال media influencers مع behind ال scenes teams و ad budgets."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "AOP templates, accessible as a mask لـ design placements, مع a few simple button clicks في an all-في-one ابداعي محرر interface, might not seem like such a big deal. But sometimes ال biggest changes rise من ال smallest details. This initial AOP template collection is stored persistently, as SVGs, as a جديد building block لـ Flexible Garment Ownership. They will be available الى test لـ yourself within ال Dial’s upcoming beta release."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Sneak Peeks من ال Dial Interface"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Lm7t1NkxXltjI1AUMtotCQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "ماسح الهبوط والبحث"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*f9vlQJvTrZIUVAsZsEKPJg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "بحث سينث للإلهام والكيريشن"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*kbU3UYIyzvY1WAfxHai5VQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Synth و Preset Options"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*K6_YUpMdb-E9WXJNAsl0EQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "بوست Feed Timeline"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Y5PMv_qsv-OGcR6oxIae6Q.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Curated Mixtapes محرر"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*wDVjxqkaOpcF_bnx6KFaMQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "رسائل مباشرة مشفرة بـ Xmtp"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*tb__NfsrtkaCnWKGUfhc5A.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "إشعارات الحساب والمنشنات"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*hqr_bAvWzDp7SIY6wDUCcQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "كانفس رسم وسينث مخصص"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A Multiplatform Interface لـ ابداعي ذكاء اصطناعي"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في keeping مع ال theme من collaboration between humans و ذكاء اصطناعي, let’s ask ChatGPT what “an all في one ابداعي محرر” means:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“An “all في one ابداعي محرر” is a software application that provides a comprehensive و integrated set من tools لـ designing, editing و creating various forms من ديجيتال content, including images, graphics, videos, audio, و text. This type من software aims الى provide a unified platform that allows users الى perform all necessary tasks لـ content creation within ال same application, eliminating ال need لـ multiple separate tools.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’ve seen or used a plugin لـ Stable Diffusion integration into Photoshop, Figma, etc, you get it. What’s missing من this current available crop من ذكاء اصطناعي enhanced design محرر apps و interfaces is a bit من a trilemma."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Most من them are proprietary, kept exclusive الى a self styled ابداعي elite behind expensive price walls, مع a history من arbitrary anti-user policies. ال power من latent synth و large language models is too great الى not be persistently open source و available لـ all الى run على your own machines. Local or virtual."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Even ال open source options are very limited. You wouldn’t depend على MS-Paint الى deliver ال kinds من features و UX you’d expect في Affinity or Sketch. Even open source design apps that have been competitive alternatives الى paid tools لـ years weren’t built مع ال unique capacities من ذكاء اصطناعي في mind. Content discoverability, promptcraft, ال dynamism من what makes editing different في a synth machine process, guidance على ازاي الى make use من growing access الى GPUs through compute APIs, web3 commerce, و content collectability…"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "It all demands a جديد approach الى interfaces و apps, من ال start."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "One made by creators, لـ creators, و where “ creators” includes ال vast masses من consumers who never thought they could gain equal access الى ال means من creation, production و trade."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "You can’t really use them effectively, wherever you want الى go. Older ابداعي editors have too many legacy users, niche use cases, و internal stakeholders who defend their patch من product territory against market innovation. This usually leads الى overengineered, stale و bloated code."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "في contrast, ال Dial is ال first من three releases that can best be understood as facets من an all في one ابداعي محرر solution. A Rust based desktop version و a Blender plugin are also في development."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You Don’t Realize You Need Decentralized سوشيال, Until You Do"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Let’s check في مع ChapGPT again:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“ال saying “You don’t realize you need decentralization, until you do” means that people often do not understand ال importance من having a decentralized system until they face problems مع a centralized system. Decentralization is a key principle في which power و control are distributed among many actors instead من being held في a single central authority. It is usually only when a centralized system fails, becomes compromised, or is no longer able الى meet ال needs من its users that ال benefits من decentralization become clear.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال Dial is a web3 سوشيال + ابداعي ذكاء اصطناعي canvas, built على لينز بروتوكول. Bet you didn’t know you needed that, yet."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع it, you can do all من ال usual read, publish, react, follow, mirror, و collect activity you would expect على a لينز based network. You can also discover content made مع Stable Diffusion, use secure private messaging via XMTP, و own your سوشيال graph."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There are a few things about it that give it a different focus من ال other decentralized سوشيال apps we know و love. ال most important (و obvious after reading this far) is ال integrated canvas. You can create جديد designs, images, و even فاشون styles من within ال محرر و publish them as future memories على your timeline. This is where ال AOP templates button lives."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What Does This Mean لـ ال Web3 فاشون النظام?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX builds, في ال public domain, everything needed الى shorten ال distance between discovery, creation, production, و commerce. فاشون is what brings us all together. If it weren’t لـ decentralization, none من it would be possible."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع these جديد releases we are expanding opportunities لـ creators anywhere online (و increasingly IRL) الى make independent use من web3 فاشون NFTs, tokens, و all من ال tools we’ve made available up until now, within ال النظام و beyond."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is still early في web3, و ال metaverse feels less hyped than it did a year ago (although that’s likely الى change again soon)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That said, we’ve just seen في ال last 6 months what happens when a technology that has everything it takes الى transform every industry, but isn’t yet really understood by enough people في good faith, “suddenly” crosses its unique usability threshold و takes off."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال Stable Diffusion developer النظام practically caught up مع Ethereum في just 90 days. ( https://twitter.com/PeterDiamandis/status/1595495173030612992 )"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ChatGPT is ال fastest product ever الى hit 100 million users. ( https://arstechnica.com/information-technology/2023/02/chatgpt-sets-record-لـ-fastest-growing-user-base-في-history-report-says/ )"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Unbundling ال longest running technology industry في human history (starting anywhere من 40,000 الى 3 million years ago, depending على ازاي you cut و ثريد it), remains ال most foundational و accessible path الى market success aligned مع user owned, self-directed, open source, و explicitly cypherpunk principles imaginable."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "( https://en.wikipedia.org/wiki/History_من_clothing_و_textiles )"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أوتونوميشن هايبرلوكال (أو تعاونيات Jidōka)"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A bit more about history. You probably already know something about punch bands, punched cards, Bouchon, Jacquard, Babbage, Lovelace, و ازاي ال history من modern computing is interwoven مع فاشون production technology."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://en.wikipedia.org/wiki/History_من_computing_hardware"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s ال connections between these two extending into a third category من machine use that isn’t talked about enough. Modern manufacturing owes a lot الى textiles و automation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One من ال most interesting و useful stories we can learn من is where Toyota, و its manufacturing methods, came من."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في 1926, Sakichi Toyoda founded ال Toyoda Automatic Loom Works, a transformative force في ال development من automated looms. He’s remembered as one من ال leaders من ال Japanese industrial revolution و one من ال most impactful technologists (or people في general) في Japanese history, مع far reaching relevance الى manufacturing من textiles, machines, و motor vehicles من all kinds."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://www.toyota-industries.com/company/history/toyoda_sakichi/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Autonomation, known also as Jidōka, owes its start الى Toyoda’s (و later Toyota’s) efforts الى improve efficiency, reduce waste, و empower human workers في ال closest position الى solve problems في ال production process as they happen (Just في Time). It can be described as “automation مع a human touch”."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At a time when manufacturing is going through a global reshoring, decentralization changes ال viability من production at hyperlocal scales, و ذكاء اصطناعي is quickly integrated into everything, we don’t need الى reinvent ال wheel الى keep human creators في ال loop. Instead, continuing الى obliterate ال barriers الى creation, production, و commerce لـ self-coordinating web3 creators will benefit من a deeper look at Jidōka في practice."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can look forward الى it being a ثريد we come back الى often as more support لـ latent, virtual, و IRL microfactory co•ops is developed within ال النظام."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A جديد Collection Release Just في Time لـ NYFW"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*K4Cy3t4ZX0olPpA2X5ruxw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*QKByZyYSqnU-nGPsHf70oA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*NeXKzOsOtfEHT0rLRQSMSw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*aiWqdvTblrdPizXKYlKxlQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/1*lJm1vYEnEZU3BdRNcG4Nlw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*oGGjSrWvCQurcxccUEHKYQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*nqVx2YR_TJkcLJ_ukXfIUg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*yOUKbZ7-WAjoAxtDmSwaAA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*Rgw_ffQ1m6z15pwyGeiR6g.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*W6FNL6SYr-hS-DpEz4z56A.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*EF_wJ12fDcI-u_c6E1b2Eg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Featuring 23 unique looks that showcase a variety من all-over-print hoodies, shirts و tees, this latest collection من cc0 web3 فاشون translates these synths into AOP على-chain FGO SVG templates لـ streamlined fulfillment و physical production — a process الى be revealed مع ال beta release من ال Dial و its canvas feature."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال complete Jidōka Imprint collection can be previewed مع templates في hand على ال DIGITALAX flagship site, coinciding مع ال start من فاشون اسبوع, و featured في ال جديد 24/7 latent looks streams across ال DIGITALAX و F3M channels."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up الى تاريخ مع Web3 فاشون:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "لينز"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الأساسي"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        }
+      ]
+    }
+  }
+}

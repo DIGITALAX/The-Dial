@@ -1,0 +1,531 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-41",
+  "date": "2022-01-09",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 41",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 41"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*GsT-MLrsAIxKK3Bx.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When can we meet the first metaverse web3 models that will be part of the Realm Runway events and be launching their first NFTs on runway.digitalax.xyz?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Very very soon … and this is just so exciting. Holy shit, modeling is coming to web3!! Never did you ever think that you’d hear those words together."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "To everyone ready for web3 and the metaverse to take off, the final boarding call for gated access to the only runway you need to concern yourself with is fast approaching."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Why are the markets red? Why can’t the devs do something about it?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, prediction is a fools game, but, let’s take a look at some of the macro, micro and geo-political turmoil happening right now:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "• Network congestion • Mining hashrrate cut off in Kazakhstan • Increase in militant totalitarian activity from Russia-China alliance • Fed meeting signaling interest rate hikes • Inflation • Staking and stablecoins FUD • SEC hostility • Astroturf hostility from gaming, climate, web2, and similar groups"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When the markets step back and process what’s happening, where it’s heading, what the fundamentals for demand, growth, feature dev, throughput increases, and infrastructure build out are, and how much novel utility is about to be unlocked by the IRL+ web3 metaverse and web3 fashion as ubiquitous wearable interfaces that showcase your status, story, and style… well, we think the markets are likely to remember why WGMI in a big, big way."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At the end of the day price charts are secondary markets detached from fundamentals— it’s a traders game, chasing social signals, always has been and likely will remain until tighter coupling with fundamentals is coded into savvier smart contracts, protocols and other coordination tooling."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX has and always will be a primary digital and IRL fabrication enabler, producer and economy builder. Number go up, number go down, we move forward."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Probably the biggest controversy this week is how and why Polygon experienced so much debilitating congestion, and a 10–20x gas cost spike. It was almost impossible to deploy smart contracts and even generally interact with the network. Is this the doom and gloom for layer 2s? Or, a sign of where significant gains can be made in throughput and reliability through tweaks to mechanism design."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Why Polygon was vulnerable to a single team of developers making some really baffling and bad decisions about how to structure the on-chain elements of their game."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is still a long way to go with Ethereum scaling, but it is exciting to think about the days where there is huge optionality for layer 2s and multiple sharded PoS layer 1s in place with ETH2.0 leading the way."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*uuI31OCLos-tz1AGOKUhfw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*XjIhM7inqkOdZb1_ntvybQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*JGgD6PyowPLFVmSWNcGmbA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*_bpsS3gcXAESzOIJUK3cEw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Haha haven’t we seen these headlines in a web3 context everywhere for the past 8 months. Isn’t it amazing that so many years later there aren’t more interesting critiques to be made whilst rehashing the same old same old. At least if people from previous generations of technology clinging to old and dying worlds want to flee in terror and spray snark everywhere as they go, couldn’t they be more interesting and creative about it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Step up and keep those of us building the new world entertained please."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*W9P-PqADPQN_biHJ_sY9DQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 41",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 41"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*GsT-MLrsAIxKK3Bx.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When can we meet el first metaverse web3 models that will be part de el Realm Runway events y be launching their first NFTs en runway.digitalax.xyz?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Very very soon … y this is just so exciting. Holy shit, modeling is coming a web3!! Never did you ever think that you’d hear those words together."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "a everyone ready para web3 y el metaverse a take off, el final boarding call para gated access a el only runway you need a concern yourself con is fast approaching."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat pregunta"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "por que are el markets red? por que can’t el devs do something about it?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, prediction is a fools game, but, let’s take a look at some de el macro, micro y geo-political turmoil happening right now:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "• Network congestion • Mining hashrrate cut off en Kazakhstan • Increase en militant totalitarian activity de Russia-China alliance • Fed meeting signaling interest rate hikes • Inflation • Staking y stablecoins FUD • SEC hostility • Astroturf hostility de gaming, climate, web2, y similar groups"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When el markets step back y process what’s happening, where it’s heading, what el fundamentals para demand, growth, feature dev, throughput increases, y infrastructure build out are, y como much novel utility is about a be unlocked by el IRL+ web3 metaverse y web3 moda as ubiquitous wearable interfaces that showcase your status, story, y style… well, we think el markets are likely a remember por que WGMI en a big, big way."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At el end de el day price charts are secondary markets detached de fundamentals— it’s a traders game, chasing social signals, always has been y likely will remain until tighter coupling con fundamentals is coded into savvier smart contracts, protocols y other coordination tooling."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX has y always will be a primary digital y IRL fabrication enabler, producer y economy builder. Number go up, number go down, we move forward."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies en el Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Probably el biggest controversy this semana is como y por que Polygon experienced so much debilitating congestion, y a 10–20x gas cost spike. It was almost impossible a deploy smart contracts y even generally interact con el network. Is this el doom y gloom para layer 2s? Or, a sign de where significant gains can be made en throughput y reliability through tweaks a mechanism design."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "por que Polygon was vulnerable a a single team de developers making some really baffling y bad decisions about como a structure el en-chain elements de their game."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is still a long way a go con Ethereum scaling, but it is exciting a think about el days where there is huge optionality para layer 2s y multiple sharded PoS layer 1s en place con ETH2.0 leading el way."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*uuI31OCLos-tz1AGOKUhfw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*XjIhM7inqkOdZb1_ntvybQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*JGgD6PyowPLFVmSWNcGmbA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*_bpsS3gcXAESzOIJUK3cEw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Haha haven’t we seen these headlines en a web3 context everywhere para el past 8 months. Isn’t it amazing that so many years later there aren’t more interesting critiques a be made whilst rehashing el same old same old. At least if people de previous generations de technology clinging a old y dying worlds want a flee en terror y spray snark everywhere as they go, couldn’t they be more interesting y creativo about it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Step up y keep those de us building el nuevo world entertained please."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*W9P-PqADPQN_biHJ_sY9DQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todo el FUD FAQ aquí."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX Discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 41",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 41"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*GsT-MLrsAIxKK3Bx.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When can we meet ال first metaverse web3 models that will be part من ال Realm Runway events و be launching their first NFTs على runway.digitalax.xyz?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Very very soon … و this is just so exciting. Holy shit, modeling is coming الى web3!! Never did you ever think that you’d hear those words together."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الى everyone ready لـ web3 و ال metaverse الى take off, ال final boarding call لـ gated access الى ال only runway you need الى concern yourself مع is fast approaching."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat سؤال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ليه are ال markets red? ليه can’t ال devs do something about it?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, prediction is a fools game, but, let’s take a look at some من ال macro, micro و geo-political turmoil happening right now:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "• Network congestion • Mining hashrrate cut off في Kazakhstan • Increase في militant totalitarian activity من Russia-China alliance • Fed meeting signaling interest rate hikes • Inflation • Staking و stablecoins FUD • SEC hostility • Astroturf hostility من gaming, climate, web2, و similar groups"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When ال markets step back و process what’s happening, where it’s heading, what ال fundamentals لـ demand, growth, feature dev, throughput increases, و infrastructure build out are, و ازاي much novel utility is about الى be unlocked by ال IRL+ web3 metaverse و web3 فاشون as ubiquitous wearable interfaces that showcase your status, story, و style… well, we think ال markets are likely الى remember ليه WGMI في a big, big way."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At ال end من ال day price charts are secondary markets detached من fundamentals— it’s a traders game, chasing سوشيال signals, always has been و likely will remain until tighter coupling مع fundamentals is coded into savvier smart contracts, protocols و other coordination tooling."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX has و always will be a primary ديجيتال و IRL fabrication enabler, producer و economy builder. Number go up, number go down, we move forward."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies في ال Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Probably ال biggest controversy this اسبوع is ازاي و ليه Polygon experienced so much debilitating congestion, و a 10–20x gas cost spike. It was almost impossible الى deploy smart contracts و even generally interact مع ال network. Is this ال doom و gloom لـ layer 2s? Or, a sign من where significant gains can be made في throughput و reliability through tweaks الى mechanism design."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ليه Polygon was vulnerable الى a single team من developers making some really baffling و bad decisions about ازاي الى structure ال على-chain elements من their game."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is still a long way الى go مع Ethereum scaling, but it is exciting الى think about ال days where there is huge optionality لـ layer 2s و multiple sharded PoS layer 1s في place مع ETH2.0 leading ال way."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*uuI31OCLos-tz1AGOKUhfw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*XjIhM7inqkOdZb1_ntvybQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*JGgD6PyowPLFVmSWNcGmbA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*_bpsS3gcXAESzOIJUK3cEw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Haha haven’t we seen these headlines في a web3 context everywhere لـ ال past 8 months. Isn’t it amazing that so many years later there aren’t more interesting critiques الى be made whilst rehashing ال same old same old. At least if people من previous generations من technology clinging الى old و dying worlds want الى flee في terror و spray snark everywhere as they go, couldn’t they be more interesting و ابداعي about it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Step up و keep those من us building ال جديد world entertained please."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*W9P-PqADPQN_biHJ_sY9DQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX Discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

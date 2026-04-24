@@ -1,0 +1,426 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-33",
+  "date": "2021-11-14",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 33",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 33"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*66IiF95CxMKX_moy.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Why are the designer realms so exciting?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With this next iteration of the protocol, any designer can now become a complete web3 fashion label with all of the core tooling and mechanisms at their disposal. Namely; composability, forkability, interoperability and real property."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Under this model, the entire indie web3 fashion fleet is set to take off in pursuit of these new open metaverse markets. Fashion is no longer a winner takes all top down scramble where only a few of the players remain standing— where previously that was based more on luck, first mover advantage and collusion around capital. Now, with web3, each designer realm grows stronger with the launch of every other, in keeping with true network effects. Thousands upon thousands of market enabled realms going up against each individual centralised titan have every advantage to move swiftly, dynamically, openly, and ultimately prevail."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When is the new $MONA rewards distribution set to take place?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The new rewards distribution will take place in the first week of December when the current rewards schedule finishes. And with that, the details of this new distribution will be announced this week, alongside other exciting updates regarding the rewards and utility token distribution of the recently launched designer realms."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "HEN is now no longer here. For those that might have missed it, HEN was discontinued this week. Although the exact reasons for the shutting down are yet to be officially announced, talk on #CT suggests it was because of a moody cofounder deciding he didn’t like that one of HEN’s competitors was launching their own minting contracts. Whatever the reason might be, it reinforces the point of why decentralisation is so important in the first place, and why just minting NFTs on a loosely defined definition of a blockchain will never last and end up screwing everyone over in the process, just like what often happens in web2. Decentralised infrastructure for storing NFT metadata is just as important, as it means that even if a core team goes rogue the content and timestamps remain. DIGITALAX has maintained this from day one, where all of our NFT metadata is decentralised and store on-chain."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*O3xm8yVeol_xHe4hpBY8vA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*V9C6OCA8qrj-Oa5b7lub0g.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*mhK1UFmgzv-w8Pg2_oGwGQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Seems like BAYC is apeing in to simping the web2 copyright cartels. I mean, do they fundamentally not believe in the NFT tech that got them to where they are in the first place? If you really believe that timestamped programmable consensus is worth anything then the NFT is your proof of originality and authenticity, and, your mark of value. You shouldn’t need to force people to believe that your brand has value through threat of law, it is the most surefire way to undermine it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The project might be propped up for a while by old timers unwilling to admit the truth, but it seems like the time for BAYC to LARP being king of the apes is now fast coming to a Darwinian end."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*bbmEvh35XY4td1mRWk40Uw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo semanal de la comunidad | Semana 33",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo semanal de la comunidad | Semana 33"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*66IiF95CxMKX_moy.jpeg",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Por qué son tan emocionantes los designer realms?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Con esta nueva iteración del protocolo, cualquier diseñador puede convertirse en una label completa de web3 fashion con tooling y mecanismos centrales a disposición: composabilidad, forkabilidad, interoperabilidad y propiedad real."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bajo este modelo, toda la flota indie de web3 fashion está por despegar en búsqueda de nuevos mercados abiertos de metaverso. La moda deja de ser una carrera top-down winner-takes-all donde sobreviven pocos jugadores —antes basada más en suerte, ventaja de primer movimiento y colusión de capital—. Ahora, en web3, cada designer realm se fortalece con el lanzamiento de los demás, siguiendo network effects reales. Miles de realms habilitados por mercado compitiendo contra cada titán centralizado individual tienen ventaja para moverse rápido, dinámico, abierto y, al final, prevalecer."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta repetida más común"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cuándo se realizará la nueva distribución de recompensas de $MONA?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "La nueva distribución de recompensas ocurrirá en la primera semana de diciembre, cuando termine el esquema actual. Y con eso, los detalles de esta nueva distribución se anunciarán esta semana, junto con otras actualizaciones emocionantes sobre distribución de recompensas y utilidad token de los designer realms lanzados recientemente."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias de la industria"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "HEN ya no está. Para quien se lo perdió, HEN fue discontinuado esta semana. Aunque los motivos exactos aún no se anunciaron oficialmente, en #CT se comenta que fue por un cofundador de mal humor que no quiso aceptar que un competidor de HEN lanzara sus propios contratos de minting. Sea cual sea la razón, refuerza por qué la descentralización importa desde el principio, y por qué mintear NFTs sobre una definición vaga de blockchain no dura y termina perjudicando a todos, igual que suele pasar en web2. La infraestructura descentralizada para almacenar metadata NFT es igual de crítica, porque incluso si el equipo central se descarrila, el contenido y los timestamps permanecen. DIGITALAX mantiene esto desde el día 1: todo nuestro metadata NFT está descentralizado y almacenado on-chain."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*O3xm8yVeol_xHe4hpBY8vA.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*V9C6OCA8qrj-Oa5b7lub0g.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*mhK1UFmgzv-w8Pg2_oGwGQ.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y troleo"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Parece que BAYC está entrando en modo simping a los carteles de copyright web2. ¿De verdad no creen en la tecnología NFT que los llevó hasta aquí? Si de verdad crees que el consenso programable con timestamp tiene valor, entonces el NFT es tu prueba de originalidad y autenticidad, y tu marca de valor. No deberías necesitar obligar a la gente a creer en tu marca bajo amenaza legal; es la forma más segura de debilitarla."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "El proyecto puede sostenerse un tiempo por veteranos que no quieren admitir la realidad, pero parece que el tiempo de BAYC jugando a rey de los simios se acerca rápido a un final darwiniano."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*bbmEvh35XY4td1mRWk40Uw.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira aquí todos los FUD FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido al artículo de la próxima semana, escríbenos por nuestro servidor de Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Únete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 33",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 33"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*66IiF95CxMKX_moy.jpeg",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ليه designer realms مثيرة جدًا؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع النسخة الجديدة دي من البروتوكول، أي مصمم يقدر يبقى web3 fashion label كاملة بكل الأدوات والآليات الأساسية تحت إيده: composability وforkability وinteroperability وreal property."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "تحت النموذج ده، أسطول الـindie web3 fashion كله على وشك الانطلاق وراء أسواق metaverse المفتوحة الجديدة. الفاشون ما بقتش winner-takes-all top-down scramble يفضل فيه كام لاعب بس — واللي كان غالبًا قائم قبل كده على الحظ وميزة الأسبقية وتواطؤ رأس المال. دلوقتي مع web3، كل designer realm بتقوى مع إطلاق realm تانية، وفق network effects حقيقية. آلاف وآلاف realms مدعومة بالسوق في مواجهة كل titan مركزي منفرد عندهم أفضلية للتحرك بسرعة وبشكل ديناميكي ومفتوح وفي النهاية الانتصار."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر سؤال متكرر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إمتى توزيع مكافآت $MONA الجديد هيحصل؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "توزيع المكافآت الجديد هيكون في أول أسبوع من ديسمبر بعد ما الجدول الحالي يخلص. ومع ده، تفاصيل التوزيع الجديد هتتعلن الأسبوع ده، بجانب تحديثات قوية تخص rewards وutility token distribution للـdesigner realms اللي اتطلقت مؤخرًا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أبرز الجدل في المجال"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "HEN بقت مش موجودة. للي فاته، HEN اتوقفت الأسبوع ده. رغم إن الأسباب الرسمية للإغلاق لسه ما اتقالتش، الكلام في #CT بيشير إن السبب شريك مؤسس مزاجي ما عجبوش إن أحد المنافسين هيطلق minting contracts خاصة به. مهما كان السبب، ده بيأكد ليه اللامركزية أساسية من الأول، وليه مجرد minting NFTs على تعريف فضفاض للبلوكشين مش بيدوم وفي الآخر بيضر الكل — زي اللي بيحصل في web2. البنية اللامركزية لتخزين NFT metadata بنفس الأهمية، لأنها تضمن بقاء المحتوى والtimestamps حتى لو الفريق الأساسي خرج عن المسار. DIGITALAX محافظة على ده من اليوم الأول، وكل metadata بتاعت NFTs عندنا لا مركزية ومتخزنة on-chain."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*O3xm8yVeol_xHe4hpBY8vA.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*V9C6OCA8qrj-Oa5b7lub0g.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*mhK1UFmgzv-w8Pg2_oGwGQ.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إخفاقات عبثية وتريولنج"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "واضح إن BAYC داخلة في apeing ناحية simping لكارتيلات copyright بتوع web2. يعني هم فعلًا مش مؤمنين بتكنولوجيا NFT اللي أصلاً وصلتهم للمكان ده؟ لو مؤمن فعلًا إن timestamped programmable consensus ليه قيمة، فالـNFT هو دليل الأصالة وال authenticity وعلامة القيمة. ما ينفعش تجبر الناس تؤمن بقيمة البراند بالتهديد القانوني؛ دي أسرع طريقة لهدم القيمة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "المشروع ممكن يفضل متسند شوية بناس قديمة مش عايزة تعترف بالحقيقة، لكن باين إن وقت BAYC في تمثيل دور ملك القردة بيقرب بسرعة من نهاية داروينية."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*bbmEvh35XY4td1mRWk40Uw.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو حابب سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، تواصل معانا من خلال سيرفر DIGITALAX على Discord في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

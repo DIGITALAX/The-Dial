@@ -1,0 +1,501 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-28",
+  "date": "2021-10-10",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 28",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 28"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/2560/0*D19O0DR3bK6V_dID.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Why are there different tokens in the DIGITALAX ecosystem? Why don’t we just have $MONA?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Good question. The DIGITALAX ecosystem is comprehensive, where every additional implementation, deployment and sub-project builds on top of the previous ones, as well as charts and expands the course for what is possible and to come. The web3 fashion market did not exist just 12 short months ago, and since then, DIGITALAX has been paving this course as well as setting the very foundations for what this new land entails in a completely web3 native way; from DeFi, to DAOs, to experimenting with EIP standards, to NFTs, to Esports, to Wear-2-Earn, to the Indie gaming scene, to NFT appraisals, to composable digital and physical supply chains and more."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We used an interesting and relatable analogy in one of our previous posts for detailing further the role of different liquid ERC-20 tokens within the DIGITALAX ecosystem, you can read more about that here . But, in short, just like how in the human body there are coherent separation of concerns with comprehensive specialisations that run throughout our local bodies, allowing us to ship composable units of whatever is most appropriate to each cell within ourselves; so too is required for ensuring value can be properly anchored and utilised throughout the DIGITALAX ecosystem and broader web3 fashion and metaverse realms. Thus, each token, works to both compliment others within the ecosystem, as well as fulfill a specific role and incentive structure."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is so much new talent flooding into this space and we couldn’t be more excited to be pioneering its very fabric, which is being powered even more with the upcoming release of $W3F under the GDN DAO!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When do the $MONA rewards end?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The 12 months of $MONA staking distribution began December 2nd, 2020 and was set to end on December 2nd, 2021, reaching the full 10,000 distribution. Under the major ecosystem update the $MONA total supply is set to increase to 11,300 with the increased token supply being distributed through new staking rewards contracts being deployed to Polygon. More details on the exact distribution over the course of which time period will be revealed in upcoming announcements. However, for a quick rundown, these new staking contracts are super exciting! And, they include staking for;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Genesis MONA NFT holders"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "$MONA and $MONA LP holders"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DIGITALAX NFT holders"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The contracts also have functionality for stakers being able to claim revenue from the DIGITALAX web3 fashion NFT marketplaces, as well as additional ERC-20 rewards both within and outside of the DIGITALAX ecosystem."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "More to be announced soon!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Crypto Twitter self handedly regulated insider trading by a popular crypto/DeFi VC fund. There’s been a lot more controversial back and forths lately about whether or not VCs can coexist within web3, because fundamentally, traditional web2 VC models are at odds with decentralisation. In fact, decentralisation is the greatest threat to their continued monopoly over bypassing the cold start problem using debt. That’s not to say that VCs can’t exist in this new world, but definitely the relationship between those who give money and receive money has changed, and frankly, those VCs that do coexist in web3 aren’t actually calling themselves “VCs” anymore, because that term is so web2."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Instead, there’s new ways that they can get direct exposure to this market and support the projects they believe in, growing the ecosystem, all without the extractive zero sum approach. Make your own thoughts about the Divergence Ventures saga; one thing can be said, hats off to the way they responded, I really hope it is sincere as it paves the way for better standards and transparency for operating in this market."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*so-NcKYeqk-WAdEMmEKC1A.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*21zpdmEC7kQNjV8xiOb21w.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*zW3eQzNRlfqfwQqrMgV6-g.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s amusing when a web2 reporter attempts to cover what’s happening in web3 and throw snark and shade at it with high-handed condescending snobbishness… but then ultimately fails miserably because all of us web3'ers realise just how intrinsically interconnected the open metaverse is with gaming and mod culture. Read below for more details 😆"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 28",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 28"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/2560/0*D19O0DR3bK6V_dID.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "por que are there different tokens en el DIGITALAX ecosistema? por que don’t we just have $MONA?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Good pregunta. el DIGITALAX ecosistema is comprehensive, where every additional implementation, deployment y sub-project builds en top de el previous ones, as well as charts y expands el course para what is possible y a come. el web3 moda market did not exist just 12 short months ago, y since then, DIGITALAX has been paving this course as well as setting el very foundations para what this nuevo land entails en a completely web3 native way; de DeFi, a DAOs, a experimenting con EIP standards, a NFTs, a Esports, a Wear-2-Earn, a el Indie gaming scene, a NFT appraisals, a composable digital y physical supply chains y more."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We used an interesting y relatable analogy en one de our previous publicaciones para detailing further el role de different liquid ERC-20 tokens within el DIGITALAX ecosistema, you can read more about that here . But, en short, just like como en el human body there are coherent separation de concerns con comprehensive specialisations that run throughout our local bodies, allowing us a ship composable units de whatever is most appropriate a each cell within ourselves; so too is required para ensuring value can be properly anchored y utilised throughout el DIGITALAX ecosistema y broader web3 moda y metaverse realms. Thus, each token, works a both compliment others within el ecosistema, as well as fulfill a specific role y incentive structure."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is so much nuevo talent flooding into this space y we couldn’t be more excited a be pioneering its very fabric, which is being powered even more con el upcoming release de $W3F under el GDN DAO!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat pregunta"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When do el $MONA rewards end?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el 12 months de $MONA staking distribution began December 2nd, 2020 y was set a end en December 2nd, 2021, reaching el full 10,000 distribution. Under el major ecosistema actualizacion el $MONA total supply is set a increase a 11,300 con el increased token supply being distributed through nuevo staking rewards contracts being deployed a Polygon. More details en el exact distribution over el course de which time period will be revealed en upcoming announcements. However, para a quick rundown, these nuevo staking contracts are super exciting! y, they include staking para;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Holders de Genesis MONA NFT"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "$MONA y $MONA LP holders"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Holders de NFTs de DIGITALAX"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el contracts also have functionality para stakers being able a claim revenue de el DIGITALAX web3 moda NFT marketplaces, as well as additional ERC-20 rewards both within y outside de el DIGITALAX ecosistema."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "More a be announced soon!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies en el Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Crypto Twitter self handedly regulated insider trading by a popular crypto/DeFi VC fund. There’s been a lot more controversial back y forths lately about whether or not VCs can coexist within web3, because fundamentally, traditional web2 VC models are at odds con decentralisation. en fact, decentralisation is el greatest threat a their continued monopoly over bypassing el cold start problem using debt. That’s not a say that VCs can’t exist en this nuevo world, but definitely el relationship between those who give money y receive money has changed, y frankly, those VCs that do coexist en web3 aren’t actually calling themselves “VCs” anymore, because that term is so web2."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Instead, there’s nuevo ways that they can get direct exposure a this market y support el projects they believe en, growing el ecosistema, all without el extractive zero sum approach. Make your own thoughts about el Divergence Ventures saga; one thing can be said, hats off a el way they responded, I really hope it is sincere as it paves el way para better standards y transparency para operating en this market."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*so-NcKYeqk-WAdEMmEKC1A.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*21zpdmEC7kQNjV8xiOb21w.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*zW3eQzNRlfqfwQqrMgV6-g.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s amusing when a web2 reporter attempts a cover what’s happening en web3 y throw snark y shade at it con high-handed condescending snobbishness… but then ultimately fails miserably because all de us web3'ers realise just como intrinsically interconnected el open metaverse is con gaming y mod culture. Read below para more details 😆"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todo el FUD FAQ aquí."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 28",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 28"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/2560/0*D19O0DR3bK6V_dID.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ليه are there different tokens في ال DIGITALAX النظام? ليه don’t we just have $MONA?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Good سؤال. ال DIGITALAX النظام is comprehensive, where every additional implementation, deployment و sub-project builds على top من ال previous ones, as well as charts و expands ال course لـ what is possible و الى come. ال web3 فاشون market did not exist just 12 short months ago, و since then, DIGITALAX has been paving this course as well as setting ال very foundations لـ what this جديد land entails في a completely web3 native way; من DeFi, الى DAOs, الى experimenting مع EIP standards, الى NFTs, الى Esports, الى Wear-2-Earn, الى ال Indie gaming scene, الى NFT appraisals, الى composable ديجيتال و physical supply chains و more."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We used an interesting و relatable analogy في one من our previous بوستات لـ detailing further ال role من different liquid ERC-20 tokens within ال DIGITALAX النظام, you can read more about that here . But, في short, just like ازاي في ال human body there are coherent separation من concerns مع comprehensive specialisations that run throughout our local bodies, allowing us الى ship composable units من whatever is most appropriate الى each cell within ourselves; so too is required لـ ensuring value can be properly anchored و utilised throughout ال DIGITALAX النظام و broader web3 فاشون و metaverse realms. Thus, each token, works الى both compliment others within ال النظام, as well as fulfill a specific role و incentive structure."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is so much جديد talent flooding into this space و we couldn’t be more excited الى be pioneering its very fabric, which is being powered even more مع ال upcoming release من $W3F under ال GDN DAO!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat سؤال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When do ال $MONA rewards end?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال 12 months من $MONA staking distribution began December 2nd, 2020 و was set الى end على December 2nd, 2021, reaching ال full 10,000 distribution. Under ال major النظام تحديث ال $MONA total supply is set الى increase الى 11,300 مع ال increased token supply being distributed through جديد staking rewards contracts being deployed الى Polygon. More details على ال exact distribution over ال course من which time period will be revealed في upcoming announcements. However, لـ a quick rundown, these جديد staking contracts are super exciting! و, they include staking لـ;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "حاملو Genesis MONA NFT"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "$MONA و $MONA LP holders"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "حاملو NFT الخاصة بـ DIGITALAX"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال contracts also have functionality لـ stakers being able الى claim revenue من ال DIGITALAX web3 فاشون NFT marketplaces, as well as additional ERC-20 rewards both within و outside من ال DIGITALAX النظام."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "More الى be announced soon!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies في ال Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Crypto Twitter self handedly regulated insider trading by a popular crypto/DeFi VC fund. There’s been a lot more controversial back و forths lately about whether or not VCs can coexist within web3, because fundamentally, traditional web2 VC models are at odds مع decentralisation. في fact, decentralisation is ال greatest threat الى their continued monopoly over bypassing ال cold start problem using debt. That’s not الى say that VCs can’t exist في this جديد world, but definitely ال relationship between those who give money و receive money has changed, و frankly, those VCs that do coexist في web3 aren’t actually calling themselves “VCs” anymore, because that term is so web2."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Instead, there’s جديد ways that they can get direct exposure الى this market و support ال projects they believe في, growing ال النظام, all without ال extractive zero sum approach. Make your own thoughts about ال Divergence Ventures saga; one thing can be said, hats off الى ال way they responded, I really hope it is sincere as it paves ال way لـ better standards و transparency لـ operating في this market."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*so-NcKYeqk-WAdEMmEKC1A.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*21zpdmEC7kQNjV8xiOb21w.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*zW3eQzNRlfqfwQqrMgV6-g.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s amusing when a web2 reporter attempts الى cover what’s happening في web3 و throw snark و shade at it مع high-handed condescending snobbishness… but then ultimately fails miserably because all من us web3'ers realise just ازاي intrinsically interconnected ال open metaverse is مع gaming و mod culture. Read below لـ more details 😆"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "slug": "development-updates-for-interface-decentralization-and-aggregate-curations",
+  "date": "2022-11-04",
+  "translations": {
+    "en": {
+      "title": "Development Updates for Interface Decentralization and Aggregate Curations",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Development Updates for Interface Decentralization and Aggregate Curations"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-438RcglND6or_D7y4K8Tg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In a step towards more modular interface resources and greater decentralization of content delivery in general, this release brings another batch of updates for ecosystem themes."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Following on the integration of newly detailed views of NFT metadata, synth graph info, and seamless purchase on collection pages in the F3M realm theme, the DIGITALAX flagship interface now sports a matching new set of features with an integrated market and enhanced search functionality."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The DIGITALAX interface gallery now serves as a visual aggregator for realm’s collections and related curations, and is equipped to showcase select designs as they arrive throughout each season."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And, as we continue to move towards greater interface decentralization, both the DIGITALAX and F3M sites are now hosted on IPFS through Spheron, alongside still being fully available through Vercel."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The F3M and DIGITALAX sites mirrored on IPFS can be accessed at https://ipfs.digitalax.xyz/ and https://ipfs.f3manifesto.xyz/ , and are also linked in both site’s footers."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The pre-decentralized deployments will be maintained for as long as needed, as browser and ISP support for IPFS based content delivery is still in its early stages. There have also been reports of US based overzealous blocking of IPFS links by a number of ISPs which we, alongside the Spheron team, are looking into."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Long term, censorship resistance for creative, commercial, and political free expression are as much a part of good web3 UX as any other consideration, after all."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Stay tuned for more updates ahead, as we dial in to new Lens integrations, enhancements to synth crafting, and continued development of open source fabric materialization plugins and interfaces for the all in one self sovereign creative canvas."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up to Date with Web3 Fashion:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Flagship"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        }
+      ]
+    },
+    "es": {
+      "title": "Actualizaciones de desarrollo para la descentralización de interfaces y las curaciones agregadas",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Actualizaciones de desarrollo para la descentralización de interfaces y las curaciones agregadas"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-438RcglND6or_D7y4K8Tg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Como paso hacia recursos de interfaz más modulares y una mayor descentralización de la distribución de contenido en general, este lanzamiento trae otro bloque de actualizaciones para los temas del ecosistema."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Tras la integración de nuevas vistas detalladas de metadatos NFT, información del grafo synth y compras fluidas en las páginas de colección dentro del tema realm de F3M, la interfaz principal de DIGITALAX ahora incorpora un conjunto equivalente de funciones nuevas con mercado integrado y búsqueda mejorada."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "La galería de interfaz de DIGITALAX ahora funciona como agregador visual de las colecciones de realm y de curaciones relacionadas, y está preparada para mostrar diseños seleccionados a medida que llegan durante cada temporada."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Y, mientras seguimos avanzando hacia una mayor descentralización de interfaces, tanto el sitio de DIGITALAX como el de F3M ahora están alojados en IPFS a través de Spheron, además de seguir totalmente disponibles mediante Vercel."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Se puede acceder a los sitios de F3M y DIGITALAX replicados en IPFS en https://ipfs.digitalax.xyz/ y https://ipfs.f3manifesto.xyz/ , y también están enlazados en los pies de página de ambos sitios."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Los despliegues predescentralizados se mantendrán el tiempo que haga falta, ya que el soporte de navegadores e ISP para la distribución de contenido sobre IPFS aún está en etapas tempranas. También hubo reportes de bloqueos excesivos de enlaces IPFS por parte de varios ISP de EE. UU., algo que estamos investigando junto con el equipo de Spheron."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A largo plazo, la resistencia a la censura para la libre expresión creativa, comercial y política es tan parte de una buena UX web3 como cualquier otra consideración."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Mantente al tanto de más actualizaciones, mientras afinamos nuevas integraciones con Lens, mejoras en la creación synth y el desarrollo continuo de plugins e interfaces open source para la materialización de tejidos en un lienzo creativo soberano todo en uno."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mantente al día con la moda Web3:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Principal"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentación"
+        }
+      ]
+    },
+    "ar": {
+      "title": "تحديثات التطوير للامركزية الواجهات وتجميع الكيوريشن",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "تحديثات التطوير للامركزية الواجهات وتجميع الكيوريشن"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-438RcglND6or_D7y4K8Tg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "كخطوة ناحية موارد واجهات أكثر modular ولا مركزية أكبر في توصيل المحتوى بشكل عام، الإصدار ده بيجيب دفعة جديدة من التحديثات لثيمات الإيكوسيستم."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "بعد دمج عروض تفصيلية جديدة لبيانات NFT، ومعلومات synth graph، والشراء السلس في صفحات الكولكشن جوه ثيم F3M realm، واجهة DIGITALAX الأساسية بقى فيها مجموعة مقابلة من المزايا الجديدة مع سوق مدمج ووظيفة بحث أقوى."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "جاليري واجهة DIGITALAX بقت دلوقتي visual aggregator لكولكشنات realm والكيوريشن المرتبطة بيها، ومجهزة إنها تعرض تصاميم مختارة أول ما توصل خلال كل موسم."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وكمان وإحنا مستمرين ناحية لا مركزية أكبر للواجهات، موقعي DIGITALAX وF3M بقوا مستضافين على IPFS عبر Spheron، مع استمرار توفرهم بالكامل كمان من خلال Vercel."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "تقدر تدخل على نسخ F3M وDIGITALAX المعكوسة على IPFS من خلال https://ipfs.digitalax.xyz/ و https://ipfs.f3manifesto.xyz/ ، وكمان الروابط موجودة في الفوتر بتاع الموقعين."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "هنستمر نحافظ على النُسخ قبل اللامركزية للمدة اللي مطلوبة، لأن دعم المتصفحات ومزودي الإنترنت (ISP) لتوصيل المحتوى المعتمد على IPFS لسه في مراحله الأولى. وكمان في تقارير عن حجب مبالغ فيه لروابط IPFS من بعض مزودي الإنترنت في أمريكا، وده بنراجعه مع فريق Spheron."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "على المدى الطويل، مقاومة الرقابة في التعبير الحر الإبداعي والتجاري والسياسي جزء أساسي من UX محترم في web3، زي أي اعتبار تاني."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "استنوا تحديثات أكتر قريب، وإحنا بنظبط دمج جديد مع Lens، وتحسينات في synth crafting، واستمرار تطوير plugins وinterfaces مفتوحة المصدر لمادية الأقمشة داخل creative canvas ذاتي السيادة وكله في مكان واحد."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "خليك متابع أحدث أخبار Web3 Fashion:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الأساسي"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        }
+      ]
+    }
+  }
+}

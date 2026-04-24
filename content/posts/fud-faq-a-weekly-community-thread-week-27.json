@@ -1,0 +1,486 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-27",
+  "date": "2021-10-03",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 27",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 27"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*AMtKPzAMCUq7aXLh.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s new?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, we love getting this question, because there is always something new brewing in the DIGITALAX rendition of Bell Labs. Without giving away too much alpha and keeping in mind how actively we release, some very cool things are in the work, some are quick and take less engineering, community and creative production effort, and others require all of this in masses. Our big focus for October covers these key areas;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Growing the engagement and cross-network productivity between the DIGITALAX community and well aligned DAOs in the space."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Improving and refining The DLTA system for onboarding new guilds."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Growing out the LOOK ecosystem and onboarding new designers into the GDN."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Engineering refactoring on the DIGITALAX fashion NFT marketplaces to include secondary market sales + automated profit distribution to $MONA and Genesis NFT holders, coinciding with the new $MONA rewards program."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "How can I invest more in DIGITALAX?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, first of all, that’s an interesting question, but here is an even better one; How can I buy in, in a web3 native way that supports the decentralised creation and ownership of the assets that become the building blocks for the metaverse?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We get this question a lot, almost daily, from all kinds of people with interesting backgrounds, both deep within and outside of the web3 space."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX is part of a new wave of entirely protocol and ecosystem driven ventures, which don’t need to be trapped by the debt games of the web2 VC world. When you can enter direct to community & direct to market, why would you as a project leader, genuinely committed to your principles and the uncapped success of what your building for its own sake, why would you take on the excessive responsibilities of being owned by investors focused only on the exits. A shiny gold card is not enough."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX is committed to remaining authentic to the fast growing global community of pioneers making the metaverse what it can be. We do that from both a highly capitalistic and humanity enhancing root, because in decentralised economies, those two perspectives that used to be in conflict with each other are now complimentary."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Most of us heard about the Compound Finance buggy update that accidentally rewarded around $90 million of COMP tokens to users. Writing code in web3 is very hard, there are so many variables at stake and edge cases to take into consideration. Even the most thorough unit testing can miss something. This becomes all the more hard when millions to billions of dollars are at stake. Building in the open bazaar allows you to iterate faster and become battle hardened from what’s gained. It’s something that continues to serve DIGITALAX very well, and, with proper affordance and encapsulation the benefits of a move fast and break things approach to programming can translate to a web3 internet of value high risk environment."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "However, as with most things, it’s how we react to challenges rather than what challenges arise that matters. A founder deep in the space essentially threatening users to expose their personal information if they don’t quickly fix your mistake is something there is no excuse for. Decentralisation of power and authority over ones own personal assets and information are some of the strongest features of web3, and for a founder to undermine that and use it as a strong arm tactic should be looked at very skeptically…. which is interesting given that the day after the error one of the long term collaborators on the project, Jake Chervinsky, who is renowned as one of the strongest voices in crypto in political circles, countering lobbyist fud suddenly resigned, claiming to need some time off whilst looking forward to new opportunities. There is certainly more to this story and the culture behind the scenes. It looks a little bit too much like the web2 world, where in the past week we saw the total meltdown of Ozy Media because of strange comments and actions."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*dDhAYP_MbM4W1oRPdx3KNw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*c3K3ZSpGHvZ_AVm0RJy93Q.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This isn’t the first time a PFP or other NFT project has been effectively rugged. These are just part of the unfortunate learning and growing pains of the space as buyers learn to do more research before trusting anyone’s word out there. The internet is a dark forest and web3 adds more depth and potential to that."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 27",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 27"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*AMtKPzAMCUq7aXLh.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s nuevo?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, we love getting this pregunta, because there is always something nuevo brewing en el DIGITALAX rendition de Bell Labs. Without giving away too much alpha y keeping en mind como actively we release, some very cool things are en el work, some are quick y take less engineering, comunidad y creativo production effort, y others require all de this en masses. Our big focus para October covers these key areas;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Growing el engagement y cross-network productivity between el DIGITALAX comunidad y well aligned DAOs en el space."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Improving y refining el DLTA system para onboarding nuevo guilds."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Growing out el LOOK ecosistema y onboarding nuevo designers into el GDN."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Engineering refactoring en el DIGITALAX moda NFT marketplaces a include secondary market sales + automated profit distribution a $MONA y Genesis NFT holders, coinciding con el nuevo $MONA rewards program."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat pregunta"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "como can I invest more en DIGITALAX?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, first de all, that’s an interesting pregunta, but here is an even better one; como can I buy en, en a web3 native way that supports el decentralised creation y ownership de el assets that become el building blocks para el metaverse?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We get this pregunta a lot, almost daily, de all kinds de people con interesting backgrounds, both deep within y outside de el web3 space."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX is part de a nuevo wave de entirely protocolo y ecosistema driven ventures, which don’t need a be trapped by el debt games de el web2 VC world. When you can enter direct a comunidad & direct a market, por que would you as a project leader, genuinely committed a your principles y el uncapped success de what your building para its own sake, por que would you take en el excessive responsibilities de being owned by investors focused only en el exits. A shiny gold card is not enough."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX is committed a remaining authentic a el fast growing global comunidad de pioneers making el metaverse what it can be. We do that de both a highly capitalistic y humanity enhancing root, because en decentralised economies, those two perspectives that used a be en conflict con each other are now complimentary."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies en el Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Most de us heard about el Compound Finance buggy actualizacion that accidentally rewarded around $90 million de COMP tokens a users. Writing code en web3 is very hard, there are so many variables at stake y edge cases a take into consideration. Even el most thorough unit testing can miss something. This becomes all el more hard when millions a billions de dollars are at stake. Building en el open bazaar allows you a iterate faster y become battle hardened de what’s gained. It’s something that continues a serve DIGITALAX very well, y, con proper affordance y encapsulation el benefits de a move fast y break things approach a programming can translate a a web3 internet de value high risk environment."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "However, as con most things, it’s como we react a challenges rather than what challenges arise that matters. A founder deep en el space essentially threatening users a expose their personal information if they don’t quickly fix your mistake is something there is no excuse para. Decentralisation de power y authority over ones own personal assets y information are some de el strongest features de web3, y para a founder a undermine that y use it as a strong arm tactic should be looked at very skeptically…. which is interesting given that el day after el error one de el long term collaborators en el project, Jake Chervinsky, who is renowned as one de el strongest voices en crypto en political circles, countering lobbyist fud suddenly resigned, claiming a need some time off whilst looking forward a nuevo opportunities. There is certainly more a this story y el culture behind el scenes. It looks a little bit too much like el web2 world, where en el past semana we saw el total meltdown de Ozy Media because de strange comments y actions."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*dDhAYP_MbM4W1oRPdx3KNw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*c3K3ZSpGHvZ_AVm0RJy93Q.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This isn’t el first time a PFP or other NFT project has been effectively rugged. These are just part de el unfortunate learning y growing pains de el space as buyers learn a do more research before trusting anyone’s word out there. el internet is a dark forest y web3 adds more depth y potential a that."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todo el FUD FAQ aquí."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 27",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 27"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*AMtKPzAMCUq7aXLh.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s جديد?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, we love getting this سؤال, because there is always something جديد brewing في ال DIGITALAX rendition من Bell Labs. Without giving away too much alpha و keeping في mind ازاي actively we release, some very cool things are في ال work, some are quick و take less engineering, المجتمع و ابداعي production effort, و others require all من this في masses. Our big focus لـ October covers these key areas;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Growing ال engagement و cross-network productivity between ال DIGITALAX المجتمع و well aligned DAOs في ال space."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Improving و refining ال DLTA system لـ onboarding جديد guilds."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Growing out ال LOOK النظام و onboarding جديد designers into ال GDN."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Engineering refactoring على ال DIGITALAX فاشون NFT marketplaces الى include secondary market sales + automated profit distribution الى $MONA و Genesis NFT holders, coinciding مع ال جديد $MONA rewards program."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat سؤال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ازاي can I invest more في DIGITALAX?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, first من all, that’s an interesting سؤال, but here is an even better one; ازاي can I buy في, في a web3 native way that supports ال decentralised creation و ownership من ال assets that become ال building blocks لـ ال metaverse?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We get this سؤال a lot, almost daily, من all kinds من people مع interesting backgrounds, both deep within و outside من ال web3 space."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX is part من a جديد wave من entirely بروتوكول و النظام driven ventures, which don’t need الى be trapped by ال debt games من ال web2 VC world. When you can enter direct الى المجتمع & direct الى market, ليه would you as a project leader, genuinely committed الى your principles و ال uncapped success من what your building لـ its own sake, ليه would you take على ال excessive responsibilities من being owned by investors focused only على ال exits. A shiny gold card is not enough."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX is committed الى remaining authentic الى ال fast growing global المجتمع من pioneers making ال metaverse what it can be. We do that من both a highly capitalistic و humanity enhancing root, because في decentralised economies, those two perspectives that used الى be في conflict مع each other are now complimentary."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies في ال Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Most من us heard about ال Compound Finance buggy تحديث that accidentally rewarded around $90 million من COMP tokens الى users. Writing code في web3 is very hard, there are so many variables at stake و edge cases الى take into consideration. Even ال most thorough unit testing can miss something. This becomes all ال more hard when millions الى billions من dollars are at stake. Building في ال open bazaar allows you الى iterate faster و become battle hardened من what’s gained. It’s something that continues الى serve DIGITALAX very well, و, مع proper affordance و encapsulation ال benefits من a move fast و break things approach الى programming can translate الى a web3 internet من value high risk environment."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "However, as مع most things, it’s ازاي we react الى challenges rather than what challenges arise that matters. A founder deep في ال space essentially threatening users الى expose their personal information if they don’t quickly fix your mistake is something there is no excuse لـ. Decentralisation من power و authority over ones own personal assets و information are some من ال strongest features من web3, و لـ a founder الى undermine that و use it as a strong arm tactic should be looked at very skeptically…. which is interesting given that ال day after ال error one من ال long term collaborators على ال project, Jake Chervinsky, who is renowned as one من ال strongest voices في crypto في political circles, countering lobbyist fud suddenly resigned, claiming الى need some time off whilst looking forward الى جديد opportunities. There is certainly more الى this story و ال culture behind ال scenes. It looks a little bit too much like ال web2 world, where في ال past اسبوع we saw ال total meltdown من Ozy Media because من strange comments و actions."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*dDhAYP_MbM4W1oRPdx3KNw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*c3K3ZSpGHvZ_AVm0RJy93Q.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This isn’t ال first time a PFP or other NFT project has been effectively rugged. These are just part من ال unfortunate learning و growing pains من ال space as buyers learn الى do more research before trusting anyone’s word out there. ال internet is a dark forest و web3 adds more depth و potential الى that."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

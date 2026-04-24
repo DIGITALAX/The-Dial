@@ -1,0 +1,471 @@
+{
+  "slug": "using-ai-in-the-new-social-web",
+  "date": "2022-12-27",
+  "translations": {
+    "en": {
+      "title": "Using AI in the New Social Web",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Using AI in the New Social Web"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "From User Generated Content to Creative Commerce — A Mini-Series Recap of the Decline of Signals in 2022 and Building for a Bullish 2023"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*nYfAqQQ12H8EvtMjYEM9Ow.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "PART 1: The Decline of Signals"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But first, a word from the end of the 2022 timeline."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s been quite a year. Hard to imagine after the previous few, just what 2022 had in store for us. With war, inflation, CeFi pretending to be DeFi market mayhem, the Scooby Doo unmasking of an SBF + GG & the gang regulatory-friendly fraud implosion, continuing economic aftershocks from everything this bizarro world version of the roaring 20’s has brought to the forefront so far… It’s a wonder anyone has the stamina left to go through a full list."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Didn’t quite count on mass de-platforming, or general social account reset for all users not named Elon, happening in the blink of an eye because of the petulant whims of a sad tyrant exposed as far more ordinary, and less brilliant, or even less clever and entertaining, than we once would have guessed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Have you used social media at any point in the past 20 years? Then you too can have all of the work you have put in building a following, sharing messages and content with friends, or saving your memories from the internet in public, wiped out before you can say Masto…"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What do they say about situations like this, again?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Nobody thinks they need decentralization… until they do."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*p-_lwPEfPfwvWXcpAenpSQ.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Somehow, there’s a bigger story still happening this year in parallel. Stable Diffusion and ChatGPT close out our list somewhere between endlessly curious inspiration and total obsession for anyone that’s put in some good faith time to try the new AI as ever evolving creative assistant and hallucinatory autocomplete for everything."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Where creative AI and the new social web come together is more interesting still. But HODL some more, if you have it in you. We will take a deep look at the upside in Part 2 and 3 of this series."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bare metal assessment of the present mindscape first: Can we spot a common thread running through the civilizational shocks, highlighted by sudden spikes in demand for decentralized social media and creative AI?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s obvious when we pause to listen to the noise for a bit. Yes, listen… to the noise. There is a consistent hint we can hear in everything from the unreliability of Amazon deliveries to the tragedy of YouTube comment sections. It’s what we’re exhausted by, what we can loosely call “noise”, that seems to be growing and spreading across every channel of our lives, more than ever. It seems that way, because it is."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Look a bit closer, and what you find is a pattern in many varieties of Denial of Service attacks. Some emerge on their own. Some are intentional attempts by one faction or another in the open adversarial marketplace of the global net. Most are predictable symptoms of a system never built to handle the interests of users, modern methods and rates of use, or pretty much anything which the pipes that carry the signals we casually call the Web have crammed through them. Web 2.0 wasn’t built to handle all this."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No other way about it. The signals we send to each other and rely on for everything, are decaying. They are declining both in signal quality and delivery reliability. The ability for anyone to launch Denial of Service attacks, intentionally, or as side effects of long forgotten post-rationalizations and/or completely unrelated activity, has become so much less expensive than the practice of creating good material, that the entire pipework is overwhelmed. We can’t trust the messages we send will reach where they are meant to go. We can’t trust what we receive. We can’t even trust that anything we save — message, money, memory, or otherwise — will be waiting for us when we return for it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Beyond the standard list, including the flood of network resources with false packets or bot activity, we find it helpful to think of Sybil attacks, social media platform cartels, and even copyright when used as a tool to suppress or punish creative activity, as matching the classic patterns of what makes Denial of Service attacks so damaging to open networks, and so difficult to resolve."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At their core, free transit and exchange of messages, money, goods, materials, people, and ideas, can’t exist without the free expression of creativity. It is our creativity that builds on the ideas and works that have come before us. It reimagines existing concepts. Refines, remixes, and repurposes them, in ways that may be entirely mundane, or accidentally brilliant, just as often as they might be new and interesting."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is because creative works can be so transformative and powerful that attacks against free transmission — clogging pathways for exchange and access to markets — are so destructive. The anti-AI art trend of some digital era commercial artists, and clickbait happy journalists, fearful that there will not be a better model coming to replace the old copyright regime, is one of the most effective DoS attacks currently contributing to the chaotic diminishment of signal quality and deliverability."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The cartel-like behavior of centralized social platforms is more obvious and direct. What started with disbelief that large enough numbers of people would ever be interested in sharing pictures of what they had for lunch, their latest takes on entirely common experiences, and personal details of all kinds — for free!! they said — grew to eat the entire world. First as “software”. Then as FAANG. User Generated Content became the web itself. And the center pivot every life on Earth spun around. That we could predict it would end badly was easy. Coming up with a workable, better, and truly user owned replacement model has taken the better part of two decades of incredibly hard work. We are barely starting to see the fruits of it today."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Maybe that’s the great thing about 2022. Until this year showed us everything it had to share, it was still a plausible strategy to continue putting off for later any serious work on old systems that we knew would need replacement eventually. Not a good strategy. But an understandable one."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "After everything we’ve seen this year, the bottom’s fallen out of that approach. It’s now worse than counting on SBF for a bailout."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Thankfully, a new model moving from User Generated Content to Creative Commerce is starting to show us how we can all look up from here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up to Date with Web3 Fashion:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Flagship"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        }
+      ]
+    },
+    "es": {
+      "title": "Using ia en el nuevo social Web",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Using ia en el nuevo social Web"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "de User Generated Content a creativo Commerce — A Mini-Series Recap de el Decline de Signals en 2022 y Building para a Bullish 2023"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*nYfAqQQ12H8EvtMjYEM9Ow.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "PART 1: el Decline de Signals"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But first, a word de el end de el 2022 timeline."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s been quite a year. Hard a imagine after el previous few, just what 2022 had en store para us. con war, inflation, CeFi pretending a be DeFi market mayhem, el Scooby Doo unmasking de an SBF + GG & el gang regulatory-friendly fraud implosion, continuing economic aftershocks de everything this bizarro world version de el roaring 20’s has brought a el forefront so far… It’s a wonder anyone has el stamina left a go through a full list."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Didn’t quite count en mass de-platforming, or general social account reset para all users not named Elon, happening en el blink de an eye because de el petulant whims de a sad tyrant exposed as far more ordinary, y less brilliant, or even less clever y entertaining, than we once would have guessed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Have you used social media at any point en el past 20 years? Then you too can have all de el work you have put en building a following, sharing messages y content con friends, or saving your memories de el internet en public, wiped out before you can say Masto…"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "¿Qué dicen sobre situaciones como esta, otra vez?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Nadie cree que necesita descentralización… hasta que la necesita."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*p-_lwPEfPfwvWXcpAenpSQ.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Somehow, there’s a bigger story still happening this year en parallel. Stable Diffusion y ChatGPT close out our list somewhere between endlessly curious inspiration y total obsession para anyone that’s put en some good faith time a try el nuevo ia as ever evolving creativo assistant y hallucinatory autocomplete para everything."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Where creativo ia y el nuevo social web come together is more interesting still. But HODL some more, if you have it en you. We will take a deep look at el upside en Part 2 y 3 de this series."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bare metal assessment de el present mindscape first: Can we spot a common hilo running through el civilizational shocks, highlighted by sudden spikes en demand para decentralized social media y creativo ia?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s obvious when we pause a listen a el noise para a bit. Yes, listen… a el noise. There is a consistent hint we can hear en everything de el unreliability de Amazon deliveries a el tragedy de YouTube comment sections. It’s what we’re exhausted by, what we can loosely call “noise”, that seems a be growing y spreading across every channel de our lives, more than ever. It seems that way, because it is."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Look a bit closer, y what you find is a pattern en many varieties de Denial de Service attacks. Some emerge en their own. Some are intentional attempts by one faction or another en el open adversarial marketplace de el global net. Most are predictable symptoms de a system never built a handle el interests de users, modern methods y rates de use, or pretty much anything which el pipes that carry el signals we casually call el Web have crammed through them. Web 2.0 wasn’t built a handle all this."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No other way about it. el signals we send a each other y rely en para everything, are decaying. They are declining both en signal quality y delivery reliability. el ability para anyone a launch Denial de Service attacks, intentionally, or as side effects de long forgotten publicacion-rationalizations y/or completely unrelated activity, has become so much less expensive than el practice de creating good material, that el entire pipework is overwhelmed. We can’t trust el messages we send will reach where they are meant a go. We can’t trust what we receive. We can’t even trust that anything we save — message, money, memory, or otherwise — will be waiting para us when we return para it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Beyond el standard list, including el flood de network resources con false packets or bot activity, we find it helpful a think de Sybil attacks, social media platform cartels, y even copyright when used as a tool a suppress or punish creativo activity, as matching el classic patterns de what makes Denial de Service attacks so damaging a open networks, y so difficult a resolve."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At their core, free transit y exchange de messages, money, goods, materials, people, y ideas, can’t exist without el free expression de creativity. It is our creativity that builds en el ideas y works that have come before us. It reimagines existing concepts. Refines, remixes, y repurposes them, en ways that may be entirely mundane, or accidentally brilliant, just as often as they might be nuevo y interesting."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is because creativo works can be so transformative y powerful that attacks against free transmission — clogging pathways para exchange y access a markets — are so destructive. el anti-ia art trend de some digital era commercial artists, y clickbait happy journalists, fearful that there will not be a better model coming a replace el old copyright regime, is one de el most effective DoS attacks currently contributing a el chaotic diminishment de signal quality y deliverability."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el cartel-like behavior de centralized social platforms is more obvious y direct. What started con disbelief that large enough numbers de people would ever be interested en sharing pictures de what they had para lunch, their latest takes en entirely common experiences, y personal details de all kinds — para free!! they said — grew a eat el entire world. First as “software”. Then as FAANG. User Generated Content became el web itself. y el center pivot every life en Earth spun around. That we could predict it would end badly was easy. Coming up con a workable, better, y truly user owned replacement model has taken el better part de two decades de incredibly hard work. We are barely starting a see el fruits de it today."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Maybe that’s el great thing about 2022. Until this year showed us everything it had a share, it was still a plausible strategy a continue putting off para later any serious work en old systems that we knew would need replacement eventually. Not a good strategy. But an understandable one."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "After everything we’ve seen this year, el bottom’s fallen out de that approach. It’s now worse than counting en SBF para a bailout."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Thankfully, a nuevo model moving de User Generated Content a creativo Commerce is starting a show us como we can all look up de here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up a fecha con Web3 moda:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Principal"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentación"
+        }
+      ]
+    },
+    "ar": {
+      "title": "Using ذكاء اصطناعي في ال جديد سوشيال Web",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Using ذكاء اصطناعي في ال جديد سوشيال Web"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "من User Generated Content الى ابداعي Commerce — A Mini-Series Recap من ال Decline من Signals في 2022 و Building لـ a Bullish 2023"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*nYfAqQQ12H8EvtMjYEM9Ow.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "PART 1: ال Decline من Signals"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But first, a word من ال end من ال 2022 timeline."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s been quite a year. Hard الى imagine after ال previous few, just what 2022 had في store لـ us. مع war, inflation, CeFi pretending الى be DeFi market mayhem, ال Scooby Doo unmasking من an SBF + GG & ال gang regulatory-friendly fraud implosion, continuing economic aftershocks من everything this bizarro world version من ال roaring 20’s has brought الى ال forefront so far… It’s a wonder anyone has ال stamina left الى go through a full list."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Didn’t quite count على mass de-platforming, or general سوشيال account reset لـ all users not named Elon, happening في ال blink من an eye because من ال petulant whims من a sad tyrant exposed as far more ordinary, و less brilliant, or even less clever و entertaining, than we once would have guessed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Have you used سوشيال media at any point في ال past 20 years? Then you too can have all من ال work you have put في building a following, sharing messages و content مع friends, or saving your memories من ال internet في public, wiped out before you can say Masto…"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "بيقولوا إيه عن المواقف دي، تاني؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "محدش بيفكر إنه محتاج اللامركزية… غير لما يبقى محتاجها فعلًا."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*p-_lwPEfPfwvWXcpAenpSQ.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Somehow, there’s a bigger story still happening this year في parallel. Stable Diffusion و ChatGPT close out our list somewhere between endlessly curious inspiration و total obsession لـ anyone that’s put في some good faith time الى try ال جديد ذكاء اصطناعي as ever evolving ابداعي assistant و hallucinatory autocomplete لـ everything."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Where ابداعي ذكاء اصطناعي و ال جديد سوشيال web come together is more interesting still. But HODL some more, if you have it في you. We will take a deep look at ال upside في Part 2 و 3 من this series."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bare metal assessment من ال present mindscape first: Can we spot a common ثريد running through ال civilizational shocks, highlighted by sudden spikes في demand لـ decentralized سوشيال media و ابداعي ذكاء اصطناعي?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s obvious when we pause الى listen الى ال noise لـ a bit. Yes, listen… الى ال noise. There is a consistent hint we can hear في everything من ال unreliability من Amazon deliveries الى ال tragedy من YouTube comment sections. It’s what we’re exhausted by, what we can loosely call “noise”, that seems الى be growing و spreading across every channel من our lives, more than ever. It seems that way, because it is."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Look a bit closer, و what you find is a pattern في many varieties من Denial من Service attacks. Some emerge على their own. Some are intentional attempts by one faction or another في ال open adversarial marketplace من ال global net. Most are predictable symptoms من a system never built الى handle ال interests من users, modern methods و rates من use, or pretty much anything which ال pipes that carry ال signals we casually call ال Web have crammed through them. Web 2.0 wasn’t built الى handle all this."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No other way about it. ال signals we send الى each other و rely على لـ everything, are decaying. They are declining both في signal quality و delivery reliability. ال ability لـ anyone الى launch Denial من Service attacks, intentionally, or as side effects من long forgotten بوست-rationalizations و/or completely unrelated activity, has become so much less expensive than ال practice من creating good material, that ال entire pipework is overwhelmed. We can’t trust ال messages we send will reach where they are meant الى go. We can’t trust what we receive. We can’t even trust that anything we save — message, money, memory, or otherwise — will be waiting لـ us when we return لـ it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Beyond ال standard list, including ال flood من network resources مع false packets or bot activity, we find it helpful الى think من Sybil attacks, سوشيال media platform cartels, و even copyright when used as a tool الى suppress or punish ابداعي activity, as matching ال classic patterns من what makes Denial من Service attacks so damaging الى open networks, و so difficult الى resolve."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At their core, free transit و exchange من messages, money, goods, materials, people, و ideas, can’t exist without ال free expression من creativity. It is our creativity that builds على ال ideas و works that have come before us. It reimagines existing concepts. Refines, remixes, و repurposes them, في ways that may be entirely mundane, or accidentally brilliant, just as often as they might be جديد و interesting."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is because ابداعي works can be so transformative و powerful that attacks against free transmission — clogging pathways لـ exchange و access الى markets — are so destructive. ال anti-ذكاء اصطناعي art trend من some ديجيتال era commercial artists, و clickbait happy journalists, fearful that there will not be a better model coming الى replace ال old copyright regime, is one من ال most effective DoS attacks currently contributing الى ال chaotic diminishment من signal quality و deliverability."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال cartel-like behavior من centralized سوشيال platforms is more obvious و direct. What started مع disbelief that large enough numbers من people would ever be interested في sharing pictures من what they had لـ lunch, their latest takes على entirely common experiences, و personal details من all kinds — لـ free!! they said — grew الى eat ال entire world. First as “software”. Then as FAANG. User Generated Content became ال web itself. و ال center pivot every life على Earth spun around. That we could predict it would end badly was easy. Coming up مع a workable, better, و truly user owned replacement model has taken ال better part من two decades من incredibly hard work. We are barely starting الى see ال fruits من it today."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Maybe that’s ال great thing about 2022. Until this year showed us everything it had الى share, it was still a plausible strategy الى continue putting off لـ later any serious work على old systems that we knew would need replacement eventually. Not a good strategy. But an understandable one."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "After everything we’ve seen this year, ال bottom’s fallen out من that approach. It’s now worse than counting على SBF لـ a bailout."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Thankfully, a جديد model moving من User Generated Content الى ابداعي Commerce is starting الى show us ازاي we can all look up من here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up الى تاريخ مع Web3 فاشون:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "لينز"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الأساسي"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        }
+      ]
+    }
+  }
+}

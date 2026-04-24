@@ -1,0 +1,561 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-76",
+  "date": "2022-09-18",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 76",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 76"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What happens next after the merge?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s clear to anyone with a pulse and internet connection that macro doubts about where economic value comes from, geographic shifts in capacity to grow material productivity, and image synthesis for every form of creative communication are dominating the public narrative."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But, where do they come together?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Marketplaces need independent, decentralised mediation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIY machine to machine compute is still incredibly expensive and complex. Universal access to the means of local micro-manufacturing is a step even more abstracted away from immediate understanding and reach. It’s clear that nothing that’s been tried before has worked to smoothly coordinate incentives and route around bad actors to make each of these work together."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "For anyone that’s been in web3 more than a minute, it’s obvious that purpose designed NFTs and related fungible tokens, now benefitting fully from the post merge upgrade to PoS, are the way forward."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s W3F, DLTA, MONA have to do with it?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Purpose dedicated tokens and NFTs aren’t just a nice to have or passing hobbyist collector craze. There is more to their value, than where they rank in token price listings at any given point in time. If we are here to solve really big human, economic problems, and expand the richness of personal and social self expression, then there are some very challenging and precise blockers standing in everyone’s way, seamless transitions between IRL and virtual experiences, galleries, storefronts and game like life layers, machine to machine tooling that actually works, for the global internet connected creator-base and universal access to micro-factory production, in a way that is co-op owned and operated, are absolute musts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Without them, economic and social activity gets reduced to fancy stories."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As much as we love a good story, the value of token activity must be rooted in more tangible forms of engineering."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Like with Ziegler’s pattern book opening the way to new leaps in knowledge and skill sharing, the road ahead is paved by community developed research and documentation that will provide a growing market not just with the information needed to understand how all of these gears fit together but with greater ability to discover, test and contribute to it yourself."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In combination with the larger protocol refactoring and upcoming releases, the weekly distribution of activity based tokens, including W3F and DLTA , are being reconfigured to match this upgrade in direction."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This means that the current distribution is currently on hold whilst we effectively select, through governance with the community in the upcoming weeks, which route is most in-line with the role each token plays within the ecosystem."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There will be a set of dedicated announcements corresponding to this with the next engineering release batch."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Just as much as the minuscule number of print artists that were employed consistently by large overbearing publishing and corporate content houses, were annoyed by the rise of digital art, giving a path to any hope of monetistation whatsoever to vast members of new artists throughout a newly connected digital world, there’s a new wave of angst kicked up about whether image synthesis is good for artists or not."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Some really prominent artists featured frequently in prompts are quickly rushing to reduce their participation without understanding how prompt modifiers even work."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We think another perspective offers a much more coherent take."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“In a sense, our prompts are search requests in latent multiversal space, the model zeroes in on the request through vector search, and in these images we are “remotely viewing” an alternate reality where whatever we asked for exists — and then we tune our parameters to see it better much like we tune aperture and shutter speed in conventional cameras.”"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Gensler is at it again… and this time it’s even more obnoxiously disrespectful to any form of sound legal reasoning, blatantly ignoring the number of prongs that need to be satisfied in order for something to run afoul of the Howey Test."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*RGUyCx76C6xXqlxCXh6XCA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ElwYuKpUU01xb_CBxMZ3vw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "See More Across Our Official Channels;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Transparency Reports"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Youtube"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Blog"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 76",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 76"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What happens next after el merge?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s clear a anyone con a pulse y internet connection that macro doubts about where economic value comes de, geographic shifts en capacity a grow material productivity, y image synthesis para every form de creativo communication are dominating el public narrative."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Pero, ¿dónde convergen?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Los marketplaces necesitan mediación independiente y descentralizada."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIY machine a machine compute is still incredibly expensive y complex. Universal access a el means de local micro-manufacturing is a step even more abstracted away de immediate understanding y reach. It’s clear that nothing that’s been tried before has worked a smoothly coordinate incentives y route around bad actors a make each de these work together."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "para anyone that’s been en web3 more than a minute, it’s obvious that purpose designed NFTs y related fungible tokens, now benefitting fully de el publicacion merge upgrade a PoS, are el way forward."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat pregunta"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s W3F, DLTA, MONA have a do con it?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Purpose dedicated tokens y NFTs aren’t just a nice a have or passing hobbyist collector craze. There is more a their value, than where they rank en token price listings at any given point en time. If we are here a solve really big human, economic problems, y expand el richness de personal y social self expression, then there are some very challenging y precise blockers standing en everyone’s way, seamless transitions between IRL y virtual experiences, galleries, storefronts y game like life layers, machine a machine tooling that actually works, para el global internet connected creator-base y universal access a micro-factory production, en a way that is co-op owned y operated, are absolute musts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Without them, economic y social activity gets reduced a fancy stories."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As much as we love a good story, el value de token activity must be rooted en more tangible forms de engineering."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Like con Ziegler’s pattern book opening el way a nuevo leaps en knowledge y skill sharing, el road ahead is paved by comunidad developed research y documentation that will provide a growing market not just con el information needed a understand como all de these gears fit together but con greater ability a discover, test y contribute a it yourself."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en combination con el larger protocolo refactoring y upcoming releases, el weekly distribution de activity based tokens, including W3F y DLTA , are being reconfigured a match this upgrade en direction."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This means that el current distribution is currently en hold whilst we effectively select, through gobernanza con el comunidad en el upcoming weeks, which route is most en-line con el role each token plays within el ecosistema."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There will be a set de dedicated announcements corresponding a this con el next engineering release batch."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Just as much as el minuscule number de print artists that were employed consistently by large overbearing publishing y corporate content houses, were annoyed by el rise de digital art, giving a path a any hope de monetistation whatsoever a vast members de nuevo artists throughout a newly connected digital world, there’s a nuevo wave de angst kicked up about whether image synthesis is good para artists or not."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Some really prominent artists featured frequently en prompts are quickly rushing a reduce their participation without understanding como prompt modifiers even work."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Creemos que otra perspectiva ofrece una lectura mucho más coherente."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“en a sense, our prompts are search requests en latent multiversal space, el model zeroes en en el request through vector search, y en these images we are “remotely viewing” an alternate reality where whatever we asked para exists — y then we tune our parameters a see it better much like we tune aperture y shutter speed en conventional cameras.”"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Gensler is at it again… y this time it’s even more obnoxiously disrespectful a any form de sound legal reasoning, blatantly ignoring el number de prongs that need a be satisfied en order para something a run afoul de el Howey Test."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*RGUyCx76C6xXqlxCXh6XCA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ElwYuKpUU01xb_CBxMZ3vw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todo el FUD FAQ aquí."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX Discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira más en nuestros canales oficiales:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentación"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Preguntas FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Informes de transparencia"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "YouTube"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Blog"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 76",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 76"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What happens next after ال merge?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s clear الى anyone مع a pulse و internet connection that macro doubts about where economic value comes من, geographic shifts في capacity الى grow material productivity, و image synthesis لـ every form من ابداعي communication are dominating ال public narrative."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "بس، فين بيتقابلوا مع بعض؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الـ marketplaces محتاجة وساطة مستقلة ولامركزية."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIY machine الى machine compute is still incredibly expensive و complex. Universal access الى ال means من local micro-manufacturing is a step even more abstracted away من immediate understanding و reach. It’s clear that nothing that’s been tried before has worked الى smoothly coordinate incentives و route around bad actors الى make each من these work together."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لـ anyone that’s been في web3 more than a minute, it’s obvious that purpose designed NFTs و related fungible tokens, now benefitting fully من ال بوست merge upgrade الى PoS, are ال way forward."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat سؤال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s W3F, DLTA, MONA have الى do مع it?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Purpose dedicated tokens و NFTs aren’t just a nice الى have or passing hobbyist collector craze. There is more الى their value, than where they rank في token price listings at any given point في time. If we are here الى solve really big human, economic problems, و expand ال richness من personal و سوشيال self expression, then there are some very challenging و precise blockers standing في everyone’s way, seamless transitions between IRL و virtual experiences, galleries, storefronts و game like life layers, machine الى machine tooling that actually works, لـ ال global internet connected creator-base و universal access الى micro-factory production, في a way that is co-op owned و operated, are absolute musts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Without them, economic و سوشيال activity gets reduced الى fancy stories."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As much as we love a good story, ال value من token activity must be rooted في more tangible forms من engineering."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Like مع Ziegler’s pattern book opening ال way الى جديد leaps في knowledge و skill sharing, ال road ahead is paved by المجتمع developed research و documentation that will provide a growing market not just مع ال information needed الى understand ازاي all من these gears fit together but مع greater ability الى discover, test و contribute الى it yourself."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في combination مع ال larger بروتوكول refactoring و upcoming releases, ال weekly distribution من activity based tokens, including W3F و DLTA , are being reconfigured الى match this upgrade في direction."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This means that ال current distribution is currently على hold whilst we effectively select, through حوكمة مع ال المجتمع في ال upcoming weeks, which route is most في-line مع ال role each token plays within ال النظام."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There will be a set من dedicated announcements corresponding الى this مع ال next engineering release batch."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم الجدل"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Just as much as ال minuscule number من print artists that were employed consistently by large overbearing publishing و corporate content houses, were annoyed by ال rise من ديجيتال art, giving a path الى any hope من monetistation whatsoever الى vast members من جديد artists throughout a newly connected ديجيتال world, there’s a جديد wave من angst kicked up about whether image synthesis is good لـ artists or not."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Some really prominent artists featured frequently في prompts are quickly rushing الى reduce their participation without understanding ازاي prompt modifiers even work."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "إحنا شايفين إن منظور تاني بيقدم قراءة أمتن بكتير."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“في a sense, our prompts are search requests في latent multiversal space, ال model zeroes في على ال request through vector search, و في these images we are “remotely viewing” an alternate reality where whatever we asked لـ exists — و then we tune our parameters الى see it better much like we tune aperture و shutter speed في conventional cameras.”"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Gensler is at it again… و this time it’s even more obnoxiously disrespectful الى any form من sound legal reasoning, blatantly ignoring ال number من prongs that need الى be satisfied في order لـ something الى run afoul من ال Howey Test."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*RGUyCx76C6xXqlxCXh6XCA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ElwYuKpUU01xb_CBxMZ3vw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX Discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوفوا أكتر عبر قنواتنا الرسمية:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "أسئلة FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تقارير الشفافية"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "يوتيوب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "المدونة"
+        }
+      ]
+    }
+  }
+}

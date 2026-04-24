@@ -1,0 +1,381 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-0",
+  "date": "2021-03-29",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 0",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 0"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*eA3ARLDsOaUT3s-I.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Welcome to Week 0 of #FUDFAQ. A weekly community based thread where we cover top question of the week, most common repeat questions, top controversies for the industry and silly fails and trolling."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "How does an endeavour intending to maximise decentralisation actually achieve it in a way that balances core principles, sustainable accelerating momentum and sound development practices?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We covered the mindset behind DIGITALAX’s approach in an article we released earlier in the week; Decentralised Cathedral and the NFT Bazaar . For the TL;DR view, it’s all about how you balance and manage open source systems along with effective social coordination and prioritisation. DIGITALAX’s approach is to do both— constant testing in live production all of the time and deep R&D for punctuated breakthroughs that catalyse the intended results. The most important piece of this is to fine tune while in motion to allow for the market appetite to tell us how well we are doing and where to concentrate attention. This process shows us when the balance tilts too much towards favoring one cohert of positive goals over another. At times it might we need to encourage more Whale activity and at other times it might mean we need to more radically expand the base. Most of the time we are trying to do both simultaneously."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When is the next drop for PODE being announced?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That will be within the next 15 hours. We will share announcements across our community discord, telegram, twitter and medium channels."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "How do I join the ESPA BETA?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Anyone can join the ESPA BETA! We are starting with tournaments out of the ESPA Discord here . Make sure to get skinned here."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Should you expect a 10x investment after 3 months?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This is not financial advise, but in my experience it is not likely, but it also depends on what that investment is and whether or not it is a long term investment. If it is long term and you believe in the fundamentals then diamond hands."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, maybe not the top controversy, but something interesting and I thought it was important to share my experience. I am not a Clubhouse frequent but joined an NFT.tips room on Thursday as a speaker. The conversation was centered around the pros, cons, differences across the various marketplaces and platforms Artists can choose to release their work on. I was actively shut down from the room for bringing up truthful facts about the state of certain marketplaces and the industry."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Of course Opensea is one of the biggest and most easily accessible marketplaces in the industry and a great gateway for NFT newbies. Like any platform in the space, including DIGITALAX, we are still learning, growing as we build and developing best practices for operating on the bleeding edge of a fast paced and constantly evolving industry."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When Artists upload their content on Opensea it is easily editable through the front end even after the NFT has been minted or transferred. None of the metadata is actually included in the minting and even if an Artist provides an IPFS link, that link can be changed and swapped out."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This is a problem when we are headed into mainstream adoption and often overusing terms like “immutable” and “authentic”. Of course these are core features of NFTs, but we should bring transparency around the state of the technology and the promises, expectations and experience being delivered. Bringing more voices around key improvement areas is something that should be highlighted and welcomed, “given enough eyeballs, all bugs are shallow”."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This is not really a silly fail or troll…. but it was too good not to share! 😂 I think SNL might have got this one right 🤔"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo semanal de la comunidad | Semana 0",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo semanal de la comunidad | Semana 0"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*eA3ARLDsOaUT3s-I.jpeg",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bienvenidos a la Semana 0 de #FUDFAQ. Un hilo semanal basado en comunidad donde cubrimos la pregunta principal de la semana, las preguntas repetidas más comunes, las controversias del sector y los fails absurdos con troleo."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cómo una iniciativa que busca maximizar la descentralización puede lograrlo de una forma que equilibre principios centrales, impulso sostenible y acelerado, y prácticas de desarrollo sólidas?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Cubrimos la mentalidad detrás del enfoque de DIGITALAX en un artículo que publicamos a principios de semana: Decentralised Cathedral and the NFT Bazaar. En versión TL;DR, se trata de cómo equilibras y gestionas sistemas open source junto con coordinación social efectiva y priorización. El enfoque de DIGITALAX es hacer ambas cosas: testeo constante en producción en vivo y R&D profundo para breakthroughs puntuales que catalicen resultados. La pieza más importante es afinar mientras estamos en movimiento para que el apetito del mercado nos diga qué tan bien vamos y dónde concentrar atención. Ese proceso muestra cuándo el equilibrio se inclina demasiado hacia un conjunto de objetivos positivos sobre otro. A veces quizá haya que incentivar más actividad de whales y otras veces expandir de forma más radical la base. La mayoría del tiempo intentamos hacer ambas al mismo tiempo."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cuándo se anuncia el próximo drop de PODE?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Será dentro de las próximas 15 horas. Compartiremos anuncios por nuestros canales de comunidad en Discord, Telegram, Twitter y Medium."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cómo me uno al ESPA BETA?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Cualquiera puede unirse al ESPA BETA. Estamos empezando con torneos desde el Discord de ESPA aquí. Asegúrate de conseguir tu skin aquí."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Deberías esperar un 10x de inversión en 3 meses?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Esto no es consejo financiero, pero por mi experiencia no es probable. También depende de qué inversión sea y de si es de largo plazo. Si es largo plazo y crees en los fundamentos, entonces diamond hands."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bueno, quizá no sea la controversia top, pero fue algo interesante y me pareció importante compartir mi experiencia. No soy usuario frecuente de Clubhouse, pero el jueves entré como speaker a una sala de NFT.tips. La conversación giraba en torno a pros, contras y diferencias entre marketplaces y plataformas donde artistas pueden lanzar su trabajo. Me silenciaron/cerraron activamente por mencionar hechos reales sobre el estado de ciertos marketplaces y de la industria."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Obviamente OpenSea es uno de los marketplaces más grandes y accesibles del sector, y una gran puerta de entrada para quienes recién llegan a NFTs. Como cualquier plataforma del espacio, incluyendo DIGITALAX, seguimos aprendiendo, creciendo mientras construimos y desarrollando mejores prácticas para operar en la frontera de una industria rápida y en evolución constante."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Cuando artistas suben contenido a OpenSea, se puede editar fácilmente desde el front-end incluso después de que el NFT ya se haya minteado o transferido. Ningún metadata queda realmente incluido en el minting y, aunque un artista provea un link IPFS, ese link se puede cambiar y reemplazar."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Esto es un problema cuando vamos hacia adopción masiva y usamos en exceso términos como “inmutable” y “auténtico”. Claro que son rasgos centrales de los NFTs, pero necesitamos más transparencia sobre el estado real de la tecnología y sobre las promesas, expectativas y experiencia que se está entregando. Sumar más voces alrededor de áreas de mejora clave es algo que debería resaltarse y celebrarse: “given enough eyeballs, all bugs are shallow”."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Esto no es exactamente un fail absurdo o troleo… pero estaba demasiado bueno para no compartirlo 😂. Creo que SNL esta vez sí le pegó 🤔."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido al artículo de la próxima semana, escríbenos por nuestro servidor de Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Únete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 0",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 0"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*eA3ARLDsOaUT3s-I.jpeg",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أهلًا بكم في الأسبوع 0 من #FUDFAQ. ثريد أسبوعي قائم على المجتمع بنغطي فيه أهم سؤال في الأسبوع، وأكتر الأسئلة المتكررة، وأهم جدالات المجال، والإخفاقات العبثية والتريولنج."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إزاي مبادرة هدفها تعظيم اللامركزية تحقق ده فعلًا بطريقة توازن بين المبادئ الأساسية، وزخم مستدام ومتسارع، وممارسات تطوير سليمة؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "إحنا شرحنا العقلية وراء نهج DIGITALAX في مقال نزلناه أول الأسبوع: Decentralised Cathedral and the NFT Bazaar. نسخة TL;DR: الموضوع كله في توازن وإدارة open source systems مع تنسيق اجتماعي فعّال وتحديد أولويات. نهج DIGITALAX هو الجمع بين الاتنين: اختبار مستمر في live production + R&D عميق لاختراقات نوعية تعمل catalyse للنتائج المطلوبة. أهم جزء هو الضبط أثناء الحركة، علشان شهية السوق نفسها تقولنا إحنا ماشيين إزاي وفين نركز. العملية دي بتورينا إمتى الميزان يميل زيادة لصالح مجموعة أهداف على حساب التانية. ساعات ممكن نحتاج تشجيع نشاط whales أكتر، وساعات نحتاج نوسع القاعدة بشكل أجرأ. أغلب الوقت بنحاول نعمل الاتنين معًا."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إمتى يتعلن الـdrop الجاي لـPODE؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ده هيحصل خلال 15 ساعة الجاية. هنشارك الإعلانات عبر قنوات المجتمع بتاعتنا على Discord وTelegram وTwitter وMedium."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إزاي أنضم لـ ESPA BETA؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أي حد يقدر ينضم لـ ESPA BETA! إحنا بدأنا بتورنمنتس من خلال ESPA Discord هنا. اتأكد كمان إنك تاخد skin من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "هل تتوقع 10x عائد بعد 3 شهور؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ده مش financial advice، لكن من خبرتي الاحتمال مش كبير. وبرضه يعتمد على نوع الاستثمار وهل هو طويل الأجل ولا لا. لو طويل الأجل وإنت مقتنع بالـfundamentals، يبقى diamond hands."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ممكن ما تكونش أكبر controversy، لكنها كانت حاجة مثيرة وحبيت أشارك التجربة. أنا مش مستخدم دائم لـClubhouse، لكن دخلت يوم الخميس غرفة NFT.tips كمتحدث. النقاش كان عن المزايا والعيوب والفروق بين الـmarketplaces والمنصات اللي الفنانين يقدروا ينشروا عليها. وتم إسكاتي/إخراجي من الغرفة لمجرد إني طرحت حقائق حقيقية عن حالة بعض الأسواق والصناعة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أكيد OpenSea واحدة من أكبر وأسهل الأسواق للدخول في المجال، وبوابة جيدة للمبتدئين في الـNFT. وزي أي منصة في المجال، بما فيها DIGITALAX، إحنا لسه بنتعلم وبنكبر وإحنا بنبني، وبنطور best practices للتشغيل على حافة صناعة سريعة ومستمرة التطور."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لما الفنانين يرفعوا محتواهم على OpenSea، المحتوى ممكن يتعدل بسهولة من الـfront-end حتى بعد ما الـNFT يتم minting أو transfer. الـmetadata نفسها مش بتتضمن فعليًا في minting، وحتى لو الفنان حط IPFS link، اللينك ده ممكن يتغير ويتبدل."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وده مشكلة وإحنا رايحين لاعتماد أوسع وبنستخدم كلمات زي “immutable” و“authentic” بشكل مفرط. صحيح دي مزايا أساسية في الـNFTs، لكن لازم يبقى في شفافية أكتر حوالين الحالة الفعلية للتكنولوجيا والوعود والتوقعات والتجربة المقدمة. وجود أصوات أكتر حوالين مناطق التحسين الأساسية لازم يتشجع ويتسلط عليه الضوء: “given enough eyeballs, all bugs are shallow”."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "دي مش بالضبط silly fail أو troll… لكنها كانت جامدة جدًا ومينفعش ما نشاركهاش! 😂 أظن SNL المرة دي جابتها صح 🤔."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو حابب سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، تواصل معانا من خلال سيرفر DIGITALAX على Discord في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    }
+  }
+}

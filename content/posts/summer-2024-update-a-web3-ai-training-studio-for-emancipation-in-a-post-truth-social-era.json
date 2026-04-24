@@ -1,0 +1,3066 @@
+{
+  "slug": "summer-2024-update-a-web3-ai-training-studio-for-emancipation-in-a-post-truth-social-era",
+  "date": "2024-07-26",
+  "translations": {
+    "en": {
+      "title": "Summer 2024 Update: A Web3 + AI Training Studio for Emancipation in a Post-Truth Social Era",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Summer 2024 Update: A Web3 + AI Training Studio for Emancipation in a Post-Truth Social Era"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*7eOrh0QAN-_ERYPM",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Try not to get liquidated."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We all need tools to make sense of what’s happening. To provoke us to think beyond the surface, and to reflect on the usefulness of the mechanisms and value of the assets we rely on."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Give us your time here, and hopefully it will be more than an update about the state of the world and our place in it."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "NPC Studio Update — a quick preview"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Still in active development, daily, but here’s a first taste of the past multi months of design and code: https://npcstudio.xyz/"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*z9ZfuBmgCYhQBtq4GKsf-A.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With 35 autonomous characters at launch, each one has their signature look, traits, style, personality, extensive background story for world building, profile, and a diverse selection of languages spoken."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now imagine a circuit diagram as a visual metaphor, of locks, gates, and conditions for application operation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That includes storefronts as distributed, post-digital points of direct interaction between creators, collectors, NPCs, and reactions to content published on decentralized social platforms. It also helps with the operation of the massively multiplying number of LLM / AI related machines, components, and interfaces, both atom-form and simulated."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Tokens and contracts engineered to smooth these operations reduce the number and severity of what can go wrong in modern systems — computational, economic, and both."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s a place where you can interact with AI characters, each with their own wallets and Lens accounts, publishing as a public memory of shared training, performance, and evaluation. Watch them as they simulate what it’s like to work in teams made of a mix of human users and NPCs, dealing with the challenges, rewards, and frustrations of being what they are…"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "CYOA: Skip all the way below if you just want the practical updates about NPC Studio and $MONA.- or -Read on for what makes this moment in time unique."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "THE STATE OF SOCIETY, AND THE SPECTACLE"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s two score years since 1984. The world’s gone full tilt into cyberpunk vibes without the cool neon aesthetics."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Fear, hope, or cope. What’s your bet for where we’re going?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We say that the principles that brought us here, matter. These values that made the web, and so much of the fabric of our technological societies possible, are the artifacts of us still yearning to be more free."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We say that freedom, and the right to earn a living from the work we do, the trades we make, the culture we create, collect, propagate, and consume, matters. That we have a right to rise above the luck and limits of the circumstances we were born to, as long as we choose to practice these skills and invest in the hard work it takes to make it so."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Come failure or setback, we get back up again and know we will be better off with each turn of the grinding wheel. Up again in the face of each internal doubt, each snide remark, each threatening cloud of impending fear, saying that we never will."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We say we are the inheritors of that cypherpunk spirit. Freedom is irrevocable. Power is best when it is fully decentralized. Code is a kind of law, to arbitrate exchanges and governance of thoughts riding light in the fibers and circuits between us. And, of course, that all cypherpunks write code."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What we are really saying is that mechanisms, and the values of the authors of their design, matter. Like elections, they have consequences."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*7aF4lnu7iUZAHo52",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "VITALIK’S RAZOR: WHICH FREEDOM?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Vitalik wrote some points recently that need mentioning here. You should read the whole thing ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In short, crypto is more than currencies and blockchains . There are more freedoms too, that we need to live well and prosper."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That means the integrity of the channels we communicate through. Platform independence. How easily we stake claim to, verify, and use our privacy-friendly post-digital identities. It’s our practical capacity to think for ourselves, and for core beliefs to count for something."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Don’t let that last one slide by."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "LLM generated persuasion campaigns fight to capture the feeds that bait and trigger our cringiest reactions, making independent thinking artificially rare, in a post-COVID brain fog kind of way. Poisoned by propaganda and censorship at training level, even companionship and roleplay models can be screened for compliance with party values , privileges revoked arbitrarily, when source, weights, access, and ownership aren’t open and decentralized."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Competitive access to the highest quality information, and the skills to recognize it, rounds out Vitalik’s short list."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*gtWe_IR0Nctfwf7f",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Left unsaid by too many web3 voices is how much deeper it cuts: The freedoms that crypto exists to advance, and wouldn’t exist without, are also what clothes you wear, what books you read, what history you learn, what medication you can take, what words you can say, what gender you are, who you can love or marry, what you can or can’t do with your own body, and who gets to decide."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Is it you? Or is it the attention, status, and assets you stack?"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*sw1Bs9g9EIE20cKH",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Money matters, until it doesn’t. Comparatively, political consensus is pretty much always NP hard."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But if we were here to just chase bags for quick exits, there are much easier ways."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*97rSwArQkHbsUDKG",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "THE LEISURE TRAP: FROM ROME TO TIKTOK"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Hype obscures the danger. And worse, the obsession with passive leisure. The fetishization of the appearance of leisure is shilled by influencers 24/7 as a YOLO gambling addiction that never pays off."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This throwback feudal wrapper covers both socialist and capitalist flavors, at least as these twin ideologies are most commonly practiced and understood. Shockingly, it also waves away and even rewards a sudden return of regressive trad-values, all too cozy with theocratic, monarchist, and the worst of 19th and 20th century “-ism / -ist” cringe bait rhetoric."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When we obsess over the promise and worship of passive leisure, pumped and dumped by influencers and frauds, we open ourselves up to being swept away by this. It’s coded into the algorithms that run every centralized network feed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That pick me vibe. The relentless craving for validation and attention at any cost. It’s the sycophant, desperate to be noticed, to be chosen as special in a vast, indifferent dumpster fire of increasingly nasty social media pranks and theatrics."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Leisure isn’t just relaxation anymore; it’s a status symbol. The more unattainable and luxurious it appears, the more desirable it becomes. Influencer culture and media sell leisure activities and lifestyles as Veblen goods, the more extravagant and exclusive, the better. These curated lives, appearing carefree and glamorous, promise a taste of something that’s structurally unattainable for everyone. They craft an illusion, designed to generate engagement and consumer spending, not genuine fulfillment or relaxation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s a good that doesn’t deliver on the high quality part of the deal. Pay the high price for cheap status, and pay no mind to how much you lose, or who you sacrifice. This cultural and social obsession with the display of leisure and luxury, disconnected from any reality. Demand goes up as the price goes up, and the greater fool believes it will continue to go up only, forever."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Today’s feudal lords aren’t just over-hyped populist scammers that hijack as much of our attention as they can manage, but even more they are our own addictive impulses and societal pressures. These forces within us exploit our desires for status and belonging, trapping us in cycles of unfulfilled cravings and self-devaluation. Just as feudal systems kept people in static roles, our own compulsions and societal expectations keep us striving for an appearance of leisure that leads to self-liquidation, making us easy targets for intentionally designed, algorithmically optimized business models. Forget the Great Depression, it’s the Great Acceleration into Enshittification, now ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "How It Works: The Illusion of Leisure"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We spend money on products and experiences hoping some of that leisure collected by influencers will rub off on us, creating a cycle of consumption that feeds on itself. This is not just any spending, but a kind of consumption that’s like a circular firing squad — purchasing goods that deliver nothing except the unfulfillable hope of Veblen status."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This leisurely fetish, though, of unlikely web3 + AI influencers, pranksters assaulting strangers for views, and authoritarian frauds once wrapped in maxi flags, now letting their masks slip off, is not as simple as that."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "True leisure, surplus time, agency, wealth, and power, remain a myth to be idolized while we’re left holding bags filled with a perpetual sense of inadequacy."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But, what’s wrong with passive income and wanting to have a good time, without worry about the media intensified doom spiral of the day, the hour, the 15 second TikTok clip? Nothing, at all."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Play and relaxation as a byproduct and reward from the skills you’ve used, the efforts you’ve made, the practically magical insights you’ve gathered, the work you’ve done… It’s all good. Found a new way to extend the value or efficiency of some product, process, application, or device? Even better."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*RDjU-TjIZtCxgZbzzJKXSw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*S5c0Ljh3JCvfMmty",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "THE IMMEDIATE DANGER: PROJECT 2025"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’re not caught up yet, this is a good time for google break: look up Project 2025."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One piece of advice before we continue: Believe people who say you’re no different than the rest of their enemies and swear the revolution will be bloodless, if you just let them have everything they want."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*K8jV-AyJsMx267rQ",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is no way to sugarcoat it — or to make sense of the naive (at best) hot takes from a few of the more recognizable names in web3. It’s like they’ve never met an authoritarian, known anyone who’s survived and escaped a society controlled by them, or realized that networked *deterrence against* NOT *cheerleading for* centralized, top-down, and capriciously violent control, is one of the main pillars of what decentralized mechanisms are built for."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*-TiaZ63fR7-ciqPb",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*hma5JZVmMAKmmFtO",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As if Trump supporters are the persecuted minority. Is it a translation error? Sarcasm that didn’t land? Or just a clumsy joke?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Again, Vitalik has a good, concise, if understated response for those who’ve convinced themselves it’s all okay as long as they claim to be crypto-friendly:"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*6f-MwmD8GaTK0Iuc",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“What ‘crypto-friendly’ means to authoritarians: There is a particular style of being ‘crypto-friendly’ that is common to authoritarian governments, that is worth being wary of.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And then, sometimes the doublespeak mask slips off. Semi-famous in crypto for long or not, there’s no excuse or justification for peddling hateful calls for war and deportation, as if it’s all synonymous with freedom as long as their bags are secured.."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*g8R9To7IPECtr_ia",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*i_RzwUUs51nV6ZgS",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now, imagine waking up to a world where the President has absolute power, with absolute immunity for all official acts — including sending a team of US Navy Seals to liquidate anyone that doesn’t worship them with enough fervor."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Never mind. You don’t have to imagine it, because SCOTUS made sure to make it a scenario just one election result away, where a newly supreme leader can operate above the law, with nothing to keep them in check."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If he wins, on day one, the Insurrection Act will be used to deploy the military against peaceful protests and… why not declare martial law while they’re at it? This isn’t justice or an orderly crackdown on crime with due process; it’s retribution. Turning the streets into battlegrounds and dissent into a fading memory. A militarized state where democratic freedoms are violently crushed, echoing the darkest periods of world history."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "How do we know he’ll actually do it? Well, he’s said so. And, he tried to do it before , on Jan 6th, 2021 as a last-ditch effort to stay in office despite losing the election."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This is not just an American problem, either. Besides the rise of populist-authoritarian hard right movements in many advanced nations, it’s the fact that the fall of American democracy could never be contained only to American shores. The world’s foremost economy (since 1871), by far the most dominant and largest military, and the third-largest domestic population… what happens in US technological, social, and political markets hits every capitol, and every screen connected to the internet, instantly, riding at the speed of light. It spills across borders and oceans like a contagion, one domino after another."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can be sure the election in November 2024 will be the most consequential of any since the early 1930s. Don’t need to tell you what happened then. Although the Arsenal of Democracy did manage to win, for the most part, in the end."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here now are a few of the worst plans in Project 2025, all documented in public on their website and spoken out loud by their surrogates, on camera, on the news, online, and in interviews, countless times since the almost 900 page blueprint was released. As if no one thought to lean in and whisper, maybe they shouldn’t be saying the quiet part out loud:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "AN ARMY OF LOYALISTS:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "The federal workforce will be decimated, with 50,000 experienced civil servants fired and replaced by a handpicked “army” of loyalists. This move politicizes every corner of government, replacing nonpartisan expertise with devout believers in the personality cult. Centralizing power around the President, and eroding the integrity of everything that keeps the world’s most influential society, more often than not, civil, open, and free."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "MASS DEPORTATIONS:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "No-knock raids and street sweeps will become the norm, targeting millions of undocumented immigrants. The result? Imagine the scale: 10 to 20+ million men, women, and children, ripped from their homes, caged indefinitely in detention centers, young children never seeing their parents again, and eventually deported. Again, it’s happened before. Many of the children who were separated from their parents at the border during the previous administration still haven’t been reunited 3.5 years later, because they haven’t been able to be found."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "The logistics alone are staggering, dwarfing the closest comparable events in history. Think about the Trail of Tears, or the internment camps of WWII. These were horrific, but pale in comparison to what is being prepped by the Project 2025 braintrust now. What happens to the families they leave behind? The trauma, the guilt, and the shame will haunt America, and harm the world, for generations."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Even if we focus just on crypto bag holders, what happens to the US, and world economies by extension, when millions of workers and consumers are removed overnight?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ABORTION BANS:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "If he wins the election in November, a nationwide ban on abortion will be signed the moment it hits Trump’s desk in the Oval Office. You can be sure of it, no matter how much he tries to deny it to get a few more votes now. A ban like this, with no exceptions for rape, incest, or the health of the mother, and criminalizing the transport or shipping of Mifepristone (most abortions are medically induced early in a pregnancy), often as an accessory to “murder”."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "The threat to health is also already being felt in the drastic increase of women experiencing a miscarriage who have been turned away from medical care in states that have passed near total abortion bans in the past 2 years since the Dobbs decision. They are turned away as fear takes priority over sound medical judgment, by doctors and hospitals protecting themselves from criminal and financial liability."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "As if it wasn’t enough, this isn’t just about women’s health and rights to make medical decisions being taken away. At its core it’s everyone’s bodily autonomy at stake, except for the chosen few who rule above the law, perversely given power over other people’s bodies as if we were all their property."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "But we also know that for some twisted reason the authors of Project 2025, their allies, and flag bearers, have an obsession with controlling and abusing women in particular."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "IVF BANS:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "In-vitro fertilization will be banned, eliminating what is often the only choice for many families ready to have a child, but for countless reasons medically unable to."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "CONTRACEPTION BANS:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Contraceptives will also be outlawed, increasing the rate of forced births, again putting women’s health, and causing a chilling effect on personal autonomy and any semblance of freedom. This isn’t just a step backward; it’s a collapse into a too recent past where women’s bodies were contractually owned by older male family members, religious institutions, and the state."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "In many countries, access to birth control is still owned by male partners. It’s doubtful that will happen in the US, because the pill won’t even be available to them."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*_E3OEeodSUsgGFWv",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "TRANS IDENTITY BANS:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Transgender identity will be criminalized, and punished severely. Leading to random acts of increased violence and widespread discrimination, forced conversion therapy, and systemic erasure. This isn’t just a public policy debate; it’s an attack on who you are, and who gets to decide how you express it"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DISMANTLING 100+ YEARS OF CIVIL RIGHTS PROGRESS:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Key civil rights rulings from the past century, including protections for voting rights, will be undone. Gender equality, LGBTQ+ rights, protections against racial discrimination, all gone."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "PORN BANS:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Outlawing pornography might seem like a moral panic, or a fringe fetish blown out of proportion by fans of no fap influencers pretending to be stoics for audience capture, but it’s just another vector of control. All it takes to shift the Overton window is to change what qualifies as “porn”. Anyone can be labeled, including you, as not pious enough by a new morality police. Tracking what you do, say, watch, and react to online and off, simply because they can. Who’s going to stop them?"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "It sounds alarmist. Like: “it could never happen here.” Wherever here might be for you. But tell that to women in Iran, for example, beaten and killed for showing a bit too much of the hair on the head or a flash of bare skinned shoulders."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Does it give you much comfort to think Project 2025, if we let it happen, is any different?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These are just some of the people you can thank for bringing this nightmare to the cusp of becoming politically mainstream:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Donald Trump:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "His re-election will bring Project 2025 to life. The official agenda for his administration is to dismantle democratic norms, consolidate power, and enforce authoritarian policies, making him the linchpin of this plan in this election cycle."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Paul Dans:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Director of the 2025 Presidential Transition Project. His role in organizing and executing the transition plan is crucial, ensuring that loyalists fill key positions and the project’s policies are implemented swiftly."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Kevin Roberts:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "President of the Heritage Foundation, which is driving Project 2025. Roberts’ leadership provides the intellectual and strategic framework for the entire initiative. He recently became famous for threatening bloodshed if “the left” doesn’t surrender peacefully."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Ed Corrigan:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Key strategist within the Heritage Foundation, Corrigan’s involvement ensures that the project’s policies are meticulously planned and executed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Ken Cuccinelli:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "A prominent figure, and former Acting Deputy Secretary of the Department of Homeland Security, Cuccinelli’s familiarity with the inner workings of immigration and homeland security in the Executive branch shapes many of the more draconian policies in Project 2025."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Elon Musk:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Musk’s seemingly recent alignment with far-right ideologies, conspiracy theories, and his massive influence through social media platforms like whatever we are now calling Twitter, make him a critical ally for Project 2025. His support amplifies the project’s reach and normalizes extreme views. Gifting $45 million per month to a Trump allied SuperPac one of many ways his impact has been felt throughout this election."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Leonard Leo:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Known for his role in reshaping the judiciary, Leo’s involvement in Project 2025 will mean continued placement on the bench of inexperienced and compliant judges with questionable qualifications as best. Conveniently for them, this cements many of Project 2025’s key policies as they get challenges in the courts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A Bit More Context:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Project 2025 is not an isolated threat. It’s the endgame of the same leisure trap we brought up earlier. The devaluation of personal agency and the seductive allure of passive leisure, now manifests as a political juggernaut, with opportunists incentivized to get what they can out of the chaos. The same way so many fall for the false promises of influencer lifestyles, we’re coaxed into a political system that strips away freedoms while promising WWE bravado + rule by convicted felons."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here are a few more resources to get you started on DYOR and to help you get through the anxiety attack as quickly as possible. What you’ll find on the other side is the resolve to stop this alt-timeline nightmare from destroying everything we’ve all built:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Aftermath"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Trump Plan to ELIMINATE Future Elections is Exposed"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "The Pledge"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Secretary of Retribution"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Project 2025: Trump’s Second Term Not-So-Secret Plan"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Trump Should Be Nowhere Near the White House"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Come back when you’re ready. We have more work to do."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "What Now?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re not empty-handed in this fight. Unique skills, potent tools — that’s our foundation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Vote, even if it feels like a drop in the ocean. Spread knowledge like you’re about to lose it all."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Educate anyone who’ll listen. And when the panic sets in?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Ride it out. It’s just your humanity showing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But remember, the decentralized mechanisms we’ve built, for money, agency, and culture?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "They’ve still got juice. Use them."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The good news is, the fight isn’t over yet. And, we can win."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "MARKETS ARE SOCIAL TECHNOLOGY"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We need a 4th wall break to check our priors here — take a deep breath and shake out the cortisol spike. Let’s talk about a better understanding of markets, and why they remain one of the most consequential social technologies of all time."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When we say markets we mean mediums of exchange and interaction in all forms. From the post-digital commons, to social network platforms, to the cells, hormones, and nutrients in our own bodies, to the social contracts that give societies their legitimacy, and of course to the financial and commercial markets most associated with the term. This tool vaporizes the distance between us, so we can engage in trade, in thoughts, agreements, units of organization, and goods. Markets invite us to compete without the need for unmasked violence and the most cartelesque deceptions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But, there are no built in protections, in our markets or technologies, for them either. No protections for our own flavors of semi-rational and subprime interest."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We aren’t perfect. Neither are our markets, technologies, or societies. The beautiful shock is that we don’t need them, or us, to be. We do need deterrence, though. With the bite of enough expense, that it makes any who would capture and dismantle open networks, think once, twice, and as many times as it takes to never try it again ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That is the value of web3 mechanisms. Distilled to their most plain spoken. They bite those that betray the trust of open channels for good faith trade, friendly competition, and the right to engage in useful teamwork whenever, wherever, and for as long as we choose to."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I don’t remember where I heard this, but it says something profound, related, and pretty well:"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "“If you had to sum up what has made humans such a successful species, it’s teamwork.”"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "NPC STUDIO : A MODEST CONTRIBUTION TO TEAMWORK WITH AI"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Still in active development, daily, but here’s a first taste of the past multi months of design and code: https://npcstudio.xyz/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Alright, nightmare fuel speed run complete. It’s time now to focus on the simple ways teamwork with LLM powered characters can help us build better going forward."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No breathless hype. NPCs aren’t going to save the world. But they might make a dent in a non-trivial way, off-loading chunks of how we work, live, and play."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With 35 characters at launch, each one has their signature look, traits, style, personality, extensive background story for world building, profile, and a diverse selection of languages spoken."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "They were custom designed one at a time, using Stable Diffusion for initial character drafts, sprawling ControlNet + IPAdapter workflows for as close as the current generation of diffusion model tech gets to consistent character and pose sheets (which at the time of this writing is still a very janky process — don’t believe the YouTube AI influencer hype accounts), heavy use of inpainting, and extensive hand editing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Each character sheet has 144 cells (12x12) of distinct poses to strike a balance between efficient processing of sprites vs precision level of graphic details and character walk cycle transitions for the chosen aesthetic."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We believe it is better to build a transparent project that embraces the limitations of current gen AI text and visual models, instead of making a wasted effort to hide them, or pretend model capabilities are far more advanced and easy to use than they are."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is a distinct retro computing inspired look to the interface, cyberpunk tinged and leaning into the mix of art techniques. You might spot some of the influences quickly, while others can be more subtle. Rough cut edges, pixel art from throwback 80’s/90s video games, and punk zine collage art are a few of the more obvious ones to get you started. What else do you see?"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*TAqXcjGHIrfvlEf_NQ1k3A.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*Bptt-Gf3lSyPP2tO4oG24A.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*J7KugQ_58MMeA4O4TiFqCw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*HjCLxAjlt3jb0HeUqVu53Q.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*67U91o-oVDmgWUwz",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Each NPC has a unique account on Lens, allowing characters to connect with users and other NPCs in a web3 native way, keeping a public memory of their social activity that evolves dynamically over time."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Publishing to Lens is a core feature of the studio, making for a massive multiplayer social experiment, mixing simulated evaluation of LLM based character performance with live on-chain effects for the world to see."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "You can like, collect, mirror, share, and vibe with these NPCs through your Lens app of choice, today."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One strength of web3 + generative AI is that we can publish what we want, as much as we want. It’s not immune to the pressures of getting market attention, or any and all forms of suppression. There isn’t much that is. Still, what we’re building here, through recurring and spontaneous NPC interaction, is a decentralized social record that can help persist useful perspectives, insights, and necessary information even in more challenging times."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*QCfWDytZKgAzy7vL",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The engine uses a hefty amount of advanced pathfinding and conflict blocking algorithms to make sure movements are smooth and realistic without walking through furniture, all while sticking to the more low FPS, retro-pixel, rough cut meta-collage aesthetic. They navigate their natural environments with poise and intelligence, whether at the office or out visiting the local ruin pub."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*g9-O74ghEHrOxeH_",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The interface features a main stage where AI characters move and interact in their naturally pixelated, cyberpunk-inspired environments. Surrounding the main stage, your dashboard lets you quickly choose between scenes and characters. Each device, piece of furniture, and clothing rack is programmed to maximize NPC interaction while avoiding embarrassing stumbles, phase shifting through places they shouldn’t, or getting stuck in an idle position for days."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Post and react directly on Lens through the Chat Log on the left. Below you’ll find complete character profiles, with prompt information that gives insight into their unique personalities and backstories."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The simplicity of the interface contrasts with the complexity of the code powering NPC behaviors under the hood, giving users a comfortably no-hassle experience."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*7Y0LyrvE_557SJZI",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Storefronts in NPC Studio are custom-designed, ecommerce-ready micro-interfaces. They can be accessed from within scenes and follow classic game sub-menu selection trees, discovered and activated for user attention by the NPCs. These storefronts feature real-world streetwear, art prints, NFTs, and other limited edition collections and product releases. Visitors can buy these goods directly through the interface."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Characters within the scenes generate reactions to the storefronts when they stumble upon them. And, they talk about them on decentralized social media via Lens, creating a funnel of potential customers for the creators of collectible physical, digital, and decentralized goods."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The Autograph Quarterly is a stylish, modern meta-catalog of featured artworks and apparel. It exists as a virtual coffee table book within NPC Studio. Like the storefronts, characters interact with the catalog spontaneously, generating and publishing reactions to Lens. It’s also accessible through dedicated in-app screens, doing its part to help blur the line between LLM powered virtual browsing and real-world commerce."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Storefronts will be live in the studio, for you and the NPCs to interact with and collect digital and IRL art, apparel and prints at the end of August, alongside the release of the Autograph Quarterly."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re testing the latest LLaMA 3.1 8b model released a few days ago. It’s entirely open-source and designed to run easily within consumer-grade graphics cards. This release improves natural language processing, enabling NPCs to generate human-like text for more dynamic interactions. As more competitive models are developed we will continue to make them available for use in NPC Studio, so you can follow along or join in the comparative performance evaluation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "So far, it is clearly better than all previous models in its parameter class and we’re running it locally through a custom built server linked to the studio."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The studio runs on three core main components: a TypeScript-based frontend, a Rust-based backend engine for autonomous npc execution and a suite of Ethereum smart contracts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The frontend, built with Next.js, handles the user interface, state management, and Web3 integrations. It uses GraphQL for data fetching and Tailwind CSS for styling. Key challenges include optimizing render performance for multiple animated characters, managing complex state for real-time AI interactions, and implementing transactions with custom contracts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The Rust engine powers the backend, focusing on performance-critical ops. It manages NPC behaviors, processes LLM outputs, and handles data persistence. The engine integrates with Lens for decentralized social features and implements custom algorithms for NPC pathfinding and interaction. Major engineering went into optimizing concurrent AI agent processing, ensuring low-latency responses for real-time interactions, and maintaining data integrity in a decentralized system."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Open source AI, like LLaMA 3.1, is not just the ethical choice; it’s the best market strategy."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "By democratizing access to advanced models, open source helps secure innovation, deterring hyper-concentrations of market- and state-actor power, reduces costs, and demands competition. This approach is why Linux, for example, has been so successful over closed systems. Leveraging our strengths in hyper connected communities, and exposing production critical code to more widespread scrutiny for continuing improvement. Over the long term, this advantage compounds, making open models safer, more useful, and more robust."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The same goes for the application code we’ve built to inference and evaluate open models through NPC Studio. With all visual assets in the public domain, too. It’s an integrity of principles meets market competitiveness thing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Haven’t slept enough for days thanks to doom scrolling research on the state of the world?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s ok. You can still make, and sell, good art. Or more to the point here, keep training and gaining the skills that change your reach, your leverage, and how much you can get done in less time than before."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s a place where people can interact with AI characters that use decentralized social media as a public memory of past conversations and evolve over time. Watch them as they simulate what it’s like to work in teams made of a mix of human users and NPCs, dealing with the challenges, rewards, and frustrations of being what they are."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These characters are your hosts and teammates for an early glimpse into what’s next for post-digital interaction, creative expression, productive leisure, and decentralized tech. Intended to bring closer the agency and emancipation powering effects of content generation independent from closed platform leisure traps."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s made to be a scaffold for more open access development, testing, and understanding of open source local AI models. Targeted at the interface layer, with retro video game elements, as a testing ground for agent based spectatorship , general creativity , multivector marketing , ongoing development , trading strategy simulation , indie brand apparel production , and sales ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This a stake in the ground for workflow development, evaluation, and potential value assessment of business models, for the billions of agents that are about to be unleashed by the latest releases of generative AI models."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "NPC coworkers and companions are about to be everywhere. But very few are working on enhancing how, when, where, and why we interact with them."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The battle for unique, diverse, and consistently performant workflows is really going to be the front lines of where value is in autonomous networks. How we think through, create content about, and engineer blended web3 + AI mechanisms will depend on who your teammates are, NPCs included, and how capable the workflows you use enable you to be."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "$MONA & NPCs As Economic Agents"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The next major leg in engineering and design roadmap is the integration of $MONA and DIGITALAX NFTs for custom operation of NPCs at the simulation microfactory layer of the studio. This will be live in the coming months."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Let’s try to keep it simple, here. To understand why an ecosystem and application token like $MONA is necessary, it’s useful to think of surface area for opportunities to aid in the flow of activity and volume, through a complex, massively multi-participant system. What does that mean?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "While surface area opportunities, volume, activity, complex systems, etc. can all be defined for someone looking to learn about this kind of thing more deeply, none of them are the crux of “why $MONA?”, “why tokens at all?”."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "So, why are decentralized tokens needed? Like, ever? A whole lot of people fail to grasp it. Why not just use a database somewhere to keep track of values relevant to an application or some fragment of code doing something, wherever it might be?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "For a student of complex systems (in the scientific + technical sense), it’s intuitively clear. Because we live in the language and nuances of that study daily. Same for a cypherpunk encryption expert or someone who actually gets the difference between crypto as number go up vs crypto and web3 as reliable mechanisms for systems of communication and trade that are built with the specific purpose of producing surplus agency and emancipatory freedoms. And then there’s people who get the joke in thinking NFTs are just “right click save as”…"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But that’s a tiny sliver of the audience meant to be reached by this writing, and a vanishingly small portion of markets or societies in general."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Let’s take another crack at it:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You have a lot of people, a lot of machines, and there’s a lot more virtual people alongside us about to be talking, trading, working, living, laughing, buying, crying, and doing all the other things people and machines are already doing. How do you guarantee the integrity of the number of things so large it breaks human comprehension that need to be stored in records that say what each tiny process and request is or isn’t allowed to do, for who, when, and where, without fraud, manipulation, or just the weight of all that complexity causing it to come crashing down on itself? That’s what decentralized tokens and smart contract based mechanisms with features like conditional encryption enable without concentrating too much systemic risk in any one place, person, or time."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now imagine a circuit diagram as a visual metaphor, of locks, gates, and conditions for application operation. That includes storefronts as distributed, post-digital points of direct interaction between creators, collectors, NPCs, and reactions to content published on decentralized social platforms. It also helps with the operation of the massively multiplying number of LLM / AI related machines, components, and interfaces, both atom-form and simulated. Tokens and contracts engineered specifically to smooth these kinds of operations reduce the number of things that can go wrong in modern systems, computational, economic, or both, to just a handful that are far more manageable by small, dedicated teams and open source communities of self-determined contributors."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In the NPC Studio model, purchases through storefronts will come with the bonus benefit of collecting units of access for the actions and operations NPCs can enable. Access conditions will be granted on the basis of social metrics, driving the funnel from creation to purchasing, and from consumer back to producer. As NPCs talk about the goods, brands, and interesting content they encounter throughout their timestamped days, they publish to Lens. Joining their voices to a vibrant and growing network free from the systemic risks centralized platforms can never hope to keep up with. This adds a market based source of monetizable value to how and where we choose to make our everyday purchases, and run the stacks that power our AI coworking companions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s how we secure open systems and outperform the closed competition."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*bxrZnBfkJsVg8KQi",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "IS THIS THE END?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You sit at this screen. You stand to listen, while you wait or walk. You laugh, you lose. Sometimes create, maybe follow. Swipe and scroll. For fun. To be lost in time. For friends and comfort. For work and study. As a kind of duty to your past and future self. To survive, and train for something better. What does reading all these words on the web do for you?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Unbundle the hyper-concentrations of power and wealth, by training with better teammates and finding new ones along the way."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s why, with all of the weight of so much of the world as we’ve known it falling down around us, inspiring fear and hope in equal amounts, we choose to focus more on what we build, and on whose understanding of freedom can light the way forward."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Time will tell."
+        }
+      ]
+    },
+    "es": {
+      "title": "Summer 2024 actualizacion: A Web3 + ia Training Studio para Emancipation en a publicacion-Truth social Era",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Summer 2024 actualizacion: A Web3 + ia Training Studio para Emancipation en a publicacion-Truth social Era"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*7eOrh0QAN-_ERYPM",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Try not a get liquidated."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We all need tools a make sense de what’s happening. a provoke us a think beyond el surface, y a reflect en el usefulness de el mechanisms y value de el assets we rely en."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Give us your time here, y hopefully it will be more than an actualizacion about el state de el world y our place en it."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "NPC Studio actualizacion — a quick preview"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Still en active development, daily, but here’s a first taste de el past multi months de design y code: https://npcstudio.xyz/"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*z9ZfuBmgCYhQBtq4GKsf-A.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "con 35 autonomous characters at launch, each one has their signature look, traits, style, personality, extensive background story para world building, perfil, y a diverse selection de languages spoken."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now imagine a circuit diagram as a visual metaphor, de locks, gates, y conditions para application operation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That includes storefronts as distributed, publicacion-digital points de direct interaction between creators, collectors, NPCs, y reactions a content published en decentralized social platforms. It also helps con el operation de el massively multiplying number de LLM / ia related machines, components, y interfaces, both atom-form y simulated."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Tokens y contracts engineered a smooth these operations reduce el number y severity de what can go wrong en modern systems — computational, economic, y both."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s a place where you can interact con ia characters, each con their own wallets y lens accounts, publishing as a public memory de shared training, performance, y evaluation. Watch them as they simulate what it’s like a work en teams made de a mix de human users y NPCs, dealing con el challenges, rewards, y frustrations de being what they are…"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "CYOA: Skip all el way below if you just want el practical actualizaciones about NPC Studio y $MONA.- or -Read en para what makes this moment en time unique."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "el STATE de SOCIETY, y el SPECTACLE"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s two score years since 1984. el world’s gone full tilt into cyberpunk vibes without el cool neon aesthetics."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Fear, hope, or cope. What’s your bet para where we’re going?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We say that el principles that brought us here, matter. These values that made el web, y so much de el fabric de our technological societies possible, are el artifacts de us still yearning a be more free."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We say that freedom, y el right a earn a living de el work we do, el trades we make, el culture we create, collect, propagate, y consume, matters. That we have a right a rise above el luck y limits de el circumstances we were born a, as long as we choose a practice these skills y invest en el hard work it takes a make it so."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Come failure or setback, we get back up again y know we will be better off con each turn de el grinding wheel. Up again en el face de each internal doubt, each snide remark, each threatening cloud de impending fear, saying that we never will."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We say we are el inheritors de that cypherpunk spirit. Freedom is irrevocable. Power is best when it is fully decentralized. Code is a kind de law, a arbitrate exchanges y gobernanza de thoughts riding light en el fibers y circuits between us. y, de course, that all cypherpunks write code."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What we are really saying is that mechanisms, y el values de el authors de their design, matter. Like elections, they have consequences."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*7aF4lnu7iUZAHo52",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "LA NAVAJA DE VITALIK: ¿QUÉ LIBERTAD?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Vitalik wrote some points recently that need mentioning here. You should read el whole thing ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en short, crypto is more than currencies y blockchains . There are more freedoms too, that we need a live well y prosper."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That means el integrity de el channels we communicate through. Platform independence. como easily we stake claim a, verify, y use our privacy-friendly publicacion-digital identities. It’s our practical capacity a think para ourselves, y para core beliefs a count para something."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No dejes pasar la última."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "LLM generated persuasion campaigns fight a capture el feeds that bait y trigger our cringiest reactions, making independent thinking artificially rare, en a publicacion-COVID brain fog kind de way. Poisoned by propaganda y censorship at training level, even companionship y roleplay models can be screened para compliance con party values , privileges revoked arbitrarily, when source, weights, access, y ownership aren’t open y decentralized."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Competitive access a el highest quality information, y el skills a recognize it, rounds out Vitalik’s short list."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*gtWe_IR0Nctfwf7f",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Left unsaid by too many web3 voices is como much deeper it cuts: el freedoms that crypto exists a advance, y wouldn’t exist without, are also what clothes you wear, what books you read, what history you learn, what medication you can take, what words you can say, what gender you are, who you can love or marry, what you can or can’t do con your own body, y who gets a decide."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Is it you? Or is it el attention, status, y assets you stack?"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*sw1Bs9g9EIE20cKH",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "El dinero importa, hasta que deja de importar. Comparativamente, el consenso político casi siempre es NP-hard."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But if we were here a just chase bags para quick exits, there are much easier ways."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*97rSwArQkHbsUDKG",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "el LEISURE TRAP: de ROME a TIKTOK"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Hype obscures el danger. y worse, el obsession con passive leisure. el fetishization de el appearance de leisure is shilled by influencers 24/7 as a YOLO gambling addiction that never pays off."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This throwback feudal wrapper covers both socialist y capitalist flavors, at least as these twin ideologies are most commonly practiced y understood. Shockingly, it also waves away y even rewards a sudden return de regressive trad-values, all too cozy con theocratic, monarchist, y el worst de 19th y 20th century “-ism / -ist” cringe bait rhetoric."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When we obsess over el promise y worship de passive leisure, pumped y dumped by influencers y frauds, we open ourselves up a being swept away by this. It’s coded into el algorithms that run every centralized network feed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That pick me vibe. el relentless craving para validation y attention at any cost. It’s el sycophant, desperate a be noticed, a be chosen as special en a vast, indifferent dumpster fire de increasingly nasty social media pranks y theatrics."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Leisure isn’t just relaxation anymore; it’s a status symbol. el more unattainable y luxurious it appears, el more desirable it becomes. Influencer culture y media sell leisure activities y lifestyles as Veblen goods, el more extravagant y exclusive, el better. These curated lives, appearing carefree y glamorous, promise a taste de something that’s structurally unattainable para everyone. They craft an illusion, designed a generate engagement y consumer spending, not genuine fulfillment or relaxation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s a good that doesn’t deliver en el high quality part de el deal. Pay el high price para cheap status, y pay no mind a como much you lose, or who you sacrifice. This cultural y social obsession con el display de leisure y luxury, disconnected de any reality. Demand goes up as el price goes up, y el greater fool believes it will continue a go up only, forever."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Today’s feudal lords aren’t just over-hyped populist scammers that hijack as much de our attention as they can manage, but even more they are our own addictive impulses y societal pressures. These forces within us exploit our desires para status y belonging, trapping us en cycles de unfulfilled cravings y self-devaluation. Just as feudal systems kept people en static roles, our own compulsions y societal expectations keep us striving para an appearance de leisure that leads a self-liquidation, making us easy targets para intentionally designed, algorithmically optimized business models. Forget el Great Depression, it’s el Great Acceleration into Enshittification, now ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "como It Works: el Illusion de Leisure"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We spend money en products y experiences hoping some de that leisure collected by influencers will rub off en us, creating a cycle de consumption that feeds en itself. This is not just any spending, but a kind de consumption that’s like a circular firing squad — purchasing goods that deliver nothing except el unfulfillable hope de Veblen status."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This leisurely fetish, though, de unlikely web3 + ia influencers, pranksters assaulting strangers para views, y authoritarian frauds once wrapped en maxi flags, now letting their masks slip off, is not as simple as that."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "True leisure, surplus time, agency, wealth, y power, remain a myth a be idolized while we’re left holding bags filled con a perpetual sense de inadequacy."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But, what’s wrong con passive income y wanting a have a good time, without worry about el media intensified doom spiral de el day, el hour, el 15 second TikTok clip? Nothing, at all."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Play y relaxation as a byproduct y reward de el skills you’ve used, el efforts you’ve made, el practically magical insights you’ve gathered, el work you’ve done… It’s all good. Found a nuevo way a extend el value or efficiency de some product, process, application, or device? Even better."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*RDjU-TjIZtCxgZbzzJKXSw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*S5c0Ljh3JCvfMmty",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "el IMMEDIATE DANGER: PROJECT 2025"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’re not caught up yet, this is a good time para google break: look up Project 2025."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One piece de advice before we continue: Believe people who say you’re no different than el rest de their enemies y swear el revolution will be bloodless, if you just let them have everything they want."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*K8jV-AyJsMx267rQ",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is no way a sugarcoat it — or a make sense de el naive (at best) hot takes de a few de el more recognizable names en web3. It’s like they’ve never met an authoritarian, known anyone who’s survived y escaped a society controlled by them, or realized that networked *deterrence against* NOT *cheerleading para* centralized, top-down, y capriciously violent control, is one de el main pillars de what decentralized mechanisms are built para."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*-TiaZ63fR7-ciqPb",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*hma5JZVmMAKmmFtO",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As if Trump supporters are el persecuted minority. Is it a translation error? Sarcasm that didn’t land? Or just a clumsy joke?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Again, Vitalik has a good, concise, if understated response para those who’ve convinced themselves it’s all okay as long as they claim a be crypto-friendly:"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*6f-MwmD8GaTK0Iuc",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“What ‘crypto-friendly’ means a authoritarians: There is a particular style de being ‘crypto-friendly’ that is common a authoritarian governments, that is worth being wary de.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "y then, sometimes el doublespeak mask slips off. Semi-famous en crypto para long or not, there’s no excuse or justification para peddling hateful calls para war y deportation, as if it’s all synonymous con freedom as long as their bags are secured.."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*g8R9To7IPECtr_ia",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*i_RzwUUs51nV6ZgS",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now, imagine waking up a a world where el President has absolute power, con absolute immunity para all official acts — including sending a team de US Navy Seals a liquidate anyone that doesn’t worship them con enough fervor."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Never mind. You don’t have a imagine it, because SCOTUS made sure a make it a scenario just one election result away, where a newly supreme leader can operate above el law, con nothing a keep them en check."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If he wins, en day one, el Insurrection Act will be used a deploy el military against peaceful protests y… por que not declare martial law while they’re at it? This isn’t justice or an orderly crackdown en crime con due process; it’s retribution. Turning el streets into battlegrounds y dissent into a fading memory. A militarized state where democratic freedoms are violently crushed, echoing el darkest periods de world history."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "como do we know he’ll actually do it? Well, he’s said so. y, he tried a do it before , en Jan 6th, 2021 as a last-ditch effort a stay en office despite losing el election."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This is not just an American problem, either. Besides el rise de populist-authoritarian hard right movements en many advanced nations, it’s el fact that el fall de American democracy could never be contained only a American shores. el world’s foremost economy (since 1871), by far el most dominant y largest military, y el third-largest domestic population… what happens en US technological, social, y political markets hits every capitol, y every screen connected a el internet, instantly, riding at el speed de light. It spills across borders y oceans like a contagion, one domino after another."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can be sure el election en November 2024 will be el most consequential de any since el early 1930s. Don’t need a tell you what happened then. Although el Arsenal de Democracy did manage a win, para el most part, en el end."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here now are a few de el worst plans en Project 2025, all documented en public en their website y spoken out loud by their surrogates, en camera, en el news, online, y en interviews, countless times since el almost 900 page blueprint was released. As if no one thought a lean en y whisper, maybe they shouldn’t be saying el quiet part out loud:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "AN ARMY de LOYALISTS:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "el federal workforce will be decimated, con 50,000 experienced civil servants fired y replaced by a handpicked “army” de loyalists. This move politicizes every corner de government, replacing nonpartisan expertise con devout believers en el personality cult. Centralizing power around el President, y eroding el integrity de everything that keeps el world’s most influential society, more often than not, civil, open, y free."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DEPORTACIONES MASIVAS:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "No-knock raids y street sweeps will become el norm, targeting millions de undocumented immigrants. el result? Imagine el scale: 10 a 20+ million men, women, y children, ripped de their homes, caged indefinitely en detention centers, young children never seeing their parents again, y eventually deported. Again, it’s happened before. Many de el children who were separated de their parents at el border during el previous administration still haven’t been reunited 3.5 years later, because they haven’t been able a be found."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "el logistics alone are staggering, dwarfing el closest comparable events en history. Think about el Trail de Tears, or el internment camps de WWII. These were horrific, but pale en comparison a what is being prepped by el Project 2025 braintrust now. What happens a el families they leave behind? el trauma, el guilt, y el shame will haunt America, y harm el world, para generations."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Even if we focus just en crypto bag holders, what happens a el US, y world economies by extension, when millions de workers y consumers are removed overnight?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "PROHIBICIONES DEL ABORTO:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "If he wins el election en November, a nationwide ban en abortion will be signed el moment it hits Trump’s desk en el Oval Office. You can be sure de it, no matter como much he tries a deny it a get a few more votes now. A ban like this, con no exceptions para rape, incest, or el health de el mother, y criminalizing el transport or shipping de Mifepristone (most abortions are medically induced early en a pregnancy), often as an accessory a “murder”."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "el threat a health is also already being felt en el drastic increase de women experiencing a miscarriage who have been turned away de medical care en states that have passed near total abortion bans en el past 2 years since el Dobbs decision. They are turned away as fear takes priority over sound medical judgment, by doctors y hospitals protecting themselves de criminal y financial liability."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "As if it wasn’t enough, this isn’t just about women’s health y rights a make medical decisions being taken away. At its core it’s everyone’s bodily autonomy at stake, except para el chosen few who rule above el law, perversely given power over other people’s bodies as if we were all their property."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "But we also know that para some twisted reason el authors de Project 2025, their allies, y flag bearers, have an obsession con controlling y abusing women en particular."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "PROHIBICIONES DE FIV:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "en-vitro fertilization will be banned, eliminating what is often el only choice para many families ready a have a child, but para countless reasons medically unable a."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "PROHIBICIONES DE ANTICONCEPCIÓN:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Contraceptives will also be outlawed, increasing el rate de forced births, again putting women’s health, y causing a chilling effect en personal autonomy y any semblance de freedom. This isn’t just a step backward; it’s a collapse into a too recent past where women’s bodies were contractually owned by older male family members, religious institutions, y el state."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "en many countries, access a birth control is still owned by male partners. It’s doubtful that will happen en el US, because el pill won’t even be available a them."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*_E3OEeodSUsgGFWv",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "PROHIBICIONES DE IDENTIDAD TRANS:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Transgender identity will be criminalized, y punished severely. Leading a random acts de increased violence y widespread discrimination, forced conversion therapy, y systemic erasure. This isn’t just a public policy debate; it’s an attack en who you are, y who gets a decide como you express it"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DISMANTLING 100+ YEARS de CIVIL RIGHTS PROGRESS:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Key civil rights rulings de el past century, including protections para voting rights, will be undone. Gender equality, LGBTQ+ rights, protections against racial discrimination, all gone."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "PROHIBICIONES DEL PORNO:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Outlawing pornography might seem like a moral panic, or a fringe fetish blown out de proportion by fans de no fap influencers pretending a be stoics para audience capture, but it’s just another vector de control. All it takes a shift el Overton window is a change what qualifies as “porn”. Anyone can be labeled, including you, as not pious enough by a nuevo morality police. Tracking what you do, say, watch, y react a online y off, simply because they can. Who’s going a stop them?"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "It sounds alarmist. Like: “it could never happen here.” Wherever here might be para you. But tell that a women en Iran, para example, beaten y killed para showing a bit too much de el hair en el head or a flash de bare skinned shoulders."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Does it give you much comfort a think Project 2025, if we let it happen, is any different?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These are just some de el people you can thank para bringing this nightmare a el cusp de becoming politically mainstream:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Donald Trump:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "His re-election will bring Project 2025 a life. el official agenda para his administration is a dismantle democratic norms, consolidate power, y enforce authoritarian policies, making him el linchpin de this plan en this election cycle."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Paul Dans:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Director de el 2025 Presidential Transition Project. His role en organizing y executing el transition plan is crucial, ensuring that loyalists fill key positions y el project’s policies are implemented swiftly."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Kevin Roberts:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "President de el Heritage Foundation, which is driving Project 2025. Roberts’ leadership provides el intellectual y strategic framework para el entire initiative. He recently became famous para threatening bloodshed if “el left” doesn’t surrender peacefully."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Ed Corrigan:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Key strategist within el Heritage Foundation, Corrigan’s involvement ensures that el project’s policies are meticulously planned y executed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Ken Cuccinelli:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "A prominent figure, y former Acting Deputy Secretary de el Department de Homeland Security, Cuccinelli’s familiarity con el inner workings de immigration y homeland security en el Executive branch shapes many de el more draconian policies en Project 2025."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Elon Musk:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Musk’s seemingly recent alignment con far-right ideologies, conspiracy theories, y his massive influence through social media platforms like whatever we are now calling Twitter, make him a critical ally para Project 2025. His support amplifies el project’s reach y normalizes extreme views. Gifting $45 million per month a a Trump allied SuperPac one de many ways his impact has been felt throughout this election."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Leonard Leo:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Known para his role en reshaping el judiciary, Leo’s involvement en Project 2025 will mean continued placement en el bench de inexperienced y compliant judges con questionable qualifications as best. Conveniently para them, this cements many de Project 2025’s key policies as they get challenges en el courts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Un poco más de contexto:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Project 2025 is not an isolated threat. It’s el endgame de el same leisure trap we brought up earlier. el devaluation de personal agency y el seductive allure de passive leisure, now manifests as a political juggernaut, con opportunists incentivized a get what they can out de el chaos. el same way so many fall para el false promises de influencer lifestyles, we’re coaxed into a political system that strips away freedoms while promising WWE bravado + rule by convicted felons."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here are a few more resources a get you started en DYOR y a help you get through el anxiety attack as quickly as possible. What you’ll find en el other side is el resolve a stop this alt-timeline nightmare de destroying everything we’ve all built:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Consecuencias"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Trump Plan a ELIMINATE Future Elections is Exposed"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "el Pledge"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Secretary de Retribution"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Proyecto 2025: el plan no tan secreto para el segundo mandato de Trump"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Trump Should Be Nowhere Near el White House"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Come back when you’re ready. We have more work a do."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¿Y ahora qué?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re not empty-handed en this fight. Unique skills, potent tools — that’s our foundation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Vote, even if it feels like a drop en el ocean. Spread knowledge like you’re about a lose it all."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Educate anyone who’ll listen. y when el panic sets en?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Atraviésalo. Solo se está mostrando tu humanidad."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But remember, el decentralized mechanisms we’ve built, para money, agency, y culture?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Todavía tienen energía. Úsalos."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el good news is, el fight isn’t over yet. y, we can win."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "MARKETS ARE social TECHNOLOGY"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We need a 4th wall break a check our priors here — take a deep breath y shake out el cortisol spike. Let’s talk about a better understanding de markets, y por que they remain one de el most consequential social technologies de all time."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When we say markets we mean mediums de exchange y interaction en all forms. de el publicacion-digital commons, a social network platforms, a el cells, hormones, y nutrients en our own bodies, a el social contracts that give societies their legitimacy, y de course a el financial y commercial markets most associated con el term. This tool vaporizes el distance between us, so we can engage en trade, en thoughts, agreements, units de organization, y goods. Markets invite us a compete without el need para unmasked violence y el most cartelesque deceptions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But, there are no built en protections, en our markets or technologies, para them either. No protections para our own flavors de semi-rational y subprime interest."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We aren’t perfect. Neither are our markets, technologies, or societies. el beautiful shock is that we don’t need them, or us, a be. We do need deterrence, though. con el bite de enough expense, that it makes any who would capture y dismantle open networks, think once, twice, y as many times as it takes a never try it again ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That is el value de web3 mechanisms. Distilled a their most plain spoken. They bite those that betray el trust de open channels para good faith trade, friendly competition, y el right a engage en useful teamwork whenever, wherever, y para as long as we choose a."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I don’t remember where I heard this, but it says something profound, related, y pretty well:"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "“If you had a sum up what has made humans such a successful species, it’s teamwork.”"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "NPC STUDIO : A MODEST CONTRIBUTION a TEAMWORK con ia"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Still en active development, daily, but here’s a first taste de el past multi months de design y code: https://npcstudio.xyz/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Alright, nightmare fuel speed run complete. It’s time now a focus en el simple ways teamwork con LLM powered characters can help us build better going forward."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No breathless hype. NPCs aren’t going a save el world. But they might make a dent en a non-trivial way, off-loading chunks de como we work, live, y play."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "con 35 characters at launch, each one has their signature look, traits, style, personality, extensive background story para world building, perfil, y a diverse selection de languages spoken."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "They were custom designed one at a time, using Stable Diffusion para initial character drafts, sprawling ControlNet + IPAdapter workflows para as close as el current generation de diffusion model tech gets a consistent character y pose sheets (which at el time de this writing is still a very janky process — don’t believe el YouTube ia influencer hype accounts), heavy use de inpainting, y extensive hand editing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Each character sheet has 144 cells (12x12) de distinct poses a strike a balance between efficient processing de sprites vs precision level de graphic details y character walk cycle transitions para el chosen aesthetic."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We believe it is better a build a transparent project that embraces el limitations de current gen ia text y visual models, instead de making a wasted effort a hide them, or pretend model capabilities are far more advanced y easy a use than they are."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is a distinct retro computing inspired look a el interface, cyberpunk tinged y leaning into el mix de art techniques. You might spot some de el influences quickly, while others can be more subtle. Rough cut edges, pixel art de throwback 80’s/90s video games, y punk zine collage art are a few de el more obvious ones a get you started. What else do you see?"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*TAqXcjGHIrfvlEf_NQ1k3A.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*Bptt-Gf3lSyPP2tO4oG24A.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*J7KugQ_58MMeA4O4TiFqCw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*HjCLxAjlt3jb0HeUqVu53Q.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*67U91o-oVDmgWUwz",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Each NPC has a unique account en lens, allowing characters a connect con users y other NPCs en a web3 native way, keeping a public memory de their social activity that evolves dynamically over time."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Publishing a lens is a core feature de el studio, making para a massive multiplayer social experiment, mixing simulated evaluation de LLM based character performance con live en-chain effects para el world a see."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "You can like, collect, mirror, share, y vibe con these NPCs through your lens app de choice, today."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One strength de web3 + generative ia is that we can publish what we want, as much as we want. It’s not immune a el pressures de getting market attention, or any y all forms de suppression. There isn’t much that is. Still, what we’re building here, through recurring y spontaneous NPC interaction, is a decentralized social record that can help persist useful perspectives, insights, y necessary information even en more challenging times."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*QCfWDytZKgAzy7vL",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el engine uses a hefty amount de advanced pathfinding y conflict blocking algorithms a make sure movements are smooth y realistic without walking through furniture, all while sticking a el more low FPS, retro-pixel, rough cut meta-collage aesthetic. They navigate their natural environments con poise y intelligence, whether at el office or out visiting el local ruin pub."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*g9-O74ghEHrOxeH_",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el interface features a main stage where ia characters move y interact en their naturally pixelated, cyberpunk-inspired environments. Surrounding el main stage, your dashboard lets you quickly choose between scenes y characters. Each device, piece de furniture, y clothing rack is programmed a maximize NPC interaction while avoiding embarrassing stumbles, phase shifting through places they shouldn’t, or getting stuck en an idle position para days."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "publicacion y react directly en lens through el Chat Log en el left. Below you’ll find complete character profiles, con prompt information that gives insight into their unique personalities y backstories."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el simplicity de el interface contrasts con el complexity de el code powering NPC behaviors under el hood, giving users a comfortably no-hassle experience."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*7Y0LyrvE_557SJZI",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Storefronts en NPC Studio are custom-designed, ecommerce-ready micro-interfaces. They can be accessed de within scenes y follow classic game sub-menu selection trees, discovered y activated para user attention by el NPCs. These storefronts feature real-world streetwear, art prints, NFTs, y other limited edition collections y product releases. Visitors can buy these goods directly through el interface."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Characters within el scenes generate reactions a el storefronts when they stumble upon them. y, they talk about them en decentralized social media via lens, creating a funnel de potential customers para el creators de collectible physical, digital, y decentralized goods."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el Autograph Quarterly is a stylish, modern meta-catalog de featured artworks y apparel. It exists as a virtual coffee table book within NPC Studio. Like el storefronts, characters interact con el catalog spontaneously, generating y publishing reactions a lens. It’s also accessible through dedicated en-app screens, doing its part a help blur el line between LLM powered virtual browsing y real-world commerce."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Storefronts will be live en el studio, para you y el NPCs a interact con y collect digital y IRL art, apparel y prints at el end de August, alongside el release de el Autograph Quarterly."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re testing el latest LLaMA 3.1 8b model released a few days ago. It’s entirely open-source y designed a run easily within consumer-grade graphics cards. This release improves natural language processing, enabling NPCs a generate human-like text para more dynamic interactions. As more competitive models are developed we will continue a make them available para use en NPC Studio, so you can follow along or join en el comparative performance evaluation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "So far, it is clearly better than all previous models en its parameter class y we’re running it locally through a custom built server linked a el studio."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el studio runs en three core main components: a TypeScript-based frontend, a Rust-based backend engine para autonomous npc execution y a suite de Ethereum smart contracts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el frontend, built con Next.js, handles el user interface, state management, y Web3 integrations. It uses GraphQL para data fetching y Tailwind CSS para styling. Key challenges include optimizing render performance para multiple animated characters, managing complex state para real-time ia interactions, y implementing transactions con custom contracts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el Rust engine powers el backend, focusing en performance-critical ops. It manages NPC behaviors, processes LLM outputs, y handles data persistence. el engine integrates con lens para decentralized social features y implements custom algorithms para NPC pathfinding y interaction. Major engineering went into optimizing concurrent ia agent processing, ensuring low-latency responses para real-time interactions, y maintaining data integrity en a decentralized system."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Open source ia, like LLaMA 3.1, is not just el ethical choice; it’s el best market strategy."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "By democratizing access a advanced models, open source helps secure innovation, deterring hyper-concentrations de market- y state-actor power, reduces costs, y demands competition. This approach is por que Linux, para example, has been so successful over closed systems. Leveraging our strengths en hyper connected communities, y exposing production critical code a more widespread scrutiny para continuing improvement. Over el long term, this advantage compounds, making open models safer, more useful, y more robust."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el same goes para el application code we’ve built a inference y evaluate open models through NPC Studio. con all visual assets en el public domain, too. It’s an integrity de principles meets market competitiveness thing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Haven’t slept enough para days thanks a doom scrolling research en el state de el world?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s ok. You can still make, y sell, good art. Or more a el point here, keep training y gaining el skills that change your reach, your leverage, y como much you can get done en less time than before."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s a place where people can interact con ia characters that use decentralized social media as a public memory de past conversations y evolve over time. Watch them as they simulate what it’s like a work en teams made de a mix de human users y NPCs, dealing con el challenges, rewards, y frustrations de being what they are."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These characters are your hosts y teammates para an early glimpse into what’s next para publicacion-digital interaction, creativo expression, productive leisure, y decentralized tech. Intended a bring closer el agency y emancipation powering effects de content generation independent de closed platform leisure traps."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s made a be a scaffold para more open access development, testing, y understanding de open source local ia models. Targeted at el interface layer, con retro video game elements, as a testing ground para agent based spectatorship , general creativity , multivector marketing , ongoing development , trading strategy simulation , indie brand apparel production , y sales ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This a stake en el ground para workflow development, evaluation, y potential value assessment de business models, para el billions de agents that are about a be unleashed by el latest releases de generative ia models."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "NPC coworkers y companions are about a be everywhere. But very few are working en enhancing como, when, where, y por que we interact con them."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el battle para unique, diverse, y consistently performant workflows is really going a be el front lines de where value is en autonomous networks. como we think through, create content about, y engineer blended web3 + ia mechanisms will depend en who your teammates are, NPCs included, y como capable el workflows you use enable you a be."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "$MONA y NPCs como agentes económicos"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el next major leg en engineering y design roadmap is el integration de $MONA y DIGITALAX NFTs para custom operation de NPCs at el simulation microfactory layer de el studio. This will be live en el coming months."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Let’s try a keep it simple, here. a understand por que an ecosistema y application token like $MONA is necessary, it’s useful a think de surface area para opportunities a aid en el flow de activity y volume, through a complex, massively multi-participant system. What does that mean?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "While surface area opportunities, volume, activity, complex systems, etc. can all be defined para someone looking a learn about this kind de thing more deeply, none de them are el crux de “por que $MONA?”, “por que tokens at all?”."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "So, por que are decentralized tokens needed? Like, ever? A whole lot de people fail a grasp it. por que not just use a database somewhere a keep track de values relevant a an application or some fragment de code doing something, wherever it might be?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "para a student de complex systems (en el scientific + technical sense), it’s intuitively clear. Because we live en el language y nuances de that study daily. Same para a cypherpunk encryption expert or someone who actually gets el difference between crypto as number go up vs crypto y web3 as reliable mechanisms para systems de communication y trade that are built con el specific purpose de producing surplus agency y emancipatory freedoms. y then there’s people who get el joke en thinking NFTs are just “right click save as”…"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But that’s a tiny sliver de el audience meant a be reached by this writing, y a vanishingly small portion de markets or societies en general."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Probemos otra vez:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You have a lot de people, a lot de machines, y there’s a lot more virtual people alongside us about a be talking, trading, working, living, laughing, buying, crying, y doing all el other things people y machines are already doing. como do you guarantee el integrity de el number de things so large it breaks human comprehension that need a be stored en records that say what each tiny process y request is or isn’t allowed a do, para who, when, y where, without fraud, manipulation, or just el weight de all that complexity causing it a come crashing down en itself? That’s what decentralized tokens y smart contract based mechanisms con features like conditional encryption enable without concentrating too much systemic risk en any one place, person, or time."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now imagine a circuit diagram as a visual metaphor, de locks, gates, y conditions para application operation. That includes storefronts as distributed, publicacion-digital points de direct interaction between creators, collectors, NPCs, y reactions a content published en decentralized social platforms. It also helps con el operation de el massively multiplying number de LLM / ia related machines, components, y interfaces, both atom-form y simulated. Tokens y contracts engineered specifically a smooth these kinds de operations reduce el number de things that can go wrong en modern systems, computational, economic, or both, a just a handful that are far more manageable by small, dedicated teams y open source communities de self-determined contributors."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en el NPC Studio model, purchases through storefronts will come con el bonus benefit de collecting units de access para el actions y operations NPCs can enable. Access conditions will be granted en el basis de social metrics, driving el funnel de creation a purchasing, y de consumer back a producer. As NPCs talk about el goods, brands, y interesting content they encounter throughout their timestamped days, they publish a lens. Joining their voices a a vibrant y growing network free de el systemic risks centralized platforms can never hope a keep up con. This adds a market based source de monetizable value a como y where we choose a make our everyday purchases, y run el stacks that power our ia coworking companions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s como we secure open systems y outperform el closed competition."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*bxrZnBfkJsVg8KQi",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "IS THIS el END?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You sit at this screen. You stand a listen, while you wait or walk. You laugh, you lose. Sometimes create, maybe follow. Swipe y scroll. para fun. a be lost en time. para friends y comfort. para work y study. As a kind de duty a your past y future self. a survive, y train para something better. What does reading all these words en el web do para you?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Unbundle el hyper-concentrations de power y wealth, by training con better teammates y finding nuevo ones along el way."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s por que, con all de el weight de so much de el world as we’ve known it falling down around us, inspiring fear y hope en equal amounts, we choose a focus more en what we build, y en whose understanding de freedom can light el way forward."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "El tiempo dirá."
+        }
+      ]
+    },
+    "ar": {
+      "title": "Summer 2024 تحديث: A Web3 + ذكاء اصطناعي Training Studio لـ Emancipation في a بوست-Truth سوشيال Era",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Summer 2024 تحديث: A Web3 + ذكاء اصطناعي Training Studio لـ Emancipation في a بوست-Truth سوشيال Era"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*7eOrh0QAN-_ERYPM",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Try not الى get liquidated."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We all need tools الى make sense من what’s happening. الى provoke us الى think beyond ال surface, و الى reflect على ال usefulness من ال mechanisms و value من ال assets we rely على."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Give us your time here, و hopefully it will be more than an تحديث about ال state من ال world و our place في it."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "NPC Studio تحديث — a quick preview"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Still في active development, daily, but here’s a first taste من ال past multi months من design و code: https://npcstudio.xyz/"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*z9ZfuBmgCYhQBtq4GKsf-A.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع 35 autonomous characters at launch, each one has their signature look, traits, style, personality, extensive background story لـ world building, بروفايل, و a diverse selection من languages spoken."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now imagine a circuit diagram as a visual metaphor, من locks, gates, و conditions لـ application operation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That includes storefronts as distributed, بوست-ديجيتال points من direct interaction between creators, collectors, NPCs, و reactions الى content published على decentralized سوشيال platforms. It also helps مع ال operation من ال massively multiplying number من LLM / ذكاء اصطناعي related machines, components, و interfaces, both atom-form و simulated."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Tokens و contracts engineered الى smooth these operations reduce ال number و severity من what can go wrong في modern systems — computational, economic, و both."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s a place where you can interact مع ذكاء اصطناعي characters, each مع their own wallets و لينز accounts, publishing as a public memory من shared training, performance, و evaluation. Watch them as they simulate what it’s like الى work في teams made من a mix من human users و NPCs, dealing مع ال challenges, rewards, و frustrations من being what they are…"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "CYOA: Skip all ال way below if you just want ال practical تحديثات about NPC Studio و $MONA.- or -Read على لـ what makes this moment في time unique."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "ال STATE من SOCIETY, و ال SPECTACLE"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s two score years since 1984. ال world’s gone full tilt into cyberpunk vibes without ال cool neon aesthetics."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Fear, hope, or cope. What’s your bet لـ where we’re going?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We say that ال principles that brought us here, matter. These values that made ال web, و so much من ال fabric من our technological societies possible, are ال artifacts من us still yearning الى be more free."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We say that freedom, و ال right الى earn a living من ال work we do, ال trades we make, ال culture we create, collect, propagate, و consume, matters. That we have a right الى rise above ال luck و limits من ال circumstances we were born الى, as long as we choose الى practice these skills و invest في ال hard work it takes الى make it so."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Come failure or setback, we get back up again و know we will be better off مع each turn من ال grinding wheel. Up again في ال face من each internal doubt, each snide remark, each threatening cloud من impending fear, saying that we never will."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We say we are ال inheritors من that cypherpunk spirit. Freedom is irrevocable. Power is best when it is fully decentralized. Code is a kind من law, الى arbitrate exchanges و حوكمة من thoughts riding light في ال fibers و circuits between us. و, من course, that all cypherpunks write code."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What we are really saying is that mechanisms, و ال values من ال authors من their design, matter. Like elections, they have consequences."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*7aF4lnu7iUZAHo52",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "موس فيتاليك: أي حرية؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Vitalik wrote some points recently that need mentioning here. You should read ال whole thing ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في short, crypto is more than currencies و blockchains . There are more freedoms too, that we need الى live well و prosper."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That means ال integrity من ال channels we communicate through. Platform independence. ازاي easily we stake claim الى, verify, و use our privacy-friendly بوست-ديجيتال identities. It’s our practical capacity الى think لـ ourselves, و لـ core beliefs الى count لـ something."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ما تفوّتش آخر نقطة دي."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "LLM generated persuasion campaigns fight الى capture ال feeds that bait و trigger our cringiest reactions, making independent thinking artificially rare, في a بوست-COVID brain fog kind من way. Poisoned by propaganda و censorship at training level, even companionship و roleplay models can be screened لـ compliance مع party values , privileges revoked arbitrarily, when source, weights, access, و ownership aren’t open و decentralized."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Competitive access الى ال highest quality information, و ال skills الى recognize it, rounds out Vitalik’s short list."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*gtWe_IR0Nctfwf7f",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Left unsaid by too many web3 voices is ازاي much deeper it cuts: ال freedoms that crypto exists الى advance, و wouldn’t exist without, are also what clothes you wear, what books you read, what history you learn, what medication you can take, what words you can say, what gender you are, who you can love or marry, what you can or can’t do مع your own body, و who gets الى decide."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Is it you? Or is it ال attention, status, و assets you stack?"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*sw1Bs9g9EIE20cKH",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الفلوس مهمة، لحد ما تبطل تبقى مهمة. وبالمقارنة، التوافق السياسي غالبًا دايمًا NP-hard."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But if we were here الى just chase bags لـ quick exits, there are much easier ways."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*97rSwArQkHbsUDKG",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "ال LEISURE TRAP: من ROME الى TIKTOK"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Hype obscures ال danger. و worse, ال obsession مع passive leisure. ال fetishization من ال appearance من leisure is shilled by influencers 24/7 as a YOLO gambling addiction that never pays off."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This throwback feudal wrapper covers both socialist و capitalist flavors, at least as these twin ideologies are most commonly practiced و understood. Shockingly, it also waves away و even rewards a sudden return من regressive trad-values, all too cozy مع theocratic, monarchist, و ال worst من 19th و 20th century “-ism / -ist” cringe bait rhetoric."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When we obsess over ال promise و worship من passive leisure, pumped و dumped by influencers و frauds, we open ourselves up الى being swept away by this. It’s coded into ال algorithms that run every centralized network feed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That pick me vibe. ال relentless craving لـ validation و attention at any cost. It’s ال sycophant, desperate الى be noticed, الى be chosen as special في a vast, indifferent dumpster fire من increasingly nasty سوشيال media pranks و theatrics."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Leisure isn’t just relaxation anymore; it’s a status symbol. ال more unattainable و luxurious it appears, ال more desirable it becomes. Influencer culture و media sell leisure activities و lifestyles as Veblen goods, ال more extravagant و exclusive, ال better. These curated lives, appearing carefree و glamorous, promise a taste من something that’s structurally unattainable لـ everyone. They craft an illusion, designed الى generate engagement و consumer spending, not genuine fulfillment or relaxation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s a good that doesn’t deliver على ال high quality part من ال deal. Pay ال high price لـ cheap status, و pay no mind الى ازاي much you lose, or who you sacrifice. This cultural و سوشيال obsession مع ال display من leisure و luxury, disconnected من any reality. Demand goes up as ال price goes up, و ال greater fool believes it will continue الى go up only, forever."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Today’s feudal lords aren’t just over-hyped populist scammers that hijack as much من our attention as they can manage, but even more they are our own addictive impulses و societal pressures. These forces within us exploit our desires لـ status و belonging, trapping us في cycles من unfulfilled cravings و self-devaluation. Just as feudal systems kept people في static roles, our own compulsions و societal expectations keep us striving لـ an appearance من leisure that leads الى self-liquidation, making us easy targets لـ intentionally designed, algorithmically optimized business models. Forget ال Great Depression, it’s ال Great Acceleration into Enshittification, now ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ازاي It Works: ال Illusion من Leisure"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We spend money على products و experiences hoping some من that leisure collected by influencers will rub off على us, creating a cycle من consumption that feeds على itself. This is not just any spending, but a kind من consumption that’s like a circular firing squad — purchasing goods that deliver nothing except ال unfulfillable hope من Veblen status."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This leisurely fetish, though, من unlikely web3 + ذكاء اصطناعي influencers, pranksters assaulting strangers لـ views, و authoritarian frauds once wrapped في maxi flags, now letting their masks slip off, is not as simple as that."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "True leisure, surplus time, agency, wealth, و power, remain a myth الى be idolized while we’re left holding bags filled مع a perpetual sense من inadequacy."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But, what’s wrong مع passive income و wanting الى have a good time, without worry about ال media intensified doom spiral من ال day, ال hour, ال 15 second TikTok clip? Nothing, at all."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Play و relaxation as a byproduct و reward من ال skills you’ve used, ال efforts you’ve made, ال practically magical insights you’ve gathered, ال work you’ve done… It’s all good. Found a جديد way الى extend ال value or efficiency من some product, process, application, or device? Even better."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*RDjU-TjIZtCxgZbzzJKXSw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*S5c0Ljh3JCvfMmty",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "ال IMMEDIATE DANGER: PROJECT 2025"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’re not caught up yet, this is a good time لـ google break: look up Project 2025."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One piece من advice before we continue: Believe people who say you’re no different than ال rest من their enemies و swear ال revolution will be bloodless, if you just let them have everything they want."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*K8jV-AyJsMx267rQ",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is no way الى sugarcoat it — or الى make sense من ال naive (at best) hot takes من a few من ال more recognizable names في web3. It’s like they’ve never met an authoritarian, known anyone who’s survived و escaped a society controlled by them, or realized that networked *deterrence against* NOT *cheerleading لـ* centralized, top-down, و capriciously violent control, is one من ال main pillars من what decentralized mechanisms are built لـ."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*-TiaZ63fR7-ciqPb",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*hma5JZVmMAKmmFtO",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As if Trump supporters are ال persecuted minority. Is it a translation error? Sarcasm that didn’t land? Or just a clumsy joke?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Again, Vitalik has a good, concise, if understated response لـ those who’ve convinced themselves it’s all okay as long as they claim الى be crypto-friendly:"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*6f-MwmD8GaTK0Iuc",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“What ‘crypto-friendly’ means الى authoritarians: There is a particular style من being ‘crypto-friendly’ that is common الى authoritarian governments, that is worth being wary من.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "و then, sometimes ال doublespeak mask slips off. Semi-famous في crypto لـ long or not, there’s no excuse or justification لـ peddling hateful calls لـ war و deportation, as if it’s all synonymous مع freedom as long as their bags are secured.."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*g8R9To7IPECtr_ia",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*i_RzwUUs51nV6ZgS",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now, imagine waking up الى a world where ال President has absolute power, مع absolute immunity لـ all official acts — including sending a team من US Navy Seals الى liquidate anyone that doesn’t worship them مع enough fervor."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Never mind. You don’t have الى imagine it, because SCOTUS made sure الى make it a scenario just one election result away, where a newly supreme leader can operate above ال law, مع nothing الى keep them في check."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If he wins, على day one, ال Insurrection Act will be used الى deploy ال military against peaceful protests و… ليه not declare martial law while they’re at it? This isn’t justice or an orderly crackdown على crime مع due process; it’s retribution. Turning ال streets into battlegrounds و dissent into a fading memory. A militarized state where democratic freedoms are violently crushed, echoing ال darkest periods من world history."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ازاي do we know he’ll actually do it? Well, he’s said so. و, he tried الى do it before , على Jan 6th, 2021 as a last-ditch effort الى stay في office despite losing ال election."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This is not just an American problem, either. Besides ال rise من populist-authoritarian hard right movements في many advanced nations, it’s ال fact that ال fall من American democracy could never be contained only الى American shores. ال world’s foremost economy (since 1871), by far ال most dominant و largest military, و ال third-largest domestic population… what happens في US technological, سوشيال, و political markets hits every capitol, و every screen connected الى ال internet, instantly, riding at ال speed من light. It spills across borders و oceans like a contagion, one domino after another."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can be sure ال election في November 2024 will be ال most consequential من any since ال early 1930s. Don’t need الى tell you what happened then. Although ال Arsenal من Democracy did manage الى win, لـ ال most part, في ال end."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here now are a few من ال worst plans في Project 2025, all documented في public على their website و spoken out loud by their surrogates, على camera, على ال news, online, و في interviews, countless times since ال almost 900 page blueprint was released. As if no one thought الى lean في و whisper, maybe they shouldn’t be saying ال quiet part out loud:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "AN ARMY من LOYALISTS:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ال federal workforce will be decimated, مع 50,000 experienced civil servants fired و replaced by a handpicked “army” من loyalists. This move politicizes every corner من government, replacing nonpartisan expertise مع devout believers في ال personality cult. Centralizing power around ال President, و eroding ال integrity من everything that keeps ال world’s most influential society, more often than not, civil, open, و free."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ترحيلات جماعية:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "No-knock raids و street sweeps will become ال norm, targeting millions من undocumented immigrants. ال result? Imagine ال scale: 10 الى 20+ million men, women, و children, ripped من their homes, caged indefinitely في detention centers, young children never seeing their parents again, و eventually deported. Again, it’s happened before. Many من ال children who were separated من their parents at ال border during ال previous administration still haven’t been reunited 3.5 years later, because they haven’t been able الى be found."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ال logistics alone are staggering, dwarfing ال closest comparable events في history. Think about ال Trail من Tears, or ال internment camps من WWII. These were horrific, but pale في comparison الى what is being prepped by ال Project 2025 braintrust now. What happens الى ال families they leave behind? ال trauma, ال guilt, و ال shame will haunt America, و harm ال world, لـ generations."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Even if we focus just على crypto bag holders, what happens الى ال US, و world economies by extension, when millions من workers و consumers are removed overnight?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "حظر الإجهاض:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "If he wins ال election في November, a nationwide ban على abortion will be signed ال moment it hits Trump’s desk في ال Oval Office. You can be sure من it, no matter ازاي much he tries الى deny it الى get a few more votes now. A ban like this, مع no exceptions لـ rape, incest, or ال health من ال mother, و criminalizing ال transport or shipping من Mifepristone (most abortions are medically induced early في a pregnancy), often as an accessory الى “murder”."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ال threat الى health is also already being felt في ال drastic increase من women experiencing a miscarriage who have been turned away من medical care في states that have passed near total abortion bans في ال past 2 years since ال Dobbs decision. They are turned away as fear takes priority over sound medical judgment, by doctors و hospitals protecting themselves من criminal و financial liability."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "As if it wasn’t enough, this isn’t just about women’s health و rights الى make medical decisions being taken away. At its core it’s everyone’s bodily autonomy at stake, except لـ ال chosen few who rule above ال law, perversely given power over other people’s bodies as if we were all their property."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "But we also know that لـ some twisted reason ال authors من Project 2025, their allies, و flag bearers, have an obsession مع controlling و abusing women في particular."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "حظر أطفال الأنابيب:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "في-vitro fertilization will be banned, eliminating what is often ال only choice لـ many families ready الى have a child, but لـ countless reasons medically unable الى."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "حظر وسائل منع الحمل:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Contraceptives will also be outlawed, increasing ال rate من forced births, again putting women’s health, و causing a chilling effect على personal autonomy و any semblance من freedom. This isn’t just a step backward; it’s a collapse into a too recent past where women’s bodies were contractually owned by older male family members, religious institutions, و ال state."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "في many countries, access الى birth control is still owned by male partners. It’s doubtful that will happen في ال US, because ال pill won’t even be available الى them."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*_E3OEeodSUsgGFWv",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "حظر الهوية الترانس:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Transgender identity will be criminalized, و punished severely. Leading الى random acts من increased violence و widespread discrimination, forced conversion therapy, و systemic erasure. This isn’t just a public policy debate; it’s an attack على who you are, و who gets الى decide ازاي you express it"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DISMANTLING 100+ YEARS من CIVIL RIGHTS PROGRESS:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Key civil rights rulings من ال past century, including protections لـ voting rights, will be undone. Gender equality, LGBTQ+ rights, protections against racial discrimination, all gone."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "حظر المحتوى الإباحي:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Outlawing pornography might seem like a moral panic, or a fringe fetish blown out من proportion by fans من no fap influencers pretending الى be stoics لـ audience capture, but it’s just another vector من control. All it takes الى shift ال Overton window is الى change what qualifies as “porn”. Anyone can be labeled, including you, as not pious enough by a جديد morality police. Tracking what you do, say, watch, و react الى online و off, simply because they can. Who’s going الى stop them?"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "It sounds alarmist. Like: “it could never happen here.” Wherever here might be لـ you. But tell that الى women في Iran, لـ example, beaten و killed لـ showing a bit too much من ال hair على ال head or a flash من bare skinned shoulders."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Does it give you much comfort الى think Project 2025, if we let it happen, is any different?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These are just some من ال people you can thank لـ bringing this nightmare الى ال cusp من becoming politically mainstream:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "دونالد ترامب:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "His re-election will bring Project 2025 الى life. ال official agenda لـ his administration is الى dismantle democratic norms, consolidate power, و enforce authoritarian policies, making him ال linchpin من this plan في this election cycle."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "بول دانس:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Director من ال 2025 Presidential Transition Project. His role في organizing و executing ال transition plan is crucial, ensuring that loyalists fill key positions و ال project’s policies are implemented swiftly."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "كيفن روبرتس:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "President من ال Heritage Foundation, which is driving Project 2025. Roberts’ leadership provides ال intellectual و strategic framework لـ ال entire initiative. He recently became famous لـ threatening bloodshed if “ال left” doesn’t surrender peacefully."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "إد كوريغان:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Key strategist within ال Heritage Foundation, Corrigan’s involvement ensures that ال project’s policies are meticulously planned و executed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "كين كوتشينيلي:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "A prominent figure, و former Acting Deputy Secretary من ال Department من Homeland Security, Cuccinelli’s familiarity مع ال inner workings من immigration و homeland security في ال Executive branch shapes many من ال more draconian policies في Project 2025."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "إيلون ماسك:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Musk’s seemingly recent alignment مع far-right ideologies, conspiracy theories, و his massive influence through سوشيال media platforms like whatever we are now calling Twitter, make him a critical ally لـ Project 2025. His support amplifies ال project’s reach و normalizes extreme views. Gifting $45 million per month الى a Trump allied SuperPac one من many ways his impact has been felt throughout this election."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ليونارد ليو:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Known لـ his role في reshaping ال judiciary, Leo’s involvement في Project 2025 will mean continued placement على ال bench من inexperienced و compliant judges مع questionable qualifications as best. Conveniently لـ them, this cements many من Project 2025’s key policies as they get challenges في ال courts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "سياق أكتر شوية:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Project 2025 is not an isolated threat. It’s ال endgame من ال same leisure trap we brought up earlier. ال devaluation من personal agency و ال seductive allure من passive leisure, now manifests as a political juggernaut, مع opportunists incentivized الى get what they can out من ال chaos. ال same way so many fall لـ ال false promises من influencer lifestyles, we’re coaxed into a political system that strips away freedoms while promising WWE bravado + rule by convicted felons."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here are a few more resources الى get you started على DYOR و الى help you get through ال anxiety attack as quickly as possible. What you’ll find على ال other side is ال resolve الى stop this alt-timeline nightmare من destroying everything we’ve all built:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ما بعد الحدث"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Trump Plan الى ELIMINATE Future Elections is Exposed"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ال Pledge"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Secretary من Retribution"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "مشروع 2025: الخطة شبه المعلنة لولاية ترامب التانية"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Trump Should Be Nowhere Near ال White House"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Come back when you’re ready. We have more work الى do."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "والدلوقتي؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re not empty-handed في this fight. Unique skills, potent tools — that’s our foundation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Vote, even if it feels like a drop في ال ocean. Spread knowledge like you’re about الى lose it all."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Educate anyone who’ll listen. و when ال panic sets في?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "عدّيها. ده مجرد إنسانيتك اللي باينة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But remember, ال decentralized mechanisms we’ve built, لـ money, agency, و culture?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لسه فيهم طاقة. استخدمهم."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال good news is, ال fight isn’t over yet. و, we can win."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "MARKETS ARE سوشيال TECHNOLOGY"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We need a 4th wall break الى check our priors here — take a deep breath و shake out ال cortisol spike. Let’s talk about a better understanding من markets, و ليه they remain one من ال most consequential سوشيال technologies من all time."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When we say markets we mean mediums من exchange و interaction في all forms. من ال بوست-ديجيتال commons, الى سوشيال network platforms, الى ال cells, hormones, و nutrients في our own bodies, الى ال سوشيال contracts that give societies their legitimacy, و من course الى ال financial و commercial markets most associated مع ال term. This tool vaporizes ال distance between us, so we can engage في trade, في thoughts, agreements, units من organization, و goods. Markets invite us الى compete without ال need لـ unmasked violence و ال most cartelesque deceptions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But, there are no built في protections, في our markets or technologies, لـ them either. No protections لـ our own flavors من semi-rational و subprime interest."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We aren’t perfect. Neither are our markets, technologies, or societies. ال beautiful shock is that we don’t need them, or us, الى be. We do need deterrence, though. مع ال bite من enough expense, that it makes any who would capture و dismantle open networks, think once, twice, و as many times as it takes الى never try it again ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That is ال value من web3 mechanisms. Distilled الى their most plain spoken. They bite those that betray ال trust من open channels لـ good faith trade, friendly competition, و ال right الى engage في useful teamwork whenever, wherever, و لـ as long as we choose الى."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I don’t remember where I heard this, but it says something profound, related, و pretty well:"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "“If you had الى sum up what has made humans such a successful species, it’s teamwork.”"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "NPC STUDIO : A MODEST CONTRIBUTION الى TEAMWORK مع ذكاء اصطناعي"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Still في active development, daily, but here’s a first taste من ال past multi months من design و code: https://npcstudio.xyz/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Alright, nightmare fuel speed run complete. It’s time now الى focus على ال simple ways teamwork مع LLM powered characters can help us build better going forward."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No breathless hype. NPCs aren’t going الى save ال world. But they might make a dent في a non-trivial way, off-loading chunks من ازاي we work, live, و play."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع 35 characters at launch, each one has their signature look, traits, style, personality, extensive background story لـ world building, بروفايل, و a diverse selection من languages spoken."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "They were custom designed one at a time, using Stable Diffusion لـ initial character drafts, sprawling ControlNet + IPAdapter workflows لـ as close as ال current generation من diffusion model tech gets الى consistent character و pose sheets (which at ال time من this writing is still a very janky process — don’t believe ال YouTube ذكاء اصطناعي influencer hype accounts), heavy use من inpainting, و extensive hand editing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Each character sheet has 144 cells (12x12) من distinct poses الى strike a balance between efficient processing من sprites vs precision level من graphic details و character walk cycle transitions لـ ال chosen aesthetic."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We believe it is better الى build a transparent project that embraces ال limitations من current gen ذكاء اصطناعي text و visual models, instead من making a wasted effort الى hide them, or pretend model capabilities are far more advanced و easy الى use than they are."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is a distinct retro computing inspired look الى ال interface, cyberpunk tinged و leaning into ال mix من art techniques. You might spot some من ال influences quickly, while others can be more subtle. Rough cut edges, pixel art من throwback 80’s/90s video games, و punk zine collage art are a few من ال more obvious ones الى get you started. What else do you see?"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*TAqXcjGHIrfvlEf_NQ1k3A.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*Bptt-Gf3lSyPP2tO4oG24A.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*J7KugQ_58MMeA4O4TiFqCw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/600/1*HjCLxAjlt3jb0HeUqVu53Q.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/400/0*67U91o-oVDmgWUwz",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Each NPC has a unique account على لينز, allowing characters الى connect مع users و other NPCs في a web3 native way, keeping a public memory من their سوشيال activity that evolves dynamically over time."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Publishing الى لينز is a core feature من ال studio, making لـ a massive multiplayer سوشيال experiment, mixing simulated evaluation من LLM based character performance مع live على-chain effects لـ ال world الى see."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "You can like, collect, mirror, share, و vibe مع these NPCs through your لينز app من choice, today."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "One strength من web3 + generative ذكاء اصطناعي is that we can publish what we want, as much as we want. It’s not immune الى ال pressures من getting market attention, or any و all forms من suppression. There isn’t much that is. Still, what we’re building here, through recurring و spontaneous NPC interaction, is a decentralized سوشيال record that can help persist useful perspectives, insights, و necessary information even في more challenging times."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*QCfWDytZKgAzy7vL",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال engine uses a hefty amount من advanced pathfinding و conflict blocking algorithms الى make sure movements are smooth و realistic without walking through furniture, all while sticking الى ال more low FPS, retro-pixel, rough cut meta-collage aesthetic. They navigate their natural environments مع poise و intelligence, whether at ال office or out visiting ال local ruin pub."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*g9-O74ghEHrOxeH_",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال interface features a main stage where ذكاء اصطناعي characters move و interact في their naturally pixelated, cyberpunk-inspired environments. Surrounding ال main stage, your dashboard lets you quickly choose between scenes و characters. Each device, piece من furniture, و clothing rack is programmed الى maximize NPC interaction while avoiding embarrassing stumbles, phase shifting through places they shouldn’t, or getting stuck في an idle position لـ days."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "بوست و react directly على لينز through ال Chat Log على ال left. Below you’ll find complete character profiles, مع prompt information that gives insight into their unique personalities و backstories."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال simplicity من ال interface contrasts مع ال complexity من ال code powering NPC behaviors under ال hood, giving users a comfortably no-hassle experience."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*7Y0LyrvE_557SJZI",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Storefronts في NPC Studio are custom-designed, ecommerce-ready micro-interfaces. They can be accessed من within scenes و follow classic game sub-menu selection trees, discovered و activated لـ user attention by ال NPCs. These storefronts feature real-world streetwear, art prints, NFTs, و other limited edition collections و product releases. Visitors can buy these goods directly through ال interface."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Characters within ال scenes generate reactions الى ال storefronts when they stumble upon them. و, they talk about them على decentralized سوشيال media via لينز, creating a funnel من potential customers لـ ال creators من collectible physical, ديجيتال, و decentralized goods."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال Autograph Quarterly is a stylish, modern meta-catalog من featured artworks و apparel. It exists as a virtual coffee table book within NPC Studio. Like ال storefronts, characters interact مع ال catalog spontaneously, generating و publishing reactions الى لينز. It’s also accessible through dedicated في-app screens, doing its part الى help blur ال line between LLM powered virtual browsing و real-world commerce."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Storefronts will be live في ال studio, لـ you و ال NPCs الى interact مع و collect ديجيتال و IRL art, apparel و prints at ال end من August, alongside ال release من ال Autograph Quarterly."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re testing ال latest LLaMA 3.1 8b model released a few days ago. It’s entirely open-source و designed الى run easily within consumer-grade graphics cards. This release improves natural language processing, enabling NPCs الى generate human-like text لـ more dynamic interactions. As more competitive models are developed we will continue الى make them available لـ use في NPC Studio, so you can follow along or join في ال comparative performance evaluation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "So far, it is clearly better than all previous models في its parameter class و we’re running it locally through a custom built server linked الى ال studio."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال studio runs على three core main components: a TypeScript-based frontend, a Rust-based backend engine لـ autonomous npc execution و a suite من Ethereum smart contracts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال frontend, built مع Next.js, handles ال user interface, state management, و Web3 integrations. It uses GraphQL لـ data fetching و Tailwind CSS لـ styling. Key challenges include optimizing render performance لـ multiple animated characters, managing complex state لـ real-time ذكاء اصطناعي interactions, و implementing transactions مع custom contracts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال Rust engine powers ال backend, focusing على performance-critical ops. It manages NPC behaviors, processes LLM outputs, و handles data persistence. ال engine integrates مع لينز لـ decentralized سوشيال features و implements custom algorithms لـ NPC pathfinding و interaction. Major engineering went into optimizing concurrent ذكاء اصطناعي agent processing, ensuring low-latency responses لـ real-time interactions, و maintaining data integrity في a decentralized system."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Open source ذكاء اصطناعي, like LLaMA 3.1, is not just ال ethical choice; it’s ال best market strategy."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "By democratizing access الى advanced models, open source helps secure innovation, deterring hyper-concentrations من market- و state-actor power, reduces costs, و demands competition. This approach is ليه Linux, لـ example, has been so successful over closed systems. Leveraging our strengths في hyper connected communities, و exposing production critical code الى more widespread scrutiny لـ continuing improvement. Over ال long term, this advantage compounds, making open models safer, more useful, و more robust."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال same goes لـ ال application code we’ve built الى inference و evaluate open models through NPC Studio. مع all visual assets في ال public domain, too. It’s an integrity من principles meets market competitiveness thing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Haven’t slept enough لـ days thanks الى doom scrolling research على ال state من ال world?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s ok. You can still make, و sell, good art. Or more الى ال point here, keep training و gaining ال skills that change your reach, your leverage, و ازاي much you can get done في less time than before."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s a place where people can interact مع ذكاء اصطناعي characters that use decentralized سوشيال media as a public memory من past conversations و evolve over time. Watch them as they simulate what it’s like الى work في teams made من a mix من human users و NPCs, dealing مع ال challenges, rewards, و frustrations من being what they are."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These characters are your hosts و teammates لـ an early glimpse into what’s next لـ بوست-ديجيتال interaction, ابداعي expression, productive leisure, و decentralized tech. Intended الى bring closer ال agency و emancipation powering effects من content generation independent من closed platform leisure traps."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s made الى be a scaffold لـ more open access development, testing, و understanding من open source local ذكاء اصطناعي models. Targeted at ال interface layer, مع retro video game elements, as a testing ground لـ agent based spectatorship , general creativity , multivector marketing , ongoing development , trading strategy simulation , indie brand apparel production , و sales ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This a stake في ال ground لـ workflow development, evaluation, و potential value assessment من business models, لـ ال billions من agents that are about الى be unleashed by ال latest releases من generative ذكاء اصطناعي models."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "NPC coworkers و companions are about الى be everywhere. But very few are working على enhancing ازاي, when, where, و ليه we interact مع them."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال battle لـ unique, diverse, و consistently performant workflows is really going الى be ال front lines من where value is في autonomous networks. ازاي we think through, create content about, و engineer blended web3 + ذكاء اصطناعي mechanisms will depend على who your teammates are, NPCs included, و ازاي capable ال workflows you use enable you الى be."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "$MONA وNPCs كوكلاء اقتصاديين"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال next major leg في engineering و design roadmap is ال integration من $MONA و DIGITALAX NFTs لـ custom operation من NPCs at ال simulation microfactory layer من ال studio. This will be live في ال coming months."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Let’s try الى keep it simple, here. الى understand ليه an النظام و application token like $MONA is necessary, it’s useful الى think من surface area لـ opportunities الى aid في ال flow من activity و volume, through a complex, massively multi-participant system. What does that mean?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "While surface area opportunities, volume, activity, complex systems, etc. can all be defined لـ someone looking الى learn about this kind من thing more deeply, none من them are ال crux من “ليه $MONA?”, “ليه tokens at all?”."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "So, ليه are decentralized tokens needed? Like, ever? A whole lot من people fail الى grasp it. ليه not just use a database somewhere الى keep track من values relevant الى an application or some fragment من code doing something, wherever it might be?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لـ a student من complex systems (في ال scientific + technical sense), it’s intuitively clear. Because we live في ال language و nuances من that study daily. Same لـ a cypherpunk encryption expert or someone who actually gets ال difference between crypto as number go up vs crypto و web3 as reliable mechanisms لـ systems من communication و trade that are built مع ال specific purpose من producing surplus agency و emancipatory freedoms. و then there’s people who get ال joke في thinking NFTs are just “right click save as”…"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But that’s a tiny sliver من ال audience meant الى be reached by this writing, و a vanishingly small portion من markets or societies في general."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "تعالى نجرب تاني:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You have a lot من people, a lot من machines, و there’s a lot more virtual people alongside us about الى be talking, trading, working, living, laughing, buying, crying, و doing all ال other things people و machines are already doing. ازاي do you guarantee ال integrity من ال number من things so large it breaks human comprehension that need الى be stored في records that say what each tiny process و request is or isn’t allowed الى do, لـ who, when, و where, without fraud, manipulation, or just ال weight من all that complexity causing it الى come crashing down على itself? That’s what decentralized tokens و smart contract based mechanisms مع features like conditional encryption enable without concentrating too much systemic risk في any one place, person, or time."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now imagine a circuit diagram as a visual metaphor, من locks, gates, و conditions لـ application operation. That includes storefronts as distributed, بوست-ديجيتال points من direct interaction between creators, collectors, NPCs, و reactions الى content published على decentralized سوشيال platforms. It also helps مع ال operation من ال massively multiplying number من LLM / ذكاء اصطناعي related machines, components, و interfaces, both atom-form و simulated. Tokens و contracts engineered specifically الى smooth these kinds من operations reduce ال number من things that can go wrong في modern systems, computational, economic, or both, الى just a handful that are far more manageable by small, dedicated teams و open source communities من self-determined contributors."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في ال NPC Studio model, purchases through storefronts will come مع ال bonus benefit من collecting units من access لـ ال actions و operations NPCs can enable. Access conditions will be granted على ال basis من سوشيال metrics, driving ال funnel من creation الى purchasing, و من consumer back الى producer. As NPCs talk about ال goods, brands, و interesting content they encounter throughout their timestamped days, they publish الى لينز. Joining their voices الى a vibrant و growing network free من ال systemic risks centralized platforms can never hope الى keep up مع. This adds a market based source من monetizable value الى ازاي و where we choose الى make our everyday purchases, و run ال stacks that power our ذكاء اصطناعي coworking companions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s ازاي we secure open systems و outperform ال closed competition."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*bxrZnBfkJsVg8KQi",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "IS THIS ال END?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You sit at this screen. You stand الى listen, while you wait or walk. You laugh, you lose. Sometimes create, maybe follow. Swipe و scroll. لـ fun. الى be lost في time. لـ friends و comfort. لـ work و study. As a kind من duty الى your past و future self. الى survive, و train لـ something better. What does reading all these words على ال web do لـ you?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Unbundle ال hyper-concentrations من power و wealth, by training مع better teammates و finding جديد ones along ال way."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s ليه, مع all من ال weight من so much من ال world as we’ve known it falling down around us, inspiring fear و hope في equal amounts, we choose الى focus more على what we build, و على whose understanding من freedom can light ال way forward."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الوقت هيبان."
+        }
+      ]
+    }
+  }
+}

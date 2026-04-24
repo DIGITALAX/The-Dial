@@ -1,0 +1,786 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-34",
+  "date": "2021-11-21",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 34",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 34"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*66IiF95CxMKX_moy.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Why are designer realms and web3 patrons a really big deal?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Decentralisation isn’t merely a buzzword to shill celebrity NFTs for a quick buck and subsequent collapse in floor price. Becoming your own highly sought after fashion brand with lasting gains in reputation, a culturally aligned and hyper loyal community base, and long term capital is only possible with a full embrace of web3 principles and practices."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And, for any designer in web3, undertaking this solo is not only incredibly daunting, but it is highly resource intensive and often not instantly tangible."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With realms, this completely changes."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now any web3 fashion designer can launch directly to the market and forge your own unique way, with the support and breathing room to build out your brand with your own personal mark."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You no longer have to rely on just selling NFTs on someone else’s marketplace to elevate your work to a point where you can compete against giants in the open market."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Each realm is also equipped with a special multi-tiered NFT access mechanism and Web3 Patron model. These specialty realm NFTs can be bought by patrons to directly select which designers, labels and realms they want to champion — completely resolving the age old cold start problem. In fashion, that’s never been possible before."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Each realm grows both as much as their own strengths take them and in coordination with the strengths of their fellow realms."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And, the best part, is that all of this is achieved in a way that is entirely web3 native with decentralisation at its multi-layered core."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*C0UPWUO8V-qaEv8eBDAmFA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When will there be more details shared on the new $MONA, $W3F and native designer realm ERC-20 distributions?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The rewards schedule for both the $MONA mint and $W3F launch will be shared this coming week in full detail as we get set to go live with the new staking and rewards distribution contracts shortly after the current $MONA rewards end (Dec 2nd, 2021)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As for the native designer realm ERC-20 distributions, you’ll be hearing a lot more about this over the coming weeks as each designer builds out their broader community, ecosystem and presence in the web3 market. Also, there will be more exciting details shared with the upcoming launch of the web3 patrons platform."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There has been (& still it’s ongoing) a lot of shit posting and back and forth between some long time members of the Ethereum and web3 community on #CT about Ethereum’s scalability, and its commitment and efforts to this."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At the end of the day, is a blockchain really a blockchain if it is not decentralised?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In short, no. Definitely not."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If that is not the priority of every individual, team, squad or DAO building and creating in this space then not only are they completely missing the point of what web3 is, stands for and enables, but, we are just perpetuating the old centralised systems that got us to this point in the first place."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Decentralisation isn’t merely a buzzword or #CT meme. It actually matters."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And, the punch line comes when you realise that these non EVM loosely defined “blockchains” aren’t actually the scalable solutions that they ShIlLeD s0 hARd t0 BE aFteR A1L. 🤦‍♀️🤦🤦‍♂️"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Low fee claims mean nothing when the network is under utilised. Come back when there is high volume and real user activity without the compromisation of decentralisation."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*yn9UIydabgpRu1t1aN56jw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*SkeGL9tUGURjZUHa8u84hw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*c9yXjRSFkUkjQbIJeq8kjQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WpL1aapXB1DPYbHaoKyy7g.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*tRMdkvbzhgOmUGTlsH9ygA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-XOMlAEu1Ky-3h98VTi9vA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’ve been paying attention this week you’ve also probably tuned in to, and been quite entertained by, the epic showdown between crypto art collector and creator, Vincent Van Dough, and the dev and instigator behind “ The NFT Bay ” (Geoffrey Huntley), a derivate site of The Pirate Bay, that allows anyone to “right click— save as” NFTs on the Ethereum Blockchain."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Long story short, there was a lot of back and forth with speculation by naysayers that this project would drive the entire value of NFTs and Ethereum to zero, Vincent Van Dough held an NFT auction of a screenshot of the site and it sold for nearly $20K, Huntley then ran an NFT auction on VVD’s sold screenshot piece titled “The collector becomes the collected” and also asked for donations to keep the bay site running, VVD then offered to pay for the yearly hosting, Huntley gave his ETH address … and in a complete twist of events… it turns out he’s been collecting Dapper Dino NFTs for weeks!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Yeah, it was a pretty well executed troll on the NFT/web3 trollers. 😆👻"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*0UzujMyiMjSy78DDUbb3Cw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*KwdXuDaNRvnCRuLou8n0yQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*BTUjB6sFxNePGU3i2F8CQA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*5CNAYg4w_jZW5qGkA9tEYg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Xb_Sun3VxaIWaOf3KVjmRQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*vfmO8gsRXlWcfln6Y33WHg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*fbkNyn-LgmJlGvdJIdvMOA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 34",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 34"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*66IiF95CxMKX_moy.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "por que are designer realms y web3 patrons a really big deal?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Decentralisation isn’t merely a buzzword a shill celebrity NFTs para a quick buck y subsequent collapse en floor price. Becoming your own highly sought after moda brand con lasting gains en reputation, a culturally aligned y hyper loyal comunidad base, y long term capital is only possible con a full embrace de web3 principles y practices."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "y, para any designer en web3, undertaking this solo is not only incredibly daunting, but it is highly resource intensive y often not instantly tangible."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "con realms, this completely changes."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now any web3 moda designer can launch directly a el market y forge your own unique way, con el support y breathing room a build out your brand con your own personal mark."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You no longer have a rely en just selling NFTs en someone else’s marketplace a elevate your work a a point where you can compete against giants en el open market."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Each realm is also equipped con a special multi-tiered NFT access mechanism y Web3 Patron model. These specialty realm NFTs can be bought by patrons a directly select which designers, labels y realms they want a champion — completely resolving el age old cold start problem. en moda, that’s never been possible before."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Each realm grows both as much as their own strengths take them y en coordination con el strengths de their fellow realms."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "y, el best part, is that all de this is achieved en a way that is entirely web3 native con decentralisation at its multi-layered core."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*C0UPWUO8V-qaEv8eBDAmFA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat pregunta"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When will there be more details shared en el nuevo $MONA, $W3F y native designer realm ERC-20 distributions?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el rewards schedule para both el $MONA mint y $W3F launch will be shared this coming semana en full detail as we get set a go live con el nuevo staking y rewards distribution contracts shortly after el current $MONA rewards end (Dec 2nd, 2021)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As para el native designer realm ERC-20 distributions, you’ll be hearing a lot more about this over el coming weeks as each designer builds out their broader comunidad, ecosistema y presence en el web3 market. Also, there will be more exciting details shared con el upcoming launch de el web3 patrons platform."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies en el Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There has been (& still it’s ongoing) a lot de shit posting y back y forth between some long time members de el Ethereum y web3 comunidad en #CT about Ethereum’s scalability, y its commitment y efforts a this."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At el end de el day, is a blockchain really a blockchain if it is not decentralised?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en short, no. Definitely not."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If that is not el priority de every individual, team, squad or DAO building y creating en this space then not only are they completely missing el point de what web3 is, stands para y enables, but, we are just perpetuating el old centralised systems that got us a this point en el first place."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "La descentralización no es solo una palabra de moda ni un meme de #CT. De verdad importa."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "y, el punch line comes when you realise that these non EVM loosely defined “blockchains” aren’t actually el scalable solutions that they ShIlLeD s0 hARd t0 BE aFteR A1L. 🤦‍♀️🤦🤦‍♂️"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Low fee claims mean nothing when el network is under utilised. Come back when there is high volume y real user activity without el compromisation de decentralisation."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*yn9UIydabgpRu1t1aN56jw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*SkeGL9tUGURjZUHa8u84hw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*c9yXjRSFkUkjQbIJeq8kjQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WpL1aapXB1DPYbHaoKyy7g.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*tRMdkvbzhgOmUGTlsH9ygA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-XOMlAEu1Ky-3h98VTi9vA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’ve been paying attention this semana you’ve also probably tuned en a, y been quite entertained by, el epic showdown between crypto art collector y creator, Vincent Van Dough, y el dev y instigator behind “ el NFT Bay ” (Geoffrey Huntley), a derivate site de el Pirate Bay, that allows anyone a “right click— save as” NFTs en el Ethereum Blockchain."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Long story short, there was a lot de back y forth con speculation by naysayers that this project would drive el entire value de NFTs y Ethereum a zero, Vincent Van Dough held an NFT auction de a screenshot de el site y it sold para nearly $20K, Huntley then ran an NFT auction en VVD’s sold screenshot piece titled “el collector becomes el collected” y also asked para donations a keep el bay site running, VVD then offered a pay para el yearly hosting, Huntley gave his ETH address … y en a complete twist de events… it turns out he’s been collecting Dapper Dino NFTs para weeks!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Yeah, it was a pretty well executed troll en el NFT/web3 trollers. 😆👻"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*0UzujMyiMjSy78DDUbb3Cw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*KwdXuDaNRvnCRuLou8n0yQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*BTUjB6sFxNePGU3i2F8CQA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*5CNAYg4w_jZW5qGkA9tEYg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Xb_Sun3VxaIWaOf3KVjmRQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*vfmO8gsRXlWcfln6Y33WHg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*fbkNyn-LgmJlGvdJIdvMOA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todo el FUD FAQ aquí."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 34",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 34"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*66IiF95CxMKX_moy.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ليه are designer realms و web3 patrons a really big deal?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Decentralisation isn’t merely a buzzword الى shill celebrity NFTs لـ a quick buck و subsequent collapse في floor price. Becoming your own highly sought after فاشون brand مع lasting gains في reputation, a culturally aligned و hyper loyal المجتمع base, و long term capital is only possible مع a full embrace من web3 principles و practices."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "و, لـ any designer في web3, undertaking this solo is not only incredibly daunting, but it is highly resource intensive و often not instantly tangible."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع realms, this completely changes."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now any web3 فاشون designer can launch directly الى ال market و forge your own unique way, مع ال support و breathing room الى build out your brand مع your own personal mark."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You no longer have الى rely على just selling NFTs على someone else’s marketplace الى elevate your work الى a point where you can compete against giants في ال open market."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Each realm is also equipped مع a special multi-tiered NFT access mechanism و Web3 Patron model. These specialty realm NFTs can be bought by patrons الى directly select which designers, labels و realms they want الى champion — completely resolving ال age old cold start problem. في فاشون, that’s never been possible before."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Each realm grows both as much as their own strengths take them و في coordination مع ال strengths من their fellow realms."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "و, ال best part, is that all من this is achieved في a way that is entirely web3 native مع decentralisation at its multi-layered core."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*C0UPWUO8V-qaEv8eBDAmFA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat سؤال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When will there be more details shared على ال جديد $MONA, $W3F و native designer realm ERC-20 distributions?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال rewards schedule لـ both ال $MONA mint و $W3F launch will be shared this coming اسبوع في full detail as we get set الى go live مع ال جديد staking و rewards distribution contracts shortly after ال current $MONA rewards end (Dec 2nd, 2021)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As لـ ال native designer realm ERC-20 distributions, you’ll be hearing a lot more about this over ال coming weeks as each designer builds out their broader المجتمع, النظام و presence في ال web3 market. Also, there will be more exciting details shared مع ال upcoming launch من ال web3 patrons platform."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies في ال Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There has been (& still it’s ongoing) a lot من shit posting و back و forth between some long time members من ال Ethereum و web3 المجتمع على #CT about Ethereum’s scalability, و its commitment و efforts الى this."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At ال end من ال day, is a blockchain really a blockchain if it is not decentralised?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في short, no. Definitely not."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If that is not ال priority من every individual, team, squad or DAO building و creating في this space then not only are they completely missing ال point من what web3 is, stands لـ و enables, but, we are just perpetuating ال old centralised systems that got us الى this point في ال first place."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "اللامركزية مش مجرد كلمة ترند أو ميم #CT. دي فعلًا مهمة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "و, ال punch line comes when you realise that these non EVM loosely defined “blockchains” aren’t actually ال scalable solutions that they ShIlLeD s0 hARd t0 BE aFteR A1L. 🤦‍♀️🤦🤦‍♂️"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Low fee claims mean nothing when ال network is under utilised. Come back when there is high volume و real user activity without ال compromisation من decentralisation."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*yn9UIydabgpRu1t1aN56jw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*SkeGL9tUGURjZUHa8u84hw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*c9yXjRSFkUkjQbIJeq8kjQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WpL1aapXB1DPYbHaoKyy7g.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*tRMdkvbzhgOmUGTlsH9ygA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-XOMlAEu1Ky-3h98VTi9vA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’ve been paying attention this اسبوع you’ve also probably tuned في الى, و been quite entertained by, ال epic showdown between crypto art collector و creator, Vincent Van Dough, و ال dev و instigator behind “ ال NFT Bay ” (Geoffrey Huntley), a derivate site من ال Pirate Bay, that allows anyone الى “right click— save as” NFTs على ال Ethereum Blockchain."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Long story short, there was a lot من back و forth مع speculation by naysayers that this project would drive ال entire value من NFTs و Ethereum الى zero, Vincent Van Dough held an NFT auction من a screenshot من ال site و it sold لـ nearly $20K, Huntley then ran an NFT auction على VVD’s sold screenshot piece titled “ال collector becomes ال collected” و also asked لـ donations الى keep ال bay site running, VVD then offered الى pay لـ ال yearly hosting, Huntley gave his ETH address … و في a complete twist من events… it turns out he’s been collecting Dapper Dino NFTs لـ weeks!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Yeah, it was a pretty well executed troll على ال NFT/web3 trollers. 😆👻"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*0UzujMyiMjSy78DDUbb3Cw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*KwdXuDaNRvnCRuLou8n0yQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*BTUjB6sFxNePGU3i2F8CQA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*5CNAYg4w_jZW5qGkA9tEYg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Xb_Sun3VxaIWaOf3KVjmRQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*vfmO8gsRXlWcfln6Y33WHg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*fbkNyn-LgmJlGvdJIdvMOA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

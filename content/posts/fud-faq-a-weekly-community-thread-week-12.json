@@ -1,0 +1,501 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-12",
+  "date": "2021-06-20",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 12",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 12"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*Xl7l5XgrDjRM3Qh_.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What are the Pro Leagues?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ESPA is our casual esports platform under the DIGITALAX ecosystem that allows players to start earning a livelihood stream through $MONA, where they can level up from amateur to pro and have their digital fashion skin NFTs authenticate and underwrite all of their activity within both the specific in-game tournaments and the ESPA meta game. We went live with our Among Us mod tournaments in March and recently just released the Minecraft Bed Wars tournaments and so far it’s been a pretty big hit with all of our players!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The players level up through different tiers where they unlock $MONA and also must complete outfit recharges to continue their longevity in the casual esports meta-game. As well as $MONA, players also earn XP that is collected overtime as they accrue and hold their $MONA and also reach certain tiers within the specific game. Holders of XP and also those that have achieved specific ranks are eligible and chosen for what is called the “ pro-leagues ”. These matches are usually team based and have higher $MONA payouts upon winning."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We held our first pro-league matches for the ESPA Minecraft Bed Wars tournaments Saturday June 19th across two 2 hour sessions for 4v4 matches, streamed over the ESPA Twitch , and had the 40 top players from the week leading up to the league go head to head as they suited up for battle! It was a big success with 3 tied winners in the first session and 2 tied in the second session! Well done to our winning players; @Costifox, @Gaamin, @Someone, @Techno Goon, @AndyIsHot !"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "See you next Saturday, and keep grinding this week players to make those tiers!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Questions"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When is there the next actionable update regarding PODE V2?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is the next update regarding PODE V2 being announced this week. It’s an actionable update with clear instructions of what is the next steps required from the PODE holders. Stay tuned!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A few people found themselves in a bit of a pickle… (Okay, I know that that’s been used so many times for this case but I couldn’t help myself! 😆). 10,000 minted on the blockchain and the promise of just a fucking pickle . That’s it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The pickle NFT saga certainly made meme oscillations all over twitter, but, it also divulges deeper contemplations within the NFT space about the accommodation for different operating procedures and the tolerance of the broader community to new viable ways that projects/teams/individuals can maneuver within this space; whether it be conceived as right or wrong is another question. And this is the thing, although from the outset the Pickle project looks very much like a complete degen no-goer, that also might be jumping the gun too quickly? (But, probably? not) Could these pickle holders potentially grow into a flourishing decentralised community/organisation with common values and a driven mission… around pickles? Who knows? I guess we will have to wait and see. But remember, be careful out there— experimentation comes with caveats."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here are some tweets, videos and posts to sink into;"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*SOMOOk337y3t4Yn7o10LLw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WNzrc9TaRuUzlz1eo7Ykiw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*e0KfnJYJJkoL9uwJBHzKAw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*sd2EvQGA7YMRNgdR",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*QwjvSyFM9YIUpah6HzCu4g.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ZNMzVaEKjEvDJW4sm_rETw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I am sure that most of us heard of the Titan story this week— an ultimate degen algorithmic meme stablecoin on Polygon that got completely rug pulled when the economic mechanism behind the algorithm broke sending the coin to absolute zero . It’s been coined as the “billionaire” rug pull in relation to Mark Cuban’s involvement in farming the coin on polygon for gainz, and then, like everyone else, losing everything that he put into it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DeFi, crypto, NFTs are all on the bleeding edge and because of that, these industries are still experiencing all kinds of growing pains as they continue to be developed, adopted and matured. And the best solution to riding this wave is making sure that we all educate ourselves properly. Ryan Sean Adams lays out the facts pretty well in his latest Bankless article. He makes a really good point; we don’t need regulations or regulators telling us what is and isn’t safe, secure, good. Instead, we all need to take responsibility for our skin in the game and stay properly educated. That’s why high quality content is so important in this space— it’s very easy for a newcomer, or anyone for that matter, to be quickly pulled off target. In fact, that’s literally why DIGITALAX started DIGIFIZZY , our metaverse magazine!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 12",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 12"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*Xl7l5XgrDjRM3Qh_.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What are el Pro Leagues?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ESPA is our casual esports platform under el DIGITALAX ecosistema that allows players a start earning a livelihood stream through $MONA, where they can level up de amateur a pro y have their digital moda skin NFTs authenticate y underwrite all de their activity within both el specific en-game tournaments y el ESPA meta game. We went live con our Among Us mod tournaments en March y recently just released el Minecraft Bed Wars tournaments y so far it’s been a pretty big hit con all de our players!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el players level up through different tiers where they unlock $MONA y also must complete outfit recharges a continue their longevity en el casual esports meta-game. As well as $MONA, players also earn XP that is collected overtime as they accrue y hold their $MONA y also reach certain tiers within el specific game. Holders de XP y also those that have achieved specific ranks are eligible y chosen para what is called el “ pro-leagues ”. These matches are usually team based y have higher $MONA payouts upon winning."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We held our first pro-league matches para el ESPA Minecraft Bed Wars tournaments Saturday June 19th across two 2 hour sessions para 4v4 matches, streamed over el ESPA Twitch , y had el 40 top players de el semana leading up a el league go head a head as they suited up para battle! It was a big success con 3 tied winners en el first session y 2 tied en el second session! Well done a our winning players; @Costifox, @Gaamin, @Someone, @Techno Goon, @AndyIsHot !"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "See you next Saturday, y keep grinding this semana players a make those tiers!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Preguntas repetidas"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When is there el next actionable actualizacion regarding PODE V2?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is el next actualizacion regarding PODE V2 being announced this semana. It’s an actionable actualizacion con clear instructions de what is el next steps required de el PODE holders. Stay tuned!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies en el Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A few people found themselves en a bit de a pickle… (Okay, I know that that’s been used so many times para this case but I couldn’t help myself! 😆). 10,000 minted en el blockchain y el promise de just a fucking pickle . That’s it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el pickle NFT saga certainly made meme oscillations all over twitter, but, it also divulges deeper contemplations within el NFT space about el accommodation para different operating procedures y el tolerance de el broader comunidad a nuevo viable ways that projects/teams/individuals can maneuver within this space; whether it be conceived as right or wrong is another pregunta. y this is el thing, although de el outset el Pickle project looks very much like a complete degen no-goer, that also might be jumping el gun too quickly? (But, probably? not) Could these pickle holders potentially grow into a flourishing decentralised comunidad/organisation con common values y a driven mission… around pickles? Who knows? I guess we will have a wait y see. But remember, be careful out there— experimentation comes con caveats."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here are some tweets, videos y publicaciones a sink into;"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*SOMOOk337y3t4Yn7o10LLw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WNzrc9TaRuUzlz1eo7Ykiw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*e0KfnJYJJkoL9uwJBHzKAw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*sd2EvQGA7YMRNgdR",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*QwjvSyFM9YIUpah6HzCu4g.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ZNMzVaEKjEvDJW4sm_rETw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I am sure that most de us heard de el Titan story this semana— an ultimate degen algorithmic meme stablecoin en Polygon that got completely rug pulled when el economic mechanism behind el algorithm broke sending el coin a absolute zero . It’s been coined as el “billionaire” rug pull en relation a Mark Cuban’s involvement en farming el coin en polygon para gainz, y then, like everyone else, losing everything that he put into it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DeFi, crypto, NFTs are all en el bleeding edge y because de that, these industries are still experiencing all kinds de growing pains as they continue a be developed, adopted y matured. y el best solution a riding this wave is making sure that we all educate ourselves properly. Ryan Sean Adams lays out el facts pretty well en his latest Bankless article. He makes a really good point; we don’t need regulations or regulators telling us what is y isn’t safe, secure, good. Instead, we all need a take responsibility para our skin en el game y stay properly educated. That’s por que high quality content is so important en this space— it’s very easy para a newcomer, or anyone para that matter, a be quickly pulled off target. en fact, that’s literally por que DIGITALAX started DIGIFIZZY , our metaverse magazine!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 12",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 12"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*Xl7l5XgrDjRM3Qh_.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What are ال Pro Leagues?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ESPA is our casual esports platform under ال DIGITALAX النظام that allows players الى start earning a livelihood stream through $MONA, where they can level up من amateur الى pro و have their ديجيتال فاشون skin NFTs authenticate و underwrite all من their activity within both ال specific في-game tournaments و ال ESPA meta game. We went live مع our Among Us mod tournaments في March و recently just released ال Minecraft Bed Wars tournaments و so far it’s been a pretty big hit مع all من our players!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال players level up through different tiers where they unlock $MONA و also must complete outfit recharges الى continue their longevity في ال casual esports meta-game. As well as $MONA, players also earn XP that is collected overtime as they accrue و hold their $MONA و also reach certain tiers within ال specific game. Holders من XP و also those that have achieved specific ranks are eligible و chosen لـ what is called ال “ pro-leagues ”. These matches are usually team based و have higher $MONA payouts upon winning."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We held our first pro-league matches لـ ال ESPA Minecraft Bed Wars tournaments Saturday June 19th across two 2 hour sessions لـ 4v4 matches, streamed over ال ESPA Twitch , و had ال 40 top players من ال اسبوع leading up الى ال league go head الى head as they suited up لـ battle! It was a big success مع 3 tied winners في ال first session و 2 tied في ال second session! Well done الى our winning players; @Costifox, @Gaamin, @Someone, @Techno Goon, @AndyIsHot !"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "See you next Saturday, و keep grinding this اسبوع players الى make those tiers!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most الاسئلة المتكررة"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When is there ال next actionable تحديث regarding PODE V2?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is ال next تحديث regarding PODE V2 being announced this اسبوع. It’s an actionable تحديث مع clear instructions من what is ال next steps required من ال PODE holders. Stay tuned!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies في ال Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A few people found themselves في a bit من a pickle… (Okay, I know that that’s been used so many times لـ this case but I couldn’t help myself! 😆). 10,000 minted على ال blockchain و ال promise من just a fucking pickle . That’s it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال pickle NFT saga certainly made meme oscillations all over twitter, but, it also divulges deeper contemplations within ال NFT space about ال accommodation لـ different operating procedures و ال tolerance من ال broader المجتمع الى جديد viable ways that projects/teams/individuals can maneuver within this space; whether it be conceived as right or wrong is another سؤال. و this is ال thing, although من ال outset ال Pickle project looks very much like a complete degen no-goer, that also might be jumping ال gun too quickly? (But, probably? not) Could these pickle holders potentially grow into a flourishing decentralised المجتمع/organisation مع common values و a driven mission… around pickles? Who knows? I guess we will have الى wait و see. But remember, be careful out there— experimentation comes مع caveats."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here are some tweets, videos و بوستات الى sink into;"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*SOMOOk337y3t4Yn7o10LLw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WNzrc9TaRuUzlz1eo7Ykiw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*e0KfnJYJJkoL9uwJBHzKAw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*sd2EvQGA7YMRNgdR",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*QwjvSyFM9YIUpah6HzCu4g.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ZNMzVaEKjEvDJW4sm_rETw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I am sure that most من us heard من ال Titan story this اسبوع— an ultimate degen algorithmic meme stablecoin على Polygon that got completely rug pulled when ال economic mechanism behind ال algorithm broke sending ال coin الى absolute zero . It’s been coined as ال “billionaire” rug pull في relation الى Mark Cuban’s involvement في farming ال coin على polygon لـ gainz, و then, like everyone else, losing everything that he put into it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DeFi, crypto, NFTs are all على ال bleeding edge و because من that, these industries are still experiencing all kinds من growing pains as they continue الى be developed, adopted و matured. و ال best solution الى riding this wave is making sure that we all educate ourselves properly. Ryan Sean Adams lays out ال facts pretty well في his latest Bankless article. He makes a really good point; we don’t need regulations or regulators telling us what is و isn’t safe, secure, good. Instead, we all need الى take responsibility لـ our skin في ال game و stay properly educated. That’s ليه high quality content is so important في this space— it’s very easy لـ a newcomer, or anyone لـ that matter, الى be quickly pulled off target. في fact, that’s literally ليه DIGITALAX started DIGIFIZZY , our metaverse magazine!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    }
+  }
+}

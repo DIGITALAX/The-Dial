@@ -1,0 +1,411 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-49",
+  "date": "2022-03-06",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 49",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 49"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*y7zKO5qhNRk_asL6.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What are the major moves in the ecosystem?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "So many that they all can’t be mentioned in this Fud Faq. But, if you’ve been paying attention some of the bigger announcements over the past week have included both the protocols shift to fully embracing CC0 and also our engineering integration with the Rarible marketplace. Both of these moves are greatly increasing the amplification of the DIGITALAX core protocol stack and its role in pioneering web3 fashion, modeling and the open metaverse."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Aside from these two focuses we have some exciting upcoming collaborations and releases for both moves being made on the immersive digital-physical space front and well capitalised CC0. More details to come."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What is the most effective way to stay steady, healthy and continue moving forward in web3 whilst doing something about the war that Putin has launched against Ukraine?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s been challenging for everyone, none more than those on the ground by far, and whilst it can be very difficult to feel like you are in a place to create or support when seeing and experiencing some of the worst of what is happening, some truly encouraging acts of courage have risen up through the overwhelm of what are otherwise very dark time."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you are looking for a way to help directly UkraineDAO is a great place to start and even reaching out to DIGITALAX if you’d like to launch a web3 fashion related auction that supports designers on the ground or vetted projects like UkraineDAO with 100% of the proceeds from those collaborations."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No matter what you do, don’t stop creating."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Visa and Mastercard just suspended their operations in Russia as part of the economic sanctions. There is a lot of debate or not whether centralised crypto exchanges like Coinbase and Binance should follow suit."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It really just comes down to the same old message; not your keys, not your crypto. Full control over your valuable assets depends securing them yourself. And not only is the best way to do that to keep anything that you have in cold storage but it might be a great time to run your own node."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you didn’t yet see this horrendous mockery of everything that web3 is about by Mark Zuckerberg’s sister, then stop reading start watching."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*_Tw_nFORhZc28y7Lipkraw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo semanal de la comunidad | Semana 49",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo semanal de la comunidad | Semana 49"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*y7zKO5qhNRk_asL6.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cuáles son los movimientos principales en el ecosistema?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Son tantos que no caben todos en este FUD FAQ. Pero, si estuviste atento, algunos de los anuncios más grandes de la última semana incluyen tanto el giro del protocolo para adoptar plenamente CC0 como nuestra integración de ingeniería con el marketplace de Rarible. Ambos movimientos están ampliando mucho el alcance del stack central del protocolo de DIGITALAX y su papel pionero en la moda web3, el modelado y el metaverso abierto."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Además de esos dos focos, tenemos colaboraciones y lanzamientos próximos muy potentes, tanto en el frente del espacio inmersivo digital-físico como en CC0 bien capitalizado. Pronto compartiremos más detalles."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta repetida más común"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cuál es la forma más efectiva de mantenerse estable, sano y seguir avanzando en web3, mientras hacemos algo frente a la guerra que Putin lanzó contra Ucrania?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Está siendo duro para todo el mundo, y mucho más para quienes están sobre el terreno. Aunque puede ser muy difícil sentirse en condiciones de crear o apoyar al ver y vivir algunas de las peores cosas que están pasando, también han surgido actos de valentía realmente alentadores en medio de una situación por lo demás muy oscura."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Si buscas una forma de ayudar directamente, UkraineDAO es un gran punto de partida. También puedes contactar a DIGITALAX si quieres lanzar una subasta relacionada con moda web3 que apoye a diseñadores sobre el terreno o a proyectos verificados como UkraineDAO, con el 100% de los ingresos de esas colaboraciones."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Hagas lo que hagas, no dejes de crear."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias de la industria"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Visa y Mastercard acaban de suspender sus operaciones en Rusia como parte de las sanciones económicas. Hay mucho debate sobre si exchanges cripto centralizados como Coinbase y Binance deberían hacer lo mismo."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Al final todo vuelve al mismo mensaje de siempre: not your keys, not your crypto. El control total de tus activos valiosos depende de que tú mismo los asegures. Y no solo la mejor forma de hacerlo es mantener lo que tengas en cold storage, sino que también puede ser un gran momento para correr tu propio nodo."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y troleo"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Si todavía no viste esta burla horrible de todo lo que representa web3 por parte de la hermana de Mark Zuckerberg, deja de leer y empieza a mirar."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*_Tw_nFORhZc28y7Lipkraw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira aquí todos los FUD FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido al artículo de la próxima semana, escríbenos por nuestro servidor de Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Únete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 49",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 49"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*y7zKO5qhNRk_asL6.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إيه أهم التحركات اللي بتحصل في الإيكوسيستم؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "التحركات كتير جدًا لدرجة إن مش كله ينفع يتذكر في FUD FAQ واحد. لكن لو كنت متابع، فبعض أكبر الإعلانات الأسبوع اللي فات شملت تحول البروتوكول لاعتماد CC0 بالكامل، وكمان دمجنا الهندسي مع Marketplace راريبل. الخطوتين دول بيزودوا بشكل كبير انتشار DIGITALAX core protocol stack ودوره الريادي في Web3 fashion، والـ modeling، والـ open metaverse."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "بعيدًا عن المحورين دول، عندنا تعاونات وإطلاقات جاية قوية جدًا، سواء في مساحة الـ immersive digital-physical أو في CC0 الممول بشكل كويس. تفاصيل أكتر قريب."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر سؤال متكرر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إيه أكتر طريقة فعالة إن الواحد يفضل ثابت وصحي ويكمل لقدّام في web3، وفي نفس الوقت يعمل حاجة تجاه الحرب اللي بوتين بدأها ضد أوكرانيا؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الفترة دي صعبة على الكل، وبشكل أكبر جدًا على الناس اللي على الأرض هناك. ومع إن الإحساس بالقدرة على الإبداع أو الدعم بيكون صعب جدًا وإنت شايف وعايش بعض أسوأ اللي بيحصل، لكن في نفس الوقت ظهر كم كبير من مواقف الشجاعة المشجعة وسط وقت مظلم جدًا."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لو بتدور على طريقة تساعد بيها بشكل مباشر، UkraineDAO بداية ممتازة. وكمان تقدر تتواصل مع DIGITALAX لو حابب تطلق مزاد مرتبط بـ web3 fashion بيدعم مصممين على الأرض أو مشاريع موثقة زي UkraineDAO، مع تحويل 100% من العائد للتعاونات دي."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مهما تعمل، ما تبطلش إبداع."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أبرز الجدل في المجال"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Visa وMastercard وقفوا عملياتهم في روسيا كجزء من العقوبات الاقتصادية. وفي نقاش كبير حوالين إذا كان لازم منصات الكريبتو المركزية زي Coinbase وBinance تعمل نفس الخطوة ولا لأ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في الآخر الرسالة هي نفس الرسالة القديمة: not your keys, not your crypto. التحكم الكامل في أصولك القيمة بيعتمد إنك إنت اللي تأمّنها بنفسك. وأفضل طريقة غالبًا إنك تحتفظ بأصولك في cold storage، وممكن يكون ده كمان وقت مناسب جدًا إنك تشغل node خاصة بيك."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إخفاقات عبثية وتريولنج"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لو لسه ما شفتش السخرية البشعة دي من كل اللي web3 بيمثله من أخت مارك زوكربيرج، يبقى وقف قراءة وابدأ تتفرج."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*_Tw_nFORhZc28y7Lipkraw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو حابب سؤالك يتجاوب عليه أو تحب تساهم بمحتوى لمقال الأسبوع الجاي، تواصل معانا من خلال سيرفر DIGITALAX على Discord في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

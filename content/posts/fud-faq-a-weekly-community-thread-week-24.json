@@ -1,0 +1,381 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-24",
+  "date": "2021-09-12",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 24",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 24"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*5uJKQy8bPKxNiO7P.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When is the first distribution for the LOOK free mint taking place?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The snapshot for whitelisted addresses was taken 9am PST yesterday. The free mint will go live in a few days! Stay tuned!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "How does a project scale authentically in web3?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, it certainly isn’t by simping the old world that we are breaking free from. It takes courage to really to go out there and wear what you say. Because, with Twitter and all of the other influencer echo chambers, it’s far too easy to get caught up in a pump and dump. To play this field right, it’s about setting the foundations and base first, making sure that what you are building on has the structural capacity to ride the rising waves instead of being overtaken by them."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And that’s exactly what DIGITALAX continues to do. Broaden our base whilst also doing the work to deepen the overall structural flexibility— this way, we are diminishing the need for and reducing the reliance on overly static market conditions and forces."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The fact that Cramer can get away with saying “I don’t care if people think that they have sketchy behaviour, they are a regulator” and no one bats an eyelid really says it all."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Who watches the watchers?"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ahvR1y0ABn9IH7ecWUOCdQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here’s a thread that you can send to someone next time you get shamed with the usual bullshit about NFTs and the environment. Sustainability matters, but not just in revolutionary new technologies. It also matters for everything else that we do, all day, everyday."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*CtAqCRrZ9oYtzn87-bBkAg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo semanal de la comunidad | Semana 24",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo semanal de la comunidad | Semana 24"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*5uJKQy8bPKxNiO7P.jpeg",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cuándo ocurre la primera distribución del free mint de LOOK?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "El snapshot de direcciones whitelisted se tomó ayer a las 9am PST. ¡El free mint sale en vivo en pocos días! ¡Atentos!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta repetida más común"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cómo escala un proyecto de forma auténtica en web3?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Desde luego no escalas adulando al mundo viejo del que queremos salir. Hace falta valentía para salir de verdad y sostener lo que dices. Porque con Twitter y las demás cámaras de eco de influencers, es demasiado fácil caer en pump and dump. Para jugar bien este terreno, primero hay que sentar base y cimientos, asegurando que lo que construyes tenga capacidad estructural para surfear las olas en alza en vez de ser arrasado por ellas."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Y eso es exactamente lo que DIGITALAX sigue haciendo: ampliar la base y, al mismo tiempo, profundizar la flexibilidad estructural general. Así reducimos la necesidad y la dependencia de condiciones de mercado demasiado estáticas."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias de la industria"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "El hecho de que Cramer pueda decir “I don’t care if people think that they have sketchy behaviour, they are a regulator” y nadie se inmute, lo dice todo."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "¿Quién vigila a los vigilantes?"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ahvR1y0ABn9IH7ecWUOCdQ.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y troleo"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Aquí tienes un hilo para mandar la próxima vez que alguien te avergüence con el mismo discurso vacío sobre NFTs y el ambiente. La sostenibilidad importa, pero no solo en tecnologías revolucionarias nuevas; importa también en todo lo demás que hacemos, todo el día, todos los días."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*CtAqCRrZ9oYtzn87-bBkAg.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido al artículo de la próxima semana, escríbenos por nuestro servidor de Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Únete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 24",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 24"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*5uJKQy8bPKxNiO7P.jpeg",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إمتى أول توزيع لـ LOOK free mint؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "تم أخذ snapshot لعناوين الـwhitelist امبارح الساعة 9 صباحًا بتوقيت PST. الـfree mint هيطلع live خلال أيام قليلة. خليكوا متابعين!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر سؤال متكرر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إزاي مشروع يقدر يكبر بشكل أصيل في web3؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أكيد مش عن طريق مجاملة العالم القديم اللي بنحاول نفك نفسنا منه. محتاج شجاعة فعلية علشان تطلع وتلبس اللي بتقوله. لأن مع Twitter وكل influencer echo chambers، سهل جدًا تقع في pump and dump. علشان تلعب اللعبة صح، لازم تبني الأساس الأول وتتأكد إن البنية اللي فوقها عندها القدرة إنها تركب موجات الصعود بدل ما الموجة تبلعها."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وده بالضبط اللي DIGITALAX مستمرة فيه: توسيع القاعدة وفي نفس الوقت تعميق المرونة الهيكلية العامة. بالطريقة دي بنقلل الاعتماد على ظروف وقوى سوق جامدة زيادة عن اللزوم."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أبرز الجدل في المجال"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "إن Cramer يقدر يقول “I don’t care if people think that they have sketchy behaviour, they are a regulator” ومحدش يهتز، ده بيلخص كل حاجة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مين بيراقب الرقباء؟"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ahvR1y0ABn9IH7ecWUOCdQ.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إخفاقات عبثية وتريولنج"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ده ثريد تقدري تبعتيه لأي حد المرة الجاية لما يحرجك بنفس الكلام الفارغ المعتاد عن الـNFTs والبيئة. الاستدامة مهمة، ومش بس في تقنيات ثورية جديدة؛ مهمة كمان في كل اللي بنعمله طول اليوم كل يوم."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*CtAqCRrZ9oYtzn87-bBkAg.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو حابب سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، تواصل معانا من خلال سيرفر DIGITALAX على Discord في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

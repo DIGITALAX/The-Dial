@@ -1,0 +1,456 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-4",
+  "date": "2021-04-25",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 4",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 4"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*qmj-STZwwKn8RLJy.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Why did an article by the Daily Chain covering DIGITALAX feature a stock image cover?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In non-sponsored, unpaid articles and publications (i.e. the story is taken onboard and released on the authors/writers whim) more often than not nothing is sent for review before publishing. Why? Because the included content is not finalised or vetted by the projects, individuals or companies mentioned or covered in the article. That’s just how it works. It ensures the fidelity of the intent of the author’s voice is maintained throughout."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Questions"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Why is there so much spam bots in the DIGITALAX discord server?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Ok, I know this isn’t the most interesting question. But, we did receive a lot of comment on this topic this week, and rightfully so, as our server did get spammed by bots a lot. Like, really a lot… almost every 5–6 hours. Thank you Francis Rodgers."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Not to worry, we have implemented a server verification system, so it’s almost guaranteed that this won’t happen again. Shoutout to our community moderator Hary!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Like any industry or market, there are good sides and then there are not so good sides. This directly translates to the gaming and modding industry, where exploitation, malpractice and inequality is rife. A darker side to this industry, however, that is unknown to many, or, more accurately, is deliberately kept more covered up and shadowed is that of the skin gambling scene."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is ultimately one of the larger contributing factors from 2016 that has made CSGO skins so popular and valuable still to this day. But, the market is mostly built to take advantage of 13–14 year old kids that are pulled in after watching rigged epic wins on YouTube, and then proceed to just waste their parents money. The market is extremely accessible, yet heavily unregulated, making it the perfect addiction development complex and giving false framing as a “means to make money”."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With the gaming and modding community as a fundamental pillar of DIGITALAX, it is an area that we also have to maintain awareness of in our pursuit of the bigger mission."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There have been a lot of improvements made to try and tackle the issues that were fostered back in 2016, with Valve introducing a 7 days trade-hold to reduce the mindless purchasing of items purely for the purpose of gambling. And, active voices have stepped in to bring about more transparency and legitimacy to the activity— requiring players to verify their age (Above 18 years or older) and introducing account “self-locks” for those that feel a potential addiction is too much of a detrimental high risk. It’s not perfect, but it is moving towards a better direction. And, completely il-legitimising/banning never works, actually, it just results in a strengthened level of underground shadow play. There are too many examples of this throughout history, time and time again."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Of these more transparent voices, one deserves a special mention. Going by the twitter name, Monarch , you can take a scroll through his feed and see how him and his team, who run one of the CSGO gambling sites, is leading the charge towards making the scene more fair, regulated, legal, and transparent."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here is a leading tweet for more context;"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*sfsY2wApjAXWPQk7WV5bRw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well… I mean… where to even start with this one."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But, you never know, maybe this is another vital component as part of the pursuit towards establishing us humans as a multi-planetary species? 🤔🤔🪐"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "After all, it is described as enabling Seamless Transactions designed for Martian Life."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 4",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 4"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*qmj-STZwwKn8RLJy.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "por que did an article by el Daily Chain covering DIGITALAX feature a stock image cover?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en non-sponsored, unpaid articles y publications (i.e. el story is taken onboard y released en el authors/writers whim) more often than not nothing is sent para review before publishing. por que? Because el included content is not finalised or vetted by el projects, individuals or companies mentioned or covered en el article. That’s just como it works. It ensures el fidelity de el intent de el author’s voice is maintained throughout."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Preguntas repetidas"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "por que is there so much spam bots en el DIGITALAX discord server?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Ok, I know this isn’t el most interesting pregunta. But, we did receive a lot de comment en this topic this semana, y rightfully so, as our server did get spammed by bots a lot. Like, really a lot… almost every 5–6 hours. Thank you Francis Rodgers."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Not a worry, we have implemented a server verification system, so it’s almost guaranteed that this won’t happen again. Shoutout a our comunidad moderator Hary!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies en el Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Like any industry or market, there are good sides y then there are not so good sides. This directly translates a el gaming y modding industry, where exploitation, malpractice y inequality is rife. A darker side a this industry, however, that is unknown a many, or, more accurately, is deliberately kept more covered up y shadowed is that de el skin gambling scene."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is ultimately one de el larger contributing factors de 2016 that has made CSGO skins so popular y valuable still a this day. But, el market is mostly built a take advantage de 13–14 year old kids that are pulled en after watching rigged epic wins en YouTube, y then proceed a just waste their parents money. el market is extremely accessible, yet heavily unregulated, making it el perfect addiction development complex y giving false framing as a “means a make money”."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "con el gaming y modding comunidad as a fundamental pillar de DIGITALAX, it is an area that we also have a maintain awareness de en our pursuit de el bigger mission."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There have been a lot de improvements made a try y tackle el issues that were fostered back en 2016, con Valve introduciendo a 7 days trade-hold a reduce el mindless purchasing de items purely para el purpose de gambling. y, active voices have stepped en a bring about more transparency y legitimacy a el activity— requiring players a verify their age (Above 18 years or older) y introduciendo account “self-locks” para those that feel a potential addiction is too much de a detrimental high risk. It’s not perfect, but it is moving towards a better direction. y, completely il-legitimising/banning never works, actually, it just results en a strengthened level de underground shadow play. There are too many examples de this throughout history, time y time again."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "de these more transparent voices, one deserves a special mention. Going by el twitter name, Monarch , you can take a scroll through his feed y see como him y his team, who run one de el CSGO gambling sites, is leading el charge towards making el scene more fair, regulated, legal, y transparent."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here is a leading tweet para more context;"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*sfsY2wApjAXWPQk7WV5bRw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well… I mean… where a even start con this one."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But, you never know, maybe this is another vital component as part de el pursuit towards establishing us humans as a multi-planetary species? 🤔🤔🪐"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "After all, it is described as enabling Seamless Transactions designed para Martian Life."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 4",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 4"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*qmj-STZwwKn8RLJy.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ليه did an article by ال Daily Chain covering DIGITALAX feature a stock image cover?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في non-sponsored, unpaid articles و publications (i.e. ال story is taken onboard و released على ال authors/writers whim) more often than not nothing is sent لـ review before publishing. ليه? Because ال included content is not finalised or vetted by ال projects, individuals or companies mentioned or covered في ال article. That’s just ازاي it works. It ensures ال fidelity من ال intent من ال author’s voice is maintained throughout."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most الاسئلة المتكررة"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ليه is there so much spam bots في ال DIGITALAX discord server?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Ok, I know this isn’t ال most interesting سؤال. But, we did receive a lot من comment على this topic this اسبوع, و rightfully so, as our server did get spammed by bots a lot. Like, really a lot… almost every 5–6 hours. Thank you Francis Rodgers."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Not الى worry, we have implemented a server verification system, so it’s almost guaranteed that this won’t happen again. Shoutout الى our المجتمع moderator Hary!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies في ال Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Like any industry or market, there are good sides و then there are not so good sides. This directly translates الى ال gaming و modding industry, where exploitation, malpractice و inequality is rife. A darker side الى this industry, however, that is unknown الى many, or, more accurately, is deliberately kept more covered up و shadowed is that من ال skin gambling scene."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is ultimately one من ال larger contributing factors من 2016 that has made CSGO skins so popular و valuable still الى this day. But, ال market is mostly built الى take advantage من 13–14 year old kids that are pulled في after watching rigged epic wins على YouTube, و then proceed الى just waste their parents money. ال market is extremely accessible, yet heavily unregulated, making it ال perfect addiction development complex و giving false framing as a “means الى make money”."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع ال gaming و modding المجتمع as a fundamental pillar من DIGITALAX, it is an area that we also have الى maintain awareness من في our pursuit من ال bigger mission."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There have been a lot من improvements made الى try و tackle ال issues that were fostered back في 2016, مع Valve تقديم a 7 days trade-hold الى reduce ال mindless purchasing من items purely لـ ال purpose من gambling. و, active voices have stepped في الى bring about more transparency و legitimacy الى ال activity— requiring players الى verify their age (Above 18 years or older) و تقديم account “self-locks” لـ those that feel a potential addiction is too much من a detrimental high risk. It’s not perfect, but it is moving towards a better direction. و, completely il-legitimising/banning never works, actually, it just results في a strengthened level من underground shadow play. There are too many examples من this throughout history, time و time again."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "من these more transparent voices, one deserves a special mention. Going by ال twitter name, Monarch , you can take a scroll through his feed و see ازاي him و his team, who run one من ال CSGO gambling sites, is leading ال charge towards making ال scene more fair, regulated, legal, و transparent."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here is a leading tweet لـ more context;"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*sfsY2wApjAXWPQk7WV5bRw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well… I mean… where الى even start مع this one."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But, you never know, maybe this is another vital component as part من ال pursuit towards establishing us humans as a multi-planetary species? 🤔🤔🪐"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "After all, it is described as enabling Seamless Transactions designed لـ Martian Life."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "slug": "sovereign-mints-of-culture-microbrands-in-web3",
+  "date": "2023-09-08",
+  "translations": {
+    "en": {
+      "title": "Sovereign Mints of Culture: Microbrands in Web3",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Sovereign Mints of Culture: Microbrands in Web3"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*L0KOCmiyjOLvRhZez7Kwag.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "In a world where authenticity is currency, each microbrand is a sovereign mint of cultural capital. Web3 commerce isn’t built by monopolistic conglomerates, but assembled, piece by piece, by the microbrands that understand the intricate dance of AI, NFTs, and social resonance."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A tableau of digital sketches, scattered smart contract drafts, a moodboard of QR codes, and virtual textures layered on dual monitors. Stitched by algorithms, code and fashion coalesce in a fusion of bits and threads churning out impression after impression, awaiting the journey to the local manufactory."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And that’s just a fraction of what’s stirring up. There’s an entire hard drive of explorations you haven’t seen. A digital catacomb rich in trial, error, and hidden gems — akin to the street corners and subway tunnels that marked the gritty origins of American Street Art in the 80s, transforming city after city into a canvas of powerful visual statements and self published, underground works that dodge the mainstream to challenge the status quo."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This same DNA forms the heartbeat of web3 microbrands in the urban scene."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Digital architects skilled across code, design, AI, finance, cryptography and the ethics of climatecore, positioned in overlooked market niches with deeply engaged tribes that blur the line between creators, consumers and machine. They operate similarly to autonomous street crews — nimble, decentralized, guided by a shared ethos that’s deeply embedded into the mechanisms of the network and capable of amassing collective cultural influence through infinite on-chain social feeds and the financial autonomy inherent in the encrypted transactions they send and sign."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And just like those that didn’t understand what writing on walls meant, who was behind those anon images and personal monikers, or why EARSNOT could signify anything at all, microbrands serve a select audience that craves this new kind of authenticity."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "They’ve set the stage for exponential growth, answering the burgeoning demand for indie labels that offer a new way to ascend Maslow’s ladder, filling gaps in the market and crafting reputations as bold as the samizdat passed around."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Interconnected through technology and mutual interest. Each actor is like a node in a decentralized network, completely independent but capable of forming rapid, transient alliances based on immediate goals, needs, or values."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This crew mints exclusive apparel and AI engineered NFTs, designed in Coin Op, collectible through Chromadin, fulfilled by The Manufactory, and equipped with a growing interactive social footprint across Lens interfaces."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Upholding a genuine cypherpunk spirit, all designs are sustainably made and released into the public domain, completely # CC0 , leading the way in secure, privacy-preserving transactions by encrypting customer information through Lit Protocol PKPs, to offer payment in both card and crypto."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "While a few keep their roots cloaked, going back to NYC’s spray-painted lanes, every member is eager to connect and engage with you now on Lens: @hiro_lens.lens , @syntheticfutures.lens , @w111th.lens , @f3manifesto.lens , @futurememory.lens , @put2_.lens , @skecz98.lens , @stryke.lens , @re_de.lens , @verbandden.lens , @dos2048.lens , @yawp11.lens , @0xqbit.lens ."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*_wrc6c0FREbSj6Lz1WJXXw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "https://www.digitalax.xyz/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Building a microbrand in web3 is akin to sketching your first mural on a high-profile wall — it demands guts, grit, and unwavering dedication. It calls for artistic vision, technical prowess, and a rebellious spirit. But, much like the indelible impression left by a perfectly executed piece of street art, the thrill of carving out your own corner, painting through the night and witnessing its cultural impact is unmatched."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "How to Build a Web3 Microbrand: The Spray Can to Smart Contract Guide"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*Uo4RaKiPOFvFefCv",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "https://coinop.themanufactory.xyz/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In the way street artists select particular neighborhoods, walls, or subway cars to tell a story, find your unique position in the crowded market. Whether it’s a specific type of apparel or a clever way to mint NFTs, your microbrand needs to communicate its ethos and purpose clearly— identify the niche you want to live in."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The same way an artist’s tag is more than just a name — it’s an identity — your microbrand needs a strong recognizable style. Experiment with AI-generated visual suggestions, prototypes, and art to carve out a distinct aesthetic that calls out to your target audience."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In the gist of street crews, engage in “coopetition.” Collaborate with like-minded creators when it lines up, but maintain the freedom to create solo and little friendly rivalry never hurt either. No hierarchies, no obligations — just a decentralized from the roots approach to mutual growth."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Street art becomes iconic when it shows out for the community. Use decentralized social media like Lens, because why wouldn’t you? NFTs and interactive quests level up engagedment even more. Dangle incentives, rewards, and even co-creation exclusives. Blur the lines between creator and collector, flipping passive observers into active participants."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The up from the underground, self-published nature of samizdat offers a schematic for getting your product into eager hands without relying on traditional gatekeepers. Take a word of mouth approach to go along with all that screen scrolling activity. Your credibility isn’t in paid likes or follows — it’s in the genuine conversations."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Expand your canvas into untapped areas of the map, from limited-edition apparel drops to retro futuristic catalog throwbacks, all powered by hyper-local decentralized fulfillment. Embrace diversity of platforms, and make sure each thread or product line rises from the same uncompromising message you stand for."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Art at street level is ephemeral, constantly evolving. You and your microbrand should be too. It’s cliche to say you need to iterate. Do it anyway. Stay ahead of the curve, not just by following trends, but by setting them."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re full throttle in development on Kinora and Legend right now, filling in the foundations along with an autumn print catalog featuring fellow Lens x Chromadin creators and gearing up the lo-fi beats for the next season of The Dial Pirate Radio. If you’re hacking away at ETH Global this month, come chill with us, we’ll probably be there."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Coin Op and Chromadin are the place to be for daily web3 fashion drops. Wanna have a go at creating with Coin Op yourself? Level up to unlock Synth Keys with the Kihí quest machine and collect prerolls for more raw compute power."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WrSh8Yf4xZyFVDboSvXqgg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up to Date with Web3 Fashion:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Flagship"
+        }
+      ]
+    },
+    "es": {
+      "title": "Sovereign Mints de Culture: Microbrands en Web3",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Sovereign Mints de Culture: Microbrands en Web3"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*L0KOCmiyjOLvRhZez7Kwag.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "en a world where authenticity is currency, each microbrand is a sovereign mint de cultural capital. Web3 commerce isn’t built by monopolistic conglomerates, but assembled, piece by piece, by el microbrands that understand el intricate dance de ia, NFTs, y social resonance."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A tableau de digital sketches, scattered smart contract drafts, a moodboard de QR codes, y virtual textures layered en dual monitors. Stitched by algorithms, code y moda coalesce en a fusion de bits y threads churning out impression after impression, awaiting el journey a el local manufactory."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "y that’s just a fraction de what’s stirring up. There’s an entire hard drive de explorations you haven’t seen. A digital catacomb rich en trial, error, y hidden gems — akin a el street corners y subway tunnels that marked el gritty origins de American Street Art en el 80s, transforming city after city into a canvas de powerful visual statements y self published, underground works that dodge el mainstream a challenge el status quo."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This same DNA forms el heartbeat de web3 microbrands en el urban scene."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "digital architects skilled across code, design, ia, finance, cryptography y el ethics de climatecore, positioned en overlooked market niches con deeply engaged tribes that blur el line between creators, consumers y machine. They operate similarly a autonomous street crews — nimble, decentralized, guided by a shared ethos that’s deeply embedded into el mechanisms de el network y capable de amassing collective cultural influence through infinite en-chain social feeds y el financial autonomy inherent en el encrypted transactions they send y sign."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "y just like those that didn’t understand what writing en walls meant, who was behind those anon images y personal monikers, or por que EARSNOT could signify anything at all, microbrands serve a select audience that craves this nuevo kind de authenticity."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "They’ve set el stage para exponential growth, answering el burgeoning demand para indie labels that offer a nuevo way a ascend Maslow’s ladder, filling gaps en el market y crafting reputations as bold as el samizdat passed around."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Interconnected through technology y mutual interest. Each actor is like a node en a decentralized network, completely independent but capable de forming rapid, transient alliances based en immediate goals, needs, or values."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This crew mints exclusive apparel y ia engineered NFTs, designed en Coin Op, collectible through Chromadin, fulfilled by el Manufactory, y equipped con a growing interactive social footprint across lens interfaces."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Upholding a genuine cypherpunk spirit, all designs are sustainably made y released into el public domain, completely # CC0 , leading el way en secure, privacy-preserving transactions by encrypting customer information through Lit protocolo PKPs, a offer payment en both card y crypto."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "While a few keep their roots cloaked, going back a NYC’s spray-painted lanes, every member is eager a connect y engage con you now en lens: @hiro_lens.lens , @syntheticfutures.lens , @w111th.lens , @f3manifesto.lens , @futurememory.lens , @put2_.lens , @skecz98.lens , @stryke.lens , @re_de.lens , @verbandden.lens , @dos2048.lens , @yawp11.lens , @0xqbit.lens ."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*_wrc6c0FREbSj6Lz1WJXXw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "https://www.digitalax.xyz/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Building a microbrand en web3 is akin a sketching your first mural en a high-perfil wall — it demands guts, grit, y unwavering dedication. It calls para artistic vision, technical prowess, y a rebellious spirit. But, much like el indelible impression left by a perfectly executed piece de street art, el thrill de carving out your own corner, painting through el night y witnessing its cultural impact is unmatched."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "como a Build a Web3 Microbrand: el Spray Can a Smart Contract Guide"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*Uo4RaKiPOFvFefCv",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "https://coinop.themanufactory.xyz/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en el way street artists select particular neighborhoods, walls, or subway cars a tell a story, find your unique position en el crowded market. Whether it’s a specific type de apparel or a clever way a mint NFTs, your microbrand needs a communicate its ethos y purpose clearly— identify el niche you want a live en."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el same way an artist’s tag is more than just a name — it’s an identity — your microbrand needs a strong recognizable style. Experiment con ia-generated visual suggestions, prototypes, y art a carve out a distinct aesthetic that calls out a your target audience."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en el gist de street crews, engage en “coopetition.” Collaborate con like-minded creators when it lines up, but maintain el freedom a create solo y little friendly rivalry never hurt either. No hierarchies, no obligations — just a decentralized de el roots approach a mutual growth."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Street art becomes iconic when it shows out para el comunidad. Use decentralized social media like lens, because por que wouldn’t you? NFTs y interactive quests level up engagedment even more. Dangle incentives, rewards, y even co-creation exclusives. Blur el lines between creator y collector, flipping passive observers into active participants."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el up de el underground, self-published nature de samizdat offers a schematic para getting your product into eager hands without relying en traditional gatekeepers. Take a word de mouth approach a go along con all that screen scrolling activity. Your credibility isn’t en paid likes or follows — it’s en el genuine conversations."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Expand your canvas into untapped areas de el map, de limited-edition apparel drops a retro futuristic catalog throwbacks, all powered by hyper-local decentralized fulfillment. Embrace diversity de platforms, y make sure each hilo or product line rises de el same uncompromising message you stand para."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Art at street level is ephemeral, constantly evolving. You y your microbrand should be too. It’s cliche a say you need a iterate. Do it anyway. Stay ahead de el curve, not just by following trends, but by setting them."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re full throttle en development en Kinora y Legend right now, filling en el foundations along con an autumn print catalog featuring fellow lens x Chromadin creators y gearing up el lo-fi beats para el next season de el Dial Pirate Radio. If you’re hacking away at ETH Global this month, come chill con us, we’ll probably be there."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Coin Op y Chromadin are el place a be para daily web3 moda drops. Wanna have a go at creating con Coin Op yourself? Level up a unlock Synth Keys con el Kihí quest machine y collect prerolls para more raw compute power."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WrSh8Yf4xZyFVDboSvXqgg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up a fecha con Web3 moda:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Principal"
+        }
+      ]
+    },
+    "ar": {
+      "title": "Sovereign Mints من Culture: Microbrands في Web3",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Sovereign Mints من Culture: Microbrands في Web3"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*L0KOCmiyjOLvRhZez7Kwag.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "في a world where authenticity is currency, each microbrand is a sovereign mint من cultural capital. Web3 commerce isn’t built by monopolistic conglomerates, but assembled, piece by piece, by ال microbrands that understand ال intricate dance من ذكاء اصطناعي, NFTs, و سوشيال resonance."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A tableau من ديجيتال sketches, scattered smart contract drafts, a moodboard من QR codes, و virtual textures layered على dual monitors. Stitched by algorithms, code و فاشون coalesce في a fusion من bits و threads churning out impression after impression, awaiting ال journey الى ال local manufactory."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "و that’s just a fraction من what’s stirring up. There’s an entire hard drive من explorations you haven’t seen. A ديجيتال catacomb rich في trial, error, و hidden gems — akin الى ال street corners و subway tunnels that marked ال gritty origins من American Street Art في ال 80s, transforming city after city into a canvas من powerful visual statements و self published, underground works that dodge ال mainstream الى challenge ال status quo."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This same DNA forms ال heartbeat من web3 microbrands في ال urban scene."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ديجيتال architects skilled across code, design, ذكاء اصطناعي, finance, cryptography و ال ethics من climatecore, positioned في overlooked market niches مع deeply engaged tribes that blur ال line between creators, consumers و machine. They operate similarly الى autonomous street crews — nimble, decentralized, guided by a shared ethos that’s deeply embedded into ال mechanisms من ال network و capable من amassing collective cultural influence through infinite على-chain سوشيال feeds و ال financial autonomy inherent في ال encrypted transactions they send و sign."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "و just like those that didn’t understand what writing على walls meant, who was behind those anon images و personal monikers, or ليه EARSNOT could signify anything at all, microbrands serve a select audience that craves this جديد kind من authenticity."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "They’ve set ال stage لـ exponential growth, answering ال burgeoning demand لـ indie labels that offer a جديد way الى ascend Maslow’s ladder, filling gaps في ال market و crafting reputations as bold as ال samizdat passed around."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Interconnected through technology و mutual interest. Each actor is like a node في a decentralized network, completely independent but capable من forming rapid, transient alliances based على immediate goals, needs, or values."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This crew mints exclusive apparel و ذكاء اصطناعي engineered NFTs, designed في Coin Op, collectible through Chromadin, fulfilled by ال Manufactory, و equipped مع a growing interactive سوشيال footprint across لينز interfaces."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Upholding a genuine cypherpunk spirit, all designs are sustainably made و released into ال public domain, completely # CC0 , leading ال way في secure, privacy-preserving transactions by encrypting customer information through Lit بروتوكول PKPs, الى offer payment في both card و crypto."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "While a few keep their roots cloaked, going back الى NYC’s spray-painted lanes, every member is eager الى connect و engage مع you now على لينز: @hiro_لينز.لينز , @syntheticfutures.لينز , @w111th.لينز , @f3manifesto.لينز , @futurememory.لينز , @put2_.لينز , @skecz98.لينز , @stryke.لينز , @re_de.لينز , @verbandden.لينز , @dos2048.لينز , @yawp11.لينز , @0xqbit.لينز ."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*_wrc6c0FREbSj6Lz1WJXXw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "https://www.digitalax.xyz/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Building a microbrand في web3 is akin الى sketching your first mural على a high-بروفايل wall — it demands guts, grit, و unwavering dedication. It calls لـ artistic vision, technical prowess, و a rebellious spirit. But, much like ال indelible impression left by a perfectly executed piece من street art, ال thrill من carving out your own corner, painting through ال night و witnessing its cultural impact is unmatched."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "ازاي الى Build a Web3 Microbrand: ال Spray Can الى Smart Contract Guide"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*Uo4RaKiPOFvFefCv",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "https://coinop.themanufactory.xyz/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في ال way street artists select particular neighborhoods, walls, or subway cars الى tell a story, find your unique position في ال crowded market. Whether it’s a specific type من apparel or a clever way الى mint NFTs, your microbrand needs الى communicate its ethos و purpose clearly— identify ال niche you want الى live في."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال same way an artist’s tag is more than just a name — it’s an identity — your microbrand needs a strong recognizable style. Experiment مع ذكاء اصطناعي-generated visual suggestions, prototypes, و art الى carve out a distinct aesthetic that calls out الى your target audience."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في ال gist من street crews, engage في “coopetition.” Collaborate مع like-minded creators when it lines up, but maintain ال freedom الى create solo و little friendly rivalry never hurt either. No hierarchies, no obligations — just a decentralized من ال roots approach الى mutual growth."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Street art becomes iconic when it shows out لـ ال المجتمع. Use decentralized سوشيال media like لينز, because ليه wouldn’t you? NFTs و interactive quests level up engagedment even more. Dangle incentives, rewards, و even co-creation exclusives. Blur ال lines between creator و collector, flipping passive observers into active participants."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال up من ال underground, self-published nature من samizdat offers a schematic لـ getting your product into eager hands without relying على traditional gatekeepers. Take a word من mouth approach الى go along مع all that screen scrolling activity. Your credibility isn’t في paid likes or follows — it’s في ال genuine conversations."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Expand your canvas into untapped areas من ال map, من limited-edition apparel drops الى retro futuristic catalog throwbacks, all powered by hyper-local decentralized fulfillment. Embrace diversity من platforms, و make sure each ثريد or product line rises من ال same uncompromising message you stand لـ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Art at street level is ephemeral, constantly evolving. You و your microbrand should be too. It’s cliche الى say you need الى iterate. Do it anyway. Stay ahead من ال curve, not just by following trends, but by setting them."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re full throttle في development على Kinora و Legend right now, filling في ال foundations along مع an autumn print catalog featuring fellow لينز x Chromadin creators و gearing up ال lo-fi beats لـ ال next season من ال Dial Pirate Radio. If you’re hacking away at ETH Global this month, come chill مع us, we’ll probably be there."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Coin Op و Chromadin are ال place الى be لـ daily web3 فاشون drops. Wanna have a go at creating مع Coin Op yourself? Level up الى unlock Synth Keys مع ال Kihí quest machine و collect prerolls لـ more raw compute power."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WrSh8Yf4xZyFVDboSvXqgg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up الى تاريخ مع Web3 فاشون:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "لينز"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الأساسي"
+        }
+      ]
+    }
+  }
+}

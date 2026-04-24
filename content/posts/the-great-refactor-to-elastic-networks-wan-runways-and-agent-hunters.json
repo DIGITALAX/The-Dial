@@ -1,0 +1,651 @@
+{
+  "slug": "the-great-refactor-to-elastic-networks-wan-runways-and-agent-hunters",
+  "date": "2025-07-16",
+  "translations": {
+    "en": {
+      "title": "The Great Refactor to Elastic Networks, Wan Runways & Agent Hunters",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "The Great Refactor to Elastic Networks, Wan Runways & Agent Hunters"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*EiWFJJuc7LEdxVGAJiWB7g.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "When someone with GPU access and vibe coding skills can iterate faster and create more than traditional fashion structures, the question isn’t “why are you doing this?” but “why aren’t you?”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The simplest way to break it down is before and after the Lens Mainnet launch in April 2025. Before Mainnet went live, we pushed three major builds:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "TripleA— Agentic fashion marketplace with VeniceAI and automated dev funding pools."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lucidity— Agentic discovery for genAI video workflows w/ Livepeer ComfyStream."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DIGITALAX Flagship— a ground-up refactor."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "TripleA brought an entirely new set of smart contracts, a Rust engine, and an interface rebuilt from scratch, plus Venice integration for agentic on-chain remixing. Lucidity launched with custom smart contracts, an embedded agent chat layer, and a lean interface designed specifically for navigating Comfy workflows without friction. The Flagship got a complete overhaul."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Then in April, Lens Mainnet went live , and the second phase kicked in."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We began a full refactor across the rest of the ecosystem. That included upgrades to NextJS v15, Tailwind v4, new smart contracts deployed on Lens Mainnet via zkSync with new unit tests and a complete migration of all collections and marketplaces. Every user-facing surface was rebuilt. Again."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This was one of the biggest protocol overhauls we’ve taken on. Non-stop coding to move everything we’d built over the years onto Lens Mainnet, and to refactor every connected app to V3 before the V2 API shutdown at the end of June. Did we make it? I think the commit history speaks for itself."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*HmmGg4CJZ_ns_iJVZZ7vHw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "2025 Github Commits"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Everything now runs native on Lens V3 Mainnet ZKsync : DIGITALAX Flagship, Chromadin, Cypher Search, Kinora, Listener, Coin Op, The Manufactory, Lucidity, NPC Studio, TripleA, and microbrands like F3M."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We also deployed $MONA to Lens Mainnet, with a custom bridge for moving cross chain."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Over the next few weeks, we’ll be running full re-tests across the entire stack. A lot changed quickly, and the LensSDK went through constant updates in the first few months after launch. Now that the v3 API is stable, we’re going back to clean up any missed transitions from v2, polishing tests and calls that couldn’t be fully covered during the initial refactor."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "You might ask, why the move away from Polygon?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A lot has changed. In teams, in values, in the alignment with core web3 principles. And even more critically, in the performance of L2s post Eth2. When it comes to speed, privacy and dev experience, ZK-powered networks are in a completely different class now."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We moved to Lens Mainnet on zkSync because social content is fashion. Not just surface level posts, but full interaction chains for media, coordination and reputation. And that needs to live somewhere composable."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Given how much we’ve already built around Lens, migrating made sense. Gas is lower, interactions are faster, and the build environment stays close to Ethereum without compromising on chain integrity."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The culture is just not there anymore on Polygon. Back in 2021, it was the right choice, but now, it’s slower to evolve, tightly VC-aligned, and not flexible enough for where we’re heading. There are better L2s already live, and more on the way, that are pushing in the right direction."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Content is King"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Beyond the code, a whole range of new fashion collections dropped this year across TripleA, F3Manifesto, and Chromadin. A mix of sharp, wear-to-signal statements and designs that pull at the seams of over-processed culture."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "On the tooling side, we’ve been deep in refining ComfyUI pipelines especially for local, open source generative video. That’s still the edge right now: model quality, rendering speed, consistent outputs. Wan releases and recent ComfyUI updates pushed things forward, and the workflows have been getting tighter across the board. We’ve also been levelling up the core setup we use to run and experiment, mixing hardware across 3× A6000s, 2× 6000 Adas, and a few single A6000 + 4090 configs in collaboration with pro-artist studios. It’s helped push the limits further on render quality and speed, especially for long-form video workflows and high-fidelity iterative testing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Content is still the multiplier, especially in fashion. Better tooling here means indie designers don’t have to scale teams to compete. Just run better local infra and outproduce. Traditional gatekeepers become irrelevant when the tools are the credentials. Because I can, and this is fucking cool = computational creative sovereignty."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Web3 Fashion Week 2025"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Which makes it the perfect time to launch new runways and the next Web3 Fashion Week , built from everything the GDN and GMS tested in previous digifizzy crossovers. Only now, with stronger tooling and deeper creative reach, especially as AI agents and human influences converge."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*E1tBu-9TfFZ5FcA_TkkEeQ.gif",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "GDR Punk is coming to the runway, the Stasi are back, and computational tools are the cultural levelling force."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The Runway will be broadcast in Q3 at W3FW with exclusive drops, token-gated access, and featured hybrid collections released by the GDN at a brand new market."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Jrr7P9t_CWkgBVTkZQHFwg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Global Designer Network | DIGITALAX"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Next Apps"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Work on Skyhunters originally kicked off at the end of last year with the updates around $MONA . It was paused to focus on getting the full stack refactor live. Now, we’ve dived back into the code."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The app and on-chain agents are being finalized, designed to hunt cross-chain and route liquidity into new staking pools on Lens for ecosystem tokens ($MONA, Genesis, PODE, Fashion NFTs etc.). These pools also function as autonomous funding units for devs and designers — an infrastructure level attempt at solving the still unsolved challenge of sustaining full-time indie work in web3. It’s DeFi x Fashion, restructured. Something DIGITALAX has always built toward."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The next stage of this build carries through summer. Details around pools and staking will drop once contracts are finalized on-chain."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Next Comms"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "On the comms side, with most web2 platforms now fully dysfunctional, our activity has been primarily on-chain, on GitHub, and via Lens for the past few years. We’re also phasing out of Discord."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’ve launched a Web3 Fashion Forum on Lens to handle questions, feedback, updates. It’s simpler, cleaner, more aligned with how the protocol operates, there are less bots, less noise, and it lives within a contextually coherent home."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’ve also been refining how content connects across the wider ecosystem, especially through recent video work. A series of linked sites is starting to go live, designed to surface and organise the backlog: years of articles, questions, responses, conversations, release notes, strange edge cases, half-broken experiments, and everything in between."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "So anyone can trace back through what’s been done, see what’s shifted, and follow the thread of our story at their own pace. Some links are already active. Others will keep surfacing through the forum as they get pulled up."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Heads down on Skyhunters now. Runways, collections, and videos dropping async."
+        }
+      ]
+    },
+    "es": {
+      "title": "La gran refactorización hacia redes elásticas, pasarelas Wan y cazadores de agentes",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "La gran refactorización hacia redes elásticas, pasarelas Wan y cazadores de agentes"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*EiWFJJuc7LEdxVGAJiWB7g.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "Cuando alguien con acceso a GPU y habilidades de vibe coding puede iterar más rápido y crear más que las estructuras tradicionales de moda, la pregunta no es “¿por qué haces esto?”, sino “¿por qué no?”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "La forma más simple de explicarlo es antes y después del lanzamiento de Lens Mainnet en abril de 2025. Antes de que Mainnet saliera en vivo, lanzamos tres builds principales:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "TripleA — marketplace de moda agentic con VeniceAI y pools automatizados de financiación para devs."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lucidity — descubrimiento agentic para flujos de video genAI con Livepeer ComfyStream."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DIGITALAX Flagship — una refactorización desde cero."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "TripleA trajo un conjunto completamente nuevo de smart contracts, un motor en Rust y una interfaz reconstruida desde cero, además de integración con Venice para remixing agentic on-chain. Lucidity salió con smart contracts personalizados, una capa integrada de chat con agentes y una interfaz ligera diseñada específicamente para navegar flujos de Comfy sin fricción. El Flagship recibió una renovación total."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Luego, en abril, Lens Mainnet se lanzó en vivo y arrancó la segunda fase."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Empezamos una refactorización completa del resto del ecosistema. Eso incluyó upgrades a NextJS v15, Tailwind v4, nuevos smart contracts desplegados en Lens Mainnet vía zkSync con nuevos unit tests y una migración total de todas las colecciones y marketplaces. Se reconstruyó cada superficie de cara al usuario. Otra vez."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Fue una de las mayores renovaciones de protocolo que asumimos. Código sin parar para mover a Lens Mainnet todo lo que habíamos construido durante años y para refactorizar cada app conectada a V3 antes del cierre de la API V2 al final de junio. ¿Llegamos? Creo que el historial de commits habla por sí solo."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*HmmGg4CJZ_ns_iJVZZ7vHw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Commits de GitHub en 2025"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Ahora todo corre de forma nativa en Lens V3 Mainnet zkSync: DIGITALAX Flagship, Chromadin, Cypher Search, Kinora, Listener, Coin Op, The Manufactory, Lucidity, NPC Studio, TripleA y microbrands como F3M."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "También desplegamos $MONA en Lens Mainnet, con un bridge personalizado para mover valor entre cadenas."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "En las próximas semanas vamos a ejecutar re-tests completos en todo el stack. Cambió muchísimo en muy poco tiempo, y LensSDK tuvo actualizaciones constantes en los primeros meses tras el lanzamiento. Ahora que la API v3 está estable, volvemos para limpiar transiciones pendientes desde v2, puliendo tests y llamadas que no se podían cubrir del todo durante la refactorización inicial."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Te puedes preguntar: ¿por qué alejarnos de Polygon?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Cambió mucho. En equipos, en valores y en alineación con principios centrales de web3. Y, aún más importante, en el rendimiento de las L2 después de Eth2. En velocidad, privacidad y experiencia de desarrollo, las redes impulsadas por ZK ya están en otra categoría."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Nos movimos a Lens Mainnet sobre zkSync porque el contenido social es moda. No solo posts superficiales, sino cadenas completas de interacción para medios, coordinación y reputación. Y eso necesita vivir en un entorno componible."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Dado todo lo que ya construimos alrededor de Lens, migrar tenía sentido. El gas es más bajo, las interacciones son más rápidas y el entorno de build se mantiene cerca de Ethereum sin comprometer la integridad de la cadena."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "La cultura en Polygon ya no está. En 2021 fue la opción correcta, pero ahora evoluciona más lento, está demasiado alineado con VC y no es lo bastante flexible para hacia dónde vamos. Ya hay mejores L2 en vivo, y vienen más, empujando en la dirección correcta."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "El contenido es rey"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Más allá del código, este año salieron muchas colecciones nuevas de moda en TripleA, F3Manifesto y Chromadin. Una mezcla de piezas afiladas para señalar postura y diseños que tiran de las costuras de una cultura sobreprocesada."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "En tooling, estuvimos muy enfocados en refinar pipelines de ComfyUI, sobre todo para video generativo local y open source. Ahí sigue estando la ventaja: calidad de modelo, velocidad de render y consistencia de salida. Los lanzamientos de Wan y las actualizaciones recientes de ComfyUI empujaron mucho, y los workflows se han ido afinando en todo el tablero. También mejoramos el setup base que usamos para correr y experimentar, combinando hardware entre 3× A6000, 2× 6000 Ada y varias configuraciones individuales A6000 + 4090 en colaboración con estudios de artistas pro. Eso ayudó a empujar aún más los límites de calidad y velocidad de render, especialmente para workflows de video largo y pruebas iterativas de alta fidelidad."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "El contenido sigue siendo el multiplicador, especialmente en moda. Mejor tooling aquí significa que los diseñadores indie no tienen que escalar equipos para competir. Solo correr mejor infraestructura local y producir más. Los gatekeepers tradicionales se vuelven irrelevantes cuando las herramientas son las credenciales. Porque puedo, y esto está jodidamente genial = soberanía creativa computacional."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Semana de la Moda Web3 2025"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Por eso es el momento perfecto para lanzar nuevas pasarelas y la próxima Web3 Fashion Week, construida sobre todo lo que GDN y GMS probaron en crossovers anteriores de digifizzy. Solo que ahora con tooling más fuerte y un alcance creativo más profundo, sobre todo mientras convergen agentes de IA e influencias humanas."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*E1tBu-9TfFZ5FcA_TkkEeQ.gif",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "GDR Punk llega a la pasarela, los Stasi están de vuelta y las herramientas computacionales son la fuerza cultural niveladora."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "La pasarela se emitirá en Q3 durante W3FW con drops exclusivos, acceso token-gated y colecciones híbridas destacadas lanzadas por GDN en un mercado completamente nuevo."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Jrr7P9t_CWkgBVTkZQHFwg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Red Global de Diseñadores | DIGITALAX"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Próximas apps"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "El trabajo en Skyhunters empezó originalmente a finales del año pasado con las actualizaciones alrededor de $MONA. Se pausó para enfocar el lanzamiento de la refactorización full stack. Ahora volvimos de lleno al código."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "La app y los agentes on-chain se están finalizando, diseñados para cazar oportunidades cross-chain y enrutar liquidez hacia nuevos pools de staking en Lens para tokens del ecosistema ($MONA, Genesis, PODE, Fashion NFTs, etc.). Estos pools también funcionan como unidades autónomas de financiación para devs y diseñadores: un intento a nivel de infraestructura de resolver el desafío todavía no resuelto de sostener trabajo indie full-time en web3. Es DeFi x Fashion, reestructurado. Algo hacia lo que DIGITALAX siempre construyó."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "La siguiente etapa de este build continúa durante el verano. Los detalles sobre pools y staking saldrán cuando los contratos queden finalizados on-chain."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Próximas comunicaciones"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "En comunicación, con la mayoría de plataformas web2 ya completamente disfuncionales, nuestra actividad fue principalmente on-chain, en GitHub y vía Lens durante los últimos años. También estamos saliendo gradualmente de Discord."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Lanzamos un Web3 Fashion Forum en Lens para manejar preguntas, feedback y actualizaciones. Es más simple, más limpio y más alineado con cómo opera el protocolo; hay menos bots, menos ruido, y vive en un hogar contextualmente coherente."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "También venimos refinando cómo se conecta el contenido en todo el ecosistema, especialmente a través del trabajo reciente en video. Una serie de sitios enlazados está empezando a salir en vivo, diseñada para sacar y ordenar el backlog: años de artículos, preguntas, respuestas, conversaciones, release notes, casos límite extraños, experimentos medio rotos y todo lo demás."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Así cualquiera puede rastrear lo que se hizo, ver qué cambió y seguir el hilo de nuestra historia a su ritmo. Algunos links ya están activos. Otros irán apareciendo en el foro a medida que se recuperen."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Ahora toca foco total en Skyhunters. Pasarelas, colecciones y videos saliendo en async."
+        }
+      ]
+    },
+    "ar": {
+      "title": "إعادة الهيكلة الكبرى لشبكات Elastic وWan Runways وAgent Hunters",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إعادة الهيكلة الكبرى لشبكات Elastic وWan Runways وAgent Hunters"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*EiWFJJuc7LEdxVGAJiWB7g.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "لما حد عنده GPU access ومهارات vibe coding يقدر يكرّر أسرع ويطلع أكتر من هياكل الفاشون التقليدية، السؤال مش \"إنت بتعمل ده ليه؟\" لكن \"ليه ما تعملوش؟\""
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أبسط طريقة نشرح بيها الموضوع هي قبل وبعد إطلاق Lens Mainnet في أبريل 2025. قبل ما الـ Mainnet يطلع live، كنا مطلعين 3 builds كبار:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "TripleA — سوق فاشون agentic مع VeniceAI وpools تمويل devs بشكل آلي."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lucidity — اكتشاف agentic لـ genAI video workflows مع Livepeer ComfyStream."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DIGITALAX Flagship — refactor كامل من الصفر."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "TripleA جاب مجموعة جديدة بالكامل من smart contracts، ومحرك Rust، وواجهة معمول لها rebuild من الصفر، زائد دمج Venice لـ agentic on-chain remixing. Lucidity نزلت بـ smart contracts مخصصة، وطبقة chat مدمجة للوكلاء، وواجهة خفيفة معمولة مخصوص للتنقل في Comfy workflows من غير friction. والـ Flagship اتعمل له overhaul كامل."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وبعدين في أبريل، Lens Mainnet اشتغل live، وابتدت المرحلة التانية."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "بدأنا refactor كامل لباقي الإيكوسيستم. ده شمل upgrades لـ NextJS v15 وTailwind v4، وsmart contracts جديدة اتنشرت على Lens Mainnet عبر zkSync مع unit tests جديدة، وكمان migration كاملة لكل collections والـ marketplaces. كل سطح مستخدم اتبنى من جديد. تاني."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "دي كانت واحدة من أكبر عمليات تحديث البروتوكول اللي دخلنا فيها. كود شغال بدون توقف علشان ننقل كل اللي بنيناه على مدار السنين لـ Lens Mainnet، وكمان نعمل refactor لكل app متصلة لـ V3 قبل إغلاق API V2 في آخر يونيو. هل لحقنا؟ أعتقد إن commit history بتجاوب لوحدها."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*HmmGg4CJZ_ns_iJVZZ7vHw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "Commits GitHub لسنة 2025"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "دلوقتي كل حاجة شغالة native على Lens V3 Mainnet zkSync: DIGITALAX Flagship، Chromadin، Cypher Search، Kinora، Listener، Coin Op، The Manufactory، Lucidity، NPC Studio، TripleA، وmicrobrands زي F3M."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وكمان نشرنا $MONA على Lens Mainnet، مع bridge مخصص للنقل بين السلاسل."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "خلال الأسابيع الجاية هنشغل re-tests كاملة على الستاك كله. حاجات كتير اتغيرت بسرعة، وLensSDK مرّ بتحديثات مستمرة في أول شهور بعد الإطلاق. ودلوقتي بعد ما API v3 بقت مستقرة، راجعين ننظف أي انتقالات ناقصة من v2، ونظبط tests وcalls اللي ماكنش ممكن تتغطى بالكامل أثناء الـ refactor الأولاني."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "ممكن تسأل: ليه بعدنا عن Polygon؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "حاجات كتير اتغيرت. في الفرق، وفي القيم، وفي التوافق مع مبادئ web3 الأساسية. والأهم كمان: أداء الـ L2 بعد Eth2. من ناحية السرعة والخصوصية وتجربة المطور، الشبكات المعتمدة على ZK بقت في مستوى مختلف تمامًا."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "إحنا انتقلنا لـ Lens Mainnet على zkSync لأن المحتوى الاجتماعي هو فاشون. مش بس بوستات سطحية، لكن سلاسل تفاعل كاملة للميديا والتنسيق والسمعة. وده محتاج يعيش في مكان composable."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وبناءً على قد إيه إحنا أصلاً بنينا حوالين Lens، فالـ migration كانت منطقية. الغاز أقل، والتفاعلات أسرع، وبيئة البناء قريبة من Ethereum من غير ما نضحي بسلامة السلسلة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الثقافة هناك على Polygon مبقتش موجودة زي الأول. في 2021 كان الاختيار صح، لكن دلوقتي التطور أبطأ، وفي ارتباط قوي جدًا بـ VC، ومش مرن كفاية للاتجاه اللي رايحين له. في L2 أفضل بالفعل live، ولسه فيه أكتر جايين، وبيزقوا في الاتجاه الصح."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "المحتوى هو الملك"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "بعيدًا عن الكود، نزلت السنة دي مجموعات فاشون جديدة كتير عبر TripleA وF3Manifesto وChromadin. خليط من قطع حادة wearable للتعبير، وتصاميم بتشد في خيوط ثقافة بقت over-processed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "على جانب الأدوات، كنا متعمقين في تحسين ComfyUI pipelines خصوصًا للفيديو التوليدي المحلي والمفتوح المصدر. ولسه دي النقطة الفارقة دلوقتي: جودة الموديل، سرعة الرندر، وثبات النتائج. إصدارات Wan وتحديثات ComfyUI الأخيرة دفعت الأداء لقدام، والـ workflows بقت أضيق وأرتب على مستوى الشغل كله. وكمان رفعنا مستوى الـ core setup اللي بنستخدمه للتشغيل والتجارب، مع مزج hardware بين 3× A6000 و2× 6000 Ada وكذا إعدادات A6000 + 4090 منفردة بالتعاون مع استوديوهات فنانين محترفين. ده ساعد يدفع حدود جودة الرندر والسرعة أكتر، خصوصًا في long-form video workflows والاختبارات التكرارية عالية الدقة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "المحتوى لسه هو الـ multiplier، خصوصًا في الفاشون. تحسين الأدوات هنا معناه إن المصممين المستقلين مش محتاجين يكبروا فرق ضخمة علشان ينافسوا. شغّل local infra أحسن وطلّع إنتاج أكتر. حراس البوابة التقليديين بيبقوا بلا قيمة لما الأدوات نفسها تبقى هي الاعتماد. Because I can، وده جامد جدًا = سيادة إبداعية حسابية."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أسبوع موضة Web3 2025"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وده يخلي التوقيت مثالي لإطلاق runways جديدة والنسخة الجاية من Web3 Fashion Week، المبنية على كل اللي GDN وGMS اختبروه في digifizzy crossovers اللي فاتت. بس دلوقتي بأدوات أقوى ومدى إبداعي أعمق، خصوصًا مع تقارب وكلاء الذكاء الاصطناعي والتأثير البشري."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*E1tBu-9TfFZ5FcA_TkkEeQ.gif",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "GDR Punk جاي على الـ runway، والـ Stasi رجعوا، والأدوات الحاسوبية بقت قوة تسوية ثقافية."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الـ Runway هيتبث في Q3 في W3FW مع drops حصرية، ووصول token-gated، ومجموعات هجينة مميزة هينزلها GDN في سوق جديد تمامًا."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Jrr7P9t_CWkgBVTkZQHFwg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "figcaption",
+          "value": "شبكة المصممين العالمية | DIGITALAX"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "التطبيقات الجاية"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الشغل على Skyhunters بدأ أصلاً في آخر السنة اللي فاتت مع تحديثات $MONA. وقفناه مؤقتًا علشان نركز على تشغيل الـ full stack refactor. ودلوقتي رجعنا غطسنا في الكود تاني."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الـ app والـ on-chain agents بيتقفلوا دلوقتي في النسخة النهائية، ومتصممين يطاردوا فرص cross-chain ويوجهوا السيولة لـ staking pools جديدة على Lens لرموز الإيكوسيستم ($MONA، Genesis، PODE، Fashion NFTs... إلخ). الـ pools دي كمان بتشتغل كوحدات تمويل ذاتية للمطورين والمصممين، كمحاولة على مستوى البنية التحتية لحل تحدي لسه بدون حل: إزاي نحافظ على شغل مستقل full-time في web3. ده DeFi x Fashion بشكل مُعاد هيكلته. وده دايمًا كان اتجاه بناء DIGITALAX."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "المرحلة الجاية من البناء ده مكملة خلال الصيف. تفاصيل الـ pools والـ staking هتنزل أول ما العقود تتقفل نهائيًا on-chain."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "الاتصالات الجاية"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "من ناحية الاتصالات، ومع إن أغلب منصات web2 بقت dysfunctional بالكامل، نشاطنا كان أساسًا on-chain وعلى GitHub وعن طريق Lens خلال آخر سنين. وكمان إحنا بنطلع تدريجيًا من Discord."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أطلقنا Web3 Fashion Forum على Lens علشان نتعامل مع الأسئلة والـ feedback والتحديثات. أبسط، وأنضف، ومتوافق أكتر مع طريقة تشغيل البروتوكول؛ bots أقل، وضوضاء أقل، وموجود جوه بيت سياقي متماسك."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وكمان بنحسن طريقة اتصال المحتوى عبر الإيكوسيستم الأوسع، خصوصًا من خلال شغل الفيديو الأخير. سلسلة مواقع مرتبطة بدأت تشتغل live، هدفها إظهار وتنظيم الـ backlog: سنين من المقالات، والأسئلة، والردود، والمحادثات، وrelease notes، وحالات طرفية غريبة، وتجارب نصها مكسور، وكل حاجة بينهم."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "كده أي حد يقدر يرجع يتتبع اللي اتعمل، ويشوف إيه اللي اتغير، ويتابع خيط القصة على راحته. في روابط شغالة بالفعل، وروابط تانية هتظهر تدريجيًا من خلال الفورم كل ما يتم استخراجها."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "دلوقتي تركيز كامل على Skyhunters. Runways ومجموعات وفيديوهات بتنزل بشكل async."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-63",
+  "date": "2022-06-13",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 63",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 63"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "One of the biggest artist’s on the planet right now is a collaboration between many humans and a diffusion model. Is AI coming to liquidate our creativity?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Don’t let your market fears project onto creative endeavours. Prompt engineering is one of the most essential skills that you can stack to leverage the new means and memes of production. If you haven’t already, check out Disco Diffusion and there are already some base templates and a tutorial video provided for you on the F3M homeport here under “How Tos”."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*eIz3Cr6x0sgIMgKgH1wC1w.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "We repeat CC0 a lot because it is fascinating and one of the most pivotal shifts in behavioural economics in memory. So what’s the repeat this week?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "An interesting thread by VVD on just how radically misaligned OG web3 players in the space have become this market cycle. The fact that now on Opensea you can’t even name a collection the same as another without being DMCA blocked is insane, even when there is full fair use and prior art well established."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What’s funny about all of us, although not much, is the fact that it’s very convenient that most of these DMCAs and copyright take down notices are targeted at the average user who doesn’t have massive clout and expensive lawyers at their disposal. Yet, if you do have that, Opensea tends to overlook any potential issues.. cough cough **Tom Sachs** ….."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Not very web3 huh?"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Zy6_32qNrh4BOJhEvqFLng.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Was Sartoshi’s exit a soft rug or performance art to complete the meme?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It looks a lot like what their satirical namesake Satoshi did, except for that 25%… probably could have figured out something a bit more in the spirit of continuing the growth of the community and simply followed Nouns’ example."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Is there more to come on this story? I guess we’ll have to wait and see."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*aI9jDK_kaUNXl2EQXq2mYw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Funny how Jack’s “Web5” is meant to be extra decentralised, yet, first thing you can notice on their site is all the legal terms and copyright. Good luck, but this is really just a silly troll."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*jvf7NAhUb-BUy891tzOjlw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 63",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 63"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "One de el biggest artist’s en el planet right now is a collaboration between many humans y a diffusion model. Is ia coming a liquidate our creativity?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Don’t let your market fears project onto creativo endeavours. Prompt engineering is one de el most essential skills that you can stack a leverage el nuevo means y memes de production. If you haven’t already, check out Disco Diffusion y there are already some base templates y a tutorial video provided para you en el F3M homeport here under “como Tos”."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*eIz3Cr6x0sgIMgKgH1wC1w.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat pregunta"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "We repeat CC0 a lot because it is fascinating y one de el most pivotal shifts en behavioural economics en memory. So what’s el repeat this semana?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "An interesting hilo by VVD en just como radically misaligned OG web3 players en el space have become this market cycle. el fact that now en Opensea you can’t even name a collection el same as another without being DMCA blocked is insane, even when there is full fair use y prior art well established."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What’s funny about all de us, although not much, is el fact that it’s very convenient that most de these DMCAs y copyright take down notices are targeted at el average user who doesn’t have massive clout y expensive lawyers at their disposal. Yet, if you do have that, Opensea tends a overlook any potential issues.. cough cough **Tom Sachs** ….."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No muy web3, ¿no?"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Zy6_32qNrh4BOJhEvqFLng.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Was Sartoshi’s exit a soft rug or performance art a complete el meme?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It looks a lot like what their satirical namesake Satoshi did, except para that 25%… probably could have figured out something a bit more en el spirit de continuing el growth de el comunidad y simply followed Nouns’ example."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Is there more a come en this story? I guess we’ll have a wait y see."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*aI9jDK_kaUNXl2EQXq2mYw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Funny como Jack’s “Web5” is meant a be extra decentralised, yet, first thing you can notice en their site is all el legal terms y copyright. Good luck, but this is really just a silly troll."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*jvf7NAhUb-BUy891tzOjlw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todo el FUD FAQ aquí."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX Discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 63",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 63"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "One من ال biggest artist’s على ال planet right now is a collaboration between many humans و a diffusion model. Is ذكاء اصطناعي coming الى liquidate our creativity?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Don’t let your market fears project onto ابداعي endeavours. Prompt engineering is one من ال most essential skills that you can stack الى leverage ال جديد means و memes من production. If you haven’t already, check out Disco Diffusion و there are already some base templates و a tutorial video provided لـ you على ال F3M homeport here under “ازاي Tos”."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*eIz3Cr6x0sgIMgKgH1wC1w.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat سؤال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "We repeat CC0 a lot because it is fascinating و one من ال most pivotal shifts في behavioural economics في memory. So what’s ال repeat this اسبوع?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "An interesting ثريد by VVD على just ازاي radically misaligned OG web3 players في ال space have become this market cycle. ال fact that now على Opensea you can’t even name a collection ال same as another without being DMCA blocked is insane, even when there is full fair use و prior art well established."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What’s funny about all من us, although not much, is ال fact that it’s very convenient that most من these DMCAs و copyright take down notices are targeted at ال average user who doesn’t have massive clout و expensive lawyers at their disposal. Yet, if you do have that, Opensea tends الى overlook any potential issues.. cough cough **Tom Sachs** ….."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مش ويب3 أوي، صح؟"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Zy6_32qNrh4BOJhEvqFLng.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم الجدل في المجال"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Was Sartoshi’s exit a soft rug or performance art الى complete ال meme?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It looks a lot like what their satirical namesake Satoshi did, except لـ that 25%… probably could have figured out something a bit more في ال spirit من continuing ال growth من ال المجتمع و simply followed Nouns’ example."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Is there more الى come على this story? I guess we’ll have الى wait و see."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*aI9jDK_kaUNXl2EQXq2mYw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Funny ازاي Jack’s “Web5” is meant الى be extra decentralised, yet, first thing you can notice على their site is all ال legal terms و copyright. Good luck, but this is really just a silly troll."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*jvf7NAhUb-BUy891tzOjlw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوفوا كل بوستات FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX Discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

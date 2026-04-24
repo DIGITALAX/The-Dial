@@ -1,0 +1,636 @@
+{
+  "slug": "why-do-you-create-or-why-it-s-ok-to-admit-you-re-a-commercial-artist",
+  "date": "2022-12-28",
+  "translations": {
+    "en": {
+      "title": "Why Do You Create? (Or: Why It’s Ok To Admit You’re A Commercial Artist)",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Why Do You Create? (Or: Why It’s Ok To Admit You’re A Commercial Artist)"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Using AI In The New Social Web — A Mini-Series Recap of the Decline of Signals in 2022 and Building for a Bullish 2023"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WfbQdeAxtL_wgd3-CMo8fA.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "PART 2: Creative commerce, after copyright"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Click farming never quickened anyone’s pulse, but it clearly worked well enough to take its share of screen real estate and mindspace in the only web we’ve ever really known."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Thing is, engagement is dead now. A consequence of the decline of signal quality and deliverability. Maybe not predictable enough, but it should have been. All across the old social web, inflated stats and status games have gone down the value drain alongside ad spend, tanking stocks, and influencer reputations."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The decline of signals is one reason engagement is having a recession nostalgia moment. But there is another."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is in this great expansion brought about by creative synthesis AI, that we can see a parallel reason for both the sharp fall off of meaningful engagement metrics on the social web, and the transformative promise of a way up and out."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The decline side, as usual, is easier to catch first."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The main reason for the drop off is mass confusion over what makes one creative work any more valuable than any other."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As much as many very online artists are uncomfortable with it, what stirs up interest and conflict over creative works is wrapped up entirely in the scarcity of value."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If all we cared about was the emotion a work of art evokes in a viewer, or the write up of a critic’s opinion, we would fill our streets with museums as infinite storehouses for records and monuments to our acclaim saved to the public memory. They’d sprout up as commonly as Blockbuster and Starbucks in the 90’s. In this timeline, everyone would have their 15 minutes at the exact same time, forever."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is nothing wrong with admitting that the only reason we fight so bitterly over the meaning, usefulness, and limits of copyright is because we’ve never yet come up with a better model to express the value of commercial work."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But copyright is broken in a lightspeed information age, if it ever really delivered."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When the cost to transport a message, an idea, or a creative work of any complexity, around the world in 0.1337 seconds, give or take, is almost free, our ability insists it should be also. That clashes with our desire to be valued, to be seen, and yes, to make money."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, the “AI Art is theft” argument, following so soon after “NFTs are theft”, is false on its face. Copyright has no useful role to play with how creative synthesis models actually work. Not if you know firsthand how they are trained, and used. And, maybe counterintuitively, the lack of artist “protections” isn’t why your engagement rates are gone and forgotten. (Nevermind the side story question of why only artists in before a certain time would get to be deemed artists, who by, and how exactly proposed model bans would protect anyone.)"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, the cause of this decline is anticipation. Of lemons, and spam."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is anticipation because as fast as user numbers for Stable Diffusion and ChatGPT have grown, it’s still a very small percentage of web connected humanity that even knows either of these exist. The number that has gone deep enough into the work to realize how laughable the soulless slot machine / push button creativity accusations are is so small still, it’s almost embarrassing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s anticipation of the coming decline that is causing the decline. And this time, what’s seen as coming up ahead is a new online reality where making content so great, is so easy, that we are all flooded with social feeds filled with too much impossibly great eye candy that all looks so much the same that we can’t price anything. We can’t decide anything. It’s all a lemon. Because we can’t tell what’s what. It’s all spam."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And there’s the hint to the upside for those watching closely."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If everyone can do it, it’s not different. What we decide is good continues to change. Markets will always want creative people who can offer a new and different way to communicate what stands out from the rest."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This brings us back to where we started. Why do you create?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There are as many reasons to create as there are people who have ever walked this Earth, or ever will."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create to sell,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create to say something,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create for its own sake,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create to push ahead and change the accepted meaning of what’s possible,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create to inspire,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create to limit what others can say, think, feel, and do with a legal trap you’ve claimed first,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create because we can, because we are free"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’re like us, you’ve probably felt a mix of these in different times and situations. Only one is not like the others, as common as it is to feel it. If there’s no other model to value yourself and creative works at hand."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*JVQ2L5HKW2ZhZMevopwqwA.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The brighter view is that we’re in a lucky time. The tools for AI assisted creativity are free and open source. We can use them to craft a message, to market it, to print, mint, and wear whatever we shape from our imagination. In teams or on our own. We can give creative works new uses, forms, and means of distribution, through virtual worlds and the user owned social web."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We use these tools to discover each other and what we have to say."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s that desire for status, to be different, to look different, stand out, make more with the materials we have at hand that drives commerce. Seen for what they are, beyond the noise and speculation, all arguments limiting the spread of art reflect a fear our value will be lost somehow in the process. That we won’t be valued, that our work won’t be valued. That we don’t know how to sell. And sales depend on creativity. It’s all creative commerce."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up to Date with Web3 Fashion:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Flagship"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        }
+      ]
+    },
+    "es": {
+      "title": "por que Do You Create? (Or: por que It’s Ok a Admit You’re A Commercial Artist)",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "por que Do You Create? (Or: por que It’s Ok a Admit You’re A Commercial Artist)"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Using ia en el nuevo social Web — A Mini-Series Recap de el Decline de Signals en 2022 y Building para a Bullish 2023"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WfbQdeAxtL_wgd3-CMo8fA.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "PART 2: creativo commerce, after copyright"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Click farming never quickened anyone’s pulse, but it clearly worked well enough a take its share de screen real estate y mindspace en el only web we’ve ever really known."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Thing is, engagement is dead now. A consequence de el decline de signal quality y deliverability. Maybe not predictable enough, but it should have been. All across el old social web, inflated stats y status games have gone down el value drain alongside ad spend, tanking stocks, y influencer reputations."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el decline de signals is one reason engagement is having a recession nostalgia moment. But there is another."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is en this great expansion brought about by creativo synthesis ia, that we can see a parallel reason para both el sharp fall off de meaningful engagement metrics en el social web, y el transformative promise de a way up y out."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el decline side, as usual, is easier a catch first."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el main reason para el drop off is mass confusion over what makes one creativo work any more valuable than any other."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As much as many very online artists are uncomfortable con it, what stirs up interest y conflict over creativo works is wrapped up entirely en el scarcity de value."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If all we cared about was el emotion a work de art evokes en a viewer, or el write up de a critic’s opinion, we would fill our streets con museums as infinite storehouses para records y monuments a our acclaim saved a el public memory. They’d sprout up as commonly as Blockbuster y Starbucks en el 90’s. en this timeline, everyone would have their 15 minutes at el exact same time, forever."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is nothing wrong con admitting that el only reason we fight so bitterly over el meaning, usefulness, y limits de copyright is because we’ve never yet come up con a better model a express el value de commercial work."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But copyright is broken en a lightspeed information age, if it ever really delivered."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When el cost a transport a message, an idea, or a creativo work de any complexity, around el world en 0.1337 seconds, give or take, is almost free, our ability insists it should be also. That clashes con our desire a be valued, a be seen, y yes, a make money."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, el “ia Art is theft” argument, following so soon after “NFTs are theft”, is false en its face. Copyright has no useful role a play con como creativo synthesis models actually work. Not if you know firsthand como they are trained, y used. y, maybe counterintuitively, el lack de artist “protections” isn’t por que your engagement rates are gone y forgotten. (Nevermind el side story pregunta de por que only artists en before a certain time would get a be deemed artists, who by, y como exactly proposed model bans would protect anyone.)"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, el cause de this decline is anticipation. de lemons, y spam."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is anticipation because as fast as user numbers para Stable Diffusion y ChatGPT have grown, it’s still a very small percentage de web connected humanity that even knows either de these exist. el number that has gone deep enough into el work a realize como laughable el soulless slot machine / push button creativity accusations are is so small still, it’s almost embarrassing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s anticipation de el coming decline that is causing el decline. y this time, what’s seen as coming up ahead is a nuevo online reality where making content so great, is so easy, that we are all flooded con social feeds filled con too much impossibly great eye candy that all looks so much el same that we can’t price anything. We can’t decide anything. It’s all a lemon. Because we can’t tell what’s what. It’s all spam."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "y there’s el hint a el upside para those watching closely."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If everyone can do it, it’s not different. What we decide is good continues a change. Markets will always want creativo people who can offer a nuevo y different way a communicate what stands out de el rest."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This brings us back a where we started. por que do you create?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There are as many reasons a create as there are people who have ever walked this Earth, or ever will."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create a sell,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create a say something,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create para its own sake,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create a push ahead y change el accepted meaning de what’s possible,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create a inspire,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create a limit what others can say, think, feel, y do con a legal trap you’ve claimed first,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Crear porque podemos, porque somos libres"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’re like us, you’ve probably felt a mix de these en different times y situations. Only one is not like el others, as common as it is a feel it. If there’s no other model a value yourself y creativo works at hand."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*JVQ2L5HKW2ZhZMevopwqwA.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el brighter view is that we’re en a lucky time. el tools para ia assisted creativity are free y open source. We can use them a craft a message, a market it, a print, mint, y wear whatever we shape de our imagination. en teams or en our own. We can give creativo works nuevo uses, forms, y means de distribution, through virtual worlds y el user owned social web."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We use these tools a discover each other y what we have a say."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s that desire para status, a be different, a look different, stand out, make more con el materials we have at hand that drives commerce. Seen para what they are, beyond el noise y speculation, all arguments limiting el spread de art reflect a fear our value will be lost somehow en el process. That we won’t be valued, that our work won’t be valued. That we don’t know como a sell. y sales depend en creativity. It’s all creativo commerce."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up a fecha con Web3 moda:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Principal"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentación"
+        }
+      ]
+    },
+    "ar": {
+      "title": "ليه Do You Create? (Or: ليه It’s Ok الى Admit You’re A Commercial Artist)",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "ليه Do You Create? (Or: ليه It’s Ok الى Admit You’re A Commercial Artist)"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Using ذكاء اصطناعي في ال جديد سوشيال Web — A Mini-Series Recap من ال Decline من Signals في 2022 و Building لـ a Bullish 2023"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WfbQdeAxtL_wgd3-CMo8fA.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "PART 2: ابداعي commerce, after copyright"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Click farming never quickened anyone’s pulse, but it clearly worked well enough الى take its share من screen real estate و mindspace في ال only web we’ve ever really known."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Thing is, engagement is dead now. A consequence من ال decline من signal quality و deliverability. Maybe not predictable enough, but it should have been. All across ال old سوشيال web, inflated stats و status games have gone down ال value drain alongside ad spend, tanking stocks, و influencer reputations."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال decline من signals is one reason engagement is having a recession nostalgia moment. But there is another."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is في this great expansion brought about by ابداعي synthesis ذكاء اصطناعي, that we can see a parallel reason لـ both ال sharp fall off من meaningful engagement metrics على ال سوشيال web, و ال transformative promise من a way up و out."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال decline side, as usual, is easier الى catch first."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال main reason لـ ال drop off is mass confusion over what makes one ابداعي work any more valuable than any other."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As much as many very online artists are uncomfortable مع it, what stirs up interest و conflict over ابداعي works is wrapped up entirely في ال scarcity من value."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If all we cared about was ال emotion a work من art evokes في a viewer, or ال write up من a critic’s opinion, we would fill our streets مع museums as infinite storehouses لـ records و monuments الى our acclaim saved الى ال public memory. They’d sprout up as commonly as Blockbuster و Starbucks في ال 90’s. في this timeline, everyone would have their 15 minutes at ال exact same time, forever."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There is nothing wrong مع admitting that ال only reason we fight so bitterly over ال meaning, usefulness, و limits من copyright is because we’ve never yet come up مع a better model الى express ال value من commercial work."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But copyright is broken في a lightspeed information age, if it ever really delivered."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "When ال cost الى transport a message, an idea, or a ابداعي work من any complexity, around ال world في 0.1337 seconds, give or take, is almost free, our ability insists it should be also. That clashes مع our desire الى be valued, الى be seen, و yes, الى make money."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, ال “ذكاء اصطناعي Art is theft” argument, following so soon after “NFTs are theft”, is false على its face. Copyright has no useful role الى play مع ازاي ابداعي synthesis models actually work. Not if you know firsthand ازاي they are trained, و used. و, maybe counterintuitively, ال lack من artist “protections” isn’t ليه your engagement rates are gone و forgotten. (Nevermind ال side story سؤال من ليه only artists في before a certain time would get الى be deemed artists, who by, و ازاي exactly proposed model bans would protect anyone.)"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, ال cause من this decline is anticipation. من lemons, و spam."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It is anticipation because as fast as user numbers لـ Stable Diffusion و ChatGPT have grown, it’s still a very small percentage من web connected humanity that even knows either من these exist. ال number that has gone deep enough into ال work الى realize ازاي laughable ال soulless slot machine / push button creativity accusations are is so small still, it’s almost embarrassing."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s anticipation من ال coming decline that is causing ال decline. و this time, what’s seen as coming up ahead is a جديد online reality where making content so great, is so easy, that we are all flooded مع سوشيال feeds filled مع too much impossibly great eye candy that all looks so much ال same that we can’t price anything. We can’t decide anything. It’s all a lemon. Because we can’t tell what’s what. It’s all spam."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "و there’s ال hint الى ال upside لـ those watching closely."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If everyone can do it, it’s not different. What we decide is good continues الى change. Markets will always want ابداعي people who can offer a جديد و different way الى communicate what stands out من ال rest."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This brings us back الى where we started. ليه do you create?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There are as many reasons الى create as there are people who have ever walked this Earth, or ever will."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create الى sell,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create الى say something,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create لـ its own sake,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create الى push ahead و change ال accepted meaning من what’s possible,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create الى inspire,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Create الى limit what others can say, think, feel, و do مع a legal trap you’ve claimed first,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "نِخلق لأننا نقدر، ولأننا أحرار"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’re like us, you’ve probably felt a mix من these في different times و situations. Only one is not like ال others, as common as it is الى feel it. If there’s no other model الى value yourself و ابداعي works at hand."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*JVQ2L5HKW2ZhZMevopwqwA.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال brighter view is that we’re في a lucky time. ال tools لـ ذكاء اصطناعي assisted creativity are free و open source. We can use them الى craft a message, الى market it, الى print, mint, و wear whatever we shape من our imagination. في teams or على our own. We can give ابداعي works جديد uses, forms, و means من distribution, through virtual worlds و ال user owned سوشيال web."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We use these tools الى discover each other و what we have الى say."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s that desire لـ status, الى be different, الى look different, stand out, make more مع ال materials we have at hand that drives commerce. Seen لـ what they are, beyond ال noise و speculation, all arguments limiting ال spread من art reflect a fear our value will be lost somehow في ال process. That we won’t be valued, that our work won’t be valued. That we don’t know ازاي الى sell. و sales depend على creativity. It’s all ابداعي commerce."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up الى تاريخ مع Web3 فاشون:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "لينز"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الأساسي"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        }
+      ]
+    }
+  }
+}

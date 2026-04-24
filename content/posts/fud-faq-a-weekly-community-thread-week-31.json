@@ -1,0 +1,486 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-31",
+  "date": "2021-10-31",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 31",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 31"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/2560/0*8rMFtY4wptJpk5Yf.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When is governance starting for $MONA and Genesis MONA NFT holders for the first proposals?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The first governance utility for $MONA and Genesis MONA NFTs goes live next week! You can view the first two proposals on the governance forum at gov.digitalax.xyz and even begin proposing more initiatives under the four starting key verticals."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We are just finalising custom built strategies under our snapshot space before going live with full force."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Is Zuck a robot?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s so Meta…."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ZDnAa5Pd2kiDgwJ1aEg6XA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There was lots of action in DeFi this week— and most of it kicked off right after the very unfortunate $130m C.R.E.A.M. Finance hack. It’s the protocols third exploit in a short timeframe and a big blow for the entire space as this hack comes in as one of the largest in value for the DeFi community."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Following on from this, Twitter drama ensured between Yearn and AAVE, with Andre Cronje claiming that the same exploit could be carried out under AAVE’s contracts…. long story short there was a lot of below the belt back and forths between different members of the core teams, Justin Sun pulled out over $4 billion from AAVE, and a resulting governance vote to remove xSUSHI as a collateral option was passed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "However you want to look at it, building in DeFi is not easy and each day comes with its new set of challenges. One thing can be said about these events though, exposing a potential vulnerability to a Twitter audience instead of an appropriate back channel seems more likely to undermine us all. It’s better to serve the bigger picture and bury some of the animosity."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*6FZaPOw6UgBdrJEDGQ-ecg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ksD48RlrH3HZ9tTD9GFiTA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*RcczgaxXxsNGhPrW84Q9mA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*g_ESSk9zzKIWk76CHGN51Q.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I don’t think there has ever been a bigger troll or silly fail. Hands down Facebook and Zuckerberg earnt this badge with flying colors. And, in case you somehow missed the announcement about their name change to Meta, you can rewatch the entire performance below 🤢"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And, for those that thing we should respond to Zuck by changing how we reference or name the metaverse— whether that be ultraverse, hyperverse…. or something else— why would we even consider handing over terrain like that? Especially to a gatekeeping, bloodthirsty walled garden like Facebook and everything else around them. The metaverse is not owned by anyone, not one individual, group, company, corporate, it’s an immersive and persistent space which we all can access and be a part of owning."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Let’s keep building an open web3 metaverse. Because that’s the only one that makes any sense."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 31",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 31"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/2560/0*8rMFtY4wptJpk5Yf.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When is gobernanza starting para $MONA y Genesis MONA NFT holders para el first proposals?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el first gobernanza utility para $MONA y Genesis MONA NFTs goes live next semana! You can view el first two proposals en el gobernanza forum at gov.digitalax.xyz y even begin proposing more initiatives under el four starting key verticals."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We are just finalising custom built strategies under our snapshot space before going live con full force."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat pregunta"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Zuck es un robot?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Eso es muy Meta…"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ZDnAa5Pd2kiDgwJ1aEg6XA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies en el Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There was lots de action en DeFi this semana— y most de it kicked off right after el very unfortunate $130m C.R.E.A.M. Finance hack. It’s el protocols third exploit en a short timeframe y a big blow para el entire space as this hack comes en as one de el largest en value para el DeFi comunidad."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Following en de this, Twitter drama ensured between Yearn y AAVE, con Andre Cronje claiming that el same exploit could be carried out under AAVE’s contracts…. long story short there was a lot de below el belt back y forths between different members de el core teams, Justin Sun pulled out over $4 billion de AAVE, y a resulting gobernanza vote a remove xSUSHI as a collateral option was passed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "However you want a look at it, building en DeFi is not easy y each day comes con its nuevo set de challenges. One thing can be said about these events though, exposing a potential vulnerability a a Twitter audience instead de an appropriate back channel seems more likely a undermine us all. It’s better a serve el bigger picture y bury some de el animosity."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*6FZaPOw6UgBdrJEDGQ-ecg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ksD48RlrH3HZ9tTD9GFiTA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*RcczgaxXxsNGhPrW84Q9mA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*g_ESSk9zzKIWk76CHGN51Q.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I don’t think there has ever been a bigger troll or silly fail. Hands down Facebook y Zuckerberg earnt this badge con flying colors. y, en case you somehow missed el announcement about their name change a Meta, you can rewatch el entire performance below 🤢"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "y, para those that thing we should respond a Zuck by changing como we reference or name el metaverse— whether that be ultraverse, hyperverse…. or something else— por que would we even consider handing over terrain like that? Especially a a gatekeeping, bloodthirsty walled garden like Facebook y everything else around them. el metaverse is not owned by anyone, not one individual, group, company, corporate, it’s an immersive y persistent space which we all can access y be a part de owning."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Let’s keep building an open web3 metaverse. Because that’s el only one that makes any sense."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todo el FUD FAQ aquí."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 31",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 31"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/2560/0*8rMFtY4wptJpk5Yf.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When is حوكمة starting لـ $MONA و Genesis MONA NFT holders لـ ال first proposals?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال first حوكمة utility لـ $MONA و Genesis MONA NFTs goes live next اسبوع! You can view ال first two proposals على ال حوكمة forum at gov.digitalax.xyz و even begin proposing more initiatives under ال four starting key verticals."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We are just finalising custom built strategies under our snapshot space before going live مع full force."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat سؤال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "هو زوك روبوت؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "دي ميتا أوي…"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ZDnAa5Pd2kiDgwJ1aEg6XA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies في ال Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There was lots من action في DeFi this اسبوع— و most من it kicked off right after ال very unfortunate $130m C.R.E.A.M. Finance hack. It’s ال protocols third exploit في a short timeframe و a big blow لـ ال entire space as this hack comes في as one من ال largest في value لـ ال DeFi المجتمع."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Following على من this, Twitter drama ensured between Yearn و AAVE, مع Andre Cronje claiming that ال same exploit could be carried out under AAVE’s contracts…. long story short there was a lot من below ال belt back و forths between different members من ال core teams, Justin Sun pulled out over $4 billion من AAVE, و a resulting حوكمة vote الى remove xSUSHI as a collateral option was passed."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "However you want الى look at it, building في DeFi is not easy و each day comes مع its جديد set من challenges. One thing can be said about these events though, exposing a potential vulnerability الى a Twitter audience instead من an appropriate back channel seems more likely الى undermine us all. It’s better الى serve ال bigger picture و bury some من ال animosity."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*6FZaPOw6UgBdrJEDGQ-ecg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ksD48RlrH3HZ9tTD9GFiTA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*RcczgaxXxsNGhPrW84Q9mA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*g_ESSk9zzKIWk76CHGN51Q.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I don’t think there has ever been a bigger troll or silly fail. Hands down Facebook و Zuckerberg earnt this badge مع flying colors. و, في case you somehow missed ال announcement about their name change الى Meta, you can rewatch ال entire performance below 🤢"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "و, لـ those that thing we should respond الى Zuck by changing ازاي we reference or name ال metaverse— whether that be ultraverse, hyperverse…. or something else— ليه would we even consider handing over terrain like that? Especially الى a gatekeeping, bloodthirsty walled garden like Facebook و everything else around them. ال metaverse is not owned by anyone, not one individual, group, company, corporate, it’s an immersive و persistent space which we all can access و be a part من owning."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Let’s keep building an open web3 metaverse. Because that’s ال only one that makes any sense."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوفوا كل بوستات FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

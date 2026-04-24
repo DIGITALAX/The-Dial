@@ -1,0 +1,426 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-69",
+  "date": "2022-07-25",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 69",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 69"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Why did DIGITALAX release an updated Summer 2022 thesis?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bears bring the best time to build. Make sure to check it out here."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*SFm4Z8ngW-LqxhEw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s the latest this week on “what’s wrong with Elon?”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Looks like he burnt another major friendship. Does it explain why he has been even more headline grabbing than usual since Art Basel Miami last year? Who knows for sure— all that we can say is that there is a good chance that some new and salacious news will break pretty soon yet again."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s telling though isn’t it how much the lives of even the leaders of our most mythologised companies resemble a WW3 Soap Opera evermore by the day. It’s just another symptom of big tech servitude and the will of the new algorithmic Gods."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In this age of digital captivity, we all sink or swim according to the whims of unfathomable algorithmic gods."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Is there a way out? Yes, but we are going to have to hurry it up a bit and continue to build self sovereign tools and resources that compete head to head."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*vAnOdncRCyYkXYeT6Gdvgg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Just another troll by Microsoft to keep absolute control over what gamers can and can’t build, make and create. Whatever happened to the huge and vaunted pivot to open source?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Looks like Microsoft is still itching for another anti-trust."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*qwCIaIfYReFhAh6kALd7ug.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo comunitario semanal | Semana 69",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo comunitario semanal | Semana 69"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Por que DIGITALAX publico una tesis actualizada de Summer 2022?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "El mercado bajista trae el mejor momento para construir. Asegurate de revisarla aqui."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*SFm4Z8ngW-LqxhEw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta mas repetida"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Que hay de nuevo esta semana sobre \"que pasa con Elon\"?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Parece que quemo otra amistad importante. ¿Eso explica por que ha buscado aun mas titulares de lo normal desde Art Basel Miami del ano pasado? Nadie lo sabe con certeza, pero hay buenas probabilidades de que pronto vuelva a salir otra noticia escandalosa."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Es revelador ver como la vida de los lideres de las empresas mas mitificadas se parece cada vez mas a una telenovela de \"WW3\". Es otro sintoma de la servidumbre al big tech y de la voluntad de los nuevos dioses algoritmicos."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Controversias principales"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "En esta era de cautiverio digital, todas nos hundimos o flotamos segun los caprichos de dioses algoritmicos imposibles de comprender."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "¿Hay salida? Si, pero tenemos que acelerar y seguir construyendo herramientas y recursos soberanos que compitan cara a cara."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*vAnOdncRCyYkXYeT6Gdvgg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Otro troleo de Microsoft para mantener control absoluto sobre lo que las personas gamer pueden o no pueden construir y crear. ¿Que paso con aquel gran y presumido giro al open source?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Parece que Microsoft sigue buscando otro caso antimonopolio."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*qwCIaIfYReFhAh6kALd7ug.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todos los FUD FAQ aqui."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido para el articulo de la proxima semana, contactanos en el Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | الأسبوع 69",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | الأسبوع 69"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ليه DIGITALAX نزل Thesis محدث لصيف 2022؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "السوق الهابط هو أحسن وقت للبناء. اتأكد إنك تشوفه من هنا."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*SFm4Z8ngW-LqxhEw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر سؤال بيتكرر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إيه جديد الأسبوع ده في موضوع \"مال إيلون؟\""
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "واضح إنه خسر صداقة كبيرة جديدة. هل ده بيفسر ليه بقى بيخطف عناوين أكتر من المعتاد من وقت Art Basel Miami السنة اللي فاتت؟ محدش عارف أكيد، لكن المتوقع إن أخبار جديدة وساخنة هتطلع قريب جدًا تاني."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لكن واضح جدًا قد إيه حياة حتى قادة الشركات الأكثر أسطرة بقت شبه مسلسل WW3 كل يوم أكتر. ده مجرد عرض تاني لعبودية الـbig tech وإرادة آلهة الخوارزميات الجديدة."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم الجدالات"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في عصر الأسر الرقمي ده، كلنا بنغرق أو بننجو حسب مزاج آلهة خوارزمية مستحيل نفهمها بالكامل."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "هل في مخرج؟ أيوه، لكن لازم نسرّع شوية ونكمل بناء أدوات وموارد ذات سيادة تنافس مباشرة وجهًا لوجه."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*vAnOdncRCyYkXYeT6Gdvgg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "هفوات مضحكة وتروول"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مجرد تروول جديد من Microsoft علشان يفضل عندهم تحكم كامل في اللي الجيمرز يقدروا أو ما يقدروش يبنوه ويعملوه ويخلقوه. فين بقى التحول الضخم اللي كانوا بيتكلموا عنه ناحية open source؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "واضح إن Microsoft لسه نفسها في قضية احتكار جديدة."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*qwCIaIfYReFhAh6kALd7ug.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو عايز سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، كلّمنا على Discord بتاع DIGITALAX في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تويتر: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

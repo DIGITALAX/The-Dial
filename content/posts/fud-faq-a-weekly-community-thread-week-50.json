@@ -1,0 +1,471 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-50",
+  "date": "2022-03-13",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 50",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 50"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*o3ZLpOcOPJuT8SAa.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "As it feels like more of the economy and world are being concentrated and cut off by the hands of just a few people, what can we do long and short term to grow more self sovereign decentralised economic activity?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Whether it is Russian tanks on the assault isolating their own nation from the rest of the world, or, over zealous regulators throughout Europe and the US trying to limit domestic economic vibrancy at the worst possible time."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The best thing that any of us can do is to continue to create and support those most in harms way as much as possible. For the long term, that means decentralised factory production, both in the abstract factories as code sense, and, literally."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When will the Rarible integration be complete?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The team has been hard at work to re-engineer every part of the architecture required for integration right from the start of the grant process. There have been unexpected delays with Rarible needing to redeploy their Polygon smart contracts after an error was encountered, and then, with the entire Polygon network being a mix between down and far slower than usual over the past week."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Nonetheless, this coming up, we are expected to finalise the most critical parts of the integration and start testing and deploying with the first custom interfaces! This is super exciting and more will be shared soon!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No surprise that Yuga has revealed itself as yet another web2 corporate stooge in web3 clothing. The consolidation of “blue chip IP” bullshit is so far removed from the actual spirit, practice and promise of web3 that it is sad that so many fall for it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Look, we have nothing against trading cards, they can be super cool, but the entire point of web3, decentralisation, blockchain can easily be understood by anyone thinking back to why Vitalik was so pissed off that WoW nerfed the game and locked down control over player’s assets. The nostalgia effect only goes so far when it comes to the digital equivalent of pieces of paper with fun graphics on them."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "BAYC isn’t to be commended for doing the obvious move of giving Punk’s holders the limited rights that are only a little bit better than what Lava Labs granted them. It’s obvious that they only did that to gain perceived leverage in corporate controlled markets. Wouldn’t be shocking if the next announcement around the corner is BAYC being bought by Disney or some similar IP leviathan."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If it’s not CC0, it’s not your creative keys and it’s not courageous."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What would have been much cooler would have been for them to cc0 everything and focus relentlessly on providing greater genuine web3 enabled utility that supports directly other authentic builders and projects in the space."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*U9pLQIOndAaqLIB-pLGsQQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Next thing you know, these Apes are going to be saying that you need to show your papers please for buying mangoes at the local market. It shows how little they’ve ever known about NFTs, where they don’t understand that these are goods, nothing even remotely resembling securities."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Sophisticated debate about when it’s appropriate to engage in KYC/AML related to sanctions or actual complex financial instruments is only lessened when web2 tech bros flex their privilege to restrict the market activity of everyone else for even the most mundane of cultural exchange and basic goods and services."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*W1FK3U9ITn75ETyD7sCxkw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo semanal de la comunidad | Semana 50",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo semanal de la comunidad | Semana 50"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*o3ZLpOcOPJuT8SAa.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "A medida que parece que más partes de la economía y del mundo quedan concentradas y aisladas en manos de muy pocas personas, ¿qué podemos hacer a corto y largo plazo para hacer crecer una actividad económica descentralizada y soberana?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Ya sea por los tanques rusos atacando y aislando a su propia nación del resto del mundo, o por reguladores excesivos en Europa y EE. UU. intentando frenar la vitalidad económica local en el peor momento posible."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Lo mejor que podemos hacer es seguir creando y apoyar, tanto como podamos, a quienes están en mayor riesgo. A largo plazo, eso significa producción descentralizada en fábricas, tanto en el sentido abstracto de fábricas como código, como también en sentido literal."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta repetida más común"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cuándo estará completa la integración con Rarible?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "El equipo ha estado trabajando duro para reingenierizar cada parte de la arquitectura necesaria para la integración desde el inicio del proceso de grant. Hubo retrasos inesperados porque Rarible necesitó volver a desplegar sus smart contracts de Polygon tras encontrar un error, y además la red de Polygon estuvo entre caída y mucho más lenta de lo habitual durante la última semana."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Aun así, en los próximos días esperamos cerrar las partes más críticas de la integración y empezar pruebas y despliegues con las primeras interfaces personalizadas. ¡Es súper emocionante y pronto compartiremos más!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias de la industria"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No sorprende que Yuga se haya revelado como otro títere corporativo web2 con ropa web3. Esa consolidación de la \"IP blue chip\" está tan lejos del espíritu, la práctica y la promesa reales de web3 que da pena ver cuánta gente cae en eso."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Mira, no tenemos nada contra las trading cards, pueden ser muy buenas, pero todo el punto de web3, la descentralización y blockchain se entiende fácil si recuerdas por qué Vitalik se enfadó tanto cuando WoW nerfeó el juego y bloqueó el control de los activos de los jugadores. El efecto nostalgia llega solo hasta cierto punto cuando hablamos del equivalente digital a papeles con gráficos simpáticos."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No hay que felicitar a BAYC por hacer el movimiento obvio de dar a los holders de Punks derechos limitados apenas un poco mejores que los de Lava Labs. Es obvio que lo hicieron para ganar ventaja percibida en mercados controlados por corporaciones. No sería raro que el próximo anuncio sea BAYC comprado por Disney o por otro leviatán de IP similar."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Si no es CC0, no son tus llaves creativas y no hay valentía."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Lo mucho más interesante habría sido liberar todo como CC0 y enfocarse a fondo en ofrecer utilidad web3 auténtica que apoye directamente a otros builders y proyectos genuinos del espacio."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*U9pLQIOndAaqLIB-pLGsQQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y troleo"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Lo próximo será que estos Apes digan que hay que mostrar documentos para comprar mangos en el mercado del barrio. Eso demuestra lo poco que realmente entienden de NFTs: son bienes, no algo que se parezca remotamente a valores financieros."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "El debate serio sobre cuándo corresponde aplicar KYC/AML por sanciones o por instrumentos financieros complejos se degrada cuando los tech bros web2 usan su privilegio para restringir la actividad de mercado de todos los demás incluso para intercambios culturales básicos y bienes y servicios cotidianos."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*W1FK3U9ITn75ETyD7sCxkw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira aquí todos los FUD FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido al artículo de la próxima semana, escríbenos por nuestro servidor de Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Únete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 50",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 50"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*o3ZLpOcOPJuT8SAa.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "مع إحساس إن أجزاء أكبر من الاقتصاد والعالم بتتركز وبتتقفل بإيد عدد قليل جدًا من الناس، نقدر نعمل إيه على المدى القصير والطويل علشان نكبر نشاط اقتصادي لامركزي وسيادي؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "سواء كان ده بسبب الدبابات الروسية اللي بتهاجم وبتعزل بلدها عن باقي العالم، أو بسبب جهات تنظيمية مبالغ فيها في أوروبا وأمريكا بتحاول تحد من الحيوية الاقتصادية المحلية في أسوأ وقت ممكن."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أحسن حاجة نقدر نعملها كلنا هي إننا نكمل خلق وبناء، وندعم الناس الأكثر تعرضًا للخطر على قد ما نقدر. وعلى المدى الطويل ده معناه إنتاج لامركزي في المصانع، سواء بمعنى \"fatories as code\" أو حتى بشكل حرفي على الأرض."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر سؤال متكرر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إمتى دمج Rarible هيكون مكتمل؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الفريق شغال بقوة على إعادة هندسة كل جزء من المعمارية المطلوبة للدمج من أول لحظة في مسار الـ grant. حصلت تأخيرات غير متوقعة لأن Rarible احتاجت تعيد نشر Polygon smart contracts بعد خطأ ظهر، وكمان شبكة Polygon نفسها كانت بين توقّف وبطء أعلى من الطبيعي خلال الأسبوع اللي فات."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ومع كده، المتوقع خلال الفترة الجاية إننا نقفل أهم الأجزاء الحرجة في الدمج ونبدأ الاختبارات والنشر مع أول واجهات مخصصة. الموضوع حماسي جدًا، وتفاصيل أكتر قريب."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أبرز الجدل في المجال"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مش مفاجأة إن Yuga كشفت نفسها كواجهة corporates web2 بملابس web3. فكرة تجميع \"blue chip IP\" بعيدة جدًا عن روح web3 الحقيقية وممارستها ووعدها، وده محزن لأن ناس كتير بتقع فيها."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "بص، إحنا مش ضد trading cards، ممكن تكون لطيفة جدًا، لكن جوهر web3 واللامركزية والبلوكشين واضح لأي حد يفتكر ليه Vitalik اتضايق جدًا لما WoW nerf اللعبة وقفل تحكم اللاعبين في أصولهم. تأثير النوستالجيا له حدود، خصوصًا لما نتكلم عن النسخة الرقمية من ورق عليه رسومات ممتعة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "BAYC مش محتاجة تصفيق علشان عملت الحركة المتوقعة: ادت حاملي Punks حقوق محدودة أحسن بشوية صغيرة من اللي Lava Labs كانت مديّاهم. واضح إن الهدف كان كسب نفوذ متصور في أسواق محكومة corporately. ومش هيبقى غريب لو الإعلان الجاي يكون استحواذ Disney أو أي وحش IP مشابه على BAYC."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لو مش CC0، يبقى مش مفاتيحك الإبداعية ومش شجاعة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "اللي كان هيبقى أقوى بكتير إنهم يخلّوا كل حاجة CC0 ويركزوا بلا هوادة على تقديم utility web3 حقيقية تدعم مباشرة البنّائين والمشاريع الأصيلة في المساحة."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*U9pLQIOndAaqLIB-pLGsQQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إخفاقات عبثية وتريولنج"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "بعد شوية هتلاقي الـ Apes بيقولوا لازم توري ورقك علشان تشتري مانجا من السوق. ده بيوضح قد إيه فهمهم للـ NFTs محدود: دي سلع، مش حاجة شبه الأوراق المالية حتى من بعيد."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "النقاش الجاد عن إمتى يكون KYC/AML مناسب في سياق العقوبات أو الأدوات المالية المعقدة بيتشوّه لما tech bros بتوع web2 يستخدموا امتيازهم علشان يقيّدوا حركة السوق للناس كلها، حتى في أبسط تبادلات ثقافية وسلع وخدمات يومية."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*W1FK3U9ITn75ETyD7sCxkw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو حابب سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، تواصل معانا من خلال سيرفر DIGITALAX على Discord في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

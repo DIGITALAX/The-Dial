@@ -1,0 +1,441 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-39",
+  "date": "2021-12-27",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 39",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 39"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*prk8LmuqNg3DxepM.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When will $W3F rewards start distribution?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "They will start this week through both the $MONA Staking platform , $W3F Staking platform , and also through The DLTA System. For the full distribution schedule and also utility of $W3F please see here and here ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This is the very first multi-token deposits under the new staking contracts and is also the second dedicated web3 fashion token to come into the ecosystem and web3 in general. Huge next exciting steps, especially in combination with the Patrons platform and also Collector DAO formations (More info on this coming soon!)."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Will governance be live this week?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Governance voting will be on hiatus for this coming week given that it is the holiday period and many of the community is active IRL with Christmas and New Year related events, thus voting is significantly down, as we saw from last weeks Snapshot proposals 😳"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We will resume governance voting this time next week and also be introducing a new governance initiative with the launch of the Collector DAO platform, dedicated to the Indie Web3 Fashion Ecosystem. Stay Tuned!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "$SOS token was made claimable to all Opensea platform buyers on Christmas Eve overnight, filling people’s Christmas stockings with an unexpected surprise. It’s an interesting move by The Open DAO— in terms of marketing, it certainly got a huge amount of attention, with the DAO’s Twitter amassing over 70,000 followers in just 24 hrs, now it’s over 100,000."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Whether the team will rug pull or not, remains to be seen… but there certainly are a few red flags. See the thread below 👇"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*L6vjiSRHktFGlA-J9mXung.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s really nothing new, just history repeating itself once again, when you first start something that is slightly left afield, they all mock you and call you fake, a scammer, and an infinite variety of other ways of saying that you are a “threat to their incumbency”."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Sometimes, it’s best to just wait it out, and let them see it when the rest of the world does. We can’t all be early."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Other times, it’s best to call them out in Fud Faq and laugh about how ridiculous they are. 😆"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*z4XAnQ13yp7HpU2gr8HnHg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 39",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 39"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*prk8LmuqNg3DxepM.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cuándo empieza la distribución de recompensas $W3F?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "They will start this semana through both el $MONA Staking platform , $W3F Staking platform , y also through el DLTA System. para el full distribution schedule y also utility de $W3F please see here y here ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This is el very first multi-token deposits under el nuevo staking contracts y is also el second dedicated web3 moda token a come into el ecosistema y web3 en general. Huge next exciting steps, especially en combination con el Patrons platform y also Collector DAO formations (More info en this coming soon!)."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat pregunta"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Will gobernanza be live this semana?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "gobernanza voting will be en hiatus para this coming semana given that it is el holiday period y many de el comunidad is active IRL con Christmas y nuevo Year related events, thus voting is significantly down, as we saw de last weeks Snapshot proposals 😳"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We will resume gobernanza voting this time next semana y also be introduciendo a nuevo gobernanza initiative con el launch de el Collector DAO platform, dedicated a el Indie Web3 moda ecosistema. Stay Tuned!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies en el Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "$SOS token was made claimable a all Opensea platform buyers en Christmas Eve overnight, filling people’s Christmas stockings con an unexpected surprise. It’s an interesting move by el Open DAO— en terms de marketing, it certainly got a huge amount de attention, con el DAO’s Twitter amassing over 70,000 followers en just 24 hrs, now it’s over 100,000."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Whether el team will rug pull or not, remains a be seen… but there certainly are a few red flags. See el hilo below 👇"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*L6vjiSRHktFGlA-J9mXung.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s really nothing nuevo, just history repeating itself once again, when you first start something that is slightly left afield, they all mock you y call you fake, a scammer, y an infinite variety de other ways de saying that you are a “threat a their incumbency”."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Sometimes, it’s best a just wait it out, y let them see it when el rest de el world does. We can’t all be early."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Other times, it’s best a call them out en Fud Faq y laugh about como ridiculous they are. 😆"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*z4XAnQ13yp7HpU2gr8HnHg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todo el FUD FAQ aquí."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX Discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 39",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 39"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*prk8LmuqNg3DxepM.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إمتى توزيع مكافآت $W3F يبدأ؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "They will start this اسبوع through both ال $MONA Staking platform , $W3F Staking platform , و also through ال DLTA System. لـ ال full distribution schedule و also utility من $W3F please see here و here ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This is ال very first multi-token deposits under ال جديد staking contracts و is also ال second dedicated web3 فاشون token الى come into ال النظام و web3 في general. Huge next exciting steps, especially في combination مع ال Patrons platform و also Collector DAO formations (More info على this coming soon!)."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat سؤال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Will حوكمة be live this اسبوع?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "حوكمة voting will be على hiatus لـ this coming اسبوع given that it is ال holiday period و many من ال المجتمع is active IRL مع Christmas و جديد Year related events, thus voting is significantly down, as we saw من last weeks Snapshot proposals 😳"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We will resume حوكمة voting this time next اسبوع و also be تقديم a جديد حوكمة initiative مع ال launch من ال Collector DAO platform, dedicated الى ال Indie Web3 فاشون النظام. Stay Tuned!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies في ال Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "$SOS token was made claimable الى all Opensea platform buyers على Christmas Eve overnight, filling people’s Christmas stockings مع an unexpected surprise. It’s an interesting move by ال Open DAO— في terms من marketing, it certainly got a huge amount من attention, مع ال DAO’s Twitter amassing over 70,000 followers في just 24 hrs, now it’s over 100,000."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Whether ال team will rug pull or not, remains الى be seen… but there certainly are a few red flags. See ال ثريد below 👇"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*L6vjiSRHktFGlA-J9mXung.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s really nothing جديد, just history repeating itself once again, when you first start something that is slightly left afield, they all mock you و call you fake, a scammer, و an infinite variety من other ways من saying that you are a “threat الى their incumbency”."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Sometimes, it’s best الى just wait it out, و let them see it when ال rest من ال world does. We can’t all be early."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Other times, it’s best الى call them out في Fud Faq و laugh about ازاي ridiculous they are. 😆"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*z4XAnQ13yp7HpU2gr8HnHg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX Discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

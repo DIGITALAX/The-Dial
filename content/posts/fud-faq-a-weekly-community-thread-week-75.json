@@ -1,0 +1,546 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-75",
+  "date": "2022-09-12",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 75",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 75"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Move the most obvious sources of confusion, or FUD, out of the way. Whether we agree or not on what they are, just focus on this: Human communication is hard. Add beyond that, machine to machine is …an entirely new story. Hard doesn’t begin to describe it. Sure, you might say, but what can you do with that? How is it relevant to what we’re doing here and now? That’s not a bad question, exactly, but a more timely and valuable one would be: What’s a surprisingly common thread that brings together everything we find most worth researching, building on // for, and quickly advancing here today?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Synthesis."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At the edge of where open source engineering, intuitive design, universal access to local microfactory manufacturing, composable instructional material and pattern libraries, maps adaptive to a new age where IRL & virtuality become ever more closely integrated, turnkey decentralized commerce, and every other enhancement brought about by web3 blend seamlessly together."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’ve seen the first impressive hint in the 3 weeks since the public release of Stable Diffusion of just what machines we can communicate with beyond a breakthough level of coherence are capable of. Suddenly the art of poet-like prompt engineer — of being good, really good, at textual conversation with subtle diffusion machines — is the clearest candidate for most in demand profession of this decade and beyond. Instead of aspiring to be a euphemistic “codetalker”, we all quickly now literally talk with models made from code to produce stunning results."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It can be hard also to tell when a fast spreading story of new tools and practices are really a breakthrough that simplifies understanding and strengthens the usefulness of multiple related areas of promise, or if it’s just exhuberance for a future that is still much farther ahead."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What’s so different with image synthesis in general is how straightfoward it is for you to put it to the test and do it, or to some extent decentraliize it, yourself. Read up on the most recent colab notebooks to run, read the issues on open source repos about how to get diffusion models running on your local M1, share prompts, modifiers, weights, hits and misses from your outputs, and more in many community discords to choose from, tinker and build on it all yourself."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "For the DIGITALAX ecoystem that means a continued emphasis on the integration of web3 tooling, a DIY ethos, and statement making web3 fashion through increasing use of image synthesis for every stage of collection, creation, use, manufacturing, distribution, and beyond."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Coming up we will see the release of substantial updates to;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "the flagship DIGITALAX home site,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "a DIY synthesis community research hub (DIYSynth),"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "synthesis enabled decentralized social media tooling (InariSynth),"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "and a detailed look at the role W3F and other ecosystem tokens perform as we advance on the path towards machine to machine synth w/ token auth & DIY compute APIs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With synthesis, like the coming merge, the common thread is how fast and powerfully it’s all coming together."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Wen merge?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This has been a repeat question for so long that many of us wondered if the day would every truly come. Wonder no more. Google even made a countdown clock because we’re finally here."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The ever more decentralized world will never be the same. 🎉"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Only thing “controversial” about the latest update on Tornado Cash is how those responsible at Treasury thought they were justified in applying sanctions against code, infringing on freedom of speech, and spreading a chilling effect to everything and everyone caught up in this guilt by association dragnet. Looking forward to a lot more like this coordinated web3 industry response:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://www.cnbc.com/2022/09/08/coinbase-bankrolls-suit-against-treasury-department-following-tornado-cash-sanctions.html"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Not exactly a silly fail… more of an almost too perfect web3 open source dev meme…"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*KbPOY2viNpSNMluSyVgltA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "See More Across Our Official Channels;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Transparency Reports"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Youtube"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Blog"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 75",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 75"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Move el most obvious sources de confusion, or FUD, out de el way. Whether we agree or not en what they are, just focus en this: Human communication is hard. Add beyond that, machine a machine is …an entirely nuevo story. Hard doesn’t begin a describe it. Sure, you might say, but what can you do con that? como is it relevant a what we’re doing here y now? That’s not a bad pregunta, exactly, but a more timely y valuable one would be: What’s a surprisingly common hilo that brings together everything we find most worth researching, building en // para, y quickly advancing here today?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Síntesis."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At el edge de where open source engineering, intuitive design, universal access a local microfactory manufacturing, composable instructional material y pattern libraries, maps adaptive a a nuevo age where IRL & virtuality become ever more closely integrated, turnkey decentralized commerce, y every other enhancement brought about by web3 blend seamlessly together."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’ve seen el first impressive hint en el 3 weeks since el public release de Stable Diffusion de just what machines we can communicate con beyond a breakthough level de coherence are capable de. Suddenly el art de poet-like prompt engineer — de being good, really good, at textual conversation con subtle diffusion machines — is el clearest candidate para most en demand profession de this decade y beyond. Instead de aspiring a be a euphemistic “codetalker”, we all quickly now literally talk con models made de code a produce stunning results."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It can be hard also a tell when a fast spreading story de nuevo tools y practices are really a breakthrough that simplifies understanding y strengthens el usefulness de multiple related areas de promise, or if it’s just exhuberance para a future that is still much farther ahead."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What’s so different con image synthesis en general is como straightfoward it is para you a put it a el test y do it, or a some extent decentraliize it, yourself. Read up en el most recent colab notebooks a run, read el issues en open source repos about como a get diffusion models running en your local M1, share prompts, modifiers, weights, hits y misses de your outputs, y more en many comunidad discords a choose de, tinker y build en it all yourself."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "para el DIGITALAX ecoystem that means a continued emphasis en el integration de web3 tooling, a DIY ethos, y statement making web3 moda through increasing use de image synthesis para every stage de collection, creation, use, manufacturing, distribution, y beyond."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Coming up we will see el release de substantial actualizaciones a;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "el flagship DIGITALAX home site,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "a DIY synthesis comunidad research hub (DIYSynth),"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "síntesis habilitó herramientas descentralizadas para redes sociales (InariSynth),"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "y a detailed look at el role W3F y other ecosistema tokens perform as we advance en el path towards machine a machine synth w/ token auth & DIY compute APIs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "con synthesis, like el coming merge, el common hilo is como fast y powerfully it’s all coming together."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat pregunta"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cuándo merge?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This has been a repeat pregunta para so long that many de us wondered if el day would every truly come. Wonder no more. Google even made a countdown clock because we’re finally here."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el ever more decentralized world will never be el same. 🎉"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Only thing “controversial” about el latest actualizacion en Tornado Cash is como those responsible at Treasury thought they were justified en applying sanctions against code, infringing en freedom de speech, y spreading a chilling effect a everything y everyone caught up en this guilt by association dragnet. Looking forward a a lot more like this coordinated web3 industry response:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://www.cnbc.com/2022/09/08/coinbase-bankrolls-suit-against-treasury-department-following-tornado-cash-sanctions.html"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Not exactly a silly fail… more de an almost too perfect web3 open source dev meme…"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*KbPOY2viNpSNMluSyVgltA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todo el FUD FAQ aquí."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX Discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira más en nuestros canales oficiales:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentación"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Preguntas FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Informes de transparencia"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "YouTube"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Blog"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 75",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 75"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Move ال most obvious sources من confusion, or FUD, out من ال way. Whether we agree or not على what they are, just focus على this: Human communication is hard. Add beyond that, machine الى machine is …an entirely جديد story. Hard doesn’t begin الى describe it. Sure, you might say, but what can you do مع that? ازاي is it relevant الى what we’re doing here و now? That’s not a bad سؤال, exactly, but a more timely و valuable one would be: What’s a surprisingly common ثريد that brings together everything we find most worth researching, building على // لـ, و quickly advancing here today?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "تركيب."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At ال edge من where open source engineering, intuitive design, universal access الى local microfactory manufacturing, composable instructional material و pattern libraries, maps adaptive الى a جديد age where IRL & virtuality become ever more closely integrated, turnkey decentralized commerce, و every other enhancement brought about by web3 blend seamlessly together."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’ve seen ال first impressive hint في ال 3 weeks since ال public release من Stable Diffusion من just what machines we can communicate مع beyond a breakthough level من coherence are capable من. Suddenly ال art من poet-like prompt engineer — من being good, really good, at textual conversation مع subtle diffusion machines — is ال clearest candidate لـ most في demand profession من this decade و beyond. Instead من aspiring الى be a euphemistic “codetalker”, we all quickly now literally talk مع models made من code الى produce stunning results."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It can be hard also الى tell when a fast spreading story من جديد tools و practices are really a breakthrough that simplifies understanding و strengthens ال usefulness من multiple related areas من promise, or if it’s just exhuberance لـ a future that is still much farther ahead."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What’s so different مع image synthesis في general is ازاي straightfoward it is لـ you الى put it الى ال test و do it, or الى some extent decentraliize it, yourself. Read up على ال most recent colab notebooks الى run, read ال issues على open source repos about ازاي الى get diffusion models running على your local M1, share prompts, modifiers, weights, hits و misses من your outputs, و more في many المجتمع discords الى choose من, tinker و build على it all yourself."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لـ ال DIGITALAX ecoystem that means a continued emphasis على ال integration من web3 tooling, a DIY ethos, و statement making web3 فاشون through increasing use من image synthesis لـ every stage من collection, creation, use, manufacturing, distribution, و beyond."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Coming up we will see ال release من substantial تحديثات الى;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ال flagship DIGITALAX home site,"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "a DIY synthesis المجتمع research hub (DIYSynth),"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "synthesis enabled decentralized سوشيال media tooling (InariSynth),"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "و a detailed look at ال role W3F و other النظام tokens perform as we advance على ال path towards machine الى machine synth w/ token auth & DIY compute APIs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع synthesis, like ال coming merge, ال common ثريد is ازاي fast و powerfully it’s all coming together."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat سؤال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إمتى الـ merge؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This has been a repeat سؤال لـ so long that many من us wondered if ال day would every truly come. Wonder no more. Google even made a countdown clock because we’re finally here."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال ever more decentralized world will never be ال same. 🎉"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم الجدل"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Only thing “controversial” about ال latest تحديث على Tornado Cash is ازاي those responsible at Treasury thought they were justified في applying sanctions against code, infringing على freedom من speech, و spreading a chilling effect الى everything و everyone caught up في this guilt by association dragnet. Looking forward الى a lot more like this coordinated web3 industry response:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://www.cnbc.com/2022/09/08/coinbase-bankrolls-suit-against-treasury-department-following-tornado-cash-sanctions.html"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Not exactly a silly fail… more من an almost too perfect web3 open source dev meme…"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*KbPOY2viNpSNMluSyVgltA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX Discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوفوا أكتر عبر قنواتنا الرسمية:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "أسئلة FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تقارير الشفافية"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "يوتيوب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "المدونة"
+        }
+      ]
+    }
+  }
+}

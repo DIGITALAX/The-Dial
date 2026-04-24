@@ -1,0 +1,426 @@
+{
+  "slug": "from-defi-to-lofi-dial-in-to-ai-interfaces-for-the-infinite-record-store",
+  "date": "2022-11-28",
+  "translations": {
+    "en": {
+      "title": "From DeFi to LoFi | Dial in to AI interfaces for the infinite record store",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "From DeFi to LoFi | Dial in to AI interfaces for the infinite record store"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*pInZRb0pAlYuxqjEv_lilw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Will what comes next look much like what we’ve long grown to expect?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At the rate of change brought on by AI creative tools and interconnected seismic economic shifts, it seems very unlikely. We’re dialed in for an exponential climb."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*gih6dBKX73CYE27UNhLdHA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And, despite how rough 2022 has been for the old big tech platforms and centralized finance, it’s still very clear we’re in the early part of this curve."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Where we store records of our messages and content, whether we self-custody, even how we communicate day to day — it’s all on the cusp."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Collapse, jump ship, or change."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If the CeFi masquerading as DeFi farce has taught users much, it’s that creation is infinitely better than AUM + speculation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Social is the new social, user owned this time."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Everyone is leaving twitter, Mastodon isn’t interesting enough, and we’re all looking for something better than just another Instagram clone. A way to be more real about the process behind what we create. We number in the billions now."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "TheDial.xyz is a new decentralised social media platform launching within the DIGITALAX ecosystem. A public, private, and personal social canvas where you can"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "save inspiration and notes from your timeline / graph"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "use AI to publish more interesting text, images, and textiles"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "collect and evolve creative drafts to earn GPU credits and grow your audience funnel"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can think of it as a streamlined mix between the best features of Figma, Evernote, and Tumblr."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "An ever-evolving canvas you can use with friends."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s not just for web3 fashion. Although of course, that’s a major focus."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Creativity starts somewhere unique for everyone. We’re working closely with the Lens team to build an AI enhanced social interface that keeps better public memory and streamlines the inspiration-to-realization process, for the most all-inclusive creative fields first."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you aren’t already on lens, you can join the waitlist at thedial.xyz"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Dev work is starting now and the next update will drop in about 2 weeks. In the meantime, look forward to the imminent release of DIGIFIZZY Vol. 2 this month."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up to Date with Web3 Fashion:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Flagship"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        }
+      ]
+    },
+    "es": {
+      "title": "de DeFi a LoFi | Dial en a ia interfaces para el infinite record store",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "de DeFi a LoFi | Dial en a ia interfaces para el infinite record store"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*pInZRb0pAlYuxqjEv_lilw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Will what comes next look much like what we’ve long grown a expect?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At el rate de change brought en by ia creativo tools y interconnected seismic economic shifts, it seems very unlikely. We’re dialed en para an exponential climb."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*gih6dBKX73CYE27UNhLdHA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "y, despite como rough 2022 has been para el old big tech platforms y centralized finance, it’s still very clear we’re en el early part de this curve."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Where we store records de our messages y content, whether we self-custody, even como we communicate day a day — it’s all en el cusp."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Colapsar, abandonar el barco o cambiar."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If el CeFi masquerading as DeFi farce has taught users much, it’s that creation is infinitely better than AUM + speculation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "social is el nuevo social, user owned this time."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Everyone is leaving twitter, Mastodon isn’t interesting enough, y we’re all looking para something better than just another Instagram clone. A way a be more real about el process behind what we create. We number en el billions now."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "TheDial.xyz is a nuevo decentralised social media platform launching within el DIGITALAX ecosistema. A public, private, y personal social canvas where you can"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "save inspiration y notes de your timeline / graph"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "use ia a publish more interesting text, images, y textiles"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "collect y evolve creativo drafts a earn GPU credits y grow your audience funnel"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can think de it as a streamlined mix between el best features de Figma, Evernote, y Tumblr."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "An ever-evolving canvas you can use con friends."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s not just para web3 moda. Although de course, that’s a major focus."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Creativity starts somewhere unique para everyone. We’re working closely con el lens team a build an ia enhanced social interface that keeps better public memory y streamlines el inspiration-a-realization process, para el most all-inclusive creativo fields first."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you aren’t already en lens, you can join el waitlist at thedial.xyz"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Dev work is starting now y el next actualizacion will drop en about 2 weeks. en el meantime, look forward a el imminent release de DIGIFIZZY Vol. 2 this month."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up a fecha con Web3 moda:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Principal"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentación"
+        }
+      ]
+    },
+    "ar": {
+      "title": "من DeFi الى LoFi | Dial في الى ذكاء اصطناعي interfaces لـ ال infinite record store",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "من DeFi الى LoFi | Dial في الى ذكاء اصطناعي interfaces لـ ال infinite record store"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*pInZRb0pAlYuxqjEv_lilw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Will what comes next look much like what we’ve long grown الى expect?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At ال rate من change brought على by ذكاء اصطناعي ابداعي tools و interconnected seismic economic shifts, it seems very unlikely. We’re dialed في لـ an exponential climb."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*gih6dBKX73CYE27UNhLdHA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "و, despite ازاي rough 2022 has been لـ ال old big tech platforms و centralized finance, it’s still very clear we’re في ال early part من this curve."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Where we store records من our messages و content, whether we self-custody, even ازاي we communicate day الى day — it’s all على ال cusp."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "تنهار، أو تنط من المركب، أو تغيّر."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If ال CeFi masquerading as DeFi farce has taught users much, it’s that creation is infinitely better than AUM + speculation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "سوشيال is ال جديد سوشيال, user owned this time."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Everyone is leaving twitter, Mastodon isn’t interesting enough, و we’re all looking لـ something better than just another Instagram clone. A way الى be more real about ال process behind what we create. We number في ال billions now."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "TheDial.xyz is a جديد decentralised سوشيال media platform launching within ال DIGITALAX النظام. A public, private, و personal سوشيال canvas where you can"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "save inspiration و notes من your timeline / graph"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "use ذكاء اصطناعي الى publish more interesting text, images, و textiles"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "collect و evolve ابداعي drafts الى earn GPU credits و grow your audience funnel"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can think من it as a streamlined mix between ال best features من Figma, Evernote, و Tumblr."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "An ever-evolving canvas you can use مع friends."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s not just لـ web3 فاشون. Although من course, that’s a major focus."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Creativity starts somewhere unique لـ everyone. We’re working closely مع ال لينز team الى build an ذكاء اصطناعي enhanced سوشيال interface that keeps better public memory و streamlines ال inspiration-الى-realization process, لـ ال most all-inclusive ابداعي fields first."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you aren’t already على لينز, you can join ال waitlist at thedial.xyz"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Dev work is starting now و ال next تحديث will drop في about 2 weeks. في ال meantime, look forward الى ال imminent release من DIGIFIZZY Vol. 2 this month."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up الى تاريخ مع Web3 فاشون:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "لينز"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الأساسي"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        }
+      ]
+    }
+  }
+}

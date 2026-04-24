@@ -1,0 +1,501 @@
+{
+  "slug": "community-updates-for-the-fall-fashion-season",
+  "date": "2022-10-14",
+  "translations": {
+    "en": {
+      "title": "Community Updates for the Fall Fashion Season",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Community Updates for the Fall Fashion Season"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*63qSaQsBF7k34z0wphRDRg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Why do we do the work that we do?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "How does a creator sell web3 fashion when market noise is expanding as fast as new open diffusion models are bringing down barriers to popular creative prompting, open source design tools, micro-manufacturing and distribution?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Why fashion? Why web3?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Are AI art and open synth models good for fashion?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What really are NFTs anyway?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Look back at recent deeper thoughts on this here."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*NnB5CO_bfBP7SBybZyal3w.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As we enter into fall, we have been working simultaneously to rebuild the realms contracts post merge, more modular micro-interfaces, open source community research/decentralise-it-yourself features, and a new realms marketplace aggregator and NFT indexer. Greater realms integration with mini-maps for virtual, latent and IRL spaces are also in the works."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "For the value of the one open metaverse, many decentralized realms blueprint to fully breakout above wider market trends, realms contracts are in need of a refactoring, with an eye towards integration of new features and lightweight default frontend themes."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s why in the past month, we entered solo into ETHGlobal with Inari Synth (finishing as 1 of 14 finalists, out of 1700 hackers), a live dApp showing how much cooler Lens and Stable Diffusion are when they work together."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Further, as part of a broader push to highlight the best open source community research in image synthesis and web3, we put out the first version of DIY Synth ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We have released V1 of Simulacra — a NextJS, Typescript, and Tailwind theme that can flexibly integrate NFTs from a multitude of marketplaces and contracts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These updates each serve as a key part of the foundation for the DIGITALAX marketplace and realms refactor."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We are also highlighting the release of web3 fashion collections making active use of image synthesis, starting with how we are doing it ourselves, like The Various Chances and Lens Culinaris State of Mind , from the F3M Realm."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "- Open source zero waste pattern engineering Blender plugin - Machine learning fashion segmentation notebook - Local notebooks and model training for fashion synthesis - DIGITALAX flagship upgraded interface - Realms upgraded interfaces - Updated governance and key-based staking contracts"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A key part of what’s active in the dev pipeline is a different take on how marketplace aggregation and NFT indexing works. We’re not convinced Open Sea, Coinbase NFT and SudoSwap are leading the industry in the right direction, which naturally will be one where open source protocols, DIY interfaces, and APIs for self sovereign social mobility and unlimited creativity win out."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*AFW9QjxSCul4JK4-dgkeWA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*1P6pzMCh4nzDXyh35KBtpQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*3ixA-Lzw-qN_eWxu-2nsjA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*cuUewl2gXKAh_dHSvnFhtw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*jZISqJJzR50FpDN0Swmv_A.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*zPyw5bUz6uvehd0UREjd9g.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bull or bear, it’s clear there is a lot in the works."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up to Date with Web3 Fashion:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Flagship"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Transparency Reports"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Blog"
+        }
+      ]
+    },
+    "es": {
+      "title": "Actualizaciones de la comunidad para el Fall moda Season",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Actualizaciones de la comunidad para el Fall moda Season"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*63qSaQsBF7k34z0wphRDRg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "por que do we do el work that we do?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "como does a creator sell web3 moda when market noise is expanding as fast as nuevo open diffusion models are bringing down barriers a popular creativo prompting, open source design tools, micro-manufacturing y distribution?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "por que moda? por que web3?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Are ia art y open synth models good para moda?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "¿Qué son realmente los NFTs, al final?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Look back at recent deeper thoughts en this here."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*NnB5CO_bfBP7SBybZyal3w.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As we enter into fall, we have been working simultaneously a rebuild el realms contracts publicacion merge, more modular micro-interfaces, open source comunidad research/decentralise-it-yourself features, y a nuevo realms marketplace aggregator y NFT indexer. Greater realms integration con mini-maps para virtual, latent y IRL spaces are also en el works."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "para el value de el one open metaverse, many decentralized realms blueprint a fully breakout above wider market trends, realms contracts are en need de a refactoring, con an eye towards integration de nuevo features y lightweight default frontend themes."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s por que en el past month, we entered solo into ETHGlobal con Inari Synth (finishing as 1 de 14 finalists, out de 1700 hackers), a live dApp showing como much cooler lens y Stable Diffusion are when they work together."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Further, as part de a broader push a highlight el best open source comunidad research en image synthesis y web3, we put out el first version de DIY Synth ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We have released V1 de Simulacra — a NextJS, Typescript, y Tailwind theme that can flexibly integrate NFTs de a multitude de marketplaces y contracts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These actualizaciones each serve as a key part de el foundation para el DIGITALAX marketplace y realms refactor."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We are also highlighting el release de web3 moda collections making active use de image synthesis, starting con como we are doing it ourselves, like el Various Chances y lens Culinaris State de Mind , de el F3M Realm."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "- Open source zero waste pattern engineering Blender plugin - Machine learning moda segmentation notebook - Local notebooks y model training para moda synthesis - DIGITALAX flagship upgraded interface - Realms upgraded interfaces - Updated gobernanza y key-based staking contracts"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A key part de what’s active en el dev pipeline is a different take en como marketplace aggregation y NFT indexing works. We’re not convinced Open Sea, Coinbase NFT y SudoSwap are leading el industry en el right direction, which naturally will be one where open source protocols, DIY interfaces, y APIs para self sovereign social mobility y unlimited creativity win out."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*AFW9QjxSCul4JK4-dgkeWA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*1P6pzMCh4nzDXyh35KBtpQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*3ixA-Lzw-qN_eWxu-2nsjA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*cuUewl2gXKAh_dHSvnFhtw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*jZISqJJzR50FpDN0Swmv_A.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*zPyw5bUz6uvehd0UREjd9g.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bull or bear, it’s clear there is a lot en el works."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up a fecha con Web3 moda:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Principal"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentación"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Preguntas FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Informes de transparencia"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Blog"
+        }
+      ]
+    },
+    "ar": {
+      "title": "تحديثات المجتمع لـ ال Fall فاشون Season",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "تحديثات المجتمع لـ ال Fall فاشون Season"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*63qSaQsBF7k34z0wphRDRg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ليه do we do ال work that we do?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ازاي does a creator sell web3 فاشون when market noise is expanding as fast as جديد open diffusion models are bringing down barriers الى popular ابداعي prompting, open source design tools, micro-manufacturing و distribution?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ليه فاشون? ليه web3?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Are ذكاء اصطناعي art و open synth models good لـ فاشون?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "هي الـNFTs أصلًا إيه بالظبط؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Look back at recent deeper thoughts على this here."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*NnB5CO_bfBP7SBybZyal3w.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As we enter into fall, we have been working simultaneously الى rebuild ال realms contracts بوست merge, more modular micro-interfaces, open source المجتمع research/decentralise-it-yourself features, و a جديد realms marketplace aggregator و NFT indexer. Greater realms integration مع mini-maps لـ virtual, latent و IRL spaces are also في ال works."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لـ ال value من ال one open metaverse, many decentralized realms blueprint الى fully breakout above wider market trends, realms contracts are في need من a refactoring, مع an eye towards integration من جديد features و lightweight default frontend themes."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s ليه في ال past month, we entered solo into ETHGlobal مع Inari Synth (finishing as 1 من 14 finalists, out من 1700 hackers), a live dApp showing ازاي much cooler لينز و Stable Diffusion are when they work together."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Further, as part من a broader push الى highlight ال best open source المجتمع research في image synthesis و web3, we put out ال first version من DIY Synth ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We have released V1 من Simulacra — a NextJS, Typescript, و Tailwind theme that can flexibly integrate NFTs من a multitude من marketplaces و contracts."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These تحديثات each serve as a key part من ال foundation لـ ال DIGITALAX marketplace و realms refactor."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We are also highlighting ال release من web3 فاشون collections making active use من image synthesis, starting مع ازاي we are doing it ourselves, like ال Various Chances و لينز Culinaris State من Mind , من ال F3M Realm."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "- Open source zero waste pattern engineering Blender plugin - Machine learning فاشون segmentation notebook - Local notebooks و model training لـ فاشون synthesis - DIGITALAX flagship upgraded interface - Realms upgraded interfaces - Updated حوكمة و key-based staking contracts"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A key part من what’s active في ال dev pipeline is a different take على ازاي marketplace aggregation و NFT indexing works. We’re not convinced Open Sea, Coinbase NFT و SudoSwap are leading ال industry في ال right direction, which naturally will be one where open source protocols, DIY interfaces, و APIs لـ self sovereign سوشيال mobility و unlimited creativity win out."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*AFW9QjxSCul4JK4-dgkeWA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*1P6pzMCh4nzDXyh35KBtpQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*3ixA-Lzw-qN_eWxu-2nsjA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*cuUewl2gXKAh_dHSvnFhtw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*jZISqJJzR50FpDN0Swmv_A.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*zPyw5bUz6uvehd0UREjd9g.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bull or bear, it’s clear there is a lot في ال works."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up الى تاريخ مع Web3 فاشون:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الأساسي"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "أسئلة FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تقارير الشفافية"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "المدونة"
+        }
+      ]
+    }
+  }
+}

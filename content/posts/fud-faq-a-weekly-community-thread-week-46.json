@@ -1,0 +1,396 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-46",
+  "date": "2022-02-13",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 46",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 46"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*SPl0gev1PpF3j_Nf.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "How did the first web3 fashion metaverse Realm Runway show go?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Wow. Where to even start! The entire night was a huge success and such an incredible honour for us to make manifest. The gathering of so much creative talent across diverse types of skills, life experiences and ambitions is always catalytic, but this time was something truly special. And to top it all off, it was pulled together in less than 3 weeks."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "There are so many more events + creative experiences to come. Stay tuned as we get ready for the next one + the details on the upcoming Web3 Fashion Week!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "How do creators new to web3 set themselves on the path to create sustainable wealth through NFTs and beyond?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It always takes time. And, anyone coming into web3 or NFTs that has the misconception of it being an instant lottery ticket— quick word of advice, go back and do more of your own research. The more prepared you are, the more time that you put in to building up skills, what distinguishes your story from others, and the community of people that will become your most loyal and supportive collectors, the sooner that you will have reliable success and the ability to go full time. Despite all of the hype and the impressions that might give, real success in web3 comes most to those that stay humble and hungry."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "More misinformed crap on the NFT gaming scene. It’s a shame when indie platforms sell out and stop being indie. Sorry itch, but you are ngmi."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*TIoOG7IYuXLdx0h3NiR18g.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Is there really much to say? If you really lack all talent to pursue your dream of becoming a lower Manhattan socialite wannabe cringe rap mogul, there are much better ways to cover up your tone deaf feline abusing back alley wailing than trying and failing to launder a few billion dollars in stolen BTC."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But then again, it makes us wonder who you are really covering for."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*v2rZbUaH3ReRw2KAOO-kJA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo semanal de la comunidad | Semana 46",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo semanal de la comunidad | Semana 46"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*SPl0gev1PpF3j_Nf.jpeg",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cómo salió el primer show Realm Runway de web3 fashion en el metaverso?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Wow. ¡Ni sé por dónde empezar! Toda la noche fue un éxito enorme y un honor increíble poder materializarla. Reunir tanto talento creativo con habilidades, experiencias de vida y ambiciones diversas siempre genera catálisis, pero esta vez fue realmente especial. Y para colmo, se armó en menos de 3 semanas."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Vienen muchísimos más eventos y experiencias creativas. ¡Atentos mientras nos preparamos para el próximo y para los detalles de la próxima Web3 Fashion Week!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta repetida más común"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cómo pueden los creadores que recién llegan a web3 ponerse en camino para construir riqueza sostenible con NFTs y más allá?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Siempre toma tiempo. Y quien entra a web3 o NFTs con la idea de que esto es un boleto instantáneo de lotería: consejo rápido, vuelve y haz más investigación por tu cuenta. Cuanto mejor preparado estés, más tiempo inviertas en construir skills, en definir qué diferencia tu historia de otras y en cultivar la comunidad que será tu base más leal de coleccionistas, más pronto tendrás éxito real y capacidad de ir full-time. Más allá del hype y de la impresión que pueda dar, el éxito real en web3 llega sobre todo a quienes siguen humildes y hambrientos."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias de la industria"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Más desinformación absurda en la escena de NFT gaming. Da pena cuando plataformas indie se venden y dejan de ser indie. Lo siento, itch, pero estás ngmi."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*TIoOG7IYuXLdx0h3NiR18g.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y troleo"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "¿De verdad hay mucho que decir? Si de verdad te falta talento para perseguir tu sueño de volverte un wannabe rap mogul cringe del circuito socialite del bajo Manhattan, hay maneras bastante mejores de tapar tus berridos desafinados en callejones que intentar y fallar en lavar unos miles de millones en BTC robado."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Pero, de nuevo, eso nos hace preguntarnos a quién estás cubriendo realmente."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*v2rZbUaH3ReRw2KAOO-kJA.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira aquí todos los FUD FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido al artículo de la próxima semana, escríbenos por nuestro servidor de Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Únete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 46",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 46"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*SPl0gev1PpF3j_Nf.jpeg",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إزاي كان أول عرض Realm Runway لفاشون web3 في الميتافيرس؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "واو. حتى مش عارف أبدأ منين! الليلة كلها كانت نجاح ضخم وشرف كبير جدًا لينا إننا نطلعها بالشكل ده. تجمع هذا الكم من المواهب الإبداعية بمهارات وخبرات وطموحات متنوعة دايمًا بيعمل أثر محفّز، لكن المرة دي كانت فعلًا استثنائية. وفوق كل ده، اتجمعت في أقل من 3 أسابيع."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في أحداث وتجارب إبداعية أكتر بكتير جاية. خليكوا متابعين وإحنا بنجهز للحدث اللي بعده وكمان تفاصيل Web3 Fashion Week الجاية!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر سؤال متكرر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إزاي المبدعين الجدد في web3 يحطوا نفسهم على طريق بناء ثروة مستدامة عبر NFTs وما بعدها؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الموضوع دايمًا بياخد وقت. وأي حد داخل web3 أو NFTs وهو متخيل إنها تذكرة يانصيب فورية — نصيحة سريعة: ارجع واعمل بحثك بنفسك أكتر. كل ما تكون مستعد أكتر، وتحط وقت أكبر في بناء مهاراتك، وتوضيح إيه اللي بيميز قصتك عن غيرك، وبناء مجتمع من الناس اللي هيبقوا أكتر داعمين ومقتنين مخلصين ليك، كل ما فرص النجاح الحقيقي والقدرة على الذهاب full time تيجي أسرع. بعيدًا عن الضجة والانطباعات السطحية، النجاح الحقيقي في web3 غالبًا بييجي للي يفضلوا متواضعين وجعانين للتعلم."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أبرز الجدل في المجال"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مزيد من الكلام غير الدقيق في مشهد NFT gaming. مؤسف لما منصات indie تبيع نفسها وتبطل indie. آسف itch، لكن إنت ngmi."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*TIoOG7IYuXLdx0h3NiR18g.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إخفاقات عبثية وتريولنج"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "هو في كتير يتقال؟ لو فعلًا ما عندكش موهبة كفاية علشان تسعى لحلمك إنك تبقى wannabe rap mogul محرج في دايرة socialite بتاعة lower Manhattan، في طرق أفضل بكتير تغطي بيها صراخك الناشف بدل محاولة فاشلة لغسل مليارات من BTC المسروق."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لكن في كل الأحوال، ده بيخلينا نسأل: إنت فعلًا بتغطي على مين؟"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*v2rZbUaH3ReRw2KAOO-kJA.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو حابب سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، تواصل معانا من خلال سيرفر DIGITALAX على Discord في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

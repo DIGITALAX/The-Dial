@@ -1,0 +1,276 @@
+{
+  "slug": "new-interfaces-for-worlds-run-by-prompts-and-lens-integration",
+  "date": "2022-10-25",
+  "translations": {
+    "en": {
+      "title": "New Interfaces for Worlds Run By Prompts, & Lens Integration",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "New Interfaces for Worlds Run By Prompts, & Lens Integration"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*1zzpuyUE0XZx57vtph3MhQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Another contribution to a greater collection of resources of Realms and broader ecosystem interface development— the new DIGITALAX flagship is live!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "https://www.digitalax.xyz/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Refactored to be lightweight, fast, responsive, and targeted to the most essential information out of the box."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Infused with a vast showcase of latent synths and custom designs for a sneak peek of a more intensive engineering endeavor currently underway. This release shows the way to full integration of stable diffusion and tailored ML segmentation with Blender, for the ultimate replacement of CLO-3D and other closed sourced digital fabric manipulation tools."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We are moving fast towards an all in one open source fabric crafting solution."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As always, the repo for this interface is 100% open source & CC0. You can fork and use the code today to further the development of DIY / decentralize-it-yourself interfaces tailor made for more modular use cases."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The new DIGITALAX site builds off of the simulacra theme alongside the latest F3M interface released a few days ago."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Like everything else being revamped and refreshed in a methodical process, just because you haven’t seen your favorite corner of the ecosystem get a hot new look and infusion of code, don’t worry, it’s time will come soon."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Custom realm collections are on the way and you can get a taste of what’s being posted through the interface!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up to Date with Web3 Fashion:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Flagship"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        }
+      ]
+    },
+    "es": {
+      "title": "Nuevas interfaces para mundos impulsados por prompts e integracion con Lens",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Nuevas interfaces para mundos impulsados por prompts e integracion con Lens"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*1zzpuyUE0XZx57vtph3MhQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Otro aporte a una coleccion mas grande de recursos de Realms y desarrollo de interfaces para todo el ecosistema: ¡el nuevo sitio principal de DIGITALAX ya esta en vivo!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "https://www.digitalax.xyz/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Refactorizado para ser ligero, rapido, responsive y enfocado en la informacion mas esencial desde el primer momento."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Incluye una muestra amplia de latent synths y disenos personalizados como adelanto de un trabajo de ingenieria mucho mas intenso que ya esta en marcha. Este lanzamiento abre el camino para integrar por completo Stable Diffusion y segmentacion ML a medida con Blender, con el objetivo de reemplazar CLO-3D y otras herramientas cerradas de manipulacion textil digital."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Estamos avanzando rapido hacia una solucion integral y open source para fabric crafting."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Como siempre, el repo de esta interfaz es 100% open source y CC0. Puedes hacer fork y usar el codigo hoy mismo para seguir desarrollando interfaces DIY (decentralize-it-yourself), hechas a medida para casos de uso mas modulares."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "El nuevo sitio de DIGITALAX se construye sobre la tematica simulacra, junto con la ultima interfaz de F3M lanzada hace pocos dias."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Como todo lo demas que estamos renovando de forma metodica, si todavia no viste que tu rincon favorito del ecosistema reciba un look nuevo y una inyeccion de codigo, no te preocupes: su momento llega pronto."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Las colecciones personalizadas de realms ya vienen en camino, y puedes ir viendo una muestra de lo que se publica desde la interfaz."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mantente al dia con la moda Web3:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Principal"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentacion"
+        }
+      ]
+    },
+    "ar": {
+      "title": "واجهات جديدة لعوالم بتشتغل بالـprompts وتكامل Lens",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "واجهات جديدة لعوالم بتشتغل بالـprompts وتكامل Lens"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*1zzpuyUE0XZx57vtph3MhQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مساهمة جديدة ضمن مجموعة أكبر من موارد Realms وتطوير واجهات المنظومة بشكل أوسع. موقع DIGITALAX الرئيسي الجديد بقى live!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "https://www.digitalax.xyz/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "اتعمله refactor عشان يبقى خفيف وسريع وresponsive، ومركز على أهم المعلومات من أول ما تفتحه."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الواجهة مليانة عرض واسع لـ latent synths وتصميمات مخصصة، كلمحة لمجهود هندسي أكبر شغال دلوقتي. الإصدار ده بيمهّد لتكامل كامل بين Stable Diffusion وتقسيم ML مخصص مع Blender، بهدف استبدال CLO-3D وباقي أدوات معالجة الأقمشة الرقمية المغلقة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "إحنا بنتحرك بسرعة ناحية حل open source شامل لـ fabric crafting."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وكالعادة، repo الواجهة دي 100% open source وCC0. تقدر تعمل fork وتستخدم الكود النهارده علشان تطور أكتر واجهات DIY / decentralize-it-yourself معمولة خصيصًا لاستخدامات modular أكتر."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "موقع DIGITALAX الجديد مبني على ثيم simulacra، جنب أحدث واجهة F3M اللي نزلت من كام يوم."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وزي باقي الأجزاء اللي بتتجدد بطريقة منهجية، لو لسه ما شفتش الركن المفضل ليك في المنظومة واخد شكل جديد ودفعة كود قوية، ما تقلقش، دوره جاي قريب."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مجموعات realms المخصصة في الطريق، وتقدر تشوف لمحة من اللي بيتنشر عبر الواجهة."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "خليك متابع جديد موضة Web3:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "لينز"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تويتر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "المنصة الرئيسية"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        }
+      ]
+    }
+  }
+}

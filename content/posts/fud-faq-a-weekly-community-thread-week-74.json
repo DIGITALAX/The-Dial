@@ -1,0 +1,426 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-74",
+  "date": "2022-08-31",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 74",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 74"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Why does anyone listen to what’s-his-face anymore?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "🤔"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ZbFMavM6jqCykVNdNrSzLw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What does image synthesis have to do with governance in web3?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "While the full extent, of how governance methods will change throughout protocols and projects as image synthesis integrates its way into more and more of our lives, will remain to be seen, within the DIGITALAX ecosystem we’re moving full steam ahead— experimenting with a new set of governance proposals and curation orientated methodologies. You can read more about that in our latest update:"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What failed FEI and almost all other “decentralised algo” stablecoins so far is that they haven’t solved the big question: Where does stability actually come from?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With the latest Maker drama, we’ll have to see whether they can do any better."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*YroagBuwe0k1TrRxpEYYow.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If it is true, is it really that surprising? And if it isn’t, you really have to wonder about what it says about where crypto and the world is at as a whole for that fact that we’re so ready to believe something like this."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The last few years sure have eroded a whole lot of trust. It’s a shame that we don’t have more robust systems for trustless coordination… yet."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*2qTOWv4mYG6rWdhcN0LI5g.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*4lMfRjSi78GfIWlDzUi_6Q.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "See More Across Our Official Channels;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Transparency Reports"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Youtube"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Blog"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo comunitario semanal | Semana 74",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo comunitario semanal | Semana 74"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Por que alguien sigue escuchando a ese tipo?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "🤔"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ZbFMavM6jqCykVNdNrSzLw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta mas repetida"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Que tiene que ver la sintesis de imagen con la gobernanza en web3?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Aunque aun esta por verse el alcance total de como cambiaran los metodos de gobernanza en protocolos y proyectos a medida que la sintesis de imagen se integra cada vez mas en nuestras vidas, dentro del ecosistema DIGITALAX vamos a toda maquina, experimentando con un nuevo conjunto de propuestas de gobernanza y metodologias orientadas a la curacion. Puedes leer mas en nuestra ultima actualizacion:"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Controversias principales"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Lo que hizo fallar a FEI y a casi todas las demas stablecoins \"algo descentralizadas\" hasta ahora es que no resolvieron la gran pregunta: ¿de donde viene realmente la estabilidad?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Con el ultimo drama de Maker, habra que ver si pueden hacerlo mejor."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*YroagBuwe0k1TrRxpEYYow.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Si es verdad, ¿de verdad sorprende tanto? Y si no lo es, toca preguntarse que dice eso sobre el estado de cripto y del mundo en general, para que estemos tan listas para creer algo asi."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Los ultimos anos realmente han erosionado muchisima confianza. Es una pena que aun no tengamos sistemas mas robustos para coordinacion sin confianza… todavia."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*2qTOWv4mYG6rWdhcN0LI5g.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*4lMfRjSi78GfIWlDzUi_6Q.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todos los FUD FAQ aqui."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido para el articulo de la proxima semana, contactanos en el Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira mas en nuestros canales oficiales:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentacion"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Preguntas FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Informes de transparencia"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "YouTube"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Blog"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | الأسبوع 74",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | الأسبوع 74"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ليه أي حد لسه بيسمع للراجل ده؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "🤔"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*ZbFMavM6jqCykVNdNrSzLw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر سؤال بيتكرر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إيه علاقة تخليق الصور بالحوكمة في web3؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "رغم إن الصورة الكاملة لتأثير تخليق الصور على أساليب الحوكمة داخل البروتوكولات والمشاريع لسه بتتشكّل، إحنا في منظومة DIGITALAX شغالين بأقصى سرعة، وبنجرب مجموعة جديدة من مقترحات الحوكمة ومنهجيات موجهة للـcuration. تقدر تقرأ أكتر في آخر تحديث لنا:"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم الجدالات"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "اللي خلّى FEI وتقريبًا كل عملات الـ\"decentralised algo\" المستقرة تفشل لحد دلوقتي إنها ما حلتش السؤال الكبير: الاستقرار الحقيقي جاي منين؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ومع آخر دراما Maker، هنشوف هل يقدروا يعملوا أحسن ولا لا."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*YroagBuwe0k1TrRxpEYYow.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "هفوات مضحكة وتروول"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لو الخبر صحيح، هل هو مفاجئ فعلًا؟ ولو مش صحيح، يبقى لازم نسأل نفسنا ده بيقول إيه عن حال الكريبتو والعالم عمومًا، طالما إحنا جاهزين نصدق حاجة زي دي بسرعة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "السنين اللي فاتت فعلًا أكلت جزء كبير من الثقة. والمشكلة إننا لسه ما عندناش أنظمة أقوى للتنسيق بدون ثقة… لحد دلوقتي."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*2qTOWv4mYG6rWdhcN0LI5g.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*4lMfRjSi78GfIWlDzUi_6Q.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو عايز سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، كلّمنا على Discord بتاع DIGITALAX في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف أكتر عبر قنواتنا الرسمية:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تويتر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "أسئلة FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تقارير الشفافية"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "يوتيوب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "المدونة"
+        }
+      ]
+    }
+  }
+}

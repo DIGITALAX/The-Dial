@@ -1,0 +1,576 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-52",
+  "date": "2022-03-27",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 52",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 52"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*ivllsSkvF8itS7F-.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "It seems like a big week, what are some of the more exciting releases to look forward to?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A lot of development, engineering and other market activities have been converging towards release for this week. Some of those include;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Rarible Integration"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Marketplace V3 Refactor"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Nouns Fork Daily CC0 Auctions"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "CC0 DAO Membership + Creative Residency"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ZK Cypherpunk CC0 Pop-Up Series"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "W3FW Sponsorship NFT Collectible Tiers"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DIGIFIZZY Issue 11"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The broader market continues to change in radical ways as more corporate consolidation continues to take place, more FUD spreads about what NFTs are and aren't, massive raises saturate the airwaves and real pioneers keep building."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We've calibrated these slate of releases to take the most optimal approach to this ever-changing landscape."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Is all this consolidation actually good for the market?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It depends."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you believe in a need to gather as many resources in one place as possible in order to build closed off theme parks in the metaverse that go head to head with older, even more restrictive culture factories like Disney, sure."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Or, if you believe limiting how many brands, projects, and creators the market sustains is good for collectors because too much choice is just so overwhelming, yes."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But really, consolidation is only good for those who want to shut down the spread of creativity and who are against the free distribution of economic power. I don’t know about you, but that’s not why we got into web3. When Meta buys Disney buys BAYC, where exactly will all of the self-sovereignty be?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s almost as if those aping in to the consolidation wave don’t really believe in the ability of web3 and NFTs to produce far more wealth than the pre-digital, corporate industrial, only marginally free markets that came before us"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "So apparently Coinbase now requires in certain jurisdictions that users detail info about each external address holder they transfer their assets from within Coinbase to. The reasoning is the same as usual… an attempt to stop all the bad things that can happen when money is used. But really, it’s yet another step on the road to a CBDC dystopia, where governments and corporations of all sizes remove any semblance of personal privacy or financial freedom."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s understandable to some extent why Coinbase is doing whatever it has to in order to comply with regulators in major markets like Canada, Singapore, and Japan, but that doesn’t mean the regulators in these locations are actually requiring what’s in the best interests of participants in their markets or that it’s a great idea to continue using Coinbase."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It really can’t be said often enough: Not your keys, not your crypto."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Every telegram has one… or more like many more than one…. 🤣"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*9Rfig7uwu_CtmwugHYUa3Q.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo semanal de la comunidad | Semana 52",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo semanal de la comunidad | Semana 52"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*ivllsSkvF8itS7F-.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Parece una semana grande. ¿Cuáles son algunos de los lanzamientos más emocionantes que vienen?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Mucha actividad de desarrollo, ingeniería y mercado viene convergiendo para salir esta semana. Algunas incluyen:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Integración con Rarible"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Refactor del Marketplace V3"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Subastas diarias CC0 de Nouns Fork"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Membresía en CC0 DAO + residencia creativa"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Serie pop-up ZK Cypherpunk CC0"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Niveles coleccionables NFT de patrocinio para W3FW"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DIGIFIZZY Edición 11"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "El mercado en general sigue cambiando de forma radical mientras continúa más consolidación corporativa, se expande más FUD sobre qué son y qué no son los NFTs, las rondas masivas saturan el aire y los verdaderos pioneros siguen construyendo."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Calibramos este paquete de lanzamientos para tomar el enfoque más óptimo frente a este panorama que cambia todo el tiempo."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta repetida más común"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Toda esta consolidación realmente es buena para el mercado?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Depende."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Si crees que hay que concentrar la mayor cantidad posible de recursos en un solo lugar para construir parques temáticos cerrados en el metaverso que compitan con fábricas culturales más viejas y más restrictivas como Disney, entonces sí."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "O, si crees que limitar cuántas marcas, proyectos y creadores puede sostener el mercado es bueno para los coleccionistas porque demasiada elección abruma, entonces también sí."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Pero en realidad, la consolidación solo es buena para quienes quieren frenar la expansión de la creatividad y están en contra de la distribución libre del poder económico. No sé tú, pero por eso no entramos en web3. Si Meta compra Disney y Disney compra BAYC, ¿dónde quedará la soberanía individual?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Casi parece que quienes se suben a la ola de consolidación no creen de verdad en la capacidad de web3 y los NFTs para producir mucha más riqueza que los mercados pre-digitales, industriales y corporativos, apenas marginalmente libres, que existían antes."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias de la industria"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Al parecer Coinbase ahora exige en ciertas jurisdicciones que los usuarios detallen información sobre cada titular de dirección externa al que transfieren sus activos desde Coinbase. El argumento es el de siempre: intentar frenar todo lo malo que puede pasar cuando se usa dinero. Pero en realidad, es otro paso hacia una distopía CBDC, donde gobiernos y corporaciones de todos los tamaños eliminan cualquier rastro de privacidad personal o libertad financiera."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Se entiende hasta cierto punto que Coinbase haga lo que tenga que hacer para cumplir con reguladores en mercados grandes como Canadá, Singapur y Japón, pero eso no significa que esos reguladores estén exigiendo lo mejor para los participantes de sus mercados ni que seguir usando Coinbase sea una gran idea."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No se puede repetir lo suficiente: Not your keys, not your crypto."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y troleo"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Todo Telegram tiene uno… o más bien muchos más de uno."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*9Rfig7uwu_CtmwugHYUa3Q.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira aquí todos los FUD FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido al artículo de la próxima semana, escríbenos por nuestro servidor de Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Únete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 52",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 52"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*ivllsSkvF8itS7F-.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "واضح إن الأسبوع كبير. إيه أكتر الإطلاقات المثيرة اللي نستناها؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "كمية كبيرة من التطوير والهندسة وأنشطة السوق اتجمعت عشان تطلع الأسبوع ده. من ضمنها:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "دمج Rarible"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إعادة هيكلة Marketplace V3"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "مزادات Nouns Fork اليومية بنظام CC0"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "عضوية CC0 DAO + إقامة إبداعية"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "سلسلة Pop-Up من ZK Cypherpunk CC0"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "مستويات NFT تجميعية لرعاة W3FW"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DIGIFIZZY العدد 11"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "السوق الأوسع لسه بيتغير بشكل جذري مع استمرار المزيد من الدمج المؤسسي، وانتشار FUD أكتر حوالين إيه اللي الـNFTs هيه وإيه اللي مش هيه، وجولات تمويل ضخمة مالية الجو، وفي نفس الوقت الرواد الحقيقيين مكملين بناء."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "إحنا ظبطنا باقة الإطلاقات دي علشان ناخد أنسب مقاربة للمشهد المتغير باستمرار."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر سؤال متكرر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "هل الدمج ده كله فعلاً مفيد للسوق؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ده بيعتمد."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لو إنت مؤمن إن لازم تجمع أكبر قدر ممكن من الموارد في مكان واحد علشان تبني حدائق ترفيه مغلقة في الميتافيرس تنافس مصانع الثقافة الأقدم والأكتر تقييدًا زي Disney، يبقى آه."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أو لو شايف إن تقليل عدد العلامات والمشاريع والمبدعين اللي السوق يقدر يستوعبهم مفيد للمقتنين لأن كثرة الاختيارات مرهقة، فبرضه آه."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لكن فعليًا، الدمج مفيد بس للي عايزين يوقفوا انتشار الإبداع وضد التوزيع الحر للقوة الاقتصادية. أنا معرفش إنت شايف إيه، بس ده مش السبب اللي دخلنا web3 عشانه. لما Meta تشتري Disney وDisney تشتري BAYC، هتبقى السيادة الفردية فين؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "كأنه اللي بيركبوا موجة الدمج مش مؤمنين أصلًا بقدرة web3 والـNFTs على إنتاج ثروة أكبر بكتير من الأسواق ما قبل الرقمية، الصناعية المؤسسية، اللي كانت حرة بشكل هامشي قبلنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أبرز الجدل في المجال"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "واضح إن Coinbase بقت في بعض الولايات القضائية بتطلب من المستخدمين تفاصيل عن كل صاحب عنوان خارجي بيحولوا له الأصول من داخل Coinbase. المبرر هو نفس المبرر المعتاد: محاولة منع كل الحاجات الوحشة اللي ممكن تحصل مع استخدام الفلوس. لكن في الحقيقة دي خطوة كمان على طريق ديستوبيا الـCBDC، حيث الحكومات والشركات بكل أحجامها تمسح أي شبه خصوصية شخصية أو حرية مالية."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مفهوم إلى حد ما ليه Coinbase بتعمل اللي لازم تعمله علشان تلتزم مع الجهات التنظيمية في أسواق كبيرة زي كندا وسنغافورة واليابان، لكن ده ما يعنيش إن الجهات دي فعلًا بتطلب اللي في مصلحة المشاركين في أسواقها، ولا إن الاستمرار في استخدام Coinbase فكرة عظيمة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ومهما اتقالت مش هتكفي: Not your keys, not your crypto."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إخفاقات عبثية وتريولنج"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "كل Telegram فيه واحد… أو بصراحة فيه أكتر بكتير من واحد."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*9Rfig7uwu_CtmwugHYUa3Q.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو حابب سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، تواصل معانا من خلال سيرفر DIGITALAX على Discord في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

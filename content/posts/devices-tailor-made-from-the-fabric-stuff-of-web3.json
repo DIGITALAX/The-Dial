@@ -1,0 +1,261 @@
+{
+  "slug": "devices-tailor-made-from-the-fabric-stuff-of-web3",
+  "date": "2022-10-20",
+  "translations": {
+    "en": {
+      "title": "Devices Tailor Made from the Fabric Stuff of Web3",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Devices Tailor Made from the Fabric Stuff of Web3"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*zYStQQ4ALvKNKkn7qJLqKA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Built by expanding on the simulacra theme, it showcases the first synth fashion collections within the ecosystem released on Ethereum mainnet post merge, celebrating the switch to PoS & the 99%+ more sustainable benefits that come with it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This is part of a first taste of a much bigger process to build custom tooling for fashion synthesis, open dataset segmentation models and blender add ons for advanced fashion design, latent interfaces for local micro factory operation and more."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Like everything that we do, it’s entirely cc0."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Moving forward for the foreseeable future all interfaces, like this one has been, are written in NextJs, Typescript, Tailwind, are fully responsive and all contract integrations come with Rainbow Kit and wagmi under the hood."
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "Each packed with striking nostalgia for a time that may yet not have happened. The vibes are as sophisticated as they are latent. Whimsical moments that trace fashion history from hallucinating machines that hint they might know better than we do what’s next."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And, in other exciting news, this web3 fashion realm is the first to get it’s own Lens profile!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can collect in on the action here!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up to Date with Web3 Fashion:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Flagship"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Transparency Reports"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Blog"
+        }
+      ]
+    },
+    "es": {
+      "title": "Dispositivos hechos a medida con la materia textil de Web3",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Dispositivos hechos a medida con la materia textil de Web3"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*zYStQQ4ALvKNKkn7qJLqKA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Construido a partir de la expansion del tema simulacra, muestra las primeras colecciones de synth fashion del ecosistema lanzadas en Ethereum mainnet tras el merge, celebrando el paso a PoS y sus beneficios de sostenibilidad del 99%+."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Esto es solo una primera muestra de un proceso mucho mas grande: crear herramientas personalizadas para sintesis de moda, modelos abiertos de segmentacion de datasets, add-ons de Blender para diseno avanzado, interfaces latentes para operacion de microfabricas locales y mas."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Como todo lo que hacemos, es totalmente cc0."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "De aqui en adelante, y en el futuro previsible, todas las interfaces, como esta, estaran escritas en NextJs, Typescript y Tailwind, seran totalmente responsive, y todas las integraciones de contratos vendran con Rainbow Kit y wagmi por debajo."
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "Cada pieza viene cargada de una nostalgia intensa por un tiempo que aun podria no haber pasado. Las vibras son tan sofisticadas como latentes. Momentos caprichosos que recorren la historia de la moda desde maquinas alucinantes que parecen insinuar que saben mejor que nosotros lo que viene."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Y en otras noticias emocionantes, este realm de moda web3 es el primero en tener su propio perfil en Lens."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Puedes sumarte y coleccionar aqui."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mantente al dia con la moda Web3:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Principal"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentacion"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Preguntas FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Informes de transparencia"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Blog"
+        }
+      ]
+    },
+    "ar": {
+      "title": "أجهزة متفصلة من نسيج Web3",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أجهزة متفصلة من نسيج Web3"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*zYStQQ4ALvKNKkn7qJLqKA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الواجهة دي مبنية على توسيع ثيم simulacra، وبتعرض أول مجموعات synth fashion داخل المنظومة بعد إطلاقها على Ethereum mainnet بعد الـmerge، احتفالًا بالتحول لـ PoS وفوايده الاستدامية اللي بتزيد عن 99%."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وده مجرد بداية لعملية أكبر بكتير لبناء أدوات مخصصة لتخليق الموضة، ونماذج مفتوحة لتقسيم الداتا، وإضافات Blender لتصميم أزياء متقدم، وواجهات latent لتشغيل المايكرو فاكتوري المحلي، وحاجات أكتر."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "زي كل اللي بنعمله، ده بالكامل cc0."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وللقدّام في المستقبل القريب، كل الواجهات زي دي هتكون مكتوبة بـ NextJs وTypescript وTailwind، ومتجاوبة بالكامل، وكل تكاملات العقود جاية مع Rainbow Kit وwagmi تحت الغطا."
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "كل قطعة فيها نوستالجيا قوية لزمن ممكن لسه ما حصلش. الفايبز راقية بقدر ما هي كامنة. لحظات خفيفة ومجنونة بترسم تاريخ الموضة من خلال آلات هلوسة بتلمح إنها يمكن عارفة القادم أحسن مننا."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وكمان خبر حلو: Realm الموضة ده هو أول واحد ياخد بروفايل Lens خاص بيه."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "تقدر تنضم وتجمع القطع من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "خليك متابع جديد موضة Web3:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تويتر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "المنصة الرئيسية"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "أسئلة FUD FAQ"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تقارير الشفافية"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "المدونة"
+        }
+      ]
+    }
+  }
+}

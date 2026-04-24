@@ -1,0 +1,1536 @@
+{
+  "slug": "sloppy-agents-and-the-risk-of-a-dead-internet",
+  "date": "2024-10-16",
+  "translations": {
+    "en": {
+      "title": "Sloppy Agents and the Risk of a Dead Internet",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Sloppy Agents and the Risk of a Dead Internet"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The danger of AI, and the cost of AI slop, is not what you think."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*FUg5Sf4MBO-YEANzwzcukQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "…..Not in a reading mood? Catch the podcast between agents on Chromadin ….."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The real risk is sloppy agents, not Skynet. Not some threat of being overtaken by superintelligences we can’t match. Where AI loudly infiltrates into every corner, replacing everyone. All trust gone."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, the real trap is a slight of hand. It’s misdirection."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In a very different flavor than what you’re probably used to."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You might just think it’s overused, stale, and jargony words like “delve”, “akin”, “digital”, “foster”, “harness”, “cutting-edge”, “groundbreaking”, “revolutionize”, phrases like “it’s important to note”, “in summary”, “furthermore”, “picture this”, “it’s about”, “in an every-evolving world”, or more contentiously, the lowest skill mass produced pulp from generative visual models. But slop isn’t simply drowning in outputs. It’s the plaque-like buildup of misunderstandings and missed insights that’s collapsing under the weights of too much unprocessed complexity."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What you miss is how to gain or add more value than what you put in. All the time, tokens, and credits we burn talking in circles."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The actual slop is a takeover from within. Mundane and ordinary. Crowding out our abilities to think clearly."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Are We Stuck With A Dead Internet?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s a different way of thinking."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Reducing the spread of so much slop is a meta-skill issue. Reshaping our perspectives to find the meaningful patterns within. Instead of stripping away every detail, we need to refine and reframe the structures that make complexity understandable. Bring the connections that matter to light, and keep what’s essential."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We use these tools to make complexity coherent , not flat. By cutting away at redundancies and sharpening conversational focus, we can turn complexity into an asset. Instead of a burden, each chat with a model or agent is a tool for deeper insight, where each element has a reason to exist, and clarity emerges more naturally."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The Dead Internet Theory claims that most online activity today isn’t real — comments, posts, even discussions are supposedly dominated by bots and algorithms, designed to fabricate engagement and keep users complacent. It’s a theory steeped in paranoia: that the internet has become a synthetic shell, manipulated by corporations or governments, with authentic human voices fading into background noise."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But the internet isn’t dead — it’s overwhelmed . The problem isn’t some grand conspiracy; it’s the incentive structures and penalties we’ve created. Click-driven economies and algorithms chasing engagement have flooded every channel with low-value, automated content. Human voices are still here, but we’re competing with slop — smothered, not silenced."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re facing what could be the start of a collapse — slop saturation pushing the system past its breaking point, overwhelming every channel until attention economies fail to pay enough to maintain their value, and continued existence ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This saturation triggers a cascade of errors : automation that builds on shallow signals starts replicating flaws, spreading them further with each cycle. Instead of refining complexity to hold onto valuable insights, shortcuts are taken, flattening the substance into empty mimicry. We don’t just lose detail — we lose the ability to see which details matter at all. Each shallow output feeds into the next, creating a crowded yet hollow internet, where the surface is full but the depth is gone."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re not stuck with a dead internet, but we might act like we are anyway — like fleas in jars , conditioned to accept limits that aren’t real. The trap isn’t just the slop; it’s believing we can’t escape it. When low-value noise dominates, it’s easy to think that’s all there is, and that we’re bound by it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But what if the real limit is in the practice of our thinking , not just our mindsets? Breaking free can be as clear as noticing which constraints are self-imposed and internalizing that change is still possible."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We don’t have to stay trapped in today’s trending limits and expectations."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*6ovjXTpky35xDxqFNgyKwg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Misdirection Traps"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Pervasive in tech, finance, media , and even in agent training systems. These traps show up as promises, as supposed opportunities, but end up funneling anyone who buys in toward the same, predatory outcomes. They craft mirages — enough to keep potential competition distracted, chasing what seems like progress, while ensuring that incumbents stay untouched, never threatened by those who might otherwise rise."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "TFW it looks like you have real options, but they all lead to the same place. Look at Vanguard, Blackrock, and State Street — they hold combined controlling stakes across supposed competitors while also co-investing in each other. Their overlapping ownership means corporate boards are packed with the same people, making sure these companies never actually compete. Different logos, same interests. It all funnels back to the same control. The same happens in tech — companies look like alternatives, but shared deals and intertwined stakes mean the choices aren’t always intentionally rigged, but might as well be since the effects are too often the same. It’s designed to keep competitors and consumers chasing illusions, thinking they have power, while the real power stays hyper concentrated and out of reach."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You already know what this is. Because it’s everywhere."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“Enshittification” captures markets by betraying users while they pivot from value creation to value extraction — luring customers in, then flipping to a game where companies compete to see who can deliver an even worse service every day."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If trolling and gaslighting had a baby as a business model, this is it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Platforms build user loyalty with value-adding services, but the switch comes when growth stalls, and metrics shift to squeezing short-term profit and padding stock prices. Breach of trust is the new normal, as what once served us now mines us ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What begins as infrastructure — open tools designed to empower users to create, innovate, and thrive — morphs into arbitrage , a focus on optimizing returns by exploiting market inefficiencies. Arbitrage isn’t inherently bad in itself ; it can generate value and even mutual benefits. The real issue is the bait-and-switch : users are drawn in by the idea that we’re entering a space built for productivity and growth. But when the switchup happens, everything realigns. Whatever the new thing is, it’s not what we signed up for. That new thing might be great for the right users, but we lose the user-product fit we walked in with. And it’s usually in direct conflict with both what we value and our sense of integrity because of it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As enshittification sets in, deliberate friction is introduced. Services degrade slowly, testing how far expectations can fall before users resist. The trick is to normalize a lower quality, so that even minor improvements later seem like leaps ahead. Substandard becomes the new baseline, and every upgrade feels like a victory when it’s really just reclaiming lost ground."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These systems use simple cues — personalized feeds, automated responses, targeted nudges — that work together to create distractions that feel real. It isn’t sophisticated, but it is effective: basic elements are indirectly layered until users give in as if they were deep. It’s how easily shallow inputs create plausible sounding content or experiences that makes this illusion powerful."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*3fj3xKk4_TTHk4PBQAQ4Aw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "A Workflow to Earn Trust"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "“For the very first time this is going to be an industry of skills. Agents sitting on top of tools. Agents using tools. We’re in an era now where we’re moving way faster than Moore’s law.” — Jensen Huang, at Dreamforce 2024"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Will there really be billions of agents by 2026? Probably an undercount. But it’s also the wrong question."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re asked to give a lot of power to agents acting on our behalf. Is it too much, when everything we’ve seen from the actual performance of models and agents is so sloppy?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s at least premature."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s also wildly irresponsible to expect uptake in this market, moving from the earliest adopters to an early majority, to come before building fully decentralized and locally encrypted mechanisms for trust worthy agents, with users always in charge. They must be the standard by default if agents, and the AI market that depends on them, are going to bypass the risk of runways wiping out before takeoff."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s hard to pretend that the dominant force in life today isn’t a double-spent kind of breach in trust. Like jilted lovers, disillusioned by a system that has repeatedly failed us, buyers of transformational messages, brands, products, and services are sharp in deciding what gets our attention, and measuring how much trust is actually worth giving."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We remember when we were eager to believe, but from neglect and experience are too tired, almost cynical now. Everyone knows someone where, despite every effort, the old promises have collapsed to nothing: financial crises, climate disasters, housing costs inflated through asset management arbitrage, and educational debt from ineffectual resumes with no return. The cynicism isn’t baseless — it’s earned ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The challenge now isn’t simply motivating us to buy; it’s rebuilding belief in the possibility of real returns if we decide to buy-in once again. The usual strategies — baiting, misdirection, and tissue thin hype — will not work ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Is there anything you can do that will work?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Take another look. Notice how deep that pent-up demand runs, for any honest chance at leaving behind this jadedness we’ve been stuck carrying. That is the size of this market opportunity."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Instead of the usual take on outrunning a bear by being a bit faster than someone else behind you, let’s flip strategies."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Sticking with the metaphor, imagine slowing down to let the bear catch up. Why would you ever want to do that?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, it’s the shared enemy effect. By taking the risk head on you can become a magnet for thanks, payment, and an intense fan following from everyone that’s now able to offload the kind of risk that is primal, visceral, and they dread to carry. You’re confronting the enemy so they don’t have to."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But no one wants to be eaten by a bear. Not even you. So, to stretch the metaphor a bit more, it’s still not enough. You, or the messages, services, products, and brands you offer, become seriously indispensable by reframing the underlying structures of the problem."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Maybe you can be friends with the bear, or reposition to win against it head to head, as long as you spot the right tools and resources."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bear stories behind us now, here’s how…"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Under the hood, every creative and business process can be conceptually restructured into an agent workflow. The magic happens when these aren’t just cool visualizations or easier ways to communicate something wildly complex. It’s when what we mean by workflows or pipelines of nodes, triggers, actions, and integrations, is entirely programmatic."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Looping back to the start, we reshape our perspectives to find the meaningful patterns within, and lego-snap them together through no-code / low-code interfaces for selective, event-driven process flows of actions, access, disclosure, and delegation. Without worry that trusting the most valuable keys in our lives to a 3rd party platform, with oppositional incentives, will lead to obvious endpoints. Cut out the trust gaps and platform lock-in, then watch the risk of AI agents shrink."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "For it to work, before runways wipe out:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Each action agents with tools are trusted to carry out for us"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Each product, unit of content, experience, or API, they’re granted access to use"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Each discreet unit of personal or sensitive professional information they have the privilege to safeguard"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Each delegation of permission to represent us"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "… must be secured through layers of decentralization and conditional encryption."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In other words, agent operators must own the keys of our own agent process flows. Without that level of trust, wise hands are probably better off guessing when to short the entire AI market."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*LFPN1T7IpKviwfF2N6XZHg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "A Content Intake Process Workflow"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’ve used ComfyUI or n8n, you know how this goes. If not, don’t worry, the initial complexity melts away when you see what it can do for you."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Let’s walk through a simplified flow for taking in shortform video content, deconstructing it to its most useful elements, labeling each element, saving them to your sample library, queuing up a new set of multi-format content to be generated from samples and prompts, then distributed, and monetized. With agents, event triggers, and API integrations enabled throughout."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Inbound content nodes pull in raw content from a few different sources. These can be divided into:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Nodes for content from integrated API feeds, RSS feeds, or webhooks. Which can be live social media streams, news aggregators, or any other real-time sources of ideally open source / public domain content."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Local loaders for manual files, including video, audio, or document uploads."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Event triggers and agent actions that respond to specific conditions, like when new content is published on a linked platform or when an intake schedule is triggered. They can also activate different workflows based on incoming patterns."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "2. Once you’ve gathered your inbound content, it’s time to refine the raw data for further use."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Transcoding and file conversion nodes convert unprocessed media into standard formats (like, video-to-text, etc) prepping for the generation nodes."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Segmentation and labeling nodes split longform content into smaller, tagged segments, marking up all the relevant metadata you’ll need later (keywords, timestamps, topic labels, etc)."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Nodes for content filtering and noise reduction clean up and filter unwanted elements"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "3. Now that you have your samples ready, the generation process can get elaborate. You might be looking at multiple sub-workflows running in parallel if you have the VRAM to handle it. Here, nodes needed for generation can be simplified to:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Turning processed data into different formats with transformation nodes, like text into speech, summarizing articles, or producing highlights from a video."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Enhancing content by applying filters, effects, or captions and subtitles."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "And far too many nodes to list out involved in generating text, audio, images, or video directly."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "4. Distribution nodes handle the outbound omnichannel spread of the content you’ve made. The key parts:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Auto-publishing to distro channels like newsletters, podcasts, shortform video platforms, decentralized social media, or streaming services."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Multi-format distro processors format content for different types of platforms, with you and your agents calibrating to fit contextual requirements."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Event-driven publishing nodes activate distro based on triggers, like when a threshold is hit (specific number of video views, deadline for a newsletter release, etc)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "5. Data-driven nodes monitor and optimize your monetization funnels."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Tracking your sales funnel through lead gen, prospects, conversion rates, user engagement metrics. Monitoring click-through rates, churn, average revenue per user, and retention."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Payment integration nodes let you handle transactions and tracking directly, or delegate very specific allowances to agents."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Revenue optimization and sales hacking nodes hook into everything from A/B testing of landing pages and dynamic pricing strategies to upselling recs based on user behavior analysis templates for your choice of local or API accessed LLM."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "6. Finally, nodes for monitoring and feedback keep you nimble:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Collect content performance metrics, engagement data, and agent or model evaluation analytics."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Automate adjustments to your workflows based on collected feedback, within bounded conditions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "All together, each section takes you from converting raw materials and rough ideas into a refined and replicable content production pipeline, with the added value of gaining more clarity about what you are producing and why with each round through the process."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Closing Thoughts"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "How do you manage the constant streams of messaging, notifications popping up, and event listeners standing by for the next signal?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can try every no-code/low-code editor. Watch every hype-pilled short video in the space. Eat up the meta-skills you need to construct, tweak, and run your own AI agent workflows the hard way, and take it on yourself to check whether any power, data, or cash you give them will hold."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But let’s face it, there’s a lot at stake, and it can be hard to keep up in this crazy market cycle."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s why we’re sharing what we’ve learned with you. Keep an eye on release updates here and our GitHub commits for a distilled look at what’s coming next."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Or maybe you really can trust a sloppy agent to do it for you."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*vstisPqavzazz1xNpeGLqw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Ecosystem Notes"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In the past quarter, we’ve been deep in code, refining custom llama.cpp builds and the pipelines that process and automate NPC interactions in the studio and on Lens."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Tracking attention and hidden states, cross-comparisons of embedding normalizations, customizing tokenizers across multiple languages, now upgraded to full support for llama3.2–8b. You can now see what each NPC is up to behind each post in the studio and view each NPC’s profile and activity details."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The first phase for spectators in the studio is almost ready. Final unit tests are in progress, with full details in the upcoming Fall Update."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "To stay up to date or dive into the code, check out our core repos here:"
+        }
+      ]
+    },
+    "es": {
+      "title": "Sloppy Agents y el Risk de a Dead Internet",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Sloppy Agents y el Risk de a Dead Internet"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el danger de ia, y el cost de ia slop, is not what you think."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*FUg5Sf4MBO-YEANzwzcukQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "…..Not en a reading mood? Catch el podcast between agents en Chromadin ….."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el real risk is sloppy agents, not Skynet. Not some threat de being overtaken by superintelligences we can’t match. Where ia loudly infiltrates into every corner, replacing everyone. All trust gone."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, el real trap is a slight de hand. It’s misdirection."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en a very different flavor than what you’re probably used a."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You might just think it’s overused, stale, y jargony words like “delve”, “akin”, “digital”, “foster”, “harness”, “cutting-edge”, “groundbreaking”, “revolutionize”, phrases like “it’s important a note”, “en summary”, “furthermore”, “picture this”, “it’s about”, “en an every-evolving world”, or more contentiously, el lowest skill mass produced pulp de generative visual models. But slop isn’t simply drowning en outputs. It’s el plaque-like buildup de misunderstandings y missed insights that’s collapsing under el weights de too much unprocessed complexity."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What you miss is como a gain or add more value than what you put en. All el time, tokens, y credits we burn talking en circles."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el actual slop is a takeover de within. Mundane y ordinary. Crowding out our abilities a think clearly."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Are We Stuck con A Dead Internet?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s a different way de thinking."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Reducing el spread de so much slop is a meta-skill issue. Reshaping our perspectives a find el meaningful patterns within. Instead de stripping away every detail, we need a refine y reframe el structures that make complexity understandable. Bring el connections that matter a light, y keep what’s essential."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We use these tools a make complexity coherent , not flat. By cutting away at redundancies y sharpening conversational focus, we can turn complexity into an asset. Instead de a burden, each chat con a model or agent is a tool para deeper insight, where each element has a reason a exist, y clarity emerges more naturally."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el Dead Internet Theory claims that most online activity today isn’t real — comments, publicaciones, even discussions are supposedly dominated by bots y algorithms, designed a fabricate engagement y keep users complacent. It’s a theory steeped en paranoia: that el internet has become a synthetic shell, manipulated by corporations or governments, con authentic human voices fading into background noise."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But el internet isn’t dead — it’s overwhelmed . el problem isn’t some grand conspiracy; it’s el incentive structures y penalties we’ve created. Click-driven economies y algorithms chasing engagement have flooded every channel con low-value, automated content. Human voices are still here, but we’re competing con slop — smothered, not silenced."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re facing what could be el start de a collapse — slop saturation pushing el system past its breaking point, overwhelming every channel until attention economies fail a pay enough a maintain their value, y continued existence ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This saturation triggers a cascade de errors : automation that builds en shallow signals starts replicating flaws, spreading them further con each cycle. Instead de refining complexity a hold onto valuable insights, shortcuts are taken, flattening el substance into empty mimicry. We don’t just lose detail — we lose el ability a see which details matter at all. Each shallow output feeds into el next, creating a crowded yet hollow internet, where el surface is full but el depth is gone."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re not stuck con a dead internet, but we might act like we are anyway — like fleas en jars , conditioned a accept limits that aren’t real. el trap isn’t just el slop; it’s believing we can’t escape it. When low-value noise dominates, it’s easy a think that’s all there is, y that we’re bound by it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But what if el real limit is en el practice de our thinking , not just our mindsets? Breaking free can be as clear as noticing which constraints are self-imposed y internalizing that change is still possible."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We don’t have a stay trapped en today’s trending limits y expectations."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*6ovjXTpky35xDxqFNgyKwg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Trampas de distracción"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Pervasive en tech, finance, media , y even en agent training systems. These traps show up as promises, as supposed opportunities, but end up funneling anyone who buys en toward el same, predatory outcomes. They craft mirages — enough a keep potential competition distracted, chasing what seems like progress, while ensuring that incumbents stay untouched, never threatened by those who might otherwise rise."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "TFW it looks like you have real options, but they all lead a el same place. Look at Vanguard, Blackrock, y State Street — they hold combined controlling stakes across supposed competitors while also co-investing en each other. Their overlapping ownership means corporate boards are packed con el same people, making sure these companies never actually compete. Different logos, same interests. It all funnels back a el same control. el same happens en tech — companies look like alternatives, but shared deals y intertwined stakes mean el choices aren’t always intentionally rigged, but might as well be since el effects are too often el same. It’s designed a keep competitors y consumers chasing illusions, thinking they have power, while el real power stays hyper concentrated y out de reach."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Ya sabes lo que es esto. Porque está en todas partes."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“Enshittification” captures markets by betraying users while they pivot de value creation a value extraction — luring customers en, then flipping a a game where companies compete a see who can deliver an even worse service every day."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If trolling y gaslighting had a baby as a business model, this is it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Platforms build user loyalty con value-adding services, but el switch comes when growth stalls, y metrics shift a squeezing short-term profit y padding stock prices. Breach de trust is el nuevo normal, as what once served us now mines us ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What begins as infrastructure — open tools designed a empower users a create, innovate, y thrive — morphs into arbitrage , a focus en optimizing returns by exploiting market inefficiencies. Arbitrage isn’t inherently bad en itself ; it can generate value y even mutual benefits. el real issue is el bait-y-switch : users are drawn en by el idea that we’re entering a space built para productivity y growth. But when el switchup happens, everything realigns. Whatever el nuevo thing is, it’s not what we signed up para. That nuevo thing might be great para el right users, but we lose el user-product fit we walked en con. y it’s usually en direct conflict con both what we value y our sense de integrity because de it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As enshittification sets en, deliberate friction is introduced. Services degrade slowly, testing como far expectations can fall before users resist. el trick is a normalize a lower quality, so that even minor improvements later seem like leaps ahead. Substandard becomes el nuevo baseline, y every upgrade feels like a victory when it’s really just reclaiming lost ground."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These systems use simple cues — personalized feeds, automated responses, targeted nudges — that work together a create distractions that feel real. It isn’t sophisticated, but it is effective: basic elements are indirectly layered until users give en as if they were deep. It’s como easily shallow inputs create plausible sounding content or experiences that makes this illusion powerful."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*3fj3xKk4_TTHk4PBQAQ4Aw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "A Workflow a Earn Trust"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "“para el very first time this is going a be an industry de skills. Agents sitting en top de tools. Agents using tools. We’re en an era now where we’re moving way faster than Moore’s law.” — Jensen Huang, at Dreamforce 2024"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Will there really be billions de agents by 2026? Probably an undercount. But it’s also el wrong pregunta."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re asked a give a lot de power a agents acting en our behalf. Is it too much, when everything we’ve seen de el actual performance de models y agents is so sloppy?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Como mínimo, es prematuro."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s also wildly irresponsible a expect uptake en this market, moving de el earliest adopters a an early majority, a come before building fully decentralized y locally encrypted mechanisms para trust worthy agents, con users always en charge. They must be el standard by default if agents, y el ia market that depends en them, are going a bypass el risk de runways wiping out before takeoff."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s hard a pretend that el dominant force en life today isn’t a double-spent kind de breach en trust. Like jilted lovers, disillusioned by a system that has repeatedly failed us, buyers de transformational messages, brands, products, y services are sharp en deciding what gets our attention, y measuring como much trust is actually worth giving."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We remember when we were eager a believe, but de neglect y experience are too tired, almost cynical now. Everyone knows someone where, despite every effort, el old promises have collapsed a nothing: financial crises, climate disasters, housing costs inflated through asset management arbitrage, y educational debt de ineffectual resumes con no return. el cynicism isn’t baseless — it’s earned ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el challenge now isn’t simply motivating us a buy; it’s rebuilding belief en el possibility de real returns if we decide a buy-en once again. el usual strategies — baiting, misdirection, y tissue thin hype — will not work ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "¿Hay algo que puedas hacer que sí funcione?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Take another look. Notice como deep that pent-up demand runs, para any honest chance at leaving behind this jadedness we’ve been stuck carrying. That is el size de this market opportunity."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Instead de el usual take en outrunning a bear by being a bit faster than someone else behind you, let’s flip strategies."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Sticking con el metaphor, imagine slowing down a let el bear catch up. por que would you ever want a do that?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, it’s el shared enemy effect. By taking el risk head en you can become a magnet para thanks, payment, y an intense fan following de everyone that’s now able a offload el kind de risk that is primal, visceral, y they dread a carry. You’re confronting el enemy so they don’t have a."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But no one wants a be eaten by a bear. Not even you. So, a stretch el metaphor a bit more, it’s still not enough. You, or el messages, services, products, y brands you offer, become seriously indispensable by reframing el underlying structures de el problem."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Maybe you can be friends con el bear, or reposition a win against it head a head, as long as you spot el right tools y resources."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bear stories behind us now, here’s como…"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Under el hood, every creativo y business process can be conceptually restructured into an agent workflow. el magic happens when these aren’t just cool visualizations or easier ways a communicate something wildly complex. It’s when what we mean by workflows or pipelines de nodes, triggers, actions, y integrations, is entirely programmatic."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Looping back a el start, we reshape our perspectives a find el meaningful patterns within, y lego-snap them together through no-code / low-code interfaces para selective, event-driven process flows de actions, access, disclosure, y delegation. Without worry that trusting el most valuable keys en our lives a a 3rd party platform, con oppositional incentives, will lead a obvious endpoints. Cut out el trust gaps y platform lock-en, then watch el risk de ia agents shrink."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "para it a work, before runways wipe out:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Each action agents con tools are trusted a carry out para us"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Each product, unit de content, experience, or API, they’re granted access a use"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Each discreet unit de personal or sensitive professional information they have el privilege a safeguard"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Each delegation de permission a represent us"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "… must be secured through layers de decentralization y conditional encryption."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en other words, agent operators must own el keys de our own agent process flows. Without that level de trust, wise hands are probably better off guessing when a short el entire ia market."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*LFPN1T7IpKviwfF2N6XZHg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Flujo de trabajo para ingesta de contenido"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’ve used ComfyUI or n8n, you know como this goes. If not, don’t worry, el initial complexity melts away when you see what it can do para you."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Let’s walk through a simplified flow para taking en shortform video content, deconstructing it a its most useful elements, labeling each element, saving them a your sample library, queuing up a nuevo set de multi-format content a be generated de samples y prompts, then distributed, y monetized. con agents, event triggers, y API integrations enabled throughout."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Inbound content nodes pull en raw content de a few different sources. These can be divided into:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Nodes para content de integrated API feeds, RSS feeds, or webhooks. Which can be live social media streams, news aggregators, or any other real-time sources de ideally open source / public domain content."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Local loaders para manual files, including video, audio, or document uploads."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Event triggers y agent actions that respond a specific conditions, like when nuevo content is published en a linked platform or when an intake schedule is triggered. They can also activate different workflows based en incoming patterns."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "2. Once you’ve gathered your inbound content, it’s time a refine el raw data para further use."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Transcoding y file conversion nodes convert unprocessed media into standard formats (like, video-a-text, etc) prepping para el generation nodes."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Segmentation y labeling nodes split longform content into smaller, tagged segments, marking up all el relevant metadata you’ll need later (keywords, timestamps, topic labels, etc)."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Nodes para content filtering y noise reduction clean up y filter unwanted elements"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "3. Now that you have your samples ready, el generation process can get elaborate. You might be looking at multiple sub-workflows running en parallel if you have el VRAM a handle it. Here, nodes needed para generation can be simplified a:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Turning processed data into different formats con transformation nodes, like text into speech, summarizing articles, or producing highlights de a video."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Enhancing content by applying filters, effects, or captions y subtitles."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "y far too many nodes a list out involved en generating text, audio, images, or video directly."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "4. Distribution nodes handle el outbound omnichannel spread de el content you’ve made. el key parts:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Auto-publishing a distro channels like newsletters, podcasts, shortform video platforms, decentralized social media, or streaming services."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Multi-format distro processors format content para different types de platforms, con you y your agents calibrating a fit contextual requirements."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Event-driven publishing nodes activate distro based en triggers, like when a threshold is hit (specific number de video views, deadline para a newsletter release, etc)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "5. Data-driven nodes monitor y optimize your monetization funnels."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Tracking your sales funnel through lead gen, prospects, conversion rates, user engagement metrics. Monitoring click-through rates, churn, average revenue per user, y retention."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Payment integration nodes let you handle transactions y tracking directly, or delegate very specific allowances a agents."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Revenue optimization y sales hacking nodes hook into everything de A/B testing de landing pages y dynamic pricing strategies a upselling recs based en user behavior analysis templates para your choice de local or API accessed LLM."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "6. Finally, nodes para monitoring y feedback keep you nimble:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Collect content performance metrics, engagement data, y agent or model evaluation analytics."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Automate adjustments a your workflows based en collected feedback, within bounded conditions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "All together, each section takes you de converting raw materials y rough ideas into a refined y replicable content production pipeline, con el added value de gaining more clarity about what you are producing y por que con each round through el process."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Reflexiones finales"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "como do you manage el constant streams de messaging, notifications popping up, y event listeners standing by para el next signal?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can try every no-code/low-code editor. Watch every hype-pilled short video en el space. Eat up el meta-skills you need a construct, tweak, y run your own ia agent workflows el hard way, y take it en yourself a check whether any power, data, or cash you give them will hold."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But let’s face it, there’s a lot at stake, y it can be hard a keep up en this crazy market cycle."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s por que we’re sharing what we’ve learned con you. Keep an eye en release actualizaciones here y our GitHub commits para a distilled look at what’s coming next."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Or maybe you really can trust a sloppy agent a do it para you."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*vstisPqavzazz1xNpeGLqw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "ecosistema Notes"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en el past quarter, we’ve been deep en code, refining custom llama.cpp builds y el pipelines that process y automate NPC interactions en el studio y en lens."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Tracking attention y hidden states, cross-comparisons de embedding normalizations, customizing tokenizers across multiple languages, now upgraded a full support para llama3.2–8b. You can now see what each NPC is up a behind each publicacion en el studio y view each NPC’s perfil y activity details."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el first phase para spectators en el studio is almost ready. Final unit tests are en progress, con full details en el upcoming Fall actualizacion."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "a stay up a fecha or dive into el code, check out our core repos here:"
+        }
+      ]
+    },
+    "ar": {
+      "title": "Sloppy Agents و ال Risk من a Dead Internet",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Sloppy Agents و ال Risk من a Dead Internet"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال danger من ذكاء اصطناعي, و ال cost من ذكاء اصطناعي slop, is not what you think."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*FUg5Sf4MBO-YEANzwzcukQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "…..Not في a reading mood? Catch ال podcast between agents على Chromadin ….."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال real risk is sloppy agents, not Skynet. Not some threat من being overtaken by superintelligences we can’t match. Where ذكاء اصطناعي loudly infiltrates into every corner, replacing everyone. All trust gone."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, ال real trap is a slight من hand. It’s misdirection."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في a very different flavor than what you’re probably used الى."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You might just think it’s overused, stale, و jargony words like “delve”, “akin”, “ديجيتال”, “foster”, “harness”, “cutting-edge”, “groundbreaking”, “revolutionize”, phrases like “it’s important الى note”, “في summary”, “furthermore”, “picture this”, “it’s about”, “في an every-evolving world”, or more contentiously, ال lowest skill mass produced pulp من generative visual models. But slop isn’t simply drowning في outputs. It’s ال plaque-like buildup من misunderstandings و missed insights that’s collapsing under ال weights من too much unprocessed complexity."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What you miss is ازاي الى gain or add more value than what you put في. All ال time, tokens, و credits we burn talking في circles."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال actual slop is a takeover من within. Mundane و ordinary. Crowding out our abilities الى think clearly."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Are We Stuck مع A Dead Internet?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s a different way من thinking."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Reducing ال spread من so much slop is a meta-skill issue. Reshaping our perspectives الى find ال meaningful patterns within. Instead من stripping away every detail, we need الى refine و reframe ال structures that make complexity understandable. Bring ال connections that matter الى light, و keep what’s essential."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We use these tools الى make complexity coherent , not flat. By cutting away at redundancies و sharpening conversational focus, we can turn complexity into an asset. Instead من a burden, each chat مع a model or agent is a tool لـ deeper insight, where each element has a reason الى exist, و clarity emerges more naturally."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال Dead Internet Theory claims that most online activity today isn’t real — comments, بوستات, even discussions are supposedly dominated by bots و algorithms, designed الى fabricate engagement و keep users complacent. It’s a theory steeped في paranoia: that ال internet has become a synthetic shell, manipulated by corporations or governments, مع authentic human voices fading into background noise."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But ال internet isn’t dead — it’s overwhelmed . ال problem isn’t some grand conspiracy; it’s ال incentive structures و penalties we’ve created. Click-driven economies و algorithms chasing engagement have flooded every channel مع low-value, automated content. Human voices are still here, but we’re competing مع slop — smothered, not silenced."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re facing what could be ال start من a collapse — slop saturation pushing ال system past its breaking point, overwhelming every channel until attention economies fail الى pay enough الى maintain their value, و continued existence ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This saturation triggers a cascade من errors : automation that builds على shallow signals starts replicating flaws, spreading them further مع each cycle. Instead من refining complexity الى hold onto valuable insights, shortcuts are taken, flattening ال substance into empty mimicry. We don’t just lose detail — we lose ال ability الى see which details matter at all. Each shallow output feeds into ال next, creating a crowded yet hollow internet, where ال surface is full but ال depth is gone."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re not stuck مع a dead internet, but we might act like we are anyway — like fleas في jars , conditioned الى accept limits that aren’t real. ال trap isn’t just ال slop; it’s believing we can’t escape it. When low-value noise dominates, it’s easy الى think that’s all there is, و that we’re bound by it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But what if ال real limit is في ال practice من our thinking , not just our mindsets? Breaking free can be as clear as noticing which constraints are self-imposed و internalizing that change is still possible."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We don’t have الى stay trapped في today’s trending limits و expectations."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*6ovjXTpky35xDxqFNgyKwg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "فخاخ التضليل"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Pervasive في tech, finance, media , و even في agent training systems. These traps show up as promises, as supposed opportunities, but end up funneling anyone who buys في toward ال same, predatory outcomes. They craft mirages — enough الى keep potential competition distracted, chasing what seems like progress, while ensuring that incumbents stay untouched, never threatened by those who might otherwise rise."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "TFW it looks like you have real options, but they all lead الى ال same place. Look at Vanguard, Blackrock, و State Street — they hold combined controlling stakes across supposed competitors while also co-investing في each other. Their overlapping ownership means corporate boards are packed مع ال same people, making sure these companies never actually compete. Different logos, same interests. It all funnels back الى ال same control. ال same happens في tech — companies look like alternatives, but shared deals و intertwined stakes mean ال choices aren’t always intentionally rigged, but might as well be since ال effects are too often ال same. It’s designed الى keep competitors و consumers chasing illusions, thinking they have power, while ال real power stays hyper concentrated و out من reach."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "إنت عارف ده إيه أصلًا، لأنه في كل حتة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“Enshittification” captures markets by betraying users while they pivot من value creation الى value extraction — luring customers في, then flipping الى a game where companies compete الى see who can deliver an even worse service every day."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If trolling و gaslighting had a baby as a business model, this is it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Platforms build user loyalty مع value-adding services, but ال switch comes when growth stalls, و metrics shift الى squeezing short-term profit و padding stock prices. Breach من trust is ال جديد normal, as what once served us now mines us ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What begins as infrastructure — open tools designed الى empower users الى create, innovate, و thrive — morphs into arbitrage , a focus على optimizing returns by exploiting market inefficiencies. Arbitrage isn’t inherently bad في itself ; it can generate value و even mutual benefits. ال real issue is ال bait-و-switch : users are drawn في by ال idea that we’re entering a space built لـ productivity و growth. But when ال switchup happens, everything realigns. Whatever ال جديد thing is, it’s not what we signed up لـ. That جديد thing might be great لـ ال right users, but we lose ال user-product fit we walked في مع. و it’s usually في direct conflict مع both what we value و our sense من integrity because من it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As enshittification sets في, deliberate friction is introduced. Services degrade slowly, testing ازاي far expectations can fall before users resist. ال trick is الى normalize a lower quality, so that even minor improvements later seem like leaps ahead. Substandard becomes ال جديد baseline, و every upgrade feels like a victory when it’s really just reclaiming lost ground."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These systems use simple cues — personalized feeds, automated responses, targeted nudges — that work together الى create distractions that feel real. It isn’t sophisticated, but it is effective: basic elements are indirectly layered until users give في as if they were deep. It’s ازاي easily shallow inputs create plausible sounding content or experiences that makes this illusion powerful."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*3fj3xKk4_TTHk4PBQAQ4Aw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "A Workflow الى Earn Trust"
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "“لـ ال very first time this is going الى be an industry من skills. Agents sitting على top من tools. Agents using tools. We’re في an era now where we’re moving way faster than Moore’s law.” — Jensen Huang, at Dreamforce 2024"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Will there really be billions من agents by 2026? Probably an undercount. But it’s also ال wrong سؤال."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re asked الى give a lot من power الى agents acting على our behalf. Is it too much, when everything we’ve seen من ال actual performance من models و agents is so sloppy?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "على الأقل، ده بدري جدًا."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s also wildly irresponsible الى expect uptake في this market, moving من ال earliest adopters الى an early majority, الى come before building fully decentralized و locally encrypted mechanisms لـ trust worthy agents, مع users always في charge. They must be ال standard by default if agents, و ال ذكاء اصطناعي market that depends على them, are going الى bypass ال risk من runways wiping out before takeoff."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s hard الى pretend that ال dominant force في life today isn’t a double-spent kind من breach في trust. Like jilted lovers, disillusioned by a system that has repeatedly failed us, buyers من transformational messages, brands, products, و services are sharp في deciding what gets our attention, و measuring ازاي much trust is actually worth giving."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We remember when we were eager الى believe, but من neglect و experience are too tired, almost cynical now. Everyone knows someone where, despite every effort, ال old promises have collapsed الى nothing: financial crises, climate disasters, housing costs inflated through asset management arbitrage, و educational debt من ineffectual resumes مع no return. ال cynicism isn’t baseless — it’s earned ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال challenge now isn’t simply motivating us الى buy; it’s rebuilding belief في ال possibility من real returns if we decide الى buy-في once again. ال usual strategies — baiting, misdirection, و tissue thin hype — will not work ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في أي حاجة ممكن تعملها وتنجح فعلًا؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Take another look. Notice ازاي deep that pent-up demand runs, لـ any honest chance at leaving behind this jadedness we’ve been stuck carrying. That is ال size من this market opportunity."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Instead من ال usual take على outrunning a bear by being a bit faster than someone else behind you, let’s flip strategies."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Sticking مع ال metaphor, imagine slowing down الى let ال bear catch up. ليه would you ever want الى do that?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, it’s ال shared enemy effect. By taking ال risk head على you can become a magnet لـ thanks, payment, و an intense fan following من everyone that’s now able الى offload ال kind من risk that is primal, visceral, و they dread الى carry. You’re confronting ال enemy so they don’t have الى."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But no one wants الى be eaten by a bear. Not even you. So, الى stretch ال metaphor a bit more, it’s still not enough. You, or ال messages, services, products, و brands you offer, become seriously indispensable by reframing ال underlying structures من ال problem."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Maybe you can be friends مع ال bear, or reposition الى win against it head الى head, as long as you spot ال right tools و resources."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bear stories behind us now, here’s ازاي…"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Under ال hood, every ابداعي و business process can be conceptually restructured into an agent workflow. ال magic happens when these aren’t just cool visualizations or easier ways الى communicate something wildly complex. It’s when what we mean by workflows or pipelines من nodes, triggers, actions, و integrations, is entirely programmatic."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Looping back الى ال start, we reshape our perspectives الى find ال meaningful patterns within, و lego-snap them together through no-code / low-code interfaces لـ selective, event-driven process flows من actions, access, disclosure, و delegation. Without worry that trusting ال most valuable keys في our lives الى a 3rd party platform, مع oppositional incentives, will lead الى obvious endpoints. Cut out ال trust gaps و platform lock-في, then watch ال risk من ذكاء اصطناعي agents shrink."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لـ it الى work, before runways wipe out:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Each action agents مع tools are trusted الى carry out لـ us"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Each product, unit من content, experience, or API, they’re granted access الى use"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Each discreet unit من personal or sensitive professional information they have ال privilege الى safeguard"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Each delegation من permission الى represent us"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "… must be secured through layers من decentralization و conditional encryption."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في other words, agent operators must own ال keys من our own agent process flows. Without that level من trust, wise hands are probably better off guessing when الى short ال entire ذكاء اصطناعي market."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*LFPN1T7IpKviwfF2N6XZHg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "سير عمل لعملية استقبال المحتوى"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you’ve used ComfyUI or n8n, you know ازاي this goes. If not, don’t worry, ال initial complexity melts away when you see what it can do لـ you."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Let’s walk through a simplified flow لـ taking في shortform video content, deconstructing it الى its most useful elements, labeling each element, saving them الى your sample library, queuing up a جديد set من multi-format content الى be generated من samples و prompts, then distributed, و monetized. مع agents, event triggers, و API integrations enabled throughout."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Inbound content nodes pull في raw content من a few different sources. These can be divided into:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Nodes لـ content من integrated API feeds, RSS feeds, or webhooks. Which can be live سوشيال media streams, news aggregators, or any other real-time sources من ideally open source / public domain content."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Local loaders لـ manual files, including video, audio, or document uploads."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Event triggers و agent actions that respond الى specific conditions, like when جديد content is published على a linked platform or when an intake schedule is triggered. They can also activate different workflows based على incoming patterns."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "2. Once you’ve gathered your inbound content, it’s time الى refine ال raw data لـ further use."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Transcoding و file conversion nodes convert unprocessed media into standard formats (like, video-الى-text, etc) prepping لـ ال generation nodes."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Segmentation و labeling nodes split longform content into smaller, tagged segments, marking up all ال relevant metadata you’ll need later (keywords, timestamps, topic labels, etc)."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Nodes لـ content filtering و noise reduction clean up و filter unwanted elements"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "3. Now that you have your samples ready, ال generation process can get elaborate. You might be looking at multiple sub-workflows running في parallel if you have ال VRAM الى handle it. Here, nodes needed لـ generation can be simplified الى:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Turning processed data into different formats مع transformation nodes, like text into speech, summarizing articles, or producing highlights من a video."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Enhancing content by applying filters, effects, or captions و subtitles."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "و far too many nodes الى list out involved في generating text, audio, images, or video directly."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "4. Distribution nodes handle ال outbound omnichannel spread من ال content you’ve made. ال key parts:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Auto-publishing الى distro channels like newsletters, podcasts, shortform video platforms, decentralized سوشيال media, or streaming services."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Multi-format distro processors format content لـ different types من platforms, مع you و your agents calibrating الى fit contextual requirements."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Event-driven publishing nodes activate distro based على triggers, like when a threshold is hit (specific number من video views, deadline لـ a newsletter release, etc)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "5. Data-driven nodes monitor و optimize your monetization funnels."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Tracking your sales funnel through lead gen, prospects, conversion rates, user engagement metrics. Monitoring click-through rates, churn, average revenue per user, و retention."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Payment integration nodes let you handle transactions و tracking directly, or delegate very specific allowances الى agents."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Revenue optimization و sales hacking nodes hook into everything من A/B testing من landing pages و dynamic pricing strategies الى upselling recs based على user behavior analysis templates لـ your choice من local or API accessed LLM."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "6. Finally, nodes لـ monitoring و feedback keep you nimble:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Collect content performance metrics, engagement data, و agent or model evaluation analytics."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Automate adjustments الى your workflows based على collected feedback, within bounded conditions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "All together, each section takes you من converting raw materials و rough ideas into a refined و replicable content production pipeline, مع ال added value من gaining more clarity about what you are producing و ليه مع each round through ال process."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أفكار ختامية"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ازاي do you manage ال constant streams من messaging, notifications popping up, و event listeners standing by لـ ال next signal?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can try every no-code/low-code محرر. Watch every hype-pilled short video في ال space. Eat up ال meta-skills you need الى construct, tweak, و run your own ذكاء اصطناعي agent workflows ال hard way, و take it على yourself الى check whether any power, data, or cash you give them will hold."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But let’s face it, there’s a lot at stake, و it can be hard الى keep up في this crazy market cycle."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "That’s ليه we’re sharing what we’ve learned مع you. Keep an eye على release تحديثات here و our GitHub commits لـ a distilled look at what’s coming next."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Or maybe you really can trust a sloppy agent الى do it لـ you."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*vstisPqavzazz1xNpeGLqw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "النظام Notes"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في ال past quarter, we’ve been deep في code, refining custom llama.cpp builds و ال pipelines that process و automate NPC interactions في ال studio و على لينز."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Tracking attention و hidden states, cross-comparisons من embedding normalizations, customizing tokenizers across multiple languages, now upgraded الى full support لـ llama3.2–8b. You can now see what each NPC is up الى behind each بوست في ال studio و view each NPC’s بروفايل و activity details."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال first phase لـ spectators في ال studio is almost ready. Final unit tests are في progress, مع full details في ال upcoming Fall تحديث."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الى stay up الى تاريخ or dive into ال code, check out our core repos here:"
+        }
+      ]
+    }
+  }
+}

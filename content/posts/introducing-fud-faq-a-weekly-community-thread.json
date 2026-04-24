@@ -1,0 +1,531 @@
+{
+  "slug": "introducing-fud-faq-a-weekly-community-thread",
+  "date": "2021-03-22",
+  "translations": {
+    "en": {
+      "title": "Introducing FUD FAQ | A Weekly Community Thread",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Introducing FUD FAQ | A Weekly Community Thread"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/1*h-nHdtvZpt_p8TowQjSNpQ.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "We are Introducing the Weekly FUD FAQ— establishing more of a central information hub for onboarding newbies into our ecosystem and addressing community questions and comments."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The FUD FAQ will be released at the end of each week and focus across;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Top Questions of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Most Common Repeat Questions"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Top Controversies for the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you have legit questions, random silly questions, or just feel like trolling join the DIGITALAX discord and direct your questions to the #FUD-FAQ channel."
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "Here is a taste of what FUD FAQ is all about. Get your comments, questions, and wild fabrications in before it’s too late!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Questions"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Is ESPA a deviation from DIGITALAX?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, ESPA is not a deviation from DIGITALAX. In fact, it is a vital keystone to the entire ecosystem being built. Fashion is both very much at the core and also the consistent thread line tying everything together. In order to establish, grow and sustainably scale the digital fashion industry, where designers are able to actively engage, create economic value, jobs, income for themselves and their livelihoods, we must directly embed an incentivised bridge for driving the market demand into full spectrum utility."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As of today, application and utility for digital fashion is only properly functional and sustainable within digital environments across gaming, VR and 3D. ESPA creates this bridge— allowing Designers, Developers, Players to actively maintain a stake within the fabric of the DIGITALAX ecosystem and the interwoven digital environments. ESPA also provides the mass adoption infrastructure for these ecosystem participants to leverage off of the value contained within Web3, Crypto, NFTs, without requiring them to actually build on blockchain directly."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "For more information, check out this article ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Common Repeat Questions"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Is $MONA listed on any centralised exchanges? Why or Why not?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, $MONA is only listed on DEX’s. At the moment that is Uniswap and very soon to be Quickswap through the Matic integration."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Building in Web3 and on Ethereum was a conscious and intentional decision for the DIGITALAX project. Both the technical features and translated business value that blockchain and decentralised networks fundamentally establish are the future that DIGITALAX stands for. The team took a 0% allocation of $MONA during the launch and we release a full transparency report of the Treasury’s expenditure every month. We do this practice to adhere and align with our core values."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Not all, but most, centralised exchanges do not stand for the same degree of transparency, trust and decentralisation that we as a protocol require. We are not here to replace the old bankers and gatekeepers with new walled gardens. Web3 is about disruption at a core level, and we stand by this."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This is not to say that $MONA would never be listed on a CEX, however, we will make sure that the right partner stands for the same values as us."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Industry Controversies"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Are NFTs exploiting Artists and Gamers?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No. Next question."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Jks, I’ll give you more than that. But it is obvious to anyone that has been an Artist or Gamer for any stretch of time that something very different is happening now than ever before. You now have the ability to create and mint your own work without anyones permission or approval and make real money from it. This is freedom and power within your own life, actively defending you from exploitation and exploiters. It is no surprise that some of the loudest voices calling NFTs tools of exploitation are leading figures in the hyper exploitative legacy industries."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolls"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "An oldie but goodie…. 😂"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "es": {
+      "title": "introduciendo FUD FAQ | Un hilo comunitario semanal",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "introduciendo FUD FAQ | Un hilo comunitario semanal"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/1*h-nHdtvZpt_p8TowQjSNpQ.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "We are introduciendo el Weekly FUD FAQ— establishing more de a central information hub para onboarding newbies into our ecosistema y addressing comunidad preguntas y comments."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el FUD FAQ will be released at el end de each semana y focus across;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Preguntas principales de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Most Preguntas repetidas"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Top Controversies para el Industry"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you have legit preguntas, random silly preguntas, or just feel like trolling join el DIGITALAX discord y direct your preguntas a el #FUD-FAQ channel."
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "Here is a taste de what FUD FAQ is all about. Get your comments, preguntas, y wild fabrications en before it’s too late!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Preguntas principales"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Is ESPA a deviation de DIGITALAX?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, ESPA is not a deviation de DIGITALAX. en fact, it is a vital keystone a el entire ecosistema being built. moda is both very much at el core y also el consistent hilo line tying everything together. en order a establish, grow y sustainably scale el digital moda industry, where designers are able a actively engage, create economic value, jobs, income para themselves y their livelihoods, we must directly embed an incentivised bridge para driving el market demand into full spectrum utility."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As de today, application y utility para digital moda is only properly functional y sustainable within digital environments across gaming, VR y 3D. ESPA creates this bridge— allowing Designers, Developers, Players a actively maintain a stake within el fabric de el DIGITALAX ecosistema y el interwoven digital environments. ESPA also provides el mass adoption infrastructure para these ecosistema participants a leverage off de el value contained within Web3, Crypto, NFTs, without requiring them a actually build en blockchain directly."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "para more information, check out this article ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Preguntas repetidas"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Is $MONA listed en any centralised exchanges? por que or por que not?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, $MONA is only listed en DEX’s. At el moment that is Uniswap y very soon a be Quickswap through el Matic integration."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Building en Web3 y en Ethereum was a conscious y intentional decision para el DIGITALAX project. Both el technical features y translated business value that blockchain y decentralised networks fundamentally establish are el future that DIGITALAX stands para. el team took a 0% allocation de $MONA during el launch y we release a full transparency report de el Treasury’s expenditure every month. We do this practice a adhere y align con our core values."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Not all, but most, centralised exchanges do not stand para el same degree de transparency, trust y decentralisation that we as a protocolo require. We are not here a replace el old bankers y gatekeepers con nuevo walled gardens. Web3 is about disruption at a core level, y we stand by this."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This is not a say that $MONA would never be listed en a CEX, however, we will make sure that el right partner stands para el same values as us."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Controversias principales"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Are NFTs exploiting Artists y Gamers?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No. Next pregunta."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Jks, I’ll give you more than that. But it is obvious a anyone that has been an Artist or Gamer para any stretch de time that something very different is happening now than ever before. You now have el ability a create y mint your own work without anyones permission or approval y make real money de it. This is freedom y power within your own life, actively defending you de exploitation y exploiters. It is no surprise that some de el loudest voices calling NFTs tools de exploitation are leading figures en el hyper exploitative legacy industries."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolls"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Un clásico viejo pero buenísimo… 😂"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "ar": {
+      "title": "تقديم FUD FAQ | ثريد مجتمعي اسبوعي",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "تقديم FUD FAQ | ثريد مجتمعي اسبوعي"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/1*h-nHdtvZpt_p8TowQjSNpQ.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "We are تقديم ال Weekly FUD FAQ— establishing more من a central information hub لـ onboarding newbies into our النظام و addressing المجتمع اسئلة و comments."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال FUD FAQ will be released at ال end من each اسبوع و focus across;"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "اهم الاسئلة من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Most الاسئلة المتكررة"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Top Controversies لـ ال Industry"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you have legit اسئلة, random silly اسئلة, or just feel like trolling join ال DIGITALAX discord و direct your اسئلة الى ال #FUD-FAQ channel."
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "Here is a taste من what FUD FAQ is all about. Get your comments, اسئلة, و wild fabrications في before it’s too late!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "اهم الاسئلة"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Is ESPA a deviation من DIGITALAX?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, ESPA is not a deviation من DIGITALAX. في fact, it is a vital keystone الى ال entire النظام being built. فاشون is both very much at ال core و also ال consistent ثريد line tying everything together. في order الى establish, grow و sustainably scale ال ديجيتال فاشون industry, where designers are able الى actively engage, create economic value, jobs, income لـ themselves و their livelihoods, we must directly embed an incentivised bridge لـ driving ال market demand into full spectrum utility."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As من today, application و utility لـ ديجيتال فاشون is only properly functional و sustainable within ديجيتال environments across gaming, VR و 3D. ESPA creates this bridge— allowing Designers, Developers, Players الى actively maintain a stake within ال fabric من ال DIGITALAX النظام و ال interwoven ديجيتال environments. ESPA also provides ال mass adoption infrastructure لـ these النظام participants الى leverage off من ال value contained within Web3, Crypto, NFTs, without requiring them الى actually build على blockchain directly."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لـ more information, check out this article ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "الاسئلة المتكررة"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Is $MONA listed على any centralised exchanges? ليه or ليه not?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No, $MONA is only listed على DEX’s. At ال moment that is Uniswap و very soon الى be Quickswap through ال Matic integration."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Building في Web3 و على Ethereum was a conscious و intentional decision لـ ال DIGITALAX project. Both ال technical features و translated business value that blockchain و decentralised networks fundamentally establish are ال future that DIGITALAX stands لـ. ال team took a 0% allocation من $MONA during ال launch و we release a full transparency report من ال Treasury’s expenditure every month. We do this practice الى adhere و align مع our core values."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Not all, but most, centralised exchanges do not stand لـ ال same degree من transparency, trust و decentralisation that we as a بروتوكول require. We are not here الى replace ال old bankers و gatekeepers مع جديد walled gardens. Web3 is about disruption at a core level, و we stand by this."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "This is not الى say that $MONA would never be listed على a CEX, however, we will make sure that ال right partner stands لـ ال same values as us."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "اهم جدالات المجال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Are NFTs exploiting Artists و Gamers?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No. Next سؤال."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Jks, I’ll give you more than that. But it is obvious الى anyone that has been an Artist or Gamer لـ any stretch من time that something very different is happening now than ever before. You now have ال ability الى create و mint your own work without anyones permission or approval و make real money من it. This is freedom و power within your own life, actively defending you من exploitation و exploiters. It is no surprise that some من ال loudest voices calling NFTs tools من exploitation are leading figures في ال hyper exploitative legacy industries."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolls"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "قديمة بس عظيمة… 😂"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-53",
+  "date": "2022-04-03",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 53",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 53"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*5kTCLeeZir9-oo-H.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s the update on the Rarible integration?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We had our final collaborative engineering calls with the Rarible team last week, in preparation for the first announcement to officially go live tomorrow. Overall, the refactoring has been a massive undertaking, with even special migration scripts written for updating the listings across all marketplace offers for the DIGITALAX V3 Marketplace contracts + Rarible marketplace."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We are super excited to go live and begin this new chapter!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Does CC0 really mean that creators can make whatever they want without having to get permission?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It‘s interesting, because, even a few creators and builders in the CC0 community aren’t quite clear about this one. But yes, if you go CC0 it means encouraging people, or at least biting your lip, when they use it to create whatever they want. As far as we are concerned that is a fantastic power to have, and, the savviest among us will ride that wave to great success."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Wow. This is now the biggest hack in crypto history. The controversy here is whether things really were kept secure leading up to the hack, and, if a 6 day lag time is appropriate for a multi-billion dollar project to respond in."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The importances of opsec and infosec should never be underestimated."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*qAH1YL_ojE7rWJ8XOvj09w.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The case for Bitcoin maximalism… a clever April Fools? Either way, take what you will from it."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo semanal de la comunidad | Semana 53",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo semanal de la comunidad | Semana 53"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*5kTCLeeZir9-oo-H.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cuál es la actualización sobre la integración con Rarible?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "La semana pasada tuvimos nuestras llamadas finales de ingeniería colaborativa con el equipo de Rarible, en preparación para que mañana salga en vivo el primer anuncio oficial. En general, la refactorización fue una tarea enorme, incluso con scripts especiales de migración escritos para actualizar los listados en todas las ofertas del marketplace para los contratos DIGITALAX V3 Marketplace + el marketplace de Rarible."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "¡Estamos súper emocionados de salir en vivo y empezar este nuevo capítulo!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta repetida más común"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿CC0 realmente significa que los creadores pueden hacer lo que quieran sin pedir permiso?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Es interesante porque incluso algunos creadores y builders dentro de la comunidad CC0 todavía no lo tienen del todo claro. Pero sí: si eliges CC0, eso implica alentar a la gente, o al menos morderte el labio, cuando usen ese trabajo para crear lo que quieran. Para nosotros, eso es un poder fantástico, y los más hábiles sabrán surfear esa ola hacia un gran éxito."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias de la industria"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Wow. Esto ya es el mayor hack en la historia de cripto. La controversia acá es si realmente se mantuvo la seguridad antes del hack y si un retraso de 6 días es una respuesta aceptable para un proyecto de miles de millones."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "La importancia de opsec e infosec nunca debe subestimarse."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*qAH1YL_ojE7rWJ8XOvj09w.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y troleo"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "El caso del maximalismo Bitcoin… ¿una broma inteligente del April Fools? Sea como sea, toma de eso lo que quieras."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira aquí todos los FUD FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido al artículo de la próxima semana, escríbenos por nuestro servidor de Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Únete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 53",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 53"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*5kTCLeeZir9-oo-H.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إيه آخر تحديث بخصوص دمج Rarible؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الأسبوع اللي فات عملنا آخر مكالمات هندسية تعاونية مع فريق Rarible، تجهيزًا لأول إعلان رسمي ينزل live بكرة. بشكل عام، الـ refactor كان مجهود ضخم جدًا، ووصل إننا كتبنا migration scripts خاصة لتحديث الـ listings عبر كل عروض السوق في عقود DIGITALAX V3 Marketplace + سوق Rarible."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "إحنا متحمسين جدًا للنزول live وبدء الفصل الجديد ده!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر سؤال متكرر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "هل CC0 فعلًا معناها إن المبدعين يقدروا يعملوا اللي عايزينه بدون إذن؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "السؤال ده مهم، لأن حتى بعض المبدعين والـ builders جوه مجتمع CC0 لسه مش واضح لهم بالكامل. لكن الإجابة: آه. لو اخترت CC0، يبقى ده معناه إنك تشجع الناس، أو على الأقل تتحمل، لما يستخدموا الشغل ده ويبنوا عليه اللي هم عايزينه. بالنسبة لنا دي قوة ممتازة، والناس الأذكى هتعرف تركب الموجة دي لنجاح كبير."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أبرز الجدل في المجال"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "واو. ده دلوقتي أكبر اختراق في تاريخ الكريبتو. الجدل هنا: هل التأمين كان فعلاً متماسك قبل الاختراق، وهل تأخير 6 أيام في الرد مناسب لمشروع بمليارات؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أهمية opsec وinfosec عمرها ما تتقلل."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*qAH1YL_ojE7rWJ8XOvj09w.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إخفاقات عبثية وتريولنج"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "حجة Bitcoin maximalism… هل كانت نكتة ذكية في April Fools؟ في كل الأحوال، خد منها اللي يناسبك."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو حابب سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، تواصل معانا من خلال سيرفر DIGITALAX على Discord في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

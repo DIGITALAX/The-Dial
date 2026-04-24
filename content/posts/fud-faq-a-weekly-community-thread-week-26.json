@@ -1,0 +1,396 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-26",
+  "date": "2021-09-26",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 26",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 26"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*OrkEANorxXMA71qL.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Where do I go to find out everything I’m missing?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Went to an event in Venice Beach this week and the top question was exactly that. With everything happening not just in the DIGITALAX & web3 fashion ecosystem, but in decentralized tech as a whole, how can anyone hope to keep up with everything they need to know? Where do you go to sauce alpha?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, this is one of the reasons why we created the quick primer, however, there is a lot more that can be done by the web3 space in general to ease people into this new world."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Whilst DIGITALAX is working on ways to clone ourselves since there literally isn’t enough time to meet with each of you after an alpha leak 😉😆 it’s still something that is a few years away. So, in the meantime we are working on new ways that anyone can get an instant digest dynamically whenever and wherever you are."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When DAO, which DAO, and can I really go full time?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Our feeds the past weeks have been filled with either people getting recruited to go work for a16z or people quitting their jobs to go full time into a DAO. But is that really feasible and do the pathways into DAOs even exist for them to go full time into?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DAOs are a really unique path to come into crypto, as instead of going it alone, it’s an opportunity to grow a strong community, learn the ins and outs of the space and start operating in new natively web3 ways, with a squad around you dedicated to mutual success. Yet, knowing where to start is not so easy and knowing which DAO is actually right for you can often only be found out after you’ve leaped into the deep end."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If there was an easy way for people to sort through DAO contribution opportunities it would really help accelerate an individual DAO member’s and the entire space’s growth. More to come on what we are doing about this shortly."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Another week and another SEC overreach. There have been increasingly brazen attempts to completely outlaw all of crypto and follow in the footsteps of China as it moves towards full centralised economic control. It’s getting nearly impossible to assume that any of these accusations and claims reflect good faith efforts to protect consumers, when it’s pretty clear that its personal vendettas on the behalf of protecting the big banks and other insider interests at the publics expense. And it’s not just that, but also, diving deeper into the system that the SEC is built to serve continues to reveal just how prohibitively expensive it is in both cost of compliance and opportunity cost of time and innovation. They really don’t care whether the US continues to lead the global tech industry and maintaining the ability for anyone to have a shot at it. It’s getting harder and harder to justify the worth of disingenuous intermediaries and regulators."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "China bans all crypto again…. well, to be precise, the “12th” again. Will this finally do the trick or is the collapse of China’s global economic position inevitable? They are seizing greater control over every facet of daily life and economic activity far beyond their own boarders and seem terrified of another way of life beyond total state control. They are regressing very fast towards little red books."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo semanal de la comunidad | Semana 26",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo semanal de la comunidad | Semana 26"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*OrkEANorxXMA71qL.jpeg",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿A dónde voy para enterarme de todo lo que me estoy perdiendo?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Esta semana fui a un evento en Venice Beach y la pregunta principal fue exactamente esa. Con todo lo que pasa no solo en el ecosistema DIGITALAX y web3 fashion, sino en la tecnología descentralizada en general, ¿cómo puede cualquiera mantenerse al día con todo lo que necesita saber? ¿Dónde vas a conseguir alpha útil?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bueno, esa es una de las razones por las que creamos el quick primer. Pero además hay mucho más que el espacio web3 en general puede hacer para facilitar la entrada de la gente a este nuevo mundo."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Mientras DIGITALAX trabaja en formas de clonarnos porque literalmente no alcanza el tiempo para reunirnos con cada persona después de cada alpha leak 😉😆, eso sigue estando a algunos años. Mientras tanto estamos construyendo nuevas formas para que cualquiera reciba un digest instantáneo y dinámico, cuando sea y donde sea."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta repetida más común"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cuándo DAO, cuál DAO, y de verdad puedo ir full-time?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Nuestros feeds estas semanas estuvieron llenos de gente siendo reclutada por a16z o dejando su trabajo para irse full-time a una DAO. Pero, ¿de verdad eso es viable y existen caminos claros para que esa transición sea real?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Las DAOs son una ruta única para entrar a cripto porque, en vez de ir en solitario, te permiten crecer en comunidad, aprender a fondo cómo funciona el espacio y empezar a operar en modos realmente nativos de web3, con un squad comprometido con el éxito mutuo. Aun así, saber por dónde empezar no es fácil y descubrir cuál DAO te encaja de verdad muchas veces solo lo sabes después de tirarte al agua."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Si existiera una manera simple de filtrar oportunidades de contribución en DAOs, aceleraría mucho el crecimiento de cada miembro y del ecosistema completo. Pronto compartiremos más de lo que estamos haciendo en esa dirección."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias de la industria"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Otra semana y otro exceso de la SEC. Cada vez hay intentos más descarados de prohibir todo cripto y seguir el camino de China hacia control económico totalmente centralizado. Ya es casi imposible asumir que estas acusaciones buscan proteger consumidores de buena fe, cuando parece claro que responden a vendettas para proteger a grandes bancos e intereses internos a costa del público. Además, cuanto más miras el sistema que la SEC está diseñada para servir, más evidente se vuelve lo prohibitivamente caro que es en costo de cumplimiento y costo de oportunidad en tiempo e innovación. Realmente no les importa si EE. UU. sigue liderando tecnología global ni si la gente común conserva la posibilidad de competir. Cada vez cuesta más justificar intermediarios y reguladores deshonestos."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y troleo"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "China vuelve a prohibir todo cripto… para ser precisos, la “duodécima” vez. ¿Esta vez sí funcionará o el colapso de la posición económica global de China es inevitable? Están tomando mayor control sobre cada aspecto de la vida diaria y de la actividad económica, incluso más allá de sus fronteras, y parecen aterrados de cualquier forma de vida fuera del control total del Estado. Van regresando muy rápido hacia los little red books."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira aquí todos los FUD FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido al artículo de la próxima semana, escríbenos por nuestro servidor de Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Únete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 26",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 26"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*OrkEANorxXMA71qL.jpeg",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "أروح فين علشان أعرف كل اللي فايتني؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "حضرت فعالية في Venice Beach الأسبوع ده، وكان السؤال الأول هو ده بالضبط. مع كل اللي بيحصل مش بس في إيكوسيستم DIGITALAX وweb3 fashion، لكن في التقنية اللامركزية كلها، إزاي أي حد يقدر يواكب كل اللي لازم يعرفه؟ فين تروح تجيب alpha؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وده واحد من أسباب إننا عملنا quick primer. لكن في نفس الوقت، مساحة web3 عمومًا تقدر تعمل أكتر بكتير علشان تسهّل دخول الناس للعالم الجديد ده."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وإحنا في DIGITALAX بنشتغل على طرق نعمل بيها clone لنفسنا لأن حرفيًا الوقت ما بيسمحش نقابل كل واحد بعد كل alpha leak 😉😆، بس ده لسه محتاج سنوات. لحد ده، شغالين على طرق جديدة تدي أي حد digest فوري وديناميكي في أي وقت ومن أي مكان."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر سؤال متكرر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إمتى DAO؟ أنهي DAO؟ وهل فعلًا أقدر أروح full time؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الفيدز عندنا الفترة اللي فاتت اتملت بناس يا إما بتتوظف في a16z، يا إما بتسيب شغلها عشان تدخل DAO full time. بس هل ده فعلاً قابل للتنفيذ؟ وهل المسارات لدخول DAOs متاحة فعلًا بالشكل اللي يسمح بكده؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الـDAOs طريق فريد لدخول الكريبتو، لأن بدل ما تمشي لوحدك، بتديك فرصة تبني مجتمع قوي، وتتعلم تفاصيل المجال، وتبدأ تشتغل بأساليب natively web3، ومعاك squad مركز على النجاح المشترك. لكن معرفة البداية مش سهلة، ومعرفة أنهي DAO مناسب ليك غالبًا ما بتبانش غير بعد ما تقفز في العمق."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لو كان فيه طريقة سهلة تخلّي الناس تفرز فرص المساهمة في DAOs، ده هيسرّع نمو العضو الفردي ونمو المجال كله. تفاصيل أكتر قريب عن اللي بنعمله في الاتجاه ده."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أبرز الجدل في المجال"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أسبوع جديد وتجاوز جديد من SEC. في محاولات بقت أجرأ بشكل واضح علشان منع الكريبتو بالكامل واتباع طريق الصين نحو سيطرة اقتصادية مركزية كاملة. بقى شبه مستحيل نفترض إن الاتهامات دي حسن نية لحماية المستهلك، بينما الواضح إنها vendettas شخصية لحماية البنوك الكبيرة ومصالح insiders على حساب الناس. وكمان، كل ما تعمق أكتر في النظام اللي SEC معمولة تخدمه، بيبان قد إيه التكلفة خانقة سواء امتثال أو تكلفة الفرصة الضائعة في الوقت والابتكار. هم حرفيًا مش فارق لهم إذا كانت أمريكا هتفضل تقود التكنولوجيا عالميًا ولا إن أي حد يبقى عنده فرصة حقيقية ينافس. كل يوم بيصعب تبرير وجود وسطاء ومنظمين غير صادقين."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إخفاقات عبثية وتريولنج"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الصين بتحظر الكريبتو مرة تانية… أو بدقة أكتر “المرة 12”. هل المرة دي هتنجح؟ ولا انهيار موقع الصين الاقتصادي عالميًا بقى حتمي؟ هم بيشدوا السيطرة على كل تفصيلة في الحياة اليومية والنشاط الاقتصادي حتى خارج حدودهم، وباين عليهم الخوف من أي نمط حياة خارج سيطرة الدولة الكاملة. وبيتراجعوا بسرعة ناحية little red books."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو حابب سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، تواصل معانا من خلال سيرفر DIGITALAX على Discord في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

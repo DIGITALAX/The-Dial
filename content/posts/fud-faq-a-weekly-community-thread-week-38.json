@@ -1,0 +1,606 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-38",
+  "date": "2021-12-19",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 38",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 38"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*3PAT0Forvw1F5zM_.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Is anything cool happening before Christmas?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, at DIGITALAX things move so fast that we don’t operate by a normal 9–5 week or even normal calendar year 😆😳 So, with that said, there are plenty of new deployments occurring this week and before the end of the year, including that of $W3F Staking, The DLTA V3, DIGIFIZZY Magazine Edition 8…. and some more updates to come across the Designer Realm custom primary interfaces, new platform launch at runway.digitalax.xyz and the initiation of dedicated indie web3 fashion collector DAOs… stay tuned!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What else can be done to activate more of the dedicated buy side activity in indie web3 fashion?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As we see Nike, Adidas, Dolce and Gabbana and more, attempt to buy, copy and kill nascent protocols on their way into web3, it is clear that the most established brands with cult followings built over decades, which have somehow survived the social media transformation of existing business practices, have woken up to the $$ available in web3 as a branding and hype marketing term."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The actual power of web3 is that now the ability of anyone in a market to decide for ourselves how and when to create and use our own wealth is rapidly becoming beyond the control of corporate brands and others whose debt based consumer appeal has to keep up with millions of upstart competitors with radically lower operational, coordination and scale up costs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In this climate, it is almost shocking that no serious dedicated indie web3 fashion collector DAOs currently exist. Decentralization is power here as much as in any other sector."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A federated model of countless DAOs learning from and mutually assisting each other through hypergrowth network effects is far better than any one DAO to rule them all, let alone one DAO to collect mostly the old symbols of corporate luxury, wealth, and power (which is unfortunately all that we have today)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX is dedicated to not just supporting and extensively helping form and strengthen the supply side of the market, but also, very much the buy side also. There are more exciting updates to come on this shortly!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Adidas dropped their NFTs this week, and with a corporate like that coming into the space you’d at least expect them to get the basic whitelisting procedures executed correctly. But, probably the worst part of it is that $24 million just left the Ethereum/Web3 ecosystem, probably for good. Adidas can say they believe in DAOs and NFTs and Web3 and gm and wgmi all they want, but if you really think they are going to look out for this space and actually implement true decentralisation principles then not only is that naive, but its also the definition of ngmi."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Any new brand can launch and create a truly web3 ecosystem today, and supporting the authentic web3 labels, brands, projects and protocols is the best way to continue to accelerate the staggering scale up of the open metaverse that we can all have a part in owning and gaining direct value from, instead of hoping for the leftover crumbs falling from giant corporate tables."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*QFLkSzl8AeOSDH3dP0pNgA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Yze1mbbUvTJB1LqFqUfDjQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*TcganNmpPKXkNYIu7IlU6A.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*cpNxbjaQu6Jch-Kkhe87XA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*6cVL_M55LCfAvFmnh9FUnQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Mkc_arsksCXdTpqy1VbsiA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Vzt8k66PN8PNr1vNnuGhWw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-2nA9hDy_gfgZVbP2vKLog.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*9sf8lMVzlVpJyYS0FoFWKA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*mOkg3aEjJQfIxeJU_I99PQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*aohV6uG3WNe1-Hol50feAQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Why is this a silly fail? Well, to anyone who has been in this space for more than 5 minutes can see that a timeline of 3–5 years is way way too conservative."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In the next 6 months — 2 years the staggering scale up of web3 and the open metaverse will be beyond what any one of us can imagine or start to comprehend. And the best part is, web3 fashion is right at the heart of all of it."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*lsKni6aBYjKQjyJzV0qkJQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 38",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 38"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*3PAT0Forvw1F5zM_.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Pasa algo interesante antes de Navidad?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, at DIGITALAX things move so fast that we don’t operate by a normal 9–5 semana or even normal calendar year 😆😳 So, con that said, there are plenty de nuevo deployments occurring this semana y before el end de el year, including that de $W3F Staking, el DLTA V3, DIGIFIZZY Magazine Edition 8…. y some more actualizaciones a come across el Designer Realm custom primary interfaces, nuevo platform launch at runway.digitalax.xyz y el initiation de dedicated indie web3 moda collector DAOs… stay tuned!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat pregunta"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What else can be done a activate more de el dedicated buy side activity en indie web3 moda?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As we see Nike, Adidas, Dolce y Gabbana y more, attempt a buy, copy y kill nascent protocols en their way into web3, it is clear that el most established brands con cult followings built over decades, which have somehow survived el social media transformation de existing business practices, have woken up a el $$ available en web3 as a branding y hype marketing term."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el actual power de web3 is that now el ability de anyone en a market a decide para ourselves como y when a create y use our own wealth is rapidly becoming beyond el control de corporate brands y others whose debt based consumer appeal has a keep up con millions de upstart competitors con radically lower operational, coordination y scale up costs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en this climate, it is almost shocking that no serious dedicated indie web3 moda collector DAOs currently exist. Decentralization is power here as much as en any other sector."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A federated model de countless DAOs learning de y mutually assisting each other through hypergrowth network effects is far better than any one DAO a rule them all, let alone one DAO a collect mostly el old symbols de corporate luxury, wealth, y power (which is unfortunately all that we have today)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX is dedicated a not just supporting y extensively helping form y strengthen el supply side de el market, but also, very much el buy side also. There are more exciting actualizaciones a come en this shortly!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies en el Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Adidas dropped their NFTs this semana, y con a corporate like that coming into el space you’d at least expect them a get el basic whitelisting procedures executed correctly. But, probably el worst part de it is that $24 million just left el Ethereum/Web3 ecosistema, probably para good. Adidas can say they believe en DAOs y NFTs y Web3 y gm y wgmi all they want, but if you really think they are going a look out para this space y actually implement true decentralisation principles then not only is that naive, but its also el definition de ngmi."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Any nuevo brand can launch y create a truly web3 ecosistema today, y supporting el authentic web3 labels, brands, projects y protocols is el best way a continue a accelerate el staggering scale up de el open metaverse that we can all have a part en owning y gaining direct value de, instead de hoping para el leftover crumbs falling de giant corporate tables."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*QFLkSzl8AeOSDH3dP0pNgA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Yze1mbbUvTJB1LqFqUfDjQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*TcganNmpPKXkNYIu7IlU6A.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*cpNxbjaQu6Jch-Kkhe87XA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*6cVL_M55LCfAvFmnh9FUnQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Mkc_arsksCXdTpqy1VbsiA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Vzt8k66PN8PNr1vNnuGhWw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-2nA9hDy_gfgZVbP2vKLog.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*9sf8lMVzlVpJyYS0FoFWKA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*mOkg3aEjJQfIxeJU_I99PQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*aohV6uG3WNe1-Hol50feAQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "por que is this a silly fail? Well, a anyone who has been en this space para more than 5 minutes can see that a timeline de 3–5 years is way way too conservative."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en el next 6 months — 2 years el staggering scale up de web3 y el open metaverse will be beyond what any one de us can imagine or start a comprehend. y el best part is, web3 moda is right at el heart de all de it."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*lsKni6aBYjKQjyJzV0qkJQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todo el FUD FAQ aquí."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX Discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 38",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 38"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*3PAT0Forvw1F5zM_.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "في حاجة جامدة هتحصل قبل الكريسماس؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, at DIGITALAX things move so fast that we don’t operate by a normal 9–5 اسبوع or even normal calendar year 😆😳 So, مع that said, there are plenty من جديد deployments occurring this اسبوع و before ال end من ال year, including that من $W3F Staking, ال DLTA V3, DIGIFIZZY Magazine Edition 8…. و some more تحديثات الى come across ال Designer Realm custom primary interfaces, جديد platform launch at runway.digitalax.xyz و ال initiation من dedicated indie web3 فاشون collector DAOs… stay tuned!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat سؤال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What else can be done الى activate more من ال dedicated buy side activity في indie web3 فاشون?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As we see Nike, Adidas, Dolce و Gabbana و more, attempt الى buy, copy و kill nascent protocols على their way into web3, it is clear that ال most established brands مع cult followings built over decades, which have somehow survived ال سوشيال media transformation من existing business practices, have woken up الى ال $$ available في web3 as a branding و hype marketing term."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال actual power من web3 is that now ال ability من anyone في a market الى decide لـ ourselves ازاي و when الى create و use our own wealth is rapidly becoming beyond ال control من corporate brands و others whose debt based consumer appeal has الى keep up مع millions من upstart competitors مع radically lower operational, coordination و scale up costs."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في this climate, it is almost shocking that no serious dedicated indie web3 فاشون collector DAOs currently exist. Decentralization is power here as much as في any other sector."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A federated model من countless DAOs learning من و mutually assisting each other through hypergrowth network effects is far better than any one DAO الى rule them all, let alone one DAO الى collect mostly ال old symbols من corporate luxury, wealth, و power (which is unfortunately all that we have today)."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "DIGITALAX is dedicated الى not just supporting و extensively helping form و strengthen ال supply side من ال market, but also, very much ال buy side also. There are more exciting تحديثات الى come على this shortly!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies في ال Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Adidas dropped their NFTs this اسبوع, و مع a corporate like that coming into ال space you’d at least expect them الى get ال basic whitelisting procedures executed correctly. But, probably ال worst part من it is that $24 million just left ال Ethereum/Web3 النظام, probably لـ good. Adidas can say they believe في DAOs و NFTs و Web3 و gm و wgmi all they want, but if you really think they are going الى look out لـ this space و actually implement true decentralisation principles then not only is that naive, but its also ال definition من ngmi."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Any جديد brand can launch و create a truly web3 النظام today, و supporting ال authentic web3 labels, brands, projects و protocols is ال best way الى continue الى accelerate ال staggering scale up من ال open metaverse that we can all have a part في owning و gaining direct value من, instead من hoping لـ ال leftover crumbs falling من giant corporate tables."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*QFLkSzl8AeOSDH3dP0pNgA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Yze1mbbUvTJB1LqFqUfDjQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*TcganNmpPKXkNYIu7IlU6A.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*cpNxbjaQu6Jch-Kkhe87XA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*6cVL_M55LCfAvFmnh9FUnQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Mkc_arsksCXdTpqy1VbsiA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Vzt8k66PN8PNr1vNnuGhWw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-2nA9hDy_gfgZVbP2vKLog.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*9sf8lMVzlVpJyYS0FoFWKA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*mOkg3aEjJQfIxeJU_I99PQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*aohV6uG3WNe1-Hol50feAQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ليه is this a silly fail? Well, الى anyone who has been في this space لـ more than 5 minutes can see that a timeline من 3–5 years is way way too conservative."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في ال next 6 months — 2 years ال staggering scale up من web3 و ال open metaverse will be beyond what any one من us can imagine or start الى comprehend. و ال best part is, web3 فاشون is right at ال heart من all من it."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*lsKni6aBYjKQjyJzV0qkJQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX Discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

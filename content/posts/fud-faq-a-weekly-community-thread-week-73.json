@@ -1,0 +1,411 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-73",
+  "date": "2022-08-22",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 73",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 73"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "How much is the world about to change now that Stable Diffusion, an Open Source diffusion model for text-to-image content, is live?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We don’t think it’s jumping the gun to say that the end of creative content scarcity is either here now or right around the corner. For all of the debates about whether it helps or hurts creators to use advancements in tooling and technology, like the camera or the photocopier or the printing press and now diffusion models, it’s clear that those of us who recognise the power of speaking enchanted and sometimes encrypted stories into visual synthesis will race ahead of those still more indecisive."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Along with web3 maps, a major emphasis of upcoming development is on shortening the time it takes collectors, creators, users and distributors of web3 fashion and related NFTs to reach all of the forms of value that really matter to us. IRL and virtual print and apparel collections that make the ins and outs of prompt engineering with fully open diffusion models both more widely accessible and more resistant to arbitrary censorious overreach will be wearable, tradeable and displayable on the main DIGITALAX website, in many locations on the maps, and in surprising places IRL."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Where do we go next with web3 maps?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Fresh off of an initial major release, web3 maps is continuing development actively with new features and updates being added very quickly, in some cases almost daily. You can check out the new pulse feature, which gives a taste of how web3 map’s explorers will interact repeatedly across histories of collection, creative and usage activity."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "See here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A bit more than a year ago, to many people, Fei seemed like the hot new VC backed “decentralised” DeFi darling. Flash forward to now and “Fei Labs” is withdrawing its affiliations with the DAO, leaving hack victims in the air and the community to fend for itself."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Hitting a billion dollar TVL in a matter of double digit hours isn’t all that impressive when compared to building something actually sustainable. Open experimentation is great, but with the plot armor that VC provides as a shield against accountability, it’s not experimentation, it’s just pretending to be decentralised whilst racing for the exits."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WNEQrW9yWQrbh_roW6Hzjg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*NAZWpRMMRPnU7YjI98zwCw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Is it even a surprise that Zuck can’t see how quickly his metaverse worlds are falling off into the void across the horizon…"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*e2WJoq5OW5-qqjf9B7TdYw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo semanal de la comunidad | Semana 73",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo semanal de la comunidad | Semana 73"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cuánto está por cambiar el mundo ahora que Stable Diffusion, un modelo open source de texto a imagen, está en vivo?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No creemos que sea exagerado decir que el final de la escasez de contenido creativo ya está aquí o a la vuelta de la esquina. Más allá del debate sobre si avances en tooling y tecnología ayudan o perjudican a creadores —como pasó con cámara, fotocopiadora, imprenta y ahora modelos de difusión—, está claro que quienes entiendan el poder de convertir historias, a veces encantadas y a veces cifradas, en síntesis visual van a correr muy por delante de quienes siguen dudando."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Junto con web3 maps, un foco mayor del desarrollo próximo es reducir el tiempo que tardan coleccionistas, creadores, usuarios y distribuidores de web3 fashion y NFTs relacionados en alcanzar las formas de valor que realmente importan. Colecciones IRL y virtuales de print y apparel que hagan prompt engineering con modelos de difusión abiertos más accesible y más resistente a censura arbitraria van a ser wearables, tradeables y displayables en la web principal de DIGITALAX, en varios puntos de los mapas y en lugares IRL inesperados."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta repetida más común"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Hacia dónde vamos ahora con web3 maps?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Tras un primer lanzamiento importante, web3 maps sigue en desarrollo activo con nuevas funciones y updates que salen rapidísimo, en algunos casos casi diarios. Puedes probar la nueva función pulse, que adelanta cómo exploradores de web3 maps interactuarán repetidamente a través de historiales de colección, creación y actividad de uso."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Ver aquí."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Hace poco más de un año, para mucha gente Fei parecía el nuevo darling “descentralizado” de DeFi respaldado por VC. Fast forward a hoy: “Fei Labs” está retirando su vínculo con el DAO, dejando a víctimas del hack en el aire y a la comunidad sola para defenderse."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Llegar a mil millones de TVL en pocas horas de doble dígito no impresiona tanto cuando lo comparas con construir algo realmente sostenible. La experimentación abierta es genial, pero con la armadura que te da el VC para esquivar accountability, eso no es experimentar; es fingir descentralización mientras corres a la salida."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WNEQrW9yWQrbh_roW6Hzjg.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*NAZWpRMMRPnU7YjI98zwCw.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y troleo"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "¿Es sorpresa que Zuck no vea lo rápido que sus mundos de metaverso se están cayendo al vacío del horizonte…?"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*e2WJoq5OW5-qqjf9B7TdYw.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira aquí todos los FUD FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido al artículo de la próxima semana, escríbenos por nuestro servidor de Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Únete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 73",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 73"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "قد إيه العالم على وشك يتغير دلوقتي بعد ما Stable Diffusion، وهو نموذج Open Source لتحويل النص لصورة، بقى live؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "إحنا مش شايفين إن ده استعجال لما نقول إن نهاية ندرة المحتوى الإبداعي يا إما حصلت بالفعل أو على الأبواب. مهما اختلفنا إذا التطور في الأدوات والتكنولوجيا بيساعد أو يضر المبدعين — زي الكاميرا أو آلة النسخ أو المطبعة وقبلهم ودلوقتي diffusion models — الواضح إن اللي يفهم قوة تحويل القصص المسحورة أحيانًا والمشفرة أحيانًا إلى synthesis بصري هيسبقوا جدًا اللي لسه مترددين."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع web3 maps، محور أساسي في التطوير القادم هو تقليل الوقت اللي بياخده الجامعين والمبدعين والمستخدمين والموزعين في web3 fashion وNFTs المرتبطة علشان يوصلوا لأنواع القيمة اللي تهمنا فعلًا. مجموعات print وapparel، سواء IRL أو افتراضي، اللي بتخلي prompt engineering مع fully open diffusion models أوسع وصولًا وأقوى ضد الرقابة التعسفية، هتبقى قابلة للّبس والتداول والعرض على موقع DIGITALAX الرئيسي، وفي أماكن كثيرة على الخرائط، وكمان في أماكن IRL مفاجئة."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر سؤال متكرر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "نروح فين بعد كده مع web3 maps؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "بعد أول release كبير، web3 maps مكملة تطوير نشط جدًا مع ميزات وتحديثات جديدة بتنزل بسرعة، أحيانًا بشكل شبه يومي. تقدري تجربي ميزة pulse الجديدة اللي بتدي تصور لطريقة تفاعل explorers على web3 maps بشكل متكرر عبر تاريخ نشاط التجميع والإبداع والاستخدام."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "شوف هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أبرز الجدل"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "من أكتر من سنة بشوية، بالنسبة لناس كتير Fei كانت darling جديدة “لامركزية” ومدعومة من VC في DeFi. دلوقتي “Fei Labs” بتنسحب من ارتباطها بالـDAO، وبتسيب ضحايا الاختراق في الهوا والمجتمع يواجه لوحده."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الوصول لمليار دولار TVL خلال ساعات رقمها مزدوج مش إنجاز ضخم لما تقارنيه ببناء شيء مستدام فعلًا. التجريب المفتوح ممتاز، لكن لما درع VC يحميك من المساءلة، ده مش تجريب؛ ده تمثيل لامركزية وإنت بتجري ناحية الباب."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WNEQrW9yWQrbh_roW6Hzjg.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*NAZWpRMMRPnU7YjI98zwCw.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إخفاقات عبثية وتريولنج"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "هل حتى مستغربين إن زوك مش شايف السرعة اللي عوالم الميتافيرس بتاعته بتنهار بيها ناحية الفراغ عند الأفق…؟"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*e2WJoq5OW5-qqjf9B7TdYw.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو حابب سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، تواصل معانا من خلال سيرفر DIGITALAX على Discord في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        }
+      ]
+    }
+  }
+}

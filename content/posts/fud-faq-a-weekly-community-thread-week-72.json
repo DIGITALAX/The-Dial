@@ -1,0 +1,516 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-72",
+  "date": "2022-08-15",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 72",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 72"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What happens when your banks, cards and financial services cut you off thanks to a dusting DDoS or other guilt by association interaction with banned entities? How do you eat? Where do you sleep? Where do you build?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In light of the events of this past week, we decided to take a more profound look at the map architecture that we are currently building and how to configure it to become more decentralised at every stage. Here’s a sneak peak…"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*EPyCAFSFI-5aGsWzN6iYmw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Wen merge? What does it mean?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Is it really finally clear? Do we finally know the rough date when the merge will actually happen?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It really seems so! Mid September and Ethereum moves to PoS. The wait will finally be over. No more having to listen to countless misinformed debates about energy use and one more huge step on the path to ultimate scalability."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What will it mean for the DIGITALAX stack? Well, we’ll probably migrate more of the new protocol contracts back to Mainnet and also continue to explore new robust ZK L2 solutions."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Where to start with this? The war on privacy and cryptography is back in full force. And why many thought for years that it was hyperbole, this last week proves that force is exactly what is being used to prohibit everything from private financial transactions to open source code. It’s clear from some points of you that officials in the US and allies in Europe have overplayed their hand."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But it’s highly unlikely that they are done yet."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What we need now is what we’ve always needed. To fully decentralise everything. What’s really clear now is that we have no time to waste."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*yXWBjqkq1hu8Y05oRhkkdg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*O3nQtJ47SUu316hL_VCUGA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*gNbAixd2mued1yO7Cd7IrA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*r-pINkw1H0asgGYYQvHaGA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*XcetyxBWOwEdmUbQOTFCzQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*N47GF1CF0RRnDasI1KjiPA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*KZR4sM5Idv1lak-Dqy4sGQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*3IhfUx1HlbbI4RwAQhNFSg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "How’s that Voyager deal working out for you?"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 72",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 72"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What happens when your banks, cards y financial services cut you off thanks a a dusting DDoS or other guilt by association interaction con banned entities? como do you eat? Where do you sleep? Where do you build?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en light de el events de this past semana, we decided a take a more profound look at el map architecture that we are currently building y como a configure it a become more decentralised at every stage. Here’s a sneak peak…"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*EPyCAFSFI-5aGsWzN6iYmw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat pregunta"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cuándo merge? ¿Qué significa?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Is it really finally clear? Do we finally know el rough fecha when el merge will actually happen?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It really seems so! Mid September y Ethereum moves a PoS. el wait will finally be over. No more having a listen a countless misinformed debates about energy use y one more huge step en el path a ultimate scalability."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What will it mean para el DIGITALAX stack? Well, we’ll probably migrate more de el nuevo protocolo contracts back a Mainnet y also continue a explore nuevo robust ZK L2 solutions."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Where a start con this? el war en privacy y cryptography is back en full force. y por que many thought para years that it was hyperbole, this last semana proves that force is exactly what is being used a prohibit everything de private financial transactions a open source code. It’s clear de some points de you that officials en el US y allies en Europe have overplayed their hand."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Pero es muy poco probable que ya hayan terminado."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What we need now is what we’ve always needed. a fully decentralise everything. What’s really clear now is that we have no time a waste."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*yXWBjqkq1hu8Y05oRhkkdg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*O3nQtJ47SUu316hL_VCUGA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*gNbAixd2mued1yO7Cd7IrA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*r-pINkw1H0asgGYYQvHaGA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*XcetyxBWOwEdmUbQOTFCzQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*N47GF1CF0RRnDasI1KjiPA.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*KZR4sM5Idv1lak-Dqy4sGQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*3IhfUx1HlbbI4RwAQhNFSg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "como’s that Voyager deal working out para you?"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todo el FUD FAQ aquí."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX Discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 72",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 72"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What happens when your banks, cards و financial services cut you off thanks الى a dusting DDoS or other guilt by association interaction مع banned entities? ازاي do you eat? Where do you sleep? Where do you build?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في light من ال events من this past اسبوع, we decided الى take a more profound look at ال map architecture that we are currently building و ازاي الى configure it الى become more decentralised at every stage. Here’s a sneak peak…"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*EPyCAFSFI-5aGsWzN6iYmw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat سؤال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إمتى الـ merge؟ يعني إيه أصلًا؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Is it really finally clear? Do we finally know ال rough تاريخ when ال merge will actually happen?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It really seems so! Mid September و Ethereum moves الى PoS. ال wait will finally be over. No more having الى listen الى countless misinformed debates about energy use و one more huge step على ال path الى ultimate scalability."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What will it mean لـ ال DIGITALAX stack? Well, we’ll probably migrate more من ال جديد بروتوكول contracts back الى Mainnet و also continue الى explore جديد robust ZK L2 solutions."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم الجدل"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Where الى start مع this? ال war على privacy و cryptography is back في full force. و ليه many thought لـ years that it was hyperbole, this last اسبوع proves that force is exactly what is being used الى prohibit everything من private financial transactions الى open source code. It’s clear من some points من you that officials في ال US و allies في Europe have overplayed their hand."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "بس غالبًا جدًا هم لسه مخلصوش."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What we need now is what we’ve always needed. الى fully decentralise everything. What’s really clear now is that we have no time الى waste."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*yXWBjqkq1hu8Y05oRhkkdg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*O3nQtJ47SUu316hL_VCUGA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*gNbAixd2mued1yO7Cd7IrA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*r-pINkw1H0asgGYYQvHaGA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*XcetyxBWOwEdmUbQOTFCzQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*N47GF1CF0RRnDasI1KjiPA.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*KZR4sM5Idv1lak-Dqy4sGQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*3IhfUx1HlbbI4RwAQhNFSg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ازاي’s that Voyager deal working out لـ you?"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX Discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        }
+      ]
+    }
+  }
+}

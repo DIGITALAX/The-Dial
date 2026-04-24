@@ -1,0 +1,1296 @@
+{
+  "slug": "ecosystem-epistemology",
+  "date": "2023-03-01",
+  "translations": {
+    "en": {
+      "title": "Ecosystem Epistemology",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Ecosystem Epistemology"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*sReH3td5PHy3rOliUt7xog.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The network society is under attack."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What is a network, and why does it matter — from the point of view of the attackers first. By knowing how they see it, and knowing how we all know what we know, we can get to the heart of what’s really going on here."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Do you have integrity? Are you sure? How do you even know? And how do you go about verifying the integrity of the networks you belong to, co-operate, or co-own?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These are the questions we have in common. Attackers and beneficiaries of networks alike."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With web3, these questions take on a new significance. We are incentivized to DYOR, and risk losing more than our status, reputation, and bags if we don’t take this epistemological exercise into our own hands."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Epistemology is the study of knowledge, including its nature, sources, and limitations."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It asks questions like:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What does it mean to know something or someone?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "How well do you really know them?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What happened between you to give you that knowing?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Can we ever trust each other enough to trade money, power, influence, culture, and all the other things that make us enjoy or dread who we are?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Again, and again, it asks: how do we know?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At the beginning of Daft Punk’s track, “The Grid”, Jeff Bridges’ character Kevin Flynn describes how he sees the circuit boards, microchips, transistors, and electrons that make up the network: “The Grid. A digital frontier. I tried to picture clusters of information as they moved through the computer. What did they look like? Ships, motorcycles? Were the circuits like freeways? I kept dreaming of a world I thought I’d never see. And then, one day… I got in.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We relish the description for more than the poetry and nostalgia of it. But also, that description lacks something. The network is the people who make it, experience life through it, and benefit from everything it offers."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Attackers of the network society might see more of the threat promised. A fast spreading global undercurrent, shortening the distance for mass hallucinations and disinformation. Fair enough."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But suspicion of other participants in a network, its attackers included, is the easy part. Let’s go deeper."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you know what you want, and how to ask well structured questions, AI promises to ease most of the fears brought on by the network society and its detractors."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As a synthetic sculptor or chatslinger, you know from direct experience how Stable Diffusion and ChatGPT add value to the work you do, and help refine through each iteration the clarity of ideas and messages contained within."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ChatGPT, like similar conversational LLM interfaces in the early 2023 batch, let you as a creator target your own niche in the mass unbundling of the fashion industry, and every creative industry, by giving you more than a co-author or slot machine text generator. Like a one on one tutor and sparring partner, you get as good as you give, developing your skill at structuring input requests growing with each session. You can do more than rapidly scale up your writing output quantity, alone. Unlike earlier AI text generators, it’s much more than a party trick gimmick. The quality of your writing is refined through repeat conversations and the lessons you learn in how exactly it likes to be asked to produce the co-authored outputs you’re looking for."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Beyond better writing, communications design, content marketing, market research, SEO, social media strategy, and even ideas for your next design… it’s all ready for you to take as far as you will."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Design is more direct. Stable Diffusion continues to grow your capacity as a creator of every kind of art style, apparel design, or complex interactive media scene you can imagine, with each new fine-tuned model and extension released (like the shockingly powerful ControlNet) adding to its already worlds and markets transforming toolkit."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But it’s not all good news these days, is it?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The tendency towards mass hallucination rises from each prompt."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Visually, it’s not so much of a problem yet."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Deepfakes were expected to be the main use of more advanced image and video generators. We have been warned for years. Instead, the bulk of visually creative AI is (predictably, in hindsight) used for serious attempts at design of all kinds, storyboarding, early attempts at film editing and animation, endlessly new models for subtle variations on anime waifus, pushing new and replica styles of art (with the usual debates about what art is)… We’re all generally too busy playing with the new abilities we’ve gained to worry too seriously or to be too prudish about the ways some might abuse their power to draw out their imagination in the shadows. Turns out it’s no worse than what they could already do with graphics tablets, Photoshop, or ink and paper."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Hardware constraints have a lot to do with why we misjudged the ratio between creative liberation and deprivation. When API access, local machines, and cloud GPU hours with enough VRAM are so expensive, who has time to waste on fake stories that fail to entice or drive interest? Like the lessons from founding your own startup, you learn quickly in practice that it takes a lot more effort to get someone to listen to your idea than it’s ever worth erecting barriers to “protect” them from being “stolen”. Generative content is the same."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The world is voracious for good stories. That’s where the work, the art, and the bulk of your time goes. So, keep at it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s in the text itself, the authoritative sounding claims in conversational research, and the questions we’re uncannily nudged to ask again and again — how do we know what we know? — that the risks of the rapid spread of half-false fever memes and cultish beliefs are immediately obvious. At least, it is to anyone who spends more than a few minutes learning to get useful outputs from ChatGPT, Sydney, and the like."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What we need to combat AI generated mass hallucinations is more speech, more expression, better stories, not less."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What we need, it feels obvious to say, is decentralization. Not just of creativity and the tools we use to power it. We need to ditch the old centralized mediums of creative exchange, and replace all content distribution channels with decentralized social media."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Mobile. Personal. Co-Operated. User owned. With creative AI embedded directly into the base metal at the interface and API level."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Built from the ground up with modularity in mind, Lens Protocol has become the leading protocol for the development of decentralized social media apps and platforms. Its web3 social graph lets developers, and by extension creative users of all kinds, navigate the connections and communications between us as if we actually own a stake in such a substantial part of our lives."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A user-owned, open social graph that anyone can plug into is at your finger tips."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It was designed to solve major issues in existing social media networks, where user profiles, friends, and published content were previously locked to the siloed networks which had hijacked enough scale to hold users in fear of losing the years of memories and connections we’ve generated, and thought were actually ours all along."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We have been trapped by ad targeting alogorithms in a zero-sum battle for attention. I lose, you lose, the thin skinned network barons win."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now, we have a real choice. With Lens, since we own our data as users — and can choose or build in the open market all the tools we could ever need to navigate access — we can bring our social lives to any application built on top of Lens Protocol, or bridge it to other networks that emerge on Ethereum, L2s and beyond. If we don’t like the direction the base infrastructure or ecosystem are taking, we are free to fork any of it and choose our own path to adventure."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With it, we can counter the spread of AI induced mass hallucination by producing more content ourselves."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Meanwhile, legacy Big Tech platforms are shedding employees through rounds of massive layoffs at a record rate. It’s the mass decay of their central premise which their network architectures were built on."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s a good time for a reminder here for the entire tech industry, web3 included, of the way William Gibson described one of our founding ideas:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“The future is already here — it’s just not evenly distributed.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The most trashbin fire lesson in how we know what we know about the unbundled future is unfolding in front of us, and there is so much more to be done than bring popcorn to watch the spectacle. It shows us again why top down control of base level communication infrastructure is not ok. It is playing out in real time, on screens carried in every pocket throughout the net connected world."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Since Elon took over rulership of “the world’s town square”, erratic behavior and edgelord troll decision making are the new normal. Technical “glitches” have included users not being able to post tweets, send messages, follow new accounts, and too many others to count. Third party apps have been cut off from API access, new project rollout has been chaotic at best, and while raising the banner of free speech it’s become clear what that means to Musk is bringing back previously banned accounts for QAnon supporters, neo-nazis, and racists while firing, trolling, and suspending the accounts of many who have been critical, both inside the remaining Twitter workforce and in the media, of his overlordship’s glaring missteps."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Twitter’s days are numbered. And along with it, the same is true at a different rate and for not quite as obviously extreme reasons, for the whole range of web2 legacy social media networks."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*sag7CRURb-ukIX3uDvfS8Q.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "So what happens next?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We build."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "More specific to the DIGITALAX ecosystem, The Dial builds on Lens as an open source app layer for decentralized social media with a Stable Diffusion canvas integrated directly into the interface. At launch, users will be able to discover, synth, collect, and react to new content, without worry that Elon or other erratic platform barons will suddenly pull the plug on your memories, connections, access, or ability to create."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Shortening the distance between media and retail consumption, indie creative production, and decentralized commerce. That’s what drives this ecosystem."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With the Dial, translating your style and skills into public and private messages that hit better — with special attention to your enhanced ability to design for new fashion lines as vectors for cultural diffusion and status appeal — becomes as uncomplicated as anything you’ve ever done, or wish you hadn’t said, on archaic networks."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The simplicity of the all-in-one web3 fashion editor & AOP synth templates available at the click of a button within the integrated canvas deserves particular attention. Synth artists, fashion designers and otherwise, can directly combine open source diffusion models with AOP print-on-demand templating systems for direct digital to physical production, with zero upfront inventory cost. Once welcomed into the beta, all you need is a Lens profile and a Stable Diffusion API key."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And it’s all embedded seamlessly into the decentralized social media messaging flow."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*uYX64x8hXOrnpn4DfKfnCA.gif",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s one more step, chipping away at the greatest challenge we continue to face as an industry."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“Nobody has made Web3 relevant or accessible for the masses, or really spent the time trying to understand how it solves ‘mass’ market problems or improves consumers’ lives,”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://decrypt.co/121597/dont-call-it-crypto-how-some-blockchain-and-nft-projects-are-rebranding"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It would help to have a more widespread consensus on what NFTs are, how they are useful, and what roles they play in the broader contexts they interoperate with."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s useful to simplify and analogize to structural concepts “the masses” are already intimately familiar with. Consumer and creator, alike."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A recent conversation with ChatGPT — which you can roughly reproduce by asking it endless questions about cultural assets, machine parts, software based machines, capital goods, comercial goods, commodities, and reasoning from there — gives a more satisfying analogy."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "NFTs are decentralized software based machine parts, often with significant cultural value. For newly emergent net native cultures, communities, and meta-societies they serve essential roles as rallying points and as part of a wide variety of signals relays. They can have as much value, utility, and significance as more commonly recognized cultural assets, like religious icons, ideological samizdat, ancient scrolls, rare artifacts, or archeological hieroglyphs. Often more, even if still nascent, because of their inherent programmability and decentralization reinforcing factors. To the pre-digital portion of the masses, it’s not obvious yet. For those of us who have lived most or all of our lives with digital interactivity as the base layer, it’s hard to miss."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "From reliably representing, and simultaneously embodying in spirit and on-chain encoded fact, NFTs replace the role played previously by receipts, stamps, SKUs, supply chain tracking identifiers, in game assets, canvas for art, digital and physical aspects of fashion to the point where the lines between them blur, and an as yet unenumerated list beyond them which we’ve barely begun to unfold."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In the ecosystem, the Genesis NFTs serve an extra role as the inagural proof and statement of alignment with the underlying mission to transform the entire fashion industry through unbundling it, segment by segment and layer by layer. There will never be another first of their kind, at the exact dawn of web3 fashion."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Unless you believe the time machines a few people we’ve known in SF & Silcon Valley think they are working on will ever pan out. (Wish that was more of a joke than it is.)"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Returning from timely lols to arguably the most tangible technology in human history, as much as any of the more common candidates, it’s fashion that makes the economy grow. Status appeal, cultural statement, in-group affiliation, protection from the elements, how we carry our most personal keepsakes and tools, and more than anything, how fashion production techniques and machinery have challenged technology to evolve… it’s shaped how we relate to each other, survive, and move forward since our earliest days of being human. Depending on where you draw the line, fashion related technologies are even far older than our species. Stone, wood, or bone tools for the treatment of fabrics, sturdy leaf rope contraptions, and animal skins are the original loot. They have been found with the remains of our ancient pre-human ancestors fossilized records, whoever they were."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Yet, beyond branding and content marketing, fashion NFTs are still poorly understood by the pre-digital masses. Even in web3, it’s “early still”. There’s a lot to be said for the point of view that it will change drastically, and almost all at once seeming, as the web3 narrative shifts more actively from speculation and exhuberance to the every day nuts and bolts of manufacturing and commerce. DIGITALAX has pioneered the engineering, community, and content dev needed to make sense of this new terrain since day 1 of the web3 fashion industry. The fashion NFTs released through the ecosystem so far are as much a testament to that history — a persistent record in the public memory — as they are a guidepost in the new and thoroughly decentralized lands to come."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In a subset of more general fashion and game asset NFTs, the Look NFT collection started as an experiment, inspired by the Loot project, in on-chain composable building blocks. They are meant to distill down to the bare essentials what it means to be a web3 fashion NFT. And, behold, text based scenes can now take on new meaning in a decentralized social media synth canvas mediated metascape. What will the near future bring for Look holders discovering token gated drops or easter eggs while enmeshed in the process of storyboard generation, sourced from their Look book thread lists, in The Dial and other sections of the ecosystem?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As the barriers to mass consumption of media assets give way to the mass generation of indie content for fashion design, commercial marketing, and storytelling in every format, the transformation of interactive decentralized assets for game production and QA lags a bit in the old top down content control, AAA industry overall. PODE is one of the earliest efforts in this ecosystem to develop a unique key to participation and early access in a continuously evolving protoverse of experiences. As The Dial beta nears release, PODE holders gain new ways to unlock limited synth collection drops and access to token gated Lens collection exclusives. New QA pop up quests for decentralized APIs and GPU credit bonuses feature prominently in the post-Dial roadmap."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And what about non-NFT tokens?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "(Sidenote: Are linguistic flourishes like that signs that a human is in the co-authorship loop, a shibboleth for the AI age, or would ChatGPT actually be more likely to suggest content that technically translates to “non-non” + “like-for-like” + “token-tokens”? Might want to feed that into your nearest prompt input box.)"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "With new tools for creation, collection, production, and use, the ways we can streamline storefront activity are also changing. Decentralized commerce is more responsive, flexible, and byte-sized — available on a pocket sized screen, via wall projections, in virtual worlds, or IRL posters and galleries riddled with QR codes, breadcumbing creators and consumers alike to more satisfying finds. DECO serves as a dedicated token for curatorial activity in this ecosystem."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As the picture becomes clear, of tools given shape in software and through on-demand, up front inventory-less fulfillment for indie creators, another set of questions start to rise. How can creators operate such a vast variety of synth machines in a more consistent, standardized, decentralized and open source set of interface layers?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Generative AI models may be open source and widely available now, but the infrastructure needed to run them is far from it. Any sufficiently advanced technology for ultra low latentcy, persistent connectivity at any distance worth the name “The Metaverse” will guzzle far more hardware and bandwidth besides."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s hard to imagine how much good can be done with AI, with all-in-one creative editors, and with the continuing miniaturization of circuits, chips, and machine parts. The unbundling of the fashion industry, and the spillover of benefits to every other industry beyond it, will stall out without universal access to simple machine operation interfaces that are decentralized from the start to ensure their persistent integrity, and all of ours. It’s a key part of a comprehensive defense against economic censorship."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "W3F is a dedicated virtual interface token for operation of the on-demand fashion synth economy."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "To bring it all together, MONA remains the all-in-one dedicated ecosystem token for web3 fashion and the unbundling of fashion as a whole. As we continue to build on NFT marketplace contracts, extend functionality into decentralized social media through The Dial, provide new storefront interfaces for creators in virtual, IRL, and latent spaces, and go forward into more open architectures for microfactory co-op development, with all the decentralized APIs for AI synth compute you need, MONA serves a crucial role for every part of the ecosystem."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The simplest of them all might be the signal it carries — the fashion statement it makes as a net native cultural asset that is simultaneously rare and one of many. It says: “The world as it’s been is wondrous, fantastical, and also unacceptable.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Entire industries, markets, and societies are desperate for more reliably persistent methods to regain their integrity. Climates demand sustainability. Consumers demand creative choice, and the ability to design, manufacture, collect, and trade any and all of it, ourselves. We can have it all, but only if we ask better epistemological questions."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Or, in short: “How do you know you need decentralizaton, and all the dedicated machine parts needed for it to work, until you do?”"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up to Date with Web3 Fashion:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Flagship"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        }
+      ]
+    },
+    "es": {
+      "title": "ecosistema Epistemology",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "ecosistema Epistemology"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*sReH3td5PHy3rOliUt7xog.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el network society is under attack."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What is a network, y por que does it matter — de el point de view de el attackers first. By knowing como they see it, y knowing como we all know what we know, we can get a el heart de what’s really going en here."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Do you have integrity? Are you sure? como do you even know? y como do you go about verifying el integrity de el networks you belong a, co-operate, or co-own?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These are el preguntas we have en common. Attackers y beneficiaries de networks alike."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "con web3, these preguntas take en a nuevo significance. We are incentivized a DYOR, y risk losing more than our status, reputation, y bags if we don’t take this epistemological exercise into our own hands."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Epistemology is el study de knowledge, including its nature, sources, y limitations."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It asks preguntas like:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What does it mean a know something or someone?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "como well do you really know them?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What happened between you a give you that knowing?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Can we ever trust each other enough a trade money, power, influence, culture, y all el other things that make us enjoy or dread who we are?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Again, y again, it asks: como do we know?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At el beginning de Daft Punk’s track, “el Grid”, Jeff Bridges’ character Kevin Flynn describes como he sees el circuit boards, microchips, transistors, y electrons that make up el network: “el Grid. A digital frontier. I tried a picture clusters de information as they moved through el computer. What did they look like? Ships, motorcycles? Were el circuits like freeways? I kept dreaming de a world I thought I’d never see. y then, one day… I got en.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We relish el description para more than el poetry y nostalgia de it. But also, that description lacks something. el network is el people who make it, experience life through it, y benefit de everything it offers."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Attackers de el network society might see more de el threat promised. A fast spreading global undercurrent, shortening el distance para mass hallucinations y disinformation. Fair enough."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But suspicion de other participants en a network, its attackers included, is el easy part. Let’s go deeper."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you know what you want, y como a ask well structured preguntas, ia promises a ease most de el fears brought en by el network society y its detractors."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As a synthetic sculptor or chatslinger, you know de direct experience como Stable Diffusion y ChatGPT add value a el work you do, y help refine through each iteration el clarity de ideas y messages contained within."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ChatGPT, like similar conversational LLM interfaces en el early 2023 batch, let you as a creator target your own niche en el mass unbundling de el moda industry, y every creativo industry, by giving you more than a co-author or slot machine text generator. Like a one en one tutor y sparring partner, you get as good as you give, developing your skill at structuring input requests growing con each session. You can do more than rapidly scale up your writing output quantity, alone. Unlike earlier ia text generators, it’s much more than a party trick gimmick. el quality de your writing is refined through repeat conversations y el lessons you learn en como exactly it likes a be asked a produce el co-authored outputs you’re looking para."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Beyond better writing, communications design, content marketing, market research, SEO, social media strategy, y even ideas para your next design… it’s all ready para you a take as far as you will."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Design is more direct. Stable Diffusion continues a grow your capacity as a creator de every kind de art style, apparel design, or complex interactive media scene you can imagine, con each nuevo fine-tuned model y extension released (like el shockingly powerful ControlNet) adding a its already worlds y markets transforming toolkit."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Pero no todo son buenas noticias estos días, ¿verdad?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el tendency towards mass hallucination rises de each prompt."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Visually, it’s not so much de a problem yet."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Deepfakes were expected a be el main use de more advanced image y video generators. We have been warned para years. Instead, el bulk de visually creativo ia is (predictably, en hindsight) used para serious attempts at design de all kinds, storyboarding, early attempts at film editing y animation, endlessly nuevo models para subtle variations en anime waifus, pushing nuevo y replica styles de art (con el usual debates about what art is)… We’re all generally too busy playing con el nuevo abilities we’ve gained a worry too seriously or a be too prudish about el ways some might abuse their power a draw out their imagination en el shadows. Turns out it’s no worse than what they could already do con graphics tablets, Photoshop, or ink y paper."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Hardware constraints have a lot a do con por que we misjudged el ratio between creativo liberation y deprivation. When API access, local machines, y cloud GPU hours con enough VRAM are so expensive, who has time a waste en fake stories that fail a entice or drive interest? Like el lessons de founding your own startup, you learn quickly en practice that it takes a lot more effort a get someone a listen a your idea than it’s ever worth erecting barriers a “protect” them de being “stolen”. Generative content is el same."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el world is voracious para good stories. That’s where el work, el art, y el bulk de your time goes. So, keep at it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s en el text itself, el authoritative sounding claims en conversational research, y el preguntas we’re uncannily nudged a ask again y again — como do we know what we know? — that el risks de el rapid spread de half-false fever memes y cultish beliefs are immediately obvious. At least, it is a anyone who spends more than a few minutes learning a get useful outputs de ChatGPT, Sydney, y el like."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What we need a combat ia generated mass hallucinations is more speech, more expression, better stories, not less."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What we need, it feels obvious a say, is decentralization. Not just de creativity y el tools we use a power it. We need a ditch el old centralized mediums de creativo exchange, y replace all content distribution channels con decentralized social media."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Mobile. Personal. Co-Operated. User owned. con creativo ia embedded directly into el base metal at el interface y API level."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Built de el ground up con modularity en mind, lens protocolo has become el leading protocolo para el development de decentralized social media apps y platforms. Its web3 social graph lets developers, y by extension creativo users de all kinds, navigate el connections y communications between us as if we actually own a stake en such a substantial part de our lives."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Un grafo social abierto y propiedad de usuarios, al que cualquiera puede conectarse, está al alcance de tu mano."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It was designed a solve major issues en existing social media networks, where user profiles, friends, y published content were previously locked a el siloed networks which had hijacked enough scale a hold users en fear de losing el years de memories y connections we’ve generated, y thought were actually ours all along."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We have been trapped by ad targeting alogorithms en a zero-sum battle para attention. I lose, you lose, el thin skinned network barons win."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now, we have a real choice. con lens, since we own our data as users — y can choose or build en el open market all el tools we could ever need a navigate access — we can bring our social lives a any application built en top de lens protocolo, or bridge it a other networks that emerge en Ethereum, L2s y beyond. If we don’t like el direction el base infrastructure or ecosistema are taking, we are free a fork any de it y choose our own path a adventure."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "con it, we can counter el spread de ia induced mass hallucination by producing more content ourselves."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Meanwhile, legacy Big Tech platforms are shedding employees through rounds de massive layoffs at a record rate. It’s el mass decay de their central premise which their network architectures were built en."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s a good time para a reminder here para el entire tech industry, web3 included, de el way William Gibson described one de our founding ideas:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“el future is already here — it’s just not evenly distributed.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el most trashbin fire lesson en como we know what we know about el unbundled future is unfolding en front de us, y there is so much more a be done than bring popcorn a watch el spectacle. It shows us again por que top down control de base level communication infrastructure is not ok. It is playing out en real time, en screens carried en every pocket throughout el net connected world."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Since Elon took over rulership de “el world’s town square”, erratic behavior y edgelord troll decision making are el nuevo normal. Technical “glitches” have included users not being able a publicacion tweets, send messages, follow nuevo accounts, y too many others a count. Third party apps have been cut off de API access, nuevo project rollout has been chaotic at best, y while raising el banner de free speech it’s become clear what that means a Musk is bringing back previously banned accounts para QAnon supporters, neo-nazis, y racists while firing, trolling, y suspending el accounts de many who have been critical, both inside el remaining Twitter workforce y en el media, de his overlordship’s glaring missteps."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Twitter’s days are numbered. y along con it, el same is true at a different rate y para not quite as obviously extreme reasons, para el whole range de web2 legacy social media networks."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*sag7CRURb-ukIX3uDvfS8Q.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Entonces, ¿qué sigue?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Construimos."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "More specific a el DIGITALAX ecosistema, el Dial builds en lens as an open source app layer para decentralized social media con a Stable Diffusion canvas integrated directly into el interface. At launch, users will be able a discover, synth, collect, y react a nuevo content, without worry that Elon or other erratic platform barons will suddenly pull el plug en your memories, connections, access, or ability a create."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Shortening el distance between media y retail consumption, indie creativo production, y decentralized commerce. That’s what drives this ecosistema."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "con el Dial, translating your style y skills into public y private messages that hit better — con special attention a your enhanced ability a design para nuevo moda lines as vectors para cultural diffusion y status appeal — becomes as uncomplicated as anything you’ve ever done, or wish you hadn’t said, en archaic networks."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el simplicity de el all-en-one web3 moda editor & AOP synth templates available at el click de a button within el integrated canvas deserves particular attention. Synth artists, moda designers y otherwise, can directly combine open source diffusion models con AOP print-en-demand templating systems para direct digital a physical production, con zero upfront inventory cost. Once welcomed into el beta, all you need is a lens perfil y a Stable Diffusion API key."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "y it’s all embedded seamlessly into el decentralized social media messaging flow."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*uYX64x8hXOrnpn4DfKfnCA.gif",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s one more step, chipping away at el greatest challenge we continue a face as an industry."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“Nobody has made Web3 relevant or accessible para el masses, or really spent el time trying a understand como it solves ‘mass’ market problems or improves consumers’ lives,”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://decrypt.co/121597/dont-call-it-crypto-como-some-blockchain-y-nft-projects-are-rebranding"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It would help a have a more widespread consensus en what NFTs are, como they are useful, y what roles they play en el broader contexts they interoperate con."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s useful a simplify y analogize a structural concepts “el masses” are already intimately familiar con. Consumer y creator, alike."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A recent conversation con ChatGPT — which you can roughly reproduce by asking it endless preguntas about cultural assets, machine parts, software based machines, capital goods, comercial goods, commodities, y reasoning de there — gives a more satisfying analogy."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "NFTs are decentralized software based machine parts, often con significant cultural value. para newly emergent net native cultures, communities, y meta-societies they serve essential roles as rallying points y as part de a wide variety de signals relays. They can have as much value, utility, y significance as more commonly recognized cultural assets, like religious icons, ideological samizdat, ancient scrolls, rare artifacts, or archeological hieroglyphs. Often more, even if still nascent, because de their inherent programmability y decentralization reinforcing factors. a el pre-digital portion de el masses, it’s not obvious yet. para those de us who have lived most or all de our lives con digital interactivity as el base layer, it’s hard a miss."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "de reliably representing, y simultaneously embodying en spirit y en-chain encoded fact, NFTs replace el role played previously by receipts, stamps, SKUs, supply chain tracking identifiers, en game assets, canvas para art, digital y physical aspects de moda a el point where el lines between them blur, y an as yet unenumerated list beyond them which we’ve barely begun a unfold."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en el ecosistema, el Genesis NFTs serve an extra role as el inagural proof y statement de alignment con el underlying mission a transform el entire moda industry through unbundling it, segment by segment y layer by layer. There will never be another first de their kind, at el exact dawn de web3 moda."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Unless you believe el time machines a few people we’ve known en SF & Silcon Valley think they are working en will ever pan out. (Wish that was more de a joke than it is.)"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Returning de timely lols a arguably el most tangible technology en human history, as much as any de el more common candidates, it’s moda that makes el economy grow. Status appeal, cultural statement, en-group affiliation, protection de el elements, como we carry our most personal keepsakes y tools, y more than anything, como moda production techniques y machinery have challenged technology a evolve… it’s shaped como we relate a each other, survive, y move forward since our earliest days de being human. Depending en where you draw el line, moda related technologies are even far older than our species. Stone, wood, or bone tools para el treatment de fabrics, sturdy leaf rope contraptions, y animal skins are el original loot. They have been found con el remains de our ancient pre-human ancestors fossilized records, whoever they were."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Yet, beyond branding y content marketing, moda NFTs are still poorly understood by el pre-digital masses. Even en web3, it’s “early still”. There’s a lot a be said para el point de view that it will change drastically, y almost all at once seeming, as el web3 narrative shifts more actively de speculation y exhuberance a el every day nuts y bolts de manufacturing y commerce. DIGITALAX has pioneered el engineering, comunidad, y content dev needed a make sense de this nuevo terrain since day 1 de el web3 moda industry. el moda NFTs released through el ecosistema so far are as much a testament a that history — a persistent record en el public memory — as they are a guidepost en el nuevo y thoroughly decentralized lands a come."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en a subset de more general moda y game asset NFTs, el Look NFT collection started as an experiment, inspired by el Loot project, en en-chain composable building blocks. They are meant a distill down a el bare essentials what it means a be a web3 moda NFT. y, behold, text based scenes can now take en nuevo meaning en a decentralized social media synth canvas mediated metascape. What will el near future bring para Look holders discovering token gated drops or easter eggs while enmeshed en el process de storyboard generation, sourced de their Look book hilo lists, en el Dial y other sections de el ecosistema?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As el barriers a mass consumption de media assets give way a el mass generation de indie content para moda design, commercial marketing, y storytelling en every format, el transformation de interactive decentralized assets para game production y QA lags a bit en el old top down content control, AAA industry overall. PODE is one de el earliest efforts en this ecosistema a develop a unique key a participation y early access en a continuously evolving protoverse de experiences. As el Dial beta nears release, PODE holders gain nuevo ways a unlock limited synth collection drops y access a token gated lens collection exclusives. nuevo QA pop up quests para decentralized APIs y GPU credit bonuses feature prominently en el publicacion-Dial roadmap."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "y what about non-NFT tokens?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "(Sidenote: Are linguistic flourishes like that signs that a human is en el co-authorship loop, a shibboleth para el ia age, or would ChatGPT actually be more likely a suggest content that technically translates a “non-non” + “like-para-like” + “token-tokens”? Might want a feed that into your nearest prompt input box.)"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "con nuevo tools para creation, collection, production, y use, el ways we can streamline storefront activity are also changing. Decentralized commerce is more responsive, flexible, y byte-sized — available en a pocket sized screen, via wall projections, en virtual worlds, or IRL posters y galleries riddled con QR codes, breadcumbing creators y consumers alike a more satisfying finds. DECO serves as a dedicated token para curatorial activity en this ecosistema."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As el picture becomes clear, de tools given shape en software y through en-demand, up front inventory-less fulfillment para indie creators, another set de preguntas start a rise. como can creators operate such a vast variety de synth machines en a more consistent, standardized, decentralized y open source set de interface layers?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Generative ia models may be open source y widely available now, but el infrastructure needed a run them is far de it. Any sufficiently advanced technology para ultra low latentcy, persistent connectivity at any distance worth el name “el Metaverse” will guzzle far more hardware y bandwidth besides."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s hard a imagine como much good can be done con ia, con all-en-one creativo editors, y con el continuing miniaturization de circuits, chips, y machine parts. el unbundling de el moda industry, y el spillover de benefits a every other industry beyond it, will stall out without universal access a simple machine operation interfaces that are decentralized de el start a ensure their persistent integrity, y all de ours. It’s a key part de a comprehensive defense against economic censorship."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "W3F is a dedicated virtual interface token para operation de el en-demand moda synth economy."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "a bring it all together, MONA remains el all-en-one dedicated ecosistema token para web3 moda y el unbundling de moda as a whole. As we continue a build en NFT marketplace contracts, extend functionality into decentralized social media through el Dial, provide nuevo storefront interfaces para creators en virtual, IRL, y latent spaces, y go forward into more open architectures para microfactory co-op development, con all el decentralized APIs para ia synth compute you need, MONA serves a crucial role para every part de el ecosistema."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el simplest de them all might be el signal it carries — el moda statement it makes as a net native cultural asset that is simultaneously rare y one de many. It says: “el world as it’s been is wondrous, fantastical, y also unacceptable.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Entire industries, markets, y societies are desperate para more reliably persistent methods a regain their integrity. Climates demand sustainability. Consumers demand creativo choice, y el ability a design, manufacture, collect, y trade any y all de it, ourselves. We can have it all, but only if we ask better epistemological preguntas."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Or, en short: “como do you know you need decentralizaton, y all el dedicated machine parts needed para it a work, until you do?”"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up a fecha con Web3 moda:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Principal"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentación"
+        }
+      ]
+    },
+    "ar": {
+      "title": "النظام Epistemology",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "النظام Epistemology"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*sReH3td5PHy3rOliUt7xog.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال network society is under attack."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What is a network, و ليه does it matter — من ال point من view من ال attackers first. By knowing ازاي they see it, و knowing ازاي we all know what we know, we can get الى ال heart من what’s really going على here."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Do you have integrity? Are you sure? ازاي do you even know? و ازاي do you go about verifying ال integrity من ال networks you belong الى, co-operate, or co-own?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "These are ال اسئلة we have في common. Attackers و beneficiaries من networks alike."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع web3, these اسئلة take على a جديد significance. We are incentivized الى DYOR, و risk losing more than our status, reputation, و bags if we don’t take this epistemological exercise into our own hands."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Epistemology is ال study من knowledge, including its nature, sources, و limitations."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It asks اسئلة like:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What does it mean الى know something or someone?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ازاي well do you really know them?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What happened between you الى give you that knowing?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Can we ever trust each other enough الى trade money, power, influence, culture, و all ال other things that make us enjoy or dread who we are?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Again, و again, it asks: ازاي do we know?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "At ال beginning من Daft Punk’s track, “ال Grid”, Jeff Bridges’ character Kevin Flynn describes ازاي he sees ال circuit boards, microchips, transistors, و electrons that make up ال network: “ال Grid. A ديجيتال frontier. I tried الى picture clusters من information as they moved through ال computer. What did they look like? Ships, motorcycles? Were ال circuits like freeways? I kept dreaming من a world I thought I’d never see. و then, one day… I got في.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We relish ال description لـ more than ال poetry و nostalgia من it. But also, that description lacks something. ال network is ال people who make it, experience life through it, و benefit من everything it offers."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Attackers من ال network society might see more من ال threat promised. A fast spreading global undercurrent, shortening ال distance لـ mass hallucinations و disinformation. Fair enough."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "But suspicion من other participants في a network, its attackers included, is ال easy part. Let’s go deeper."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "If you know what you want, و ازاي الى ask well structured اسئلة, ذكاء اصطناعي promises الى ease most من ال fears brought على by ال network society و its detractors."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As a synthetic sculptor or chatslinger, you know من direct experience ازاي Stable Diffusion و ChatGPT add value الى ال work you do, و help refine through each iteration ال clarity من ideas و messages contained within."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ChatGPT, like similar conversational LLM interfaces في ال early 2023 batch, let you as a creator target your own niche في ال mass unbundling من ال فاشون industry, و every ابداعي industry, by giving you more than a co-author or slot machine text generator. Like a one على one tutor و sparring partner, you get as good as you give, developing your skill at structuring input requests growing مع each session. You can do more than rapidly scale up your writing output quantity, alone. Unlike earlier ذكاء اصطناعي text generators, it’s much more than a party trick gimmick. ال quality من your writing is refined through repeat conversations و ال lessons you learn في ازاي exactly it likes الى be asked الى produce ال co-authored outputs you’re looking لـ."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Beyond better writing, communications design, content marketing, market research, SEO, سوشيال media strategy, و even ideas لـ your next design… it’s all ready لـ you الى take as far as you will."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Design is more direct. Stable Diffusion continues الى grow your capacity as a creator من every kind من art style, apparel design, or complex interactive media scene you can imagine, مع each جديد fine-tuned model و extension released (like ال shockingly powerful ControlNet) adding الى its already worlds و markets transforming toolkit."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "بس مش كل الأخبار حلوة اليومين دول، صح؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال tendency towards mass hallucination rises من each prompt."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Visually, it’s not so much من a problem yet."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Deepfakes were expected الى be ال main use من more advanced image و video generators. We have been warned لـ years. Instead, ال bulk من visually ابداعي ذكاء اصطناعي is (predictably, في hindsight) used لـ serious attempts at design من all kinds, storyboarding, early attempts at film editing و animation, endlessly جديد models لـ subtle variations على anime waifus, pushing جديد و replica styles من art (مع ال usual debates about what art is)… We’re all generally too busy playing مع ال جديد abilities we’ve gained الى worry too seriously or الى be too prudish about ال ways some might abuse their power الى draw out their imagination في ال shadows. Turns out it’s no worse than what they could already do مع graphics tablets, Photoshop, or ink و paper."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Hardware constraints have a lot الى do مع ليه we misjudged ال ratio between ابداعي liberation و deprivation. When API access, local machines, و cloud GPU hours مع enough VRAM are so expensive, who has time الى waste على fake stories that fail الى entice or drive interest? Like ال lessons من founding your own startup, you learn quickly في practice that it takes a lot more effort الى get someone الى listen الى your idea than it’s ever worth erecting barriers الى “protect” them من being “stolen”. Generative content is ال same."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال world is voracious لـ good stories. That’s where ال work, ال art, و ال bulk من your time goes. So, keep at it."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s في ال text itself, ال authoritative sounding claims في conversational research, و ال اسئلة we’re uncannily nudged الى ask again و again — ازاي do we know what we know? — that ال risks من ال rapid spread من half-false fever memes و cultish beliefs are immediately obvious. At least, it is الى anyone who spends more than a few minutes learning الى get useful outputs من ChatGPT, Sydney, و ال like."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What we need الى combat ذكاء اصطناعي generated mass hallucinations is more speech, more expression, better stories, not less."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "What we need, it feels obvious الى say, is decentralization. Not just من creativity و ال tools we use الى power it. We need الى ditch ال old centralized mediums من ابداعي exchange, و replace all content distribution channels مع decentralized سوشيال media."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Mobile. Personal. Co-Operated. User owned. مع ابداعي ذكاء اصطناعي embedded directly into ال base metal at ال interface و API level."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Built من ال ground up مع modularity في mind, لينز بروتوكول has become ال leading بروتوكول لـ ال development من decentralized سوشيال media apps و platforms. Its web3 سوشيال graph lets developers, و by extension ابداعي users من all kinds, navigate ال connections و communications between us as if we actually own a stake في such a substantial part من our lives."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A user-owned, open سوشيال graph that anyone can plug into is at your finger tips."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It was designed الى solve major issues في existing سوشيال media networks, where user profiles, friends, و published content were previously locked الى ال siloed networks which had hijacked enough scale الى hold users في fear من losing ال years من memories و connections we’ve generated, و thought were actually ours all along."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We have been trapped by ad targeting alogorithms في a zero-sum battle لـ attention. I lose, you lose, ال thin skinned network barons win."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now, we have a real choice. مع لينز, since we own our data as users — و can choose or build في ال open market all ال tools we could ever need الى navigate access — we can bring our سوشيال lives الى any application built على top من لينز بروتوكول, or bridge it الى other networks that emerge على Ethereum, L2s و beyond. If we don’t like ال direction ال base infrastructure or النظام are taking, we are free الى fork any من it و choose our own path الى adventure."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع it, we can counter ال spread من ذكاء اصطناعي induced mass hallucination by producing more content ourselves."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Meanwhile, legacy Big Tech platforms are shedding employees through rounds من massive layoffs at a record rate. It’s ال mass decay من their central premise which their network architectures were built على."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s a good time لـ a reminder here لـ ال entire tech industry, web3 included, من ال way William Gibson described one من our founding ideas:"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“ال future is already here — it’s just not evenly distributed.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال most trashbin fire lesson في ازاي we know what we know about ال unbundled future is unfolding في front من us, و there is so much more الى be done than bring popcorn الى watch ال spectacle. It shows us again ليه top down control من base level communication infrastructure is not ok. It is playing out في real time, على screens carried في every pocket throughout ال net connected world."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Since Elon took over rulership من “ال world’s town square”, erratic behavior و edgelord troll decision making are ال جديد normal. Technical “glitches” have included users not being able الى بوست tweets, send messages, follow جديد accounts, و too many others الى count. Third party apps have been cut off من API access, جديد project rollout has been chaotic at best, و while raising ال banner من free speech it’s become clear what that means الى Musk is bringing back previously banned accounts لـ QAnon supporters, neo-nazis, و racists while firing, trolling, و suspending ال accounts من many who have been critical, both inside ال remaining Twitter workforce و في ال media, من his overlordship’s glaring missteps."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Twitter’s days are numbered. و along مع it, ال same is true at a different rate و لـ not quite as obviously extreme reasons, لـ ال whole range من web2 legacy سوشيال media networks."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*sag7CRURb-ukIX3uDvfS8Q.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "طيب إيه اللي جاي؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "إحنا بنبني."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "More specific الى ال DIGITALAX النظام, ال Dial builds على لينز as an open source app layer لـ decentralized سوشيال media مع a Stable Diffusion canvas integrated directly into ال interface. At launch, users will be able الى discover, synth, collect, و react الى جديد content, without worry that Elon or other erratic platform barons will suddenly pull ال plug على your memories, connections, access, or ability الى create."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Shortening ال distance between media و retail consumption, indie ابداعي production, و decentralized commerce. That’s what drives this النظام."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع ال Dial, translating your style و skills into public و private messages that hit better — مع special attention الى your enhanced ability الى design لـ جديد فاشون lines as vectors لـ cultural diffusion و status appeal — becomes as uncomplicated as anything you’ve ever done, or wish you hadn’t said, على archaic networks."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال simplicity من ال all-في-one web3 فاشون محرر & AOP synth templates available at ال click من a button within ال integrated canvas deserves particular attention. Synth artists, فاشون designers و otherwise, can directly combine open source diffusion models مع AOP print-على-demand templating systems لـ direct ديجيتال الى physical production, مع zero upfront inventory cost. Once welcomed into ال beta, all you need is a لينز بروفايل و a Stable Diffusion API key."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "و it’s all embedded seamlessly into ال decentralized سوشيال media messaging flow."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*uYX64x8hXOrnpn4DfKfnCA.gif",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s one more step, chipping away at ال greatest challenge we continue الى face as an industry."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "“Nobody has made Web3 relevant or accessible لـ ال masses, or really spent ال time trying الى understand ازاي it solves ‘mass’ market problems or improves consumers’ lives,”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://decrypt.co/121597/dont-call-it-crypto-ازاي-some-blockchain-و-nft-projects-are-rebranding"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It would help الى have a more widespread consensus على what NFTs are, ازاي they are useful, و what roles they play في ال broader contexts they interoperate مع."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s useful الى simplify و analogize الى structural concepts “ال masses” are already intimately familiar مع. Consumer و creator, alike."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A recent conversation مع ChatGPT — which you can roughly reproduce by asking it endless اسئلة about cultural assets, machine parts, software based machines, capital goods, comercial goods, commodities, و reasoning من there — gives a more satisfying analogy."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "NFTs are decentralized software based machine parts, often مع significant cultural value. لـ newly emergent net native cultures, communities, و meta-societies they serve essential roles as rallying points و as part من a wide variety من signals relays. They can have as much value, utility, و significance as more commonly recognized cultural assets, like religious icons, ideological samizdat, ancient scrolls, rare artifacts, or archeological hieroglyphs. Often more, even if still nascent, because من their inherent programmability و decentralization reinforcing factors. الى ال pre-ديجيتال portion من ال masses, it’s not obvious yet. لـ those من us who have lived most or all من our lives مع ديجيتال interactivity as ال base layer, it’s hard الى miss."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "من reliably representing, و simultaneously embodying في spirit و على-chain encoded fact, NFTs replace ال role played previously by receipts, stamps, SKUs, supply chain tracking identifiers, في game assets, canvas لـ art, ديجيتال و physical aspects من فاشون الى ال point where ال lines between them blur, و an as yet unenumerated list beyond them which we’ve barely begun الى unfold."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في ال النظام, ال Genesis NFTs serve an extra role as ال inagural proof و statement من alignment مع ال underlying mission الى transform ال entire فاشون industry through unbundling it, segment by segment و layer by layer. There will never be another first من their kind, at ال exact dawn من web3 فاشون."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Unless you believe ال time machines a few people we’ve known في SF & Silcon Valley think they are working على will ever pan out. (Wish that was more من a joke than it is.)"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Returning من timely lols الى arguably ال most tangible technology في human history, as much as any من ال more common candidates, it’s فاشون that makes ال economy grow. Status appeal, cultural statement, في-group affiliation, protection من ال elements, ازاي we carry our most personal keepsakes و tools, و more than anything, ازاي فاشون production techniques و machinery have challenged technology الى evolve… it’s shaped ازاي we relate الى each other, survive, و move forward since our earliest days من being human. Depending على where you draw ال line, فاشون related technologies are even far older than our species. Stone, wood, or bone tools لـ ال treatment من fabrics, sturdy leaf rope contraptions, و animal skins are ال original loot. They have been found مع ال remains من our ancient pre-human ancestors fossilized records, whoever they were."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Yet, beyond branding و content marketing, فاشون NFTs are still poorly understood by ال pre-ديجيتال masses. Even في web3, it’s “early still”. There’s a lot الى be said لـ ال point من view that it will change drastically, و almost all at once seeming, as ال web3 narrative shifts more actively من speculation و exhuberance الى ال every day nuts و bolts من manufacturing و commerce. DIGITALAX has pioneered ال engineering, المجتمع, و content dev needed الى make sense من this جديد terrain since day 1 من ال web3 فاشون industry. ال فاشون NFTs released through ال النظام so far are as much a testament الى that history — a persistent record في ال public memory — as they are a guidepost في ال جديد و thoroughly decentralized lands الى come."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في a subset من more general فاشون و game asset NFTs, ال Look NFT collection started as an experiment, inspired by ال Loot project, في على-chain composable building blocks. They are meant الى distill down الى ال bare essentials what it means الى be a web3 فاشون NFT. و, behold, text based scenes can now take على جديد meaning في a decentralized سوشيال media synth canvas mediated metascape. What will ال near future bring لـ Look holders discovering token gated drops or easter eggs while enmeshed في ال process من storyboard generation, sourced من their Look book ثريد lists, في ال Dial و other sections من ال النظام?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As ال barriers الى mass consumption من media assets give way الى ال mass generation من indie content لـ فاشون design, commercial marketing, و storytelling في every format, ال transformation من interactive decentralized assets لـ game production و QA lags a bit في ال old top down content control, AAA industry overall. PODE is one من ال earliest efforts في this النظام الى develop a unique key الى participation و early access في a continuously evolving protoverse من experiences. As ال Dial beta nears release, PODE holders gain جديد ways الى unlock limited synth collection drops و access الى token gated لينز collection exclusives. جديد QA pop up quests لـ decentralized APIs و GPU credit bonuses feature prominently في ال بوست-Dial roadmap."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "و what about non-NFT tokens?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "(Sidenote: Are linguistic flourishes like that signs that a human is في ال co-authorship loop, a shibboleth لـ ال ذكاء اصطناعي age, or would ChatGPT actually be more likely الى suggest content that technically translates الى “non-non” + “like-لـ-like” + “token-tokens”? Might want الى feed that into your nearest prompt input box.)"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مع جديد tools لـ creation, collection, production, و use, ال ways we can streamline storefront activity are also changing. Decentralized commerce is more responsive, flexible, و byte-sized — available على a pocket sized screen, via wall projections, في virtual worlds, or IRL posters و galleries riddled مع QR codes, breadcumbing creators و consumers alike الى more satisfying finds. DECO serves as a dedicated token لـ curatorial activity في this النظام."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As ال picture becomes clear, من tools given shape في software و through على-demand, up front inventory-less fulfillment لـ indie creators, another set من اسئلة start الى rise. ازاي can creators operate such a vast variety من synth machines في a more consistent, standardized, decentralized و open source set من interface layers?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Generative ذكاء اصطناعي models may be open source و widely available now, but ال infrastructure needed الى run them is far من it. Any sufficiently advanced technology لـ ultra low latentcy, persistent connectivity at any distance worth ال name “ال Metaverse” will guzzle far more hardware و bandwidth besides."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s hard الى imagine ازاي much good can be done مع ذكاء اصطناعي, مع all-في-one ابداعي editors, و مع ال continuing miniaturization من circuits, chips, و machine parts. ال unbundling من ال فاشون industry, و ال spillover من benefits الى every other industry beyond it, will stall out without universal access الى simple machine operation interfaces that are decentralized من ال start الى ensure their persistent integrity, و all من ours. It’s a key part من a comprehensive defense against economic censorship."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "W3F is a dedicated virtual interface token لـ operation من ال على-demand فاشون synth economy."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الى bring it all together, MONA remains ال all-في-one dedicated النظام token لـ web3 فاشون و ال unbundling من فاشون as a whole. As we continue الى build على NFT marketplace contracts, extend functionality into decentralized سوشيال media through ال Dial, provide جديد storefront interfaces لـ creators في virtual, IRL, و latent spaces, و go forward into more open architectures لـ microfactory co-op development, مع all ال decentralized APIs لـ ذكاء اصطناعي synth compute you need, MONA serves a crucial role لـ every part من ال النظام."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال simplest من them all might be ال signal it carries — ال فاشون statement it makes as a net native cultural asset that is simultaneously rare و one من many. It says: “ال world as it’s been is wondrous, fantastical, و also unacceptable.”"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Entire industries, markets, و societies are desperate لـ more reliably persistent methods الى regain their integrity. Climates demand sustainability. Consumers demand ابداعي choice, و ال ability الى design, manufacture, collect, و trade any و all من it, ourselves. We can have it all, but only if we ask better epistemological اسئلة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Or, في short: “ازاي do you know you need decentralizaton, و all ال dedicated machine parts needed لـ it الى work, until you do?”"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up الى تاريخ مع Web3 فاشون:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "لينز"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الأساسي"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        }
+      ]
+    }
+  }
+}

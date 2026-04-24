@@ -1,0 +1,351 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-7",
+  "date": "2021-05-16",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 7",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 7"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*nasNShYtsiqhwAeQ.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "How does DIGIFIZZY reinforce the DIGITALAX ecosystem, mission and values?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Digital fashion is pervasively novel because whether all of us realise it yet or not it is so intrinsic to our identity, expression, core motives and human nature. Digital fashion is inevitable. This puts DIGITALAX in a very interesting position, because unlike exclusively DeFi protocols, which to most of the population are highly unrelateable and if not somewhat an unrelated and inaccessible barrier to entry into web3 and crypto; digital fashion doesn’t need to be so fear inducing. Actually, visually, it is really quite inviting."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Digital fashion and the metaverse are great onboarding into web3, crypto, NFTs and the broader scope of decentralization. DIGIFIZZY is a direct way that DIGITALAX is able to do our part and contribute to the broader ecosystem we are building in by providing high quality and digestible content that everyone can embrace. We will continue to release a new issue every month with new unlockable content drops and continue to highlight more top voices, insightful stories, unseen creators and in-depth looks at the people who make the metaverse."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Questions"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Where can I find the DIGITALAX roadmap?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As a startup, DIGITALAX is fast moving and always iterating. We never settle for a one dimensional reality, and, as we continue to grow the ecosystem priorities are shuffled in order to ensure that we maintain on track for our larger mission. In saying this, our larger mission is very clear and maintains as our compass; building out the core infrastructure for digital fashion, and the metaverse, in an authentic web3 environment. You can view our roadmap here on our Gitbook documentation , it is kept up to date weekly as we continuously announce, launch and release new features."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "It’s not that the charges for defining NFTs as unregistered securities are on legitimate grounds, as that would be then undermining every appreciating good sold across marketplaces as diverse as EBay and Sothebys. However, the highlighted quote from the retweet remains the most interesting; centralization hiding within the veneer of decentralization. Gatekeepers exploiting a global movement towards openness. The intent might be to take a progressive approach, but the results have been to give more power to those who actively oppose those values. A web2 in web3’s clothing is not web3. It is inauthentic. It’s not enough to take a half step towards decentralized ownership of digital assets then headfake and crossover dribble to score for those who have no stake in building true permissionless web3 infrastructure."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*vhxkO4lkukNff9HXvmEA4Q.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, I think we all heard about this one. Probably the biggest news for this week in crypto. I’ll let everyone form their own opinions, but really? This low? A vampire attack on Vitalik’s reputation. Complete gaslighting."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo semanal de la comunidad | Semana 7",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo semanal de la comunidad | Semana 7"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*nasNShYtsiqhwAeQ.jpeg",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Cómo refuerza DIGIFIZZY el ecosistema, la misión y los valores de DIGITALAX?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "La moda digital es profundamente novedosa porque, lo veamos o no todavía, está ligada a nuestra identidad, expresión, motivaciones centrales y naturaleza humana. La moda digital es inevitable. Esto pone a DIGITALAX en una posición muy interesante porque, a diferencia de protocolos puramente DeFi —que para gran parte de la población son difíciles de relacionar y a veces barreras de entrada a web3 y cripto—, la moda digital no tiene por qué generar ese miedo. De hecho, visualmente, resulta muy atractiva para entrar."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "La moda digital y el metaverso son una gran puerta de entrada a web3, cripto, NFTs y al marco más amplio de la descentralización. DIGIFIZZY es una vía directa con la que DIGITALAX aporta al ecosistema más amplio que estamos construyendo, ofreciendo contenido de alta calidad y fácil de digerir que cualquiera puede adoptar. Vamos a seguir lanzando un nuevo número cada mes con drops desbloqueables y destacando más voces top, historias con insight, creadores no vistos y miradas profundas a la gente que construye el metaverso."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Preguntas repetidas más comunes"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Dónde puedo encontrar la hoja de ruta de DIGITALAX?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Como startup, DIGITALAX se mueve rápido e itera siempre. Nunca nos conformamos con una realidad de una sola dimensión y, mientras el ecosistema crece, reordenamos prioridades para mantenernos alineados con la misión mayor. Esa misión es clara y sigue siendo nuestra brújula: construir infraestructura base para la moda digital y el metaverso en un entorno web3 auténtico. Puedes ver el roadmap en nuestra documentación de Gitbook; se actualiza semanalmente mientras anunciamos, lanzamos y publicamos nuevas funciones."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias de la industria"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "No es que las acusaciones de definir NFTs como valores no registrados tengan base legítima, porque eso socavaría cualquier bien apreciable vendido en mercados tan diversos como eBay o Sotheby’s. Pero la cita destacada del retweet es lo más interesante: centralización escondida bajo una capa de descentralización. Gatekeepers explotando un movimiento global hacia la apertura. La intención puede parecer progresista, pero el resultado ha sido dar más poder a quienes se oponen activamente a esos valores. Un web2 vestido de web3 no es web3. Es inauténtico. No alcanza con dar medio paso hacia propiedad descentralizada de activos digitales y luego hacer una finta para terminar anotando para quienes no tienen ningún interés en construir infraestructura web3 realmente permissionless."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*vhxkO4lkukNff9HXvmEA4Q.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y troleo"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bueno, creo que todos escuchamos sobre esto. Probablemente la noticia más grande de la semana en cripto. Cada quien saque su propia conclusión, pero ¿de verdad? ¿Tan bajo? Un ataque vampiro a la reputación de Vitalik. Gaslighting total."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido al artículo de la próxima semana, escríbenos por nuestro servidor de Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Únete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 7",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 7"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*nasNShYtsiqhwAeQ.jpeg",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إزاي DIGIFIZZY بتعزز إيكوسيستم DIGITALAX والمهمة والقيم؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الفاشون الرقمية جديدة وجذرية فعلًا لأننا سواء لاحظنا أو لأ، هي جزء جوهري من الهوية والتعبير والدوافع الأساسية والطبيعة البشرية. الفاشون الرقمية حتمية. وده بيحط DIGITALAX في موقع مهم، لأنه بعكس بروتوكولات DeFi البحتة اللي غالبًا ناس كتير بتلاقيها بعيدة وغير مفهومة وبتشكل حاجز دخول لـ web3 والكريبتو؛ الفاشون الرقمية مش لازم تبقى مخيفة. بالعكس، بصريًا هي جذابة جدًا للدخول."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الفاشون الرقمية والميتافيرس بوابة ممتازة للدخول إلى web3 والكريبتو والـNFTs ونطاق اللامركزية الأوسع. DIGIFIZZY طريقة مباشرة تقدر DIGITALAX من خلالها تساهم في الإيكوسيستم اللي بنبنيه عبر محتوى عالي الجودة وسهل الاستيعاب يقدر أي حد يتفاعل معاه. هنواصل إصدار عدد جديد كل شهر مع drops محتوى قابل للفك، وكمان نسلط الضوء على أصوات أقوى، قصص أعمق، صناع غير مرئيين، ونظرات متعمقة على الناس اللي بتصنع الميتافيرس."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر الأسئلة المتكررة"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "فين أقدر ألاقي roadmap بتاعة DIGITALAX؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "كستارتاب، DIGITALAX سريعة جدًا وبتعمل iteration باستمرار. إحنا ما بنرضاش بواقع أحادي، ومع نمو الإيكوسيستم بنعيد ترتيب الأولويات علشان نفضل ماشيين صح تجاه المهمة الأكبر. ومهمتنا واضحة وثابتة كبوصلة: بناء البنية التحتية الأساسية للفاشون الرقمية والميتافيرس داخل بيئة web3 أصيلة. تقدري تشوفي roadmap على Gitbook documentation، وبتتحدث أسبوعيًا مع الإعلانات والإطلاقات والميزات الجديدة."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أبرز الجدل في المجال"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "الموضوع مش إن اتهامات تصنيف الـNFTs كأوراق مالية غير مسجلة مبنية على أساس قانوني قوي، لأن ده لو صح هيهدم منطق أي سلعة قيمتها بتزيد وبتتباع في أسواق متنوعة من eBay لحد Sotheby’s. لكن الاقتباس الأهم من الريتويت كان: مركزية متخفية تحت قشرة لامركزية. حراس بوابة بيستغلوا حركة عالمية نحو الانفتاح. النية ممكن تبان تقدمية، لكن النتيجة كانت زيادة قوة الناس اللي أصلًا ضد القيم دي. web2 لابس لبس web3 مش web3. ده غير أصيل. مش كفاية تاخد نص خطوة نحو ملكية لا مركزية للأصول الرقمية وبعدين تعمل مراوغة وترجع تسجل لصالح ناس ما عندهاش أي مصلحة في بناء بنية web3 permissionless حقيقية."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*vhxkO4lkukNff9HXvmEA4Q.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إخفاقات عبثية وتريولنج"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أكيد كلنا سمعنا عن دي. غالبًا كانت أكبر خبر كريبتو الأسبوع ده. هسيب لكل واحد رأيه، لكن بجد؟ للدرجة دي؟ هجوم vampire على سمعة Vitalik. Gaslighting كامل."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو حابب سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، تواصل معانا من خلال سيرفر DIGITALAX على Discord في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-22",
+  "date": "2021-08-29",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 22",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 22"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*_ohs4ymABhpZKxUA.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What comes after Web3 Fashion Week?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well, if you learnt anything from the week, it is that fashion is a tool that expands all possibilities. So, in short, without leaking more alpha, get ready for a whole lot more potentiality to come!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can view the full playlist here for the event if you missed any of the panels, discussions and workshops!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Is there an update on the subgraph?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Yes! It seems to be all fixed now, we are just refactoring on our side to make sure all is in order. But other than that, the marketplace seems to be back to normal before the next web3 stumble 💥 But all in all, when you are pushing the tech fervently into new territory you’ve got to expect that some pieces will experience issues from time to time."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ENS recently announced (since 2017) the integration with DNS which is now live. The controversy is in the number of comments that seem to either completely ignore the fact that this integration has been publicly announced on their website and more for four years. Not just that, but if you read, so many of the commenters seem really confused about the difference between being a customer and an investor. The power of web3 is that investors are optional instead of longer necessary. Web3 projects can go directly to customers, creators and other peers on the network to create value and give it back. So, it’s a mix of confusing and amusing that customers are upset that a non-profit with no investors is following through on a roadmap plan that they have had for years."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*jPG5z6YJWtwA6NSPhhaHBA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Trolling all of the corporates buying NFTs to stay relevant and keep their employees from quitting the 9 to 5 😆"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*7TU_IPNSFeArJEx8gCUpcA.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Hilo semanal de la comunidad | Semana 22",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Hilo semanal de la comunidad | Semana 22"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*_ohs4ymABhpZKxUA.jpeg",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta principal de la semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Qué viene después de Web3 Fashion Week?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Si aprendiste algo esta semana, es que la moda es una herramienta que expande posibilidades. Así que, en corto y sin filtrar más alpha, prepárate porque viene muchísimo más potencial por delante."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Puedes ver aquí la playlist completa del evento si te perdiste paneles, discusiones o workshops."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Pregunta repetida más común"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Hay actualización del subgraph?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "¡Sí! Parece que ya está todo arreglado; de nuestro lado estamos haciendo refactor para confirmar que todo quede en orden. Fuera de eso, el marketplace parece haber vuelto a la normalidad antes del próximo tropiezo web3 💥. En general, cuando empujas la tecnología con fuerza hacia terreno nuevo, hay que esperar que algunas piezas den problemas de vez en cuando."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias de la industria"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ENS anunció recientemente (desde 2017) la integración con DNS, que ahora ya está en vivo. La controversia está en la cantidad de comentarios que parecen ignorar por completo que esta integración se anunció públicamente en su web hace más de cuatro años. Y además, si lees, muchísimos comentarios confunden ser cliente con ser inversor. El poder de web3 es que los inversores pasan a ser opcionales en vez de imprescindibles. Los proyectos web3 pueden ir directo a clientes, creadores y pares de la red para crear valor y devolverlo. Entonces es una mezcla rara de confuso y gracioso ver clientes molestos porque una organización sin fines de lucro y sin inversores cumple un roadmap que tiene hace años."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*jPG5z6YJWtwA6NSPhhaHBA.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Fails absurdos y troleo"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Troleo total a las corporaciones que compran NFTs para seguir vigentes y evitar que sus empleados renuncien al 9 a 5 😆"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*7TU_IPNSFeArJEx8gCUpcA.png",
+          "alt": "DIGITALAX imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Si quieres que respondamos una pregunta o aportar contenido al artículo de la próxima semana, escríbenos por nuestro servidor de Discord de DIGITALAX en el canal #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "¡Únete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 22",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي أسبوعي | الأسبوع 22"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*_ohs4ymABhpZKxUA.jpeg",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم سؤال في الأسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إيه اللي بعد Web3 Fashion Week؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لو خرجت بحاجة من الأسبوع ده، فهي إن الفاشون أداة بتوسع كل الاحتمالات. فباختصار ومن غير ما نسرّب alpha أكتر: استعدوا لقدّام، في potential أكبر بكتير جاي."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "تقدري تشوفي playlist الكاملة للحدث هنا لو فاتك أي panels أو discussions أو workshops."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أكتر سؤال متكرر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "في تحديث بخصوص الـsubgraph؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أيوه! واضح إنه اتصلّح بالكامل، وإحنا بس بنعمل refactor عندنا للتأكد إن كل حاجة مظبوطة. غير كده، الـmarketplace باين رجع طبيعي قبل العثرة web3 اللي بعدها 💥. وبشكل عام، لما تدفعي التكنولوجيا بقوة لمناطق جديدة لازم تتوقعي إن بعض الأجزاء يحصل لها مشاكل من وقت للتاني."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أبرز الجدل في المجال"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ENS أعلنت مؤخرًا (من 2017) دمج DNS، والدمج بقى live فعلاً. الجدل في كمية التعليقات اللي بتتجاهل تمامًا إن الدمج ده متعلن رسميًا على موقعهم من أكتر من 4 سنين. مش بس كده، لو قريتي التعليقات هتلاقي ناس كتير مش فاهمة الفرق بين العميل والمستثمر. قوة web3 إن المستثمر بقى اختياري بدل ما يكون شرط. مشاريع web3 تقدر تروح مباشرة للعملاء والمبدعين وباقي الأطراف على الشبكة وتخلق قيمة وتعيد توزيعها. فالمشهد مربك ومضحك في نفس الوقت إن عملاء زعلانين من non-profit بدون مستثمرين علشان ماشية على roadmap معلنة بقالها سنين."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*jPG5z6YJWtwA6NSPhhaHBA.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "إخفاقات عبثية وتريولنج"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "تريولنج مباشر لكل الشركات اللي بتشتري NFTs علشان تفضل relevant وتمنع الموظفين من ترك شغل 9 لـ5 😆"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*7TU_IPNSFeArJEx8gCUpcA.png",
+          "alt": "DIGITALAX صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "لو حابب سؤالك يتجاوب عليه أو تساهم بمحتوى لمقال الأسبوع الجاي، تواصل معانا من خلال سيرفر DIGITALAX على Discord في قناة #FUD-FAQ."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-61",
+  "date": "2022-05-29",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 61",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 61"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Where is the money coming from?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A great question that doesn’t just apply to DeFi."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Whether we are looking at the NFT market, web3 as a whole, or, the broader global economy, there’s a lot of confusion and sleight of hand about where money flows from and how it is generated. This can become even more confusing for some who have gotten conditioned to believe content and culture are where value gets locked down or goes to die, rather than understanding the critical role creative communication of ideas, know-how and all forms of information plays in facilitating distribution for what is produced."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In turbulent times like these, it becomes even more critical for re-establishments of previously violated creative rights, like CC0, to be well understood as mediums or mechanisms for maximising distribution reach and success."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The money in well engineered, good faith projects, products and services comes from gains in coordination efficiency, energy efficiency, engineering quality, streamlined logistics, more flexible and composable forms of ownership and in all ways better matching up the desires and needs of producers and consumers."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*qvoUUqQqd8wUqQ58tJs35Q.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Question"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s happening this week?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re kicking off #cc0summer in a big way with a handful of can’t miss events. From the advanced screening of The Sticky by the F₃M designer realm, to an action packed cc0 summer panel to IRL dimensional production workshops in NYC."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can check out the full schedule here as we ramp up towards Web3 Fashion Week and NFT.NYC."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Maybe some of us were still hopeful that there would be some humility or presence of mind on the part of a project leader that from most points of view looks a lot like a huckster in chief, but no."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Despite the massive loss of wealth and livelihoods for those that probably should have thought twice before believing in him, he’s rolling out Luna 2.0 with shocking confidence."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I get the desire to get back up and start rebuilding after a bad fall. But this clearly isn’t that."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*FzfPbtojIa_-CDYnttfJFg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "So true. Next they’re gunna claim that it’s all a meta-ironic self troll whilst they laugh all the way to the McVision Fund Solunavax VC chain bank in the otherside."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-E73BBor-jgS76_LzHhGNw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "View all FUD FAQ here."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX Discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 61",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 61"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Where is el money coming de?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A great pregunta that doesn’t just apply a DeFi."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Whether we are looking at el NFT market, web3 as a whole, or, el broader global economy, there’s a lot de confusion y sleight de hand about where money flows de y como it is generated. This can become even more confusing para some who have gotten conditioned a believe content y culture are where value gets locked down or goes a die, rather than understanding el critical role creativo communication de ideas, know-como y all forms de information plays en facilitating distribution para what is produced."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en turbulent times like these, it becomes even more critical para re-establishments de previously violated creativo rights, like CC0, a be well understood as mediums or mechanisms para maximising distribution reach y success."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "el money en well engineered, good faith projects, products y services comes de gains en coordination efficiency, energy efficiency, engineering quality, streamlined logistics, more flexible y composable forms de ownership y en all ways better matching up el desires y needs de producers y consumers."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*qvoUUqQqd8wUqQ58tJs35Q.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat pregunta"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s happening this semana?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re kicking off #cc0summer en a big way con a handful de can’t miss events. de el advanced screening de el Sticky by el F₃M designer realm, a an action packed cc0 summer panel a IRL dimensional production workshops en NYC."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can check out el full schedule here as we ramp up towards Web3 moda semana y NFT.NYC."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Principales controversias"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Maybe some de us were still hopeful that there would be some humility or presence de mind en el part de a project leader that de most points de view looks a lot like a huckster en chief, but no."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Despite el massive loss de wealth y livelihoods para those that probably should have thought twice before believing en him, he’s rolling out Luna 2.0 con shocking confidence."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I get el desire a get back up y start rebuilding after a bad fall. But this clearly isn’t that."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*FzfPbtojIa_-CDYnttfJFg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "So true. Next they’re gunna claim that it’s all a meta-ironic self troll whilst they laugh all el way a el McVision Fund Solunavax VC chain bank en el otherside."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-E73BBor-jgS76_LzHhGNw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mira todo el FUD FAQ aquí."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX Discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 61",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 61"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/0*pNRKjnLp0-bu7WCq.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Where is ال money coming من?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A great سؤال that doesn’t just apply الى DeFi."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Whether we are looking at ال NFT market, web3 as a whole, or, ال broader global economy, there’s a lot من confusion و sleight من hand about where money flows من و ازاي it is generated. This can become even more confusing لـ some who have gotten conditioned الى believe content و culture are where value gets locked down or goes الى die, rather than understanding ال critical role ابداعي communication من ideas, know-ازاي و all forms من information plays في facilitating distribution لـ what is produced."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في turbulent times like these, it becomes even more critical لـ re-establishments من previously violated ابداعي rights, like CC0, الى be well understood as mediums or mechanisms لـ maximising distribution reach و success."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ال money في well engineered, good faith projects, products و services comes من gains في coordination efficiency, energy efficiency, engineering quality, streamlined logistics, more flexible و composable forms من ownership و في all ways better matching up ال desires و needs من producers و consumers."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*qvoUUqQqd8wUqQ58tJs35Q.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat سؤال"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What’s happening this اسبوع?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "We’re kicking off #cc0summer في a big way مع a handful من can’t miss events. من ال advanced screening من ال Sticky by ال F₃M designer realm, الى an action packed cc0 summer panel الى IRL dimensional production workshops في NYC."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "You can check out ال full schedule here as we ramp up towards Web3 فاشون اسبوع و NFT.NYC."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "أهم الجدل"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Maybe some من us were still hopeful that there would be some humility or presence من mind على ال part من a project leader that من most points من view looks a lot like a huckster في chief, but no."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Despite ال massive loss من wealth و livelihoods لـ those that probably should have thought twice before believing في him, he’s rolling out Luna 2.0 مع shocking confidence."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I get ال desire الى get back up و start rebuilding after a bad fall. But this clearly isn’t that."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*FzfPbtojIa_-CDYnttfJFg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "So true. Next they’re gunna claim that it’s all a meta-ironic self troll whilst they laugh all ال way الى ال McVision Fund Solunavax VC chain bank في ال otherside."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-E73BBor-jgS76_LzHhGNw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "شوف كل FUD FAQ من هنا."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX Discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/_digitalax /"
+        }
+      ]
+    }
+  }
+}

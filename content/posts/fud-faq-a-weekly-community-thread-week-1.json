@@ -1,0 +1,561 @@
+{
+  "slug": "fud-faq-a-weekly-community-thread-week-1",
+  "date": "2021-04-04",
+  "translations": {
+    "en": {
+      "title": "FUD FAQ | A Weekly Community Thread | Week 1",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | A Weekly Community Thread | Week 1"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*_Xw1kAqZLboPxH48.jpeg",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Welcome to Week 1 of #FUDFAQ. A weekly community based thread where we cover top question of the week, most common repeat questions, top controversies for the industry and silly fails and trolling."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Question of the Week"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Did Modders save gaming?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "In short, yes. The Modding ecosystem stands as the foundation for the gaming industry— it encourages strength in community building, leads to increased loyalty in gamers to the games they can mod, it guarantees continued gameplay, promotes third party value generation and injects vitality and novelty into the OG content and its meta-story with increased longevity of interesting content creation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Most of the top tier games that you see today have only survived due to the vibrant modding ecosystem around them. In fact, many of them only reached mass scaling and reach because of the modders/mods. Some examples include; League of Legends, World of Warcraft, CS:GO, Minecraft, Roblox, Among Us, Fortnite, PUBG….."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "And in response to those that have mixed opinions about modders or the modding ecosystem. Well, the answer is simple— an ethics debate is long overdue for how the legacy industry exploits creators of all kinds. New monetisation models provide a healthier way forward for all, including the OG game devs and AAA companies."
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "“Why you gatekeeping, bruh? You’re not the game police, let people play games the way they want! P layers need the ability to enjoy games the way they choose because honestly, life is TOO. SHORT. “"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here is a short thread with more thoughts:"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-KSdzylKD50L0evhTD2F7g.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Common Repeat Questions"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When is the MATIC-ETH Bridge ready?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bridging NFTs from Layer 1 to Layer 2 and vice versa is not a simple engineering feat. It requires proper development time to cover all unit tests, edge cases, correctly map the metadata (Not just tokenID) and also accurately align the tokenIDs across the different networks i.e. TokenID 1 on Ethereum is not the same as TokenID 1 on Matic."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Our development team, in fact our whole team, works around the clock. But some things aren’t a quick slap together. They take time and we encountered more edge cases than expected. So we are making sure that these are properly accounted for before deploying the contracts, otherwise we are just creating technical debt and potential security vulnerabilities for all of our users interacting with the bridge."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When is more details about PODE and the Fashionistas?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As we have stated in each of the two articles released so far, we will announce when actions need to be taken. As of yet, nothing of that sort has been announced. We are slowly introducing each part so that no one gets confused or left out. PODE also aligns with deployment of our new Matic staking contracts going live soon, and therefore, we are coordinating PODE announcements with development updates on the new contracts."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What happened with the pre-tournament ESPA competition results?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I have received a number of postings in the discord about the pre-tournament ESPA competition that was announced mid February and then winners decided and publicly announced in our ESPA discord around 2 weeks ago. All winners were personally dm’ed on discord and were given their prizes. Some prizes were more custom than others, taking into account that some winners are still new to crypto and it is better to ease them into the industry because onboarding experiences for fiat and web2 to crypto and web3 remain highly daunting for the everyday user."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies in the Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I think most of us have heard of this one, it’s been all over Twitter. But for a quick recap, Lil Nas X had a throwdown with Easter."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*rUBplDLKOYse3E8G-t3WDw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*H72rpMdI74ndL0BU_SHvYg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://www.nytimes.com/2021/03/28/style/nike-satan-shoes-lil-Nas-x.html"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails and Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well this isn’t silly, this is more like a MASSIVE FAIL for the week. Zuck is trolling all of us…."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*pKAruvcnauKeEz681Kf-1A.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://digg.com/technology/link/533-million-facebook-users-personal-information-just-got-leaked-online-XCVrLVSSoV?utm_source=digg"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a question answered or contribute content to next weeks article please reach out through our DIGITALAX discord server in #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Join our Community!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter: https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "es": {
+      "title": "FUD FAQ | Un hilo comunitario semanal | semana 1",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | Un hilo comunitario semanal | semana 1"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*_Xw1kAqZLboPxH48.jpeg",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Welcome a semana 1 de #FUDFAQ. A weekly comunidad based hilo where we cover top pregunta de el semana, most Preguntas repetidas, top controversies para el industry y silly fails y trolling."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top pregunta de el semana"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "¿Los modders salvaron el gaming?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "en short, yes. el Modding ecosistema stands as el foundation para el gaming industry— it encourages strength en comunidad building, leads a increased loyalty en gamers a el games they can mod, it guarantees continued gameplay, promotes third party value generation y injects vitality y novelty into el OG content y its meta-story con increased longevity de interesting content creation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Most de el top tier games that you see today have only survived due a el vibrant modding ecosistema around them. en fact, many de them only reached mass scaling y reach because de el modders/mods. Some examples include; League de Legends, World de Warcraft, CS:GO, Minecraft, Roblox, Among Us, Fortnite, PUBG….."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "y en response a those that have mixed opinions about modders or el modding ecosistema. Well, el answer is simple— an ethics debate is long overdue para como el legacy industry exploits creators de all kinds. nuevo monetisation models provide a healthier way forward para all, including el OG game devs y AAA companies."
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "“por que you gatekeeping, bruh? You’re not el game police, let people play games el way they want! P layers need el ability a enjoy games el way they choose because honestly, life is TOO. SHORT. “"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here is a short hilo con more thoughts:"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-KSdzylKD50L0evhTD2F7g.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most Preguntas repetidas"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When is el MATIC-ETH Bridge ready?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bridging NFTs de Layer 1 a Layer 2 y vice versa is not a simple engineering feat. It requires proper development time a cover all unit tests, edge cases, correctly map el metadata (Not just tokenID) y also accurately align el tokenIDs across el different networks i.e. TokenID 1 en Ethereum is not el same as TokenID 1 en Matic."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Our development team, en fact our whole team, works around el clock. But some things aren’t a quick slap together. They take time y we encountered more edge cases than expected. So we are making sure that these are properly accounted para before deploying el contracts, otherwise we are just creating technical debt y potential security vulnerabilities para all de our users interacting con el bridge."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When is more details about PODE y el Fashionistas?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As we have stated en each de el two articles released so far, we will announce when actions need a be taken. As de yet, nothing de that sort has been announced. We are slowly introduciendo each part so that no one gets confused or left out. PODE also aligns con deployment de our nuevo Matic staking contracts going live soon, y therefore, we are coordinating PODE announcements con development actualizaciones en el nuevo contracts."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What happened con el pre-tournament ESPA competition results?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I have received a number de postings en el discord about el pre-tournament ESPA competition that was announced mid February y then winners decided y publicly announced en our ESPA discord around 2 weeks ago. All winners were personally dm’ed en discord y were given their prizes. Some prizes were more custom than others, taking into account that some winners are still nuevo a crypto y it is better a ease them into el industry because onboarding experiences para fiat y web2 a crypto y web3 remain highly daunting para el everyday user."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies en el Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I think most de us have heard de this one, it’s been all over Twitter. But para a quick recap, Lil Nas X had a throwdown con Easter."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*rUBplDLKOYse3E8G-t3WDw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*H72rpMdI74ndL0BU_SHvYg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://www.nytimes.com/2021/03/28/style/nike-satan-shoes-lil-Nas-x.html"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails y Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well this isn’t silly, this is more like a MASSIVE FAIL para el semana. Zuck is trolling all de us…."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*pKAruvcnauKeEz681Kf-1A.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://digg.com/technology/link/533-million-facebook-users-personal-information-just-got-leaked-online-XCVrLVSSoV?utm_source=digg"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a pregunta answered or contribute content a next weeks article please reach out through our DIGITALAX discord server en #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Unete a nuestra comunidad!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Discord (comunidad): https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Medium (blog): https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Telegram (canal): https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Instagram: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    },
+    "ar": {
+      "title": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 1",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "FUD FAQ | ثريد مجتمعي اسبوعي | اسبوع 1"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/1200/0*_Xw1kAqZLboPxH48.jpeg",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Welcome الى اسبوع 1 من #FUDFAQ. A weekly المجتمع based ثريد where we cover top سؤال من ال اسبوع, most الاسئلة المتكررة, top controversies لـ ال industry و silly fails و trolling."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top سؤال من ال اسبوع"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "هل المودرز أنقذوا الجيمينج؟"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "في short, yes. ال Modding النظام stands as ال foundation لـ ال gaming industry— it encourages strength في المجتمع building, leads الى increased loyalty في gamers الى ال games they can mod, it guarantees continued gameplay, promotes third party value generation و injects vitality و novelty into ال OG content و its meta-story مع increased longevity من interesting content creation."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Most من ال top tier games that you see today have only survived due الى ال vibrant modding النظام around them. في fact, many من them only reached mass scaling و reach because من ال modders/mods. Some examples include; League من Legends, World من Warcraft, CS:GO, Minecraft, Roblox, Among Us, Fortnite, PUBG….."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "و في response الى those that have mixed opinions about modders or ال modding النظام. Well, ال answer is simple— an ethics debate is long overdue لـ ازاي ال legacy industry exploits creators من all kinds. جديد monetisation models provide a healthier way forward لـ all, including ال OG game devs و AAA companies."
+        },
+        {
+          "type": "text",
+          "tag": "blockquote",
+          "value": "“ليه you gatekeeping, bruh? You’re not ال game police, let people play games ال way they want! P layers need ال ability الى enjoy games ال way they choose because honestly, life is TOO. SHORT. “"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Here is a short ثريد مع more thoughts:"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*-KSdzylKD50L0evhTD2F7g.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Most الاسئلة المتكررة"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When is ال MATIC-ETH Bridge ready?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Bridging NFTs من Layer 1 الى Layer 2 و vice versa is not a simple engineering feat. It requires proper development time الى cover all unit tests, edge cases, correctly map ال metadata (Not just tokenID) و also accurately align ال tokenIDs across ال different networks i.e. TokenID 1 على Ethereum is not ال same as TokenID 1 على Matic."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Our development team, في fact our whole team, works around ال clock. But some things aren’t a quick slap together. They take time و we encountered more edge cases than expected. So we are making sure that these are properly accounted لـ before deploying ال contracts, otherwise we are just creating technical debt و potential security vulnerabilities لـ all من our users interacting مع ال bridge."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "When is more details about PODE و ال Fashionistas?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As we have stated في each من ال two articles released so far, we will announce when actions need الى be taken. As من yet, nothing من that sort has been announced. We are slowly تقديم each part so that no one gets confused or left out. PODE also aligns مع deployment من our جديد Matic staking contracts going live soon, و therefore, we are coordinating PODE announcements مع development تحديثات على ال جديد contracts."
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "What happened مع ال pre-tournament ESPA competition results?"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I have received a number من postings في ال discord about ال pre-tournament ESPA competition that was announced mid February و then winners decided و publicly announced في our ESPA discord around 2 weeks ago. All winners were personally dm’ed على discord و were given their prizes. Some prizes were more custom than others, taking into account that some winners are still جديد الى crypto و it is better الى ease them into ال industry because onboarding experiences لـ fiat و web2 الى crypto و web3 remain highly daunting لـ ال everyday user."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Top Controversies في ال Industry"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "I think most من us have heard من this one, it’s been all over Twitter. But لـ a quick recap, Lil Nas X had a throwdown مع Easter."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*rUBplDLKOYse3E8G-t3WDw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*H72rpMdI74ndL0BU_SHvYg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://www.nytimes.com/2021/03/28/style/nike-satan-shoes-lil-Nas-x.html"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Silly Fails و Trolling"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Well this isn’t silly, this is more like a MASSIVE FAIL لـ ال اسبوع. Zuck is trolling all من us…."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*pKAruvcnauKeEz681Kf-1A.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "https://digg.com/technology/link/533-million-facebook-users-personal-information-just-got-leaked-online-XCVrLVSSoV?utm_source=digg"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "If you would like a سؤال answered or contribute content الى next weeks article please reach out through our DIGITALAX discord server في #FUD-FAQ channel!"
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "انضم لمجتمعنا!"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إكس (تويتر): https://twitter.com/DIGITALAX_"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ديسكورد: https://discord.gg/DKbSqRGtKv"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "ميديوم: https://medium.com/@digitalax"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تيليجرام: https://t.me/digitalaxTG"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هاب: https://github.com/DIGITALAX/"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "إنستجرام: https://www.instagram.com/digitalax _/"
+        }
+      ]
+    }
+  }
+}

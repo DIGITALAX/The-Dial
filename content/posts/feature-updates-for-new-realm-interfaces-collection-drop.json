@@ -1,0 +1,321 @@
+{
+  "slug": "feature-updates-for-new-realm-interfaces-collection-drop",
+  "date": "2022-11-01",
+  "translations": {
+    "en": {
+      "title": "Feature Updates for New Realm Interfaces + Collection Drop",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Feature Updates for New Realm Interfaces + Collection Drop"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*iEZXOd5VIEdinalXEEqBUQ.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "As we move closer to an all in one open source synth crafting fabric materialisation solution, there are a few new exciting updates to share this week."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "First, a new collection."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "West Side Grammar showcases refashioned looks made to walk glamorously through overflow crowds in great city parks as colorful leaves fall everywhere around us."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WRR4jA6C-pC79Yj6zJ5qtw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Zj0zJ4ReyzuyoM-CQN4Bzw.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Which brings us to the next update for realm interfaces building off of the Simulacra theme."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Now you can examine in more detail and buy pieces from this realm’s collections directly from within the custom F3M interface, with rich information and greater interaction enhancing NFT metadata and synth graph."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*crRTS34WZka2DEveUweajg.png",
+          "alt": "post image"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*OvCgphQeqKvvcUTa-dCg6g.png",
+          "alt": "post image"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Scan the gallery, choose what you like and dress wisely!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "👉 https://f3manifesto.xyz/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Upcoming, we can look forward to custom reformatted DIGITALAX realm market contracts deployed on ETH and also a ZK alternative. These will include novel features that provide more persistent access to decentralised social media and local GPU synth crafting resources."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Stay Up to Date with Web3 Fashion:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Github"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Twitter"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Flagship"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Docs"
+        }
+      ]
+    },
+    "es": {
+      "title": "Actualizaciones de funciones para nuevas interfaces Realm + lanzamiento de coleccion",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Actualizaciones de funciones para nuevas interfaces Realm + lanzamiento de coleccion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*iEZXOd5VIEdinalXEEqBUQ.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "A medida que nos acercamos a una solucion integral y de codigo abierto para synth crafting y materializacion textil, esta semana tenemos varias novedades muy potentes para compartir."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Primero: una nueva coleccion."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "West Side Grammar presenta looks refashioned creados para caminar con glamour entre multitudes en grandes parques urbanos, mientras caen hojas de colores por todas partes."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WRR4jA6C-pC79Yj6zJ5qtw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Zj0zJ4ReyzuyoM-CQN4Bzw.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Y eso nos lleva a la siguiente actualizacion de interfaces realm, construida sobre la tematica Simulacra."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Ahora puedes examinar con mas detalle y comprar piezas de las colecciones de este realm directamente desde la interfaz personalizada de F3M, con informacion mas rica y mayor interaccion que mejora la metadata NFT y el synth graph."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*crRTS34WZka2DEveUweajg.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*OvCgphQeqKvvcUTa-dCg6g.png",
+          "alt": "imagen de publicacion"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Explora la galeria, elige lo que te gusta y vístete con criterio."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "👉 https://f3manifesto.xyz/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Muy pronto veremos contratos de mercado Realm de DIGITALAX reformateados y personalizados desplegados en ETH, junto con una alternativa ZK. Van a incluir funciones nuevas para un acceso mas persistente a redes sociales descentralizadas y recursos locales de GPU para synth crafting."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Mantente al dia con la moda Web3:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Lens"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "GitHub"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "X (Twitter)"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Principal"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Documentacion"
+        }
+      ]
+    },
+    "ar": {
+      "title": "تحديثات ميزات لواجهات Realm الجديدة + إطلاق مجموعة",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "تحديثات ميزات لواجهات Realm الجديدة + إطلاق مجموعة"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*iEZXOd5VIEdinalXEEqBUQ.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وإحنا بنقرب من حل متكامل ومفتوح المصدر لـ synth crafting وتجسيد الخامات، في كام تحديث مهم ومتحمسين نشاركه الأسبوع ده."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "أول حاجة: مجموعة جديدة."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "West Side Grammar بتعرض لوكات refashioned معمولة للمشي بشكل جلامور وسط زحمة كبيرة في حدائق المدن، مع ورق شجر ملون بيقع حوالينا في كل مكان."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*WRR4jA6C-pC79Yj6zJ5qtw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*Zj0zJ4ReyzuyoM-CQN4Bzw.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "وده بياخدنا للتحديث اللي بعده في واجهات realm المبنية على ثيم Simulacra."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "دلوقتي تقدر تفحص التفاصيل أكتر وتشتري قطع من مجموعات الـ realm ده مباشرة من جوه واجهة F3M المخصصة، بمعلومات أغنى وتفاعل أعلى بيحسن بيانات NFT وسينث جراف."
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*crRTS34WZka2DEveUweajg.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "image",
+          "src": "https://cdn-images-1.medium.com/max/800/1*OvCgphQeqKvvcUTa-dCg6g.png",
+          "alt": "صورة بوست"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "لف في الجاليري، اختار اللي يعجبك، والبس بذكاء!"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "👉 https://f3manifesto.xyz/"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "قريب هنشوف عقود سوق Realm الخاصة بـ DIGITALAX بعد إعادة تنسيقها بشكل مخصص على ETH، وكمان بديل ZK. العقود دي هتقدم ميزات جديدة بتدي وصول أكثر استمرارية للسوشيال اللامركزي ولموارد GPU المحلية الخاصة بـ synth crafting."
+        },
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "خليك متابع جديد موضة Web3:"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "لينز"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "جيت هب"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "تويتر"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "المنصة الرئيسية"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "الوثائق"
+        }
+      ]
+    }
+  }
+}
