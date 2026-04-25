@@ -12,7 +12,7 @@ import Social from "../components/home/social/Social";
 import Text from "../components/home/text/Text";
 import Header from "../components/layout/Header";
 import useI18n from "../hooks/useI18n";
-import { getLanguageTag, normalizeLocale } from "../lib/i18n";
+import { getLanguageTag, LOCALES, normalizeLocale } from "../lib/i18n";
 import { getAllPostSummaries } from "../lib/posts";
 import { getLocalePath, getSiteUrl } from "../lib/seo";
 import { PostSummary } from "../types/post.types";
@@ -28,7 +28,11 @@ const Home: NextPage<InferGetStaticPropsType<typeof getStaticProps>> = ({
   const router = useRouter();
   const locale = normalizeLocale(router.locale);
   const siteUrl = getSiteUrl();
-  const pageUrl = `${siteUrl}${getLocalePath(locale)}`;
+  const pageUrl = locale === "en" ? `${siteUrl}/` : `${siteUrl}${getLocalePath(locale)}`;
+  const localeAlternates = LOCALES.map((targetLocale) => ({
+    hrefLang: targetLocale,
+    href: `${siteUrl}${getLocalePath(targetLocale)}`,
+  }));
   const collectionJsonLd = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
@@ -66,6 +70,15 @@ const Home: NextPage<InferGetStaticPropsType<typeof getStaticProps>> = ({
         <meta property="og:url" content={pageUrl} />
         <meta property="og:locale" content={getLanguageTag(locale)} />
         <link rel="canonical" href={pageUrl} />
+        <link rel="alternate" hrefLang="x-default" href={`${siteUrl}/`} />
+        {localeAlternates.map((alternate) => (
+          <link
+            key={alternate.hrefLang}
+            rel="alternate"
+            hrefLang={alternate.hrefLang}
+            href={alternate.href}
+          />
+        ))}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionJsonLd) }}

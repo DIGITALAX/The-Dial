@@ -116,6 +116,14 @@ const buildSitemapXml = (): string => {
 
   const today = new Date().toISOString().split("T")[0];
 
+  entries.push({
+    loc: `${siteUrl}/`,
+    lastmod: today,
+    changefreq: "weekly",
+    priority: "1.0",
+    images: homepageImages,
+  });
+
   for (const locale of locales) {
     entries.push({
       loc: `${siteUrl}${getLocalePath(locale)}`,

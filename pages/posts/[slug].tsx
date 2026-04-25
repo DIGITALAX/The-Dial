@@ -6,7 +6,7 @@ import type {
 import Head from "next/head";
 import { useRouter } from "next/router";
 import useI18n from "../../hooks/useI18n";
-import { getLanguageTag, normalizeLocale } from "../../lib/i18n";
+import { getLanguageTag, LOCALES, normalizeLocale } from "../../lib/i18n";
 import { getAllPostSlugs, getPostBySlug } from "../../lib/posts";
 import { getLocalePath, getSiteUrl } from "../../lib/seo";
 import { PostBlock, ResolvedPost } from "../../types/post.types";
@@ -21,6 +21,11 @@ const PostPage: NextPage<PostPageProps> = ({ post }) => {
   const locale = normalizeLocale(router.locale);
   const siteUrl = getSiteUrl();
   const canonicalUrl = `${siteUrl}${getLocalePath(locale, `/posts/${post.slug}`)}`;
+  const localeAlternates = LOCALES.map((targetLocale) => ({
+    hrefLang: targetLocale,
+    href: `${siteUrl}${getLocalePath(targetLocale, `/posts/${post.slug}`)}`,
+  }));
+  const xDefaultUrl = `${siteUrl}${getLocalePath("en", `/posts/${post.slug}`)}`;
   const imageUrls = Array.from(
     new Set(
       post.blocks
@@ -92,6 +97,15 @@ const PostPage: NextPage<PostPageProps> = ({ post }) => {
         <meta property="og:url" content={canonicalUrl} />
         {imageUrls[0] ? <meta property="og:image" content={imageUrls[0]} /> : null}
         <link rel="canonical" href={canonicalUrl} />
+        <link rel="alternate" hrefLang="x-default" href={xDefaultUrl} />
+        {localeAlternates.map((alternate) => (
+          <link
+            key={alternate.hrefLang}
+            rel="alternate"
+            hrefLang={alternate.hrefLang}
+            href={alternate.href}
+          />
+        ))}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
