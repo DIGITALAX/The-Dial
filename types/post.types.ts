@@ -16,6 +16,11 @@ export type PostBlock =
       type: "image";
       src: string;
       alt: string;
+    }
+  | {
+      type: "link";
+      label: string;
+      href: string;
     };
 
 export type LocalizedPost = {

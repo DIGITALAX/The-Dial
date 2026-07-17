@@ -69,16 +69,18 @@ const normalizeImageAlts = (blocks: PostBlock[]): PostBlock[] => {
 export const getAllPostSummaries = (locale?: string): PostSummary[] => {
   const activeLocale = resolveLocale(locale);
 
-  return getPostFiles().map((fileName) => {
-    const post = readPostFile(fileName);
-    const localized = post.translations[activeLocale] ?? post.translations.en;
+  return getPostFiles()
+    .map((fileName) => {
+      const post = readPostFile(fileName);
+      const localized = post.translations[activeLocale] ?? post.translations.en;
 
-    return {
-      slug: post.slug,
-      title: localized.title,
-      date: post.date,
-    };
-  });
+      return {
+        slug: post.slug,
+        title: localized.title,
+        date: post.date,
+      };
+    })
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 };
 
 export const getAllPostSlugs = (): string[] => {
@@ -86,7 +88,9 @@ export const getAllPostSlugs = (): string[] => {
 };
 
 export const getAllPosts = (): Post[] => {
-  return getPostFiles().map((fileName) => readPostFile(fileName));
+  return getPostFiles()
+    .map((fileName) => readPostFile(fileName))
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 };
 
 export const getPostBySlug = (

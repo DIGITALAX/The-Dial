@@ -1,0 +1,216 @@
+{
+  "slug": "matroid-contracts-lens-testnet",
+  "date": "2026-07-17",
+  "translations": {
+    "en": {
+      "title": "Matroid Contracts Are Now Live on the Lens Testnet",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Matroid Contracts Are Now Live on the Lens Testnet"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The Matroid contracts are now on the Lens Testnet, and the first projects are published: DX.App, Ganda, and Kintari."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "The staking pools will appear at:"
+        },
+        {
+          "type": "link",
+          "label": "staking.digitalax.xyz",
+          "href": "https://staking.digitalax.xyz/en/#pools"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "More details about the Matroid project here:"
+        },
+        {
+          "type": "link",
+          "label": "matroid.digitalax.xyz",
+          "href": "https://matroid.digitalax.xyz/en"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DX.App — an application to publish maker kits: open source software and hardware projects, and to create products, grants, and launch agents."
+        },
+        {
+          "type": "link",
+          "label": "app.dx.computer",
+          "href": "https://app.dx.computer"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Ganda — an application for casual esports and games."
+        },
+        {
+          "type": "link",
+          "label": "ganda.digitalax.xyz",
+          "href": "https://ganda.digitalax.xyz"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Kintari — open DeFi research."
+        },
+        {
+          "type": "link",
+          "label": "kintari.npcstudio.xyz",
+          "href": "https://kintari.npcstudio.xyz"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Testing is expected to run for a few months before mainnet."
+        }
+      ]
+    },
+    "es": {
+      "title": "Los contratos de Matroid ya están en la Testnet de Lens",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "Los contratos de Matroid ya están en la Testnet de Lens"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Los contratos de Matroid ya están en la Testnet de Lens, y los primeros proyectos están publicados: DX.App, Ganda y Kintari."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Las piscinas de staking aparecerán en:"
+        },
+        {
+          "type": "link",
+          "label": "staking.digitalax.xyz",
+          "href": "https://staking.digitalax.xyz/es/#pools"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Más detalles sobre el proyecto Matroid aquí:"
+        },
+        {
+          "type": "link",
+          "label": "matroid.digitalax.xyz",
+          "href": "https://matroid.digitalax.xyz/es"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DX.App — una aplicación para publicar maker kits: proyectos de software y hardware de código abierto, y para crear productos, subvenciones y lanzar agentes."
+        },
+        {
+          "type": "link",
+          "label": "app.dx.computer",
+          "href": "https://app.dx.computer"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Ganda — una aplicación para esports casual y juegos."
+        },
+        {
+          "type": "link",
+          "label": "ganda.digitalax.xyz",
+          "href": "https://ganda.digitalax.xyz"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Kintari — investigación abierta de DeFi."
+        },
+        {
+          "type": "link",
+          "label": "kintari.npcstudio.xyz",
+          "href": "https://kintari.npcstudio.xyz"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "Se prevé que las pruebas duren algunos meses antes del mainnet."
+        }
+      ]
+    },
+    "ar": {
+      "title": "عقود Matroid الآن على شبكة Lens التجريبية",
+      "blocks": [
+        {
+          "type": "text",
+          "tag": "h3",
+          "value": "عقود Matroid الآن على شبكة Lens التجريبية"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "عقود Matroid الآن على شبكة Lens التجريبية، والمشاريع الأولى منشورة: DX.App وGanda وKintari."
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "ستظهر مجمعات الـ staking على:"
+        },
+        {
+          "type": "link",
+          "label": "staking.digitalax.xyz",
+          "href": "https://staking.digitalax.xyz/ar/#pools"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "مزيد من التفاصيل حول مشروع Matroid هنا:"
+        },
+        {
+          "type": "link",
+          "label": "matroid.digitalax.xyz",
+          "href": "https://matroid.digitalax.xyz/ar"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "DX.App — تطبيق لنشر maker kits: مشاريع برمجيات وأجهزة مفتوحة المصدر، ولإنشاء منتجات ومنح وإطلاق وكلاء."
+        },
+        {
+          "type": "link",
+          "label": "app.dx.computer",
+          "href": "https://app.dx.computer"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Ganda — تطبيق للرياضات الإلكترونية الترفيهية والألعاب."
+        },
+        {
+          "type": "link",
+          "label": "ganda.digitalax.xyz",
+          "href": "https://ganda.digitalax.xyz"
+        },
+        {
+          "type": "text",
+          "tag": "li",
+          "value": "Kintari — بحث مفتوح في DeFi."
+        },
+        {
+          "type": "link",
+          "label": "kintari.npcstudio.xyz",
+          "href": "https://kintari.npcstudio.xyz"
+        },
+        {
+          "type": "text",
+          "tag": "p",
+          "value": "من المتوقع أن تستمر الاختبارات بضعة أشهر قبل الشبكة الرئيسية."
+        }
+      ]
+    }
+  }
+}

@@ -137,6 +137,20 @@ const PostPage: NextPage<PostPageProps> = ({ post }) => {
                 );
               }
 
+              if (block.type === "link") {
+                return (
+                  <a
+                    key={`${block.href}-${index}`}
+                    href={block.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex relative w-fit h-fit font-fira text-sm md:text-base leading-7 text-deep underline underline-offset-4 hover:opacity-80"
+                  >
+                    {block.label}
+                  </a>
+                );
+              }
+
               return <div key={`${block.tag}-${index}`}>{renderTextBlock(block)}</div>;
             })}
           </div>
